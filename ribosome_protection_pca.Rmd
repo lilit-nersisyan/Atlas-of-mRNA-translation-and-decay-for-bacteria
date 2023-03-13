@@ -1,0 +1,74 @@
+---
+title: "ribosome_protection_pca"
+author: "Lilit Nersisyan"
+date: "2020 M05 30"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(ggfortify)
+library(autoplotly)
+
+
+load("microbiome.master.mat.RData")
+start.col = 17
+```
+
+
+```{r, echo = F}
+plot.pca = function(data, title, color, shape = NULL, loadings = F, pc.x = 1, pc.y = 2){
+  
+  mypca = prcomp(scale(data[,start.col:ncol(data)]))
+  autoplotly(mypca,x = pc.x, y = pc.y, data = data, size = 3,
+             main = title, labels = T, tooltip = "all",
+             colour = color, loadings.colour = 'gray', shape = shape,
+             loadings = F, loadings.label = loadings, loadings.label.size = 3)
+  
+}
+```
+
+## Lactobacillus plantarum
+
+```{r}
+low.ind = which(master.mat$libsize < 5000)
+not.lpla = which(master.mat$source != "lpla")
+frag.ind = which(master.mat$trt == "frag")
+
+data = master.mat[-Reduce(union, c(low.ind, not.lpla, frag.ind)), ]
+
+plot.pca(data, "L plantarum, PC1 vs PC2", color = "trt")
+
+```
+## PCA Bacillus subtilis
+```{r}
+low.ind = which(master.mat$libsize < 5000)
+not.bacillus = which(!(master.mat$source %in% c("bsub-str168")))
+not.frag.ind = which(master.mat$trt == "frag")
+not.ps.ind = which(grepl("cam-", master.mat$trt))
+data = master.mat[-union(union(union(low.ind, not.bacillus), not.frag.ind),not.ps.ind), ]
+
+plot.pca(data, "Bacillus, PC1 vs PC2", color = "trt")
+
+```
+## PCA on all species
+
+```{r taxons(levels: genus)}
+low.ind = which(master.mat$libsize < 5000)
+frag.ind = which(master.mat$trt == "frag")
+data = master.mat[-union(low.ind, frag.ind), ]
+
+plot.pca(data, "All samples: Phylum", color = "Phylum")
+plot.pca(data, "All samples: Phylum and treatment", color = "Phylum", shape = "trt_simple")
+```
+## PCA on vaginal samples only: plot samples with at least 1000 reads
+```{r}
+low.ind = which(master.mat$libsize < 1000)
+not.vs.ind = which(master.mat$source != "vs")
+not.genus = which(unlist(lapply(substr(master.mat$taxon, 1,1), function(x){gregexpr("[A-Z]", x)})) != -1)
+data = master.mat[-union(union(low.ind, not.vs.ind),not.genus), ]
+
+plot.pca(data, "Vaginal samples, >1000k", color = "Genus", shape = "rep")
+
+```
+
