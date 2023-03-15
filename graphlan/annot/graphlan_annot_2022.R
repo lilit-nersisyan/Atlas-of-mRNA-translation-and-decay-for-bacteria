@@ -4,10 +4,10 @@
 ###   IO
 ###########################
 
-eggnogg.d = "../../fivepseq_projects/microbiome/data/graphlan/eggnog_2022/"
-annot.d = "../../fivepseq_projects/microbiome/data/graphlan/annot"
-annot.f = "../../fivepseq_projects/microbiome/data/graphlan/annot/myannotR_2022.txt"
-log.f = "../../fivepseq_projects/microbiome/data/graphlan/annot/myannotR_2022.log"
+eggnogg.d = "raw_data/eggnog_2022/"
+annot.d = "raw_data/annot"
+annot.f = "raw_data//myannotR_2022.txt"
+log.f = "raw_data/myannotR_2022.log"
 
 annotate_genus = F
 
