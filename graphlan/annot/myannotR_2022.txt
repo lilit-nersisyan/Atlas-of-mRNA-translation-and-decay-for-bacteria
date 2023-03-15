@@ -1,0 +1,1984 @@
+clade_marker_edge_width	0.1
+clade_marker_size	0
+branch_color	#D2D2D2
+ring_color	 1	#222222
+ring_height	 1	0.5
+ring_color	 2	#8a000e
+ring_height	 2	0.5
+ring_color	 3	w
+ring_height	 3	1.0
+ring_color	 4	#888888
+ring_height	 4	0.1
+ring_color	 5	w
+ring_height	 5	0.5
+ring_color	 6	#EAE7C6
+ring_height	 6	0.5
+ring_color	 7	#BCCC9A
+ring_height	 7	0.5
+ring_color	 8	#D1E8E4
+ring_height	 8	0.5
+ring_color	 9	w
+ring_height	 9	0.5
+ring_color	10	#888888
+ring_height	10	0.1
+ring_color	11	w
+ring_height	11	1.0
+ring_color	12	#ca6c6c
+ring_height	12	0.5
+ring_color	13	#876c93
+ring_height	13	0.5
+ring_color	14	#b6c279
+ring_height	14	0.5
+ring_color	15	w
+ring_height	15	1.0
+ring_color	16	#888888
+ring_height	16	0.1
+ring_color	19	w
+ring_height	19	1.0
+ring_color	20	#884374
+ring_height	20	0.5
+ring_color	21	#884374
+ring_height	21	0.5
+ring_color	22	#884374
+ring_height	22	0.5
+ring_color	23	#884374
+ring_height	23	0.5
+ring_color	24	#884374
+ring_height	24	0.5
+p_Proteobacteria	annotation	Pr:Proteobacteria
+p_Bacteroidetes	annotation	Ba:Bacteroidetes
+p_Verrucomicrobia	annotation	Ve:Verrucomicrobia
+p_Actinobacteria	annotation	Ac:Actinobacteria
+p_Firmicutes	annotation	Fi:Firmicutes
+p_Cyanobacteria	annotation	Cy:Cyanobacteria
+p_Fusobacteria	annotation	Fu:Fusobacteria
+p_Tenericutes	annotation	Te:Tenericutes
+p_Proteobacteria	annotation_background_color	#4c78a8
+p_Bacteroidetes	annotation_background_color	#eeca3b
+p_Verrucomicrobia	annotation_background_color	#f58518
+p_Actinobacteria	annotation_background_color	#72b7b2
+p_Firmicutes	annotation_background_color	#54a24b
+p_Cyanobacteria	annotation_background_color	#e45756
+p_Fusobacteria	annotation_background_color	#b279a2
+p_Tenericutes	annotation_background_color	#ff9da6
+g_Gardnerella	annotation_background_color	#72b7b2
+g_Gardnerella	clade_marker_color	#72b7b2
+f_Bifidobacteriaceae	clade_marker_color	#72b7b2
+o_Bifidobacteriales	clade_marker_color	#72b7b2
+c_Actinobacteria	clade_marker_color	#72b7b2
+p_Actinobacteria	clade_marker_color	#72b7b2
+g_Gardnerella	clade_marker_size	35.1094
+g_Microbacterium	annotation_background_color	#72b7b2
+g_Microbacterium	clade_marker_color	#72b7b2
+f_Microbacteriaceae	clade_marker_color	#72b7b2
+o_Micrococcales	clade_marker_color	#72b7b2
+c_Actinobacteria	clade_marker_color	#72b7b2
+p_Actinobacteria	clade_marker_color	#72b7b2
+g_Microbacterium	clade_marker_size	0.8106
+g_Atopobium	annotation_background_color	#72b7b2
+g_Atopobium	clade_marker_color	#72b7b2
+f_Atopobiaceae	clade_marker_color	#72b7b2
+o_Coriobacteriales	clade_marker_color	#72b7b2
+c_Coriobacteriia	clade_marker_color	#72b7b2
+p_Actinobacteria	clade_marker_color	#72b7b2
+g_Atopobium	clade_marker_size	4.677
+g_Collinsella	annotation_background_color	#72b7b2
+g_Collinsella	clade_marker_color	#72b7b2
+f_Coriobacteriaceae	clade_marker_color	#72b7b2
+o_Coriobacteriales	clade_marker_color	#72b7b2
+c_Coriobacteriia	clade_marker_color	#72b7b2
+p_Actinobacteria	clade_marker_color	#72b7b2
+g_Collinsella	clade_marker_size	0.8088
+g_Bacteroides	annotation_background_color	#eeca3b
+g_Bacteroides	clade_marker_color	#eeca3b
+f_Bacteroidaceae	clade_marker_color	#eeca3b
+o_Bacteroidales	clade_marker_color	#eeca3b
+c_Bacteroidia	clade_marker_color	#eeca3b
+p_Bacteroidetes	clade_marker_color	#eeca3b
+g_Bacteroides	clade_marker_size	200
+g_Bacteroides	annotation_background_color	#eeca3b
+g_Bacteroides	clade_marker_color	#eeca3b
+f_Bacteroidaceae	clade_marker_color	#eeca3b
+o_Bacteroidales	clade_marker_color	#eeca3b
+c_Bacteroidia	clade_marker_color	#eeca3b
+p_Bacteroidetes	clade_marker_color	#eeca3b
+g_Bacteroides	clade_marker_size	200
+g_Bacteroides	annotation_background_color	#eeca3b
+g_Bacteroides	clade_marker_color	#eeca3b
+f_Bacteroidaceae	clade_marker_color	#eeca3b
+o_Bacteroidales	clade_marker_color	#eeca3b
+c_Bacteroidia	clade_marker_color	#eeca3b
+p_Bacteroidetes	clade_marker_color	#eeca3b
+g_Bacteroides	clade_marker_size	200
+g_Bacteroides	annotation_background_color	#eeca3b
+g_Bacteroides	clade_marker_color	#eeca3b
+f_Bacteroidaceae	clade_marker_color	#eeca3b
+o_Bacteroidales	clade_marker_color	#eeca3b
+c_Bacteroidia	clade_marker_color	#eeca3b
+p_Bacteroidetes	clade_marker_color	#eeca3b
+g_Bacteroides	clade_marker_size	200
+g_Bacteroides	annotation_background_color	#eeca3b
+g_Bacteroides	clade_marker_color	#eeca3b
+f_Bacteroidaceae	clade_marker_color	#eeca3b
+o_Bacteroidales	clade_marker_color	#eeca3b
+c_Bacteroidia	clade_marker_color	#eeca3b
+p_Bacteroidetes	clade_marker_color	#eeca3b
+g_Bacteroides	clade_marker_size	200
+g_Bacteroides	annotation_background_color	#eeca3b
+g_Bacteroides	clade_marker_color	#eeca3b
+f_Bacteroidaceae	clade_marker_color	#eeca3b
+o_Bacteroidales	clade_marker_color	#eeca3b
+c_Bacteroidia	clade_marker_color	#eeca3b
+p_Bacteroidetes	clade_marker_color	#eeca3b
+g_Bacteroides	clade_marker_size	200
+g_Bacteroides	annotation_background_color	#eeca3b
+g_Bacteroides	clade_marker_color	#eeca3b
+f_Bacteroidaceae	clade_marker_color	#eeca3b
+o_Bacteroidales	clade_marker_color	#eeca3b
+c_Bacteroidia	clade_marker_color	#eeca3b
+p_Bacteroidetes	clade_marker_color	#eeca3b
+g_Bacteroides	clade_marker_size	200
+g_Bacteroides	annotation_background_color	#eeca3b
+g_Bacteroides	clade_marker_color	#eeca3b
+f_Bacteroidaceae	clade_marker_color	#eeca3b
+o_Bacteroidales	clade_marker_color	#eeca3b
+c_Bacteroidia	clade_marker_color	#eeca3b
+p_Bacteroidetes	clade_marker_color	#eeca3b
+g_Bacteroides	clade_marker_size	200
+g_Bacteroides	annotation_background_color	#eeca3b
+g_Bacteroides	clade_marker_color	#eeca3b
+f_Bacteroidaceae	clade_marker_color	#eeca3b
+o_Bacteroidales	clade_marker_color	#eeca3b
+c_Bacteroidia	clade_marker_color	#eeca3b
+p_Bacteroidetes	clade_marker_color	#eeca3b
+g_Bacteroides	clade_marker_size	200
+g_Bacteroides	annotation_background_color	#eeca3b
+g_Bacteroides	clade_marker_color	#eeca3b
+f_Bacteroidaceae	clade_marker_color	#eeca3b
+o_Bacteroidales	clade_marker_color	#eeca3b
+c_Bacteroidia	clade_marker_color	#eeca3b
+p_Bacteroidetes	clade_marker_color	#eeca3b
+g_Bacteroides	clade_marker_size	200
+g_Bacteroides	annotation_background_color	#eeca3b
+g_Bacteroides	clade_marker_color	#eeca3b
+f_Bacteroidaceae	clade_marker_color	#eeca3b
+o_Bacteroidales	clade_marker_color	#eeca3b
+c_Bacteroidia	clade_marker_color	#eeca3b
+p_Bacteroidetes	clade_marker_color	#eeca3b
+g_Bacteroides	clade_marker_size	200
+g_Bacteroides	annotation_background_color	#eeca3b
+g_Bacteroides	clade_marker_color	#eeca3b
+f_Bacteroidaceae	clade_marker_color	#eeca3b
+o_Bacteroidales	clade_marker_color	#eeca3b
+c_Bacteroidia	clade_marker_color	#eeca3b
+p_Bacteroidetes	clade_marker_color	#eeca3b
+g_Bacteroides	clade_marker_size	200
+g_Bacteroides	annotation_background_color	#eeca3b
+g_Bacteroides	clade_marker_color	#eeca3b
+f_Bacteroidaceae	clade_marker_color	#eeca3b
+o_Bacteroidales	clade_marker_color	#eeca3b
+c_Bacteroidia	clade_marker_color	#eeca3b
+p_Bacteroidetes	clade_marker_color	#eeca3b
+g_Bacteroides	clade_marker_size	200
+g_Bacteroides	annotation_background_color	#eeca3b
+g_Bacteroides	clade_marker_color	#eeca3b
+f_Bacteroidaceae	clade_marker_color	#eeca3b
+o_Bacteroidales	clade_marker_color	#eeca3b
+c_Bacteroidia	clade_marker_color	#eeca3b
+p_Bacteroidetes	clade_marker_color	#eeca3b
+g_Bacteroides	clade_marker_size	200
+g_Bacteroides	annotation_background_color	#eeca3b
+g_Bacteroides	clade_marker_color	#eeca3b
+f_Bacteroidaceae	clade_marker_color	#eeca3b
+o_Bacteroidales	clade_marker_color	#eeca3b
+c_Bacteroidia	clade_marker_color	#eeca3b
+p_Bacteroidetes	clade_marker_color	#eeca3b
+g_Bacteroides	clade_marker_size	200
+g_Coprobacter	annotation_background_color	#eeca3b
+g_Coprobacter	clade_marker_color	#eeca3b
+f_Bacteroidaceae	clade_marker_color	#eeca3b
+o_Bacteroidales	clade_marker_color	#eeca3b
+c_Bacteroidia	clade_marker_color	#eeca3b
+p_Bacteroidetes	clade_marker_color	#eeca3b
+g_Coprobacter	clade_marker_size	27.9608
+g_Mediterranea	annotation_background_color	#eeca3b
+g_Mediterranea	clade_marker_color	#eeca3b
+f_Bacteroidaceae	clade_marker_color	#eeca3b
+o_Bacteroidales	clade_marker_color	#eeca3b
+c_Bacteroidia	clade_marker_color	#eeca3b
+p_Bacteroidetes	clade_marker_color	#eeca3b
+g_Mediterranea	clade_marker_size	4.6664
+g_Culturomica	annotation_background_color	#eeca3b
+g_Culturomica	clade_marker_color	#eeca3b
+f_Odoribacteraceae	clade_marker_color	#eeca3b
+o_Bacteroidales	clade_marker_color	#eeca3b
+c_Bacteroidia	clade_marker_color	#eeca3b
+p_Bacteroidetes	clade_marker_color	#eeca3b
+g_Culturomica	clade_marker_size	4.8742
+g_Odoribacter	annotation_background_color	#eeca3b
+g_Odoribacter	clade_marker_color	#eeca3b
+f_Odoribacteraceae	clade_marker_color	#eeca3b
+o_Bacteroidales	clade_marker_color	#eeca3b
+c_Bacteroidia	clade_marker_color	#eeca3b
+p_Bacteroidetes	clade_marker_color	#eeca3b
+g_Odoribacter	clade_marker_size	10.6248
+g_Prevotella	annotation_background_color	#eeca3b
+g_Prevotella	clade_marker_color	#eeca3b
+f_Prevotellaceae	clade_marker_color	#eeca3b
+o_Bacteroidales	clade_marker_color	#eeca3b
+c_Bacteroidia	clade_marker_color	#eeca3b
+p_Bacteroidetes	clade_marker_color	#eeca3b
+g_Prevotella	clade_marker_size	140.5626
+g_Prevotella	annotation_background_color	#eeca3b
+g_Prevotella	clade_marker_color	#eeca3b
+f_Prevotellaceae	clade_marker_color	#eeca3b
+o_Bacteroidales	clade_marker_color	#eeca3b
+c_Bacteroidia	clade_marker_color	#eeca3b
+p_Bacteroidetes	clade_marker_color	#eeca3b
+g_Prevotella	clade_marker_size	140.5626
+g_Prevotella	annotation_background_color	#eeca3b
+g_Prevotella	clade_marker_color	#eeca3b
+f_Prevotellaceae	clade_marker_color	#eeca3b
+o_Bacteroidales	clade_marker_color	#eeca3b
+c_Bacteroidia	clade_marker_color	#eeca3b
+p_Bacteroidetes	clade_marker_color	#eeca3b
+g_Prevotella	clade_marker_size	140.5626
+g_Prevotella	annotation_background_color	#eeca3b
+g_Prevotella	clade_marker_color	#eeca3b
+f_Prevotellaceae	clade_marker_color	#eeca3b
+o_Bacteroidales	clade_marker_color	#eeca3b
+c_Bacteroidia	clade_marker_color	#eeca3b
+p_Bacteroidetes	clade_marker_color	#eeca3b
+g_Prevotella	clade_marker_size	140.5626
+g_Alistipes	annotation_background_color	#eeca3b
+g_Alistipes	clade_marker_color	#eeca3b
+f_Rikenellaceae	clade_marker_color	#eeca3b
+o_Bacteroidales	clade_marker_color	#eeca3b
+c_Bacteroidia	clade_marker_color	#eeca3b
+p_Bacteroidetes	clade_marker_color	#eeca3b
+g_Alistipes	clade_marker_size	98.4614
+g_Alistipes	annotation_background_color	#eeca3b
+g_Alistipes	clade_marker_color	#eeca3b
+f_Rikenellaceae	clade_marker_color	#eeca3b
+o_Bacteroidales	clade_marker_color	#eeca3b
+c_Bacteroidia	clade_marker_color	#eeca3b
+p_Bacteroidetes	clade_marker_color	#eeca3b
+g_Alistipes	clade_marker_size	98.4614
+g_Alistipes	annotation_background_color	#eeca3b
+g_Alistipes	clade_marker_color	#eeca3b
+f_Rikenellaceae	clade_marker_color	#eeca3b
+o_Bacteroidales	clade_marker_color	#eeca3b
+c_Bacteroidia	clade_marker_color	#eeca3b
+p_Bacteroidetes	clade_marker_color	#eeca3b
+g_Alistipes	clade_marker_size	98.4614
+g_Alistipes	annotation_background_color	#eeca3b
+g_Alistipes	clade_marker_color	#eeca3b
+f_Rikenellaceae	clade_marker_color	#eeca3b
+o_Bacteroidales	clade_marker_color	#eeca3b
+c_Bacteroidia	clade_marker_color	#eeca3b
+p_Bacteroidetes	clade_marker_color	#eeca3b
+g_Alistipes	clade_marker_size	98.4614
+g_Alistipes	annotation_background_color	#eeca3b
+g_Alistipes	clade_marker_color	#eeca3b
+f_Rikenellaceae	clade_marker_color	#eeca3b
+o_Bacteroidales	clade_marker_color	#eeca3b
+c_Bacteroidia	clade_marker_color	#eeca3b
+p_Bacteroidetes	clade_marker_color	#eeca3b
+g_Alistipes	clade_marker_size	98.4614
+g_Parabacteroides	annotation_background_color	#eeca3b
+g_Parabacteroides	clade_marker_color	#eeca3b
+f_Tannerellaceae	clade_marker_color	#eeca3b
+o_Bacteroidales	clade_marker_color	#eeca3b
+c_Bacteroidia	clade_marker_color	#eeca3b
+p_Bacteroidetes	clade_marker_color	#eeca3b
+g_Parabacteroides	clade_marker_size	200
+g_Parabacteroides	annotation_background_color	#eeca3b
+g_Parabacteroides	clade_marker_color	#eeca3b
+f_Tannerellaceae	clade_marker_color	#eeca3b
+o_Bacteroidales	clade_marker_color	#eeca3b
+c_Bacteroidia	clade_marker_color	#eeca3b
+p_Bacteroidetes	clade_marker_color	#eeca3b
+g_Parabacteroides	clade_marker_size	200
+g_Parabacteroides	annotation_background_color	#eeca3b
+g_Parabacteroides	clade_marker_color	#eeca3b
+f_Tannerellaceae	clade_marker_color	#eeca3b
+o_Bacteroidales	clade_marker_color	#eeca3b
+c_Bacteroidia	clade_marker_color	#eeca3b
+p_Bacteroidetes	clade_marker_color	#eeca3b
+g_Parabacteroides	clade_marker_size	200
+g_Parabacteroides	annotation_background_color	#eeca3b
+g_Parabacteroides	clade_marker_color	#eeca3b
+f_Tannerellaceae	clade_marker_color	#eeca3b
+o_Bacteroidales	clade_marker_color	#eeca3b
+c_Bacteroidia	clade_marker_color	#eeca3b
+p_Bacteroidetes	clade_marker_color	#eeca3b
+g_Parabacteroides	clade_marker_size	200
+g_Flavobacterium	annotation_background_color	#eeca3b
+g_Flavobacterium	clade_marker_color	#eeca3b
+f_Flavobacteriaceae	clade_marker_color	#eeca3b
+o_Flavobacteriales	clade_marker_color	#eeca3b
+c_Flavobacteriia	clade_marker_color	#eeca3b
+p_Bacteroidetes	clade_marker_color	#eeca3b
+g_Flavobacterium	clade_marker_size	4.4482
+g_Flavobacterium	annotation_background_color	#eeca3b
+g_Flavobacterium	clade_marker_color	#eeca3b
+f_Flavobacteriaceae	clade_marker_color	#eeca3b
+o_Flavobacteriales	clade_marker_color	#eeca3b
+c_Flavobacteriia	clade_marker_color	#eeca3b
+p_Bacteroidetes	clade_marker_color	#eeca3b
+g_Flavobacterium	clade_marker_size	4.4482
+g_Mucilaginibacter	annotation_background_color	#eeca3b
+g_Mucilaginibacter	clade_marker_color	#eeca3b
+f_Sphingobacteriaceae	clade_marker_color	#eeca3b
+o_Sphingobacteriales	clade_marker_color	#eeca3b
+c_Sphingobacteriia	clade_marker_color	#eeca3b
+p_Bacteroidetes	clade_marker_color	#eeca3b
+g_Mucilaginibacter	clade_marker_size	0.8704
+g_Geminocystis	annotation_background_color	#e45756
+g_Geminocystis	clade_marker_color	#e45756
+f_Merismopediaceae	clade_marker_color	#e45756
+o_Synechococcales	clade_marker_color	#e45756
+c_-	clade_marker_color	#e45756
+p_Cyanobacteria	clade_marker_color	#e45756
+g_Geminocystis	clade_marker_size	9.9146
+g_Bacillus	annotation_background_color	#54a24b
+g_Bacillus	clade_marker_color	#54a24b
+f_Bacillaceae	clade_marker_color	#54a24b
+o_Bacillales	clade_marker_color	#54a24b
+c_Bacilli	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Bacillus	clade_marker_size	200
+g_Bacillus	annotation_background_color	#54a24b
+g_Bacillus	clade_marker_color	#54a24b
+f_Bacillaceae	clade_marker_color	#54a24b
+o_Bacillales	clade_marker_color	#54a24b
+c_Bacilli	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Bacillus	clade_marker_size	200
+g_Bacillus	annotation_background_color	#54a24b
+g_Bacillus	clade_marker_color	#54a24b
+f_Bacillaceae	clade_marker_color	#54a24b
+o_Bacillales	clade_marker_color	#54a24b
+c_Bacilli	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Bacillus	clade_marker_size	200
+g_Listeria	annotation_background_color	#54a24b
+g_Listeria	clade_marker_color	#54a24b
+f_Listeriaceae	clade_marker_color	#54a24b
+o_Bacillales	clade_marker_color	#54a24b
+c_Bacilli	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Listeria	clade_marker_size	1.6922
+g_Staphylococcus	annotation_background_color	#54a24b
+g_Staphylococcus	clade_marker_color	#54a24b
+f_Staphylococcaceae	clade_marker_color	#54a24b
+o_Bacillales	clade_marker_color	#54a24b
+c_Bacilli	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Staphylococcus	clade_marker_size	1.915
+g_Enterococcus	annotation_background_color	#54a24b
+g_Enterococcus	clade_marker_color	#54a24b
+f_Enterococcaceae	clade_marker_color	#54a24b
+o_Lactobacillales	clade_marker_color	#54a24b
+c_Bacilli	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Enterococcus	clade_marker_size	194.7486
+g_Enterococcus	annotation_background_color	#54a24b
+g_Enterococcus	clade_marker_color	#54a24b
+f_Enterococcaceae	clade_marker_color	#54a24b
+o_Lactobacillales	clade_marker_color	#54a24b
+c_Bacilli	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Enterococcus	clade_marker_size	194.7486
+g_Enterococcus	annotation_background_color	#54a24b
+g_Enterococcus	clade_marker_color	#54a24b
+f_Enterococcaceae	clade_marker_color	#54a24b
+o_Lactobacillales	clade_marker_color	#54a24b
+c_Bacilli	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Enterococcus	clade_marker_size	194.7486
+g_Lactobacillus	annotation_background_color	#54a24b
+g_Lactobacillus	clade_marker_color	#54a24b
+f_Lactobacillaceae	clade_marker_color	#54a24b
+o_Lactobacillales	clade_marker_color	#54a24b
+c_Bacilli	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Lactobacillus	clade_marker_size	200
+g_Lactobacillus	annotation_background_color	#54a24b
+g_Lactobacillus	clade_marker_color	#54a24b
+f_Lactobacillaceae	clade_marker_color	#54a24b
+o_Lactobacillales	clade_marker_color	#54a24b
+c_Bacilli	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Lactobacillus	clade_marker_size	200
+g_Lactobacillus	annotation_background_color	#54a24b
+g_Lactobacillus	clade_marker_color	#54a24b
+f_Lactobacillaceae	clade_marker_color	#54a24b
+o_Lactobacillales	clade_marker_color	#54a24b
+c_Bacilli	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Lactobacillus	clade_marker_size	200
+g_Lactobacillus	annotation_background_color	#54a24b
+g_Lactobacillus	clade_marker_color	#54a24b
+f_Lactobacillaceae	clade_marker_color	#54a24b
+o_Lactobacillales	clade_marker_color	#54a24b
+c_Bacilli	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Lactobacillus	clade_marker_size	200
+g_Lactobacillus	annotation_background_color	#54a24b
+g_Lactobacillus	clade_marker_color	#54a24b
+f_Lactobacillaceae	clade_marker_color	#54a24b
+o_Lactobacillales	clade_marker_color	#54a24b
+c_Bacilli	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Lactobacillus	clade_marker_size	200
+g_Lactococcus	annotation_background_color	#54a24b
+g_Lactococcus	clade_marker_color	#54a24b
+f_Streptococcaceae	clade_marker_color	#54a24b
+o_Lactobacillales	clade_marker_color	#54a24b
+c_Bacilli	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Lactococcus	clade_marker_size	0.9714
+g_Streptococcus	annotation_background_color	#54a24b
+g_Streptococcus	clade_marker_color	#54a24b
+f_Streptococcaceae	clade_marker_color	#54a24b
+o_Lactobacillales	clade_marker_color	#54a24b
+c_Bacilli	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Streptococcus	clade_marker_size	18.2506
+g_Streptococcus	annotation_background_color	#54a24b
+g_Streptococcus	clade_marker_color	#54a24b
+f_Streptococcaceae	clade_marker_color	#54a24b
+o_Lactobacillales	clade_marker_color	#54a24b
+c_Bacilli	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Streptococcus	clade_marker_size	18.2506
+g_Streptococcus	annotation_background_color	#54a24b
+g_Streptococcus	clade_marker_color	#54a24b
+f_Streptococcaceae	clade_marker_color	#54a24b
+o_Lactobacillales	clade_marker_color	#54a24b
+c_Bacilli	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Streptococcus	clade_marker_size	18.2506
+g_Clostridium	annotation_background_color	#54a24b
+g_Clostridium	clade_marker_color	#54a24b
+f_Clostridiaceae	clade_marker_color	#54a24b
+o_Clostridiales	clade_marker_color	#54a24b
+c_Clostridia	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Clostridium	clade_marker_size	62.2524
+g_Eubacterium	annotation_background_color	#54a24b
+g_Eubacterium	clade_marker_color	#54a24b
+f_Eubacteriaceae	clade_marker_color	#54a24b
+o_Clostridiales	clade_marker_color	#54a24b
+c_Clostridia	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Eubacterium	clade_marker_size	25.58
+g_Coprococcus	annotation_background_color	#54a24b
+g_Coprococcus	clade_marker_color	#54a24b
+f_Lachnospiraceae	clade_marker_color	#54a24b
+o_Clostridiales	clade_marker_color	#54a24b
+c_Clostridia	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Coprococcus	clade_marker_size	4.1828
+g_Dorea	annotation_background_color	#54a24b
+g_Dorea	clade_marker_color	#54a24b
+f_Lachnospiraceae	clade_marker_color	#54a24b
+o_Clostridiales	clade_marker_color	#54a24b
+c_Clostridia	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Dorea	clade_marker_size	37.6544
+g_Dorea	annotation_background_color	#54a24b
+g_Dorea	clade_marker_color	#54a24b
+f_Lachnospiraceae	clade_marker_color	#54a24b
+o_Clostridiales	clade_marker_color	#54a24b
+c_Clostridia	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Dorea	clade_marker_size	37.6544
+g_Dorea	annotation_background_color	#54a24b
+g_Dorea	clade_marker_color	#54a24b
+f_Lachnospiraceae	clade_marker_color	#54a24b
+o_Clostridiales	clade_marker_color	#54a24b
+c_Clostridia	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Dorea	clade_marker_size	37.6544
+g_Fusicatenibacter	annotation_background_color	#54a24b
+g_Fusicatenibacter	clade_marker_color	#54a24b
+f_Lachnospiraceae	clade_marker_color	#54a24b
+o_Clostridiales	clade_marker_color	#54a24b
+c_Clostridia	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Fusicatenibacter	clade_marker_size	1.5496
+g_Roseburia	annotation_background_color	#54a24b
+g_Roseburia	clade_marker_color	#54a24b
+f_Lachnospiraceae	clade_marker_color	#54a24b
+o_Clostridiales	clade_marker_color	#54a24b
+c_Clostridia	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Roseburia	clade_marker_size	11.8524
+g_Roseburia	annotation_background_color	#54a24b
+g_Roseburia	clade_marker_color	#54a24b
+f_Lachnospiraceae	clade_marker_color	#54a24b
+o_Clostridiales	clade_marker_color	#54a24b
+c_Clostridia	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Roseburia	clade_marker_size	11.8524
+g_Romboutsia	annotation_background_color	#54a24b
+g_Romboutsia	clade_marker_color	#54a24b
+f_Peptostreptococcaceae	clade_marker_color	#54a24b
+o_Clostridiales	clade_marker_color	#54a24b
+c_Clostridia	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Romboutsia	clade_marker_size	0.9208
+g_Faecalibacterium	annotation_background_color	#54a24b
+g_Faecalibacterium	clade_marker_color	#54a24b
+f_Ruminococcaceae	clade_marker_color	#54a24b
+o_Clostridiales	clade_marker_color	#54a24b
+c_Clostridia	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Faecalibacterium	clade_marker_size	5.207
+g_Gemmiger	annotation_background_color	#54a24b
+g_Gemmiger	clade_marker_color	#54a24b
+f_Ruminococcaceae	clade_marker_color	#54a24b
+o_Clostridiales	clade_marker_color	#54a24b
+c_Clostridia	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Gemmiger	clade_marker_size	2.626
+g_Ruthenibacterium	annotation_background_color	#54a24b
+g_Ruthenibacterium	clade_marker_color	#54a24b
+f_Ruminococcaceae	clade_marker_color	#54a24b
+o_Clostridiales	clade_marker_color	#54a24b
+c_Clostridia	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Ruthenibacterium	clade_marker_size	1.3926
+g_Intestinimonas	annotation_background_color	#54a24b
+g_Intestinimonas	clade_marker_color	#54a24b
+f_unclassified Clostridiales   	clade_marker_color	#54a24b
+o_Clostridiales	clade_marker_color	#54a24b
+c_Clostridia	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Intestinimonas	clade_marker_size	1.2724
+g_Clostridium	annotation_background_color	#54a24b
+g_Clostridium	clade_marker_color	#54a24b
+f_Clostridiaceae	clade_marker_color	#54a24b
+o_Eubacteriales	clade_marker_color	#54a24b
+c_Clostridia	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Clostridium	clade_marker_size	62.2524
+g_Clostridium	annotation_background_color	#54a24b
+g_Clostridium	clade_marker_color	#54a24b
+f_Clostridiaceae	clade_marker_color	#54a24b
+o_Eubacteriales	clade_marker_color	#54a24b
+c_Clostridia	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Clostridium	clade_marker_size	62.2524
+g_Hungatella	annotation_background_color	#54a24b
+g_Hungatella	clade_marker_color	#54a24b
+f_Clostridiaceae	clade_marker_color	#54a24b
+o_Eubacteriales	clade_marker_color	#54a24b
+c_Clostridia	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Hungatella	clade_marker_size	59.3892
+g_Pseudoramibacter	annotation_background_color	#54a24b
+g_Pseudoramibacter	clade_marker_color	#54a24b
+f_Eubacteriaceae	clade_marker_color	#54a24b
+o_Eubacteriales	clade_marker_color	#54a24b
+c_Clostridia	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Pseudoramibacter	clade_marker_size	70.1096
+g_Mogibacterium	annotation_background_color	#54a24b
+g_Mogibacterium	clade_marker_color	#54a24b
+f_Eubacteriales incertae sedis	clade_marker_color	#54a24b
+o_Eubacteriales	clade_marker_color	#54a24b
+c_Clostridia	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Mogibacterium	clade_marker_size	22.2166
+g_Anaerostipes	annotation_background_color	#54a24b
+g_Anaerostipes	clade_marker_color	#54a24b
+f_Lachnospiraceae	clade_marker_color	#54a24b
+o_Eubacteriales	clade_marker_color	#54a24b
+c_Clostridia	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Anaerostipes	clade_marker_size	66.1632
+g_Enterocloster	annotation_background_color	#54a24b
+g_Enterocloster	clade_marker_color	#54a24b
+f_Lachnospiraceae	clade_marker_color	#54a24b
+o_Eubacteriales	clade_marker_color	#54a24b
+c_Clostridia	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Enterocloster	clade_marker_size	58.1636
+g_Enterocloster	annotation_background_color	#54a24b
+g_Enterocloster	clade_marker_color	#54a24b
+f_Lachnospiraceae	clade_marker_color	#54a24b
+o_Eubacteriales	clade_marker_color	#54a24b
+c_Clostridia	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Enterocloster	clade_marker_size	58.1636
+g_Lachnoclostridium	annotation_background_color	#54a24b
+g_Lachnoclostridium	clade_marker_color	#54a24b
+f_Lachnospiraceae	clade_marker_color	#54a24b
+o_Eubacteriales	clade_marker_color	#54a24b
+c_Clostridia	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Lachnoclostridium	clade_marker_size	200
+g_Flavonifractor	annotation_background_color	#54a24b
+g_Flavonifractor	clade_marker_color	#54a24b
+f_Oscillospiraceae	clade_marker_color	#54a24b
+o_Eubacteriales	clade_marker_color	#54a24b
+c_Clostridia	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Flavonifractor	clade_marker_size	15.9416
+g_Erysipelatoclostridium	annotation_background_color	#54a24b
+g_Erysipelatoclostridium	clade_marker_color	#54a24b
+f_Erysipelotrichaceae	clade_marker_color	#54a24b
+o_Erysipelotrichales	clade_marker_color	#54a24b
+c_Erysipelotrichia	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Erysipelatoclostridium	clade_marker_size	0.0374
+g_Erysipelatoclostridium	annotation_background_color	#54a24b
+g_Erysipelatoclostridium	clade_marker_color	#54a24b
+f_Erysipelotrichaceae	clade_marker_color	#54a24b
+o_Erysipelotrichales	clade_marker_color	#54a24b
+c_Erysipelotrichia	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Erysipelatoclostridium	clade_marker_size	0.0374
+g_Anaeroglobus	annotation_background_color	#54a24b
+g_Anaeroglobus	clade_marker_color	#54a24b
+f_Veillonellaceae	clade_marker_color	#54a24b
+o_Veillonellales	clade_marker_color	#54a24b
+c_Negativicutes	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Anaeroglobus	clade_marker_size	26.223
+g_Megasphaera	annotation_background_color	#54a24b
+g_Megasphaera	clade_marker_color	#54a24b
+f_Veillonellaceae	clade_marker_color	#54a24b
+o_Veillonellales	clade_marker_color	#54a24b
+c_Negativicutes	clade_marker_color	#54a24b
+p_Firmicutes	clade_marker_color	#54a24b
+g_Megasphaera	clade_marker_size	9.4444
+g_Sneathia	annotation_background_color	#b279a2
+g_Sneathia	clade_marker_color	#b279a2
+f_Leptotrichiaceae	clade_marker_color	#b279a2
+o_Fusobacteriales	clade_marker_color	#b279a2
+c_Fusobacteriia	clade_marker_color	#b279a2
+p_Fusobacteria	clade_marker_color	#b279a2
+g_Sneathia	clade_marker_size	3.0578
+g_Caulobacter	annotation_background_color	#4c78a8
+g_Caulobacter	clade_marker_color	#4c78a8
+f_Caulobacteraceae	clade_marker_color	#4c78a8
+o_Caulobacterales	clade_marker_color	#4c78a8
+c_Alphaproteobacteria	clade_marker_color	#4c78a8
+p_Proteobacteria	clade_marker_color	#4c78a8
+g_Caulobacter	clade_marker_size	37.7868
+g_Bilophila	annotation_background_color	#4c78a8
+g_Bilophila	clade_marker_color	#4c78a8
+f_Desulfovibrionaceae	clade_marker_color	#4c78a8
+o_Desulfovibrionales	clade_marker_color	#4c78a8
+c_Deltaproteobacteria	clade_marker_color	#4c78a8
+p_Proteobacteria	clade_marker_color	#4c78a8
+g_Bilophila	clade_marker_size	2.3374
+g_Desulfovibrio	annotation_background_color	#4c78a8
+g_Desulfovibrio	clade_marker_color	#4c78a8
+f_Desulfovibrionaceae	clade_marker_color	#4c78a8
+o_Desulfovibrionales	clade_marker_color	#4c78a8
+c_Deltaproteobacteria	clade_marker_color	#4c78a8
+p_Proteobacteria	clade_marker_color	#4c78a8
+g_Desulfovibrio	clade_marker_size	2.7734
+g_Escherichia	annotation_background_color	#4c78a8
+g_Escherichia	clade_marker_color	#4c78a8
+f_Enterobacteriaceae	clade_marker_color	#4c78a8
+o_Enterobacterales	clade_marker_color	#4c78a8
+c_Gammaproteobacteria	clade_marker_color	#4c78a8
+p_Proteobacteria	clade_marker_color	#4c78a8
+g_Escherichia	clade_marker_size	200
+g_Escherichia	annotation_background_color	#4c78a8
+g_Escherichia	clade_marker_color	#4c78a8
+f_Enterobacteriaceae	clade_marker_color	#4c78a8
+o_Enterobacterales	clade_marker_color	#4c78a8
+c_Gammaproteobacteria	clade_marker_color	#4c78a8
+p_Proteobacteria	clade_marker_color	#4c78a8
+g_Escherichia	clade_marker_size	200
+g_Salmonella	annotation_background_color	#4c78a8
+g_Salmonella	clade_marker_color	#4c78a8
+f_Enterobacteriaceae	clade_marker_color	#4c78a8
+o_Enterobacterales	clade_marker_color	#4c78a8
+c_Gammaproteobacteria	clade_marker_color	#4c78a8
+p_Proteobacteria	clade_marker_color	#4c78a8
+g_Salmonella	clade_marker_size	2.0944
+g_Pseudomonas	annotation_background_color	#4c78a8
+g_Pseudomonas	clade_marker_color	#4c78a8
+f_Pseudomonadaceae	clade_marker_color	#4c78a8
+o_Pseudomonadales	clade_marker_color	#4c78a8
+c_Gammaproteobacteria	clade_marker_color	#4c78a8
+p_Proteobacteria	clade_marker_color	#4c78a8
+g_Pseudomonas	clade_marker_size	2.9664
+g_Pseudomonas	annotation_background_color	#4c78a8
+g_Pseudomonas	clade_marker_color	#4c78a8
+f_Pseudomonadaceae	clade_marker_color	#4c78a8
+o_Pseudomonadales	clade_marker_color	#4c78a8
+c_Gammaproteobacteria	clade_marker_color	#4c78a8
+p_Proteobacteria	clade_marker_color	#4c78a8
+g_Pseudomonas	clade_marker_size	2.9664
+g_Pseudomonas	annotation_background_color	#4c78a8
+g_Pseudomonas	clade_marker_color	#4c78a8
+f_Pseudomonadaceae	clade_marker_color	#4c78a8
+o_Pseudomonadales	clade_marker_color	#4c78a8
+c_Gammaproteobacteria	clade_marker_color	#4c78a8
+p_Proteobacteria	clade_marker_color	#4c78a8
+g_Pseudomonas	clade_marker_size	2.9664
+g_Rhodanobacter	annotation_background_color	#4c78a8
+g_Rhodanobacter	clade_marker_color	#4c78a8
+f_Rhodanobacteraceae	clade_marker_color	#4c78a8
+o_Xanthomonadales	clade_marker_color	#4c78a8
+c_Gammaproteobacteria	clade_marker_color	#4c78a8
+p_Proteobacteria	clade_marker_color	#4c78a8
+g_Rhodanobacter	clade_marker_size	1.202
+g_Ureaplasma	annotation_background_color	#ff9da6
+g_Ureaplasma	clade_marker_color	#ff9da6
+f_Mycoplasmataceae	clade_marker_color	#ff9da6
+o_Mycoplasmatales	clade_marker_color	#ff9da6
+c_Mollicutes	clade_marker_color	#ff9da6
+p_Tenericutes	clade_marker_color	#ff9da6
+g_Ureaplasma	clade_marker_size	5.066
+g_Lacunisphaera	annotation_background_color	#f58518
+g_Lacunisphaera	clade_marker_color	#f58518
+f_Opitutaceae	clade_marker_color	#f58518
+o_Opitutales	clade_marker_color	#f58518
+c_Opitutae	clade_marker_color	#f58518
+p_Verrucomicrobia	clade_marker_color	#f58518
+g_Lacunisphaera	clade_marker_size	1.0886
+g_Akkermansia	annotation_background_color	#f58518
+g_Akkermansia	clade_marker_color	#f58518
+f_Akkermansiaceae	clade_marker_color	#f58518
+o_Verrucomicrobiales	clade_marker_color	#f58518
+c_Verrucomicrobiae	clade_marker_color	#f58518
+p_Verrucomicrobia	clade_marker_color	#f58518
+g_Akkermansia	clade_marker_size	2.2234
+g_Gardnerella	ring_alpha	1	0.393214499537597
+g_Gardnerella	ring_alpha	2	0.05
+g_Gardnerella	ring_height	3	1
+g_Gardnerella	ring_height	4	0.1
+g_Gardnerella	ring_height	5	0.5
+g_Gardnerella	ring_height	6	0
+g_Gardnerella	ring_height	7	0
+g_Gardnerella	ring_height	8	0
+g_Gardnerella	ring_height	9	0.5
+g_Gardnerella	ring_height	10	0.1
+g_Gardnerella	ring_height	11	1
+g_Microbacterium	ring_alpha	1	0.270504128930069
+g_Microbacterium	ring_alpha	2	0
+g_Microbacterium	ring_height	3	1
+g_Microbacterium	ring_height	4	0.1
+g_Microbacterium	ring_height	5	0.5
+g_Microbacterium	ring_height	6	0
+g_Microbacterium	ring_height	7	0
+g_Microbacterium	ring_height	8	0
+g_Microbacterium	ring_height	9	0.5
+g_Microbacterium	ring_height	10	0.1
+g_Microbacterium	ring_height	11	1
+g_Atopobium	ring_alpha	1	0.327574494924202
+g_Atopobium	ring_alpha	2	0.3
+g_Atopobium	ring_height	3	1
+g_Atopobium	ring_height	4	0.1
+g_Atopobium	ring_height	5	0.5
+g_Atopobium	ring_height	6	0
+g_Atopobium	ring_height	7	0.5
+g_Atopobium	ring_height	8	0
+g_Atopobium	ring_height	9	0.5
+g_Atopobium	ring_height	10	0.1
+g_Atopobium	ring_height	11	1
+g_Collinsella	ring_alpha	1	0.270431740840247
+g_Collinsella	ring_alpha	2	0.2
+g_Collinsella	ring_height	3	1
+g_Collinsella	ring_height	4	0.1
+g_Collinsella	ring_height	5	0.5
+g_Collinsella	ring_height	6	0
+g_Collinsella	ring_height	7	0.5
+g_Collinsella	ring_height	8	0
+g_Collinsella	ring_height	9	0.5
+g_Collinsella	ring_height	10	0.1
+g_Collinsella	ring_height	11	1
+g_Bacteroides	ring_alpha	1	0.481732683253399
+g_Bacteroides	ring_alpha	2	0.05
+g_Bacteroides	ring_height	3	1
+g_Bacteroides	ring_height	4	0.1
+g_Bacteroides	ring_height	5	0.5
+g_Bacteroides	ring_height	6	0.5
+g_Bacteroides	ring_height	7	0
+g_Bacteroides	ring_height	8	0
+g_Bacteroides	ring_height	9	0.5
+g_Bacteroides	ring_height	10	0.1
+g_Bacteroides	ring_height	11	1
+g_Coprobacter	ring_alpha	1	0.385801131683989
+g_Coprobacter	ring_alpha	2	0
+g_Coprobacter	ring_height	3	1
+g_Coprobacter	ring_height	4	0.1
+g_Coprobacter	ring_height	5	0.5
+g_Coprobacter	ring_height	6	0
+g_Coprobacter	ring_height	7	0
+g_Coprobacter	ring_height	8	0
+g_Coprobacter	ring_height	9	0.5
+g_Coprobacter	ring_height	10	0.1
+g_Coprobacter	ring_height	11	1
+g_Mediterranea	ring_alpha	1	0.327500611047077
+g_Mediterranea	ring_alpha	2	0
+g_Mediterranea	ring_height	3	1
+g_Mediterranea	ring_height	4	0.1
+g_Mediterranea	ring_height	5	0.5
+g_Mediterranea	ring_height	6	0
+g_Mediterranea	ring_height	7	0
+g_Mediterranea	ring_height	8	0
+g_Mediterranea	ring_height	9	0.5
+g_Mediterranea	ring_height	10	0.1
+g_Mediterranea	ring_height	11	1
+g_Culturomica	ring_alpha	1	0.328919299757124
+g_Culturomica	ring_alpha	2	0
+g_Culturomica	ring_height	3	1
+g_Culturomica	ring_height	4	0.1
+g_Culturomica	ring_height	5	0.5
+g_Culturomica	ring_height	6	0
+g_Culturomica	ring_height	7	0
+g_Culturomica	ring_height	8	0
+g_Culturomica	ring_height	9	0.5
+g_Culturomica	ring_height	10	0.1
+g_Culturomica	ring_height	11	1
+g_Odoribacter	ring_alpha	1	0.354293184844273
+g_Odoribacter	ring_alpha	2	0
+g_Odoribacter	ring_height	3	1
+g_Odoribacter	ring_height	4	0.1
+g_Odoribacter	ring_height	5	0.5
+g_Odoribacter	ring_height	6	0
+g_Odoribacter	ring_height	7	0
+g_Odoribacter	ring_height	8	0
+g_Odoribacter	ring_height	9	0.5
+g_Odoribacter	ring_height	10	0.1
+g_Odoribacter	ring_height	11	1
+g_Prevotella	ring_alpha	1	0.438384766309582
+g_Prevotella	ring_alpha	2	0
+g_Prevotella	ring_height	3	1
+g_Prevotella	ring_height	4	0.1
+g_Prevotella	ring_height	5	0.5
+g_Prevotella	ring_height	6	0.5
+g_Prevotella	ring_height	7	0.5
+g_Prevotella	ring_height	8	0
+g_Prevotella	ring_height	9	0.5
+g_Prevotella	ring_height	10	0.1
+g_Prevotella	ring_height	11	1
+g_Alistipes	ring_alpha	1	0.426792873541415
+g_Alistipes	ring_alpha	2	0.15
+g_Alistipes	ring_height	3	1
+g_Alistipes	ring_height	4	0.1
+g_Alistipes	ring_height	5	0.5
+g_Alistipes	ring_height	6	0.5
+g_Alistipes	ring_height	7	0.5
+g_Alistipes	ring_height	8	0
+g_Alistipes	ring_height	9	0.5
+g_Alistipes	ring_height	10	0.1
+g_Alistipes	ring_height	11	1
+g_Parabacteroides	ring_alpha	1	0.466810853837043
+g_Parabacteroides	ring_alpha	2	0.1
+g_Parabacteroides	ring_height	3	1
+g_Parabacteroides	ring_height	4	0.1
+g_Parabacteroides	ring_height	5	0.5
+g_Parabacteroides	ring_height	6	0.5
+g_Parabacteroides	ring_height	7	0
+g_Parabacteroides	ring_height	8	0
+g_Parabacteroides	ring_height	9	0.5
+g_Parabacteroides	ring_height	10	0.1
+g_Parabacteroides	ring_height	11	1
+g_Flavobacterium	ring_alpha	1	0.325941242802779
+g_Flavobacterium	ring_alpha	2	0
+g_Flavobacterium	ring_height	3	1
+g_Flavobacterium	ring_height	4	0.1
+g_Flavobacterium	ring_height	5	0.5
+g_Flavobacterium	ring_height	6	0
+g_Flavobacterium	ring_height	7	0
+g_Flavobacterium	ring_height	8	0
+g_Flavobacterium	ring_height	9	0.5
+g_Flavobacterium	ring_height	10	0.1
+g_Flavobacterium	ring_height	11	1
+g_Mucilaginibacter	ring_alpha	1	0.272821872263604
+g_Mucilaginibacter	ring_alpha	2	0
+g_Mucilaginibacter	ring_height	3	1
+g_Mucilaginibacter	ring_height	4	0.1
+g_Mucilaginibacter	ring_height	5	0.5
+g_Mucilaginibacter	ring_height	6	0
+g_Mucilaginibacter	ring_height	7	0
+g_Mucilaginibacter	ring_height	8	0
+g_Mucilaginibacter	ring_height	9	0.5
+g_Mucilaginibacter	ring_height	10	0.1
+g_Mucilaginibacter	ring_height	11	1
+g_Geminocystis	ring_alpha	1	0.352040426259711
+g_Geminocystis	ring_alpha	2	0.35
+g_Geminocystis	ring_height	3	1
+g_Geminocystis	ring_height	4	0.1
+g_Geminocystis	ring_height	5	0.5
+g_Geminocystis	ring_height	6	0.5
+g_Geminocystis	ring_height	7	0
+g_Geminocystis	ring_height	8	0
+g_Geminocystis	ring_height	9	0.5
+g_Geminocystis	ring_height	10	0.1
+g_Geminocystis	ring_height	11	1
+g_Bacillus	ring_alpha	1	0.467162588839956
+g_Bacillus	ring_alpha	2	0.5
+g_Bacillus	ring_height	3	1
+g_Bacillus	ring_height	4	0.1
+g_Bacillus	ring_height	5	0.5
+g_Bacillus	ring_height	6	0
+g_Bacillus	ring_height	7	0.5
+g_Bacillus	ring_height	8	0
+g_Bacillus	ring_height	9	0.5
+g_Bacillus	ring_height	10	0.1
+g_Bacillus	ring_height	11	1
+g_Listeria	ring_alpha	1	0.294470501155435
+g_Listeria	ring_alpha	2	0.05
+g_Listeria	ring_height	3	1
+g_Listeria	ring_height	4	0.1
+g_Listeria	ring_height	5	0.5
+g_Listeria	ring_height	6	0
+g_Listeria	ring_height	7	0
+g_Listeria	ring_height	8	0
+g_Listeria	ring_height	9	0.5
+g_Listeria	ring_height	10	0.1
+g_Listeria	ring_height	11	1
+g_Staphylococcus	ring_alpha	1	0.298498104741585
+g_Staphylococcus	ring_alpha	2	0.25
+g_Staphylococcus	ring_height	3	1
+g_Staphylococcus	ring_height	4	0.1
+g_Staphylococcus	ring_height	5	0.5
+g_Staphylococcus	ring_height	6	0
+g_Staphylococcus	ring_height	7	0.5
+g_Staphylococcus	ring_height	8	0
+g_Staphylococcus	ring_height	9	0.5
+g_Staphylococcus	ring_height	10	0.1
+g_Staphylococcus	ring_height	11	1
+g_Enterococcus	ring_alpha	1	0.44900200320029
+g_Enterococcus	ring_alpha	2	0.35
+g_Enterococcus	ring_height	3	1
+g_Enterococcus	ring_height	4	0.1
+g_Enterococcus	ring_height	5	0.5
+g_Enterococcus	ring_height	6	0
+g_Enterococcus	ring_height	7	0.5
+g_Enterococcus	ring_height	8	0
+g_Enterococcus	ring_height	9	0.5
+g_Enterococcus	ring_height	10	0.1
+g_Enterococcus	ring_height	11	1
+g_Lactobacillus	ring_alpha	1	0.490928581286484
+g_Lactobacillus	ring_alpha	2	0.45
+g_Lactobacillus	ring_height	3	1
+g_Lactobacillus	ring_height	4	0.1
+g_Lactobacillus	ring_height	5	0.5
+g_Lactobacillus	ring_height	6	0
+g_Lactobacillus	ring_height	7	0.5
+g_Lactobacillus	ring_height	8	0
+g_Lactobacillus	ring_height	9	0.5
+g_Lactobacillus	ring_height	10	0.1
+g_Lactobacillus	ring_height	11	1
+g_Lactococcus	ring_alpha	1	0.276396767946046
+g_Lactococcus	ring_alpha	2	0
+g_Lactococcus	ring_height	3	1
+g_Lactococcus	ring_height	4	0.1
+g_Lactococcus	ring_height	5	0.5
+g_Lactococcus	ring_height	6	0
+g_Lactococcus	ring_height	7	0
+g_Lactococcus	ring_height	8	0
+g_Lactococcus	ring_height	9	0.5
+g_Lactococcus	ring_height	10	0.1
+g_Lactococcus	ring_height	11	1
+g_Streptococcus	ring_alpha	1	0.371909761121596
+g_Streptococcus	ring_alpha	2	0.2
+g_Streptococcus	ring_height	3	1
+g_Streptococcus	ring_height	4	0.1
+g_Streptococcus	ring_height	5	0.5
+g_Streptococcus	ring_height	6	0
+g_Streptococcus	ring_height	7	0.5
+g_Streptococcus	ring_height	8	0.5
+g_Streptococcus	ring_height	9	0.5
+g_Streptococcus	ring_height	10	0.1
+g_Streptococcus	ring_height	11	1
+g_Clostridium	ring_alpha	1	0.411863996854397
+g_Clostridium	ring_alpha	2	0.2
+g_Clostridium	ring_height	3	1
+g_Clostridium	ring_height	4	0.1
+g_Clostridium	ring_height	5	0.5
+g_Clostridium	ring_height	6	0
+g_Clostridium	ring_height	7	0
+g_Clostridium	ring_height	8	0.5
+g_Clostridium	ring_height	9	0.5
+g_Clostridium	ring_height	10	0.1
+g_Clostridium	ring_height	11	1
+g_Eubacterium	ring_alpha	1	0.382903300265355
+g_Eubacterium	ring_alpha	2	0
+g_Eubacterium	ring_height	3	1
+g_Eubacterium	ring_height	4	0.1
+g_Eubacterium	ring_height	5	0.5
+g_Eubacterium	ring_height	6	0
+g_Eubacterium	ring_height	7	0
+g_Eubacterium	ring_height	8	0
+g_Eubacterium	ring_height	9	0.5
+g_Eubacterium	ring_height	10	0.1
+g_Eubacterium	ring_height	11	1
+g_Coprococcus	ring_alpha	1	0.323938038213566
+g_Coprococcus	ring_alpha	2	0
+g_Coprococcus	ring_height	3	1
+g_Coprococcus	ring_height	4	0.1
+g_Coprococcus	ring_height	5	0.5
+g_Coprococcus	ring_height	6	0
+g_Coprococcus	ring_height	7	0
+g_Coprococcus	ring_height	8	0
+g_Coprococcus	ring_height	9	0.5
+g_Coprococcus	ring_height	10	0.1
+g_Coprococcus	ring_height	11	1
+g_Dorea	ring_alpha	1	0.395493257359472
+g_Dorea	ring_alpha	2	0.2
+g_Dorea	ring_height	3	1
+g_Dorea	ring_height	4	0.1
+g_Dorea	ring_height	5	0.5
+g_Dorea	ring_height	6	0
+g_Dorea	ring_height	7	0.5
+g_Dorea	ring_height	8	0.5
+g_Dorea	ring_height	9	0.5
+g_Dorea	ring_height	10	0.1
+g_Dorea	ring_height	11	1
+g_Fusicatenibacter	ring_alpha	1	0.291603933336553
+g_Fusicatenibacter	ring_alpha	2	0
+g_Fusicatenibacter	ring_height	3	1
+g_Fusicatenibacter	ring_height	4	0.1
+g_Fusicatenibacter	ring_height	5	0.5
+g_Fusicatenibacter	ring_height	6	0
+g_Fusicatenibacter	ring_height	7	0
+g_Fusicatenibacter	ring_height	8	0
+g_Fusicatenibacter	ring_height	9	0.5
+g_Fusicatenibacter	ring_height	10	0.1
+g_Fusicatenibacter	ring_height	11	1
+g_Roseburia	ring_alpha	1	0.357853558724728
+g_Roseburia	ring_alpha	2	0
+g_Roseburia	ring_height	3	1
+g_Roseburia	ring_height	4	0.1
+g_Roseburia	ring_height	5	0.5
+g_Roseburia	ring_height	6	0
+g_Roseburia	ring_height	7	0
+g_Roseburia	ring_height	8	0
+g_Roseburia	ring_height	9	0.5
+g_Roseburia	ring_height	10	0.1
+g_Roseburia	ring_height	11	1
+g_Romboutsia	ring_alpha	1	0.274654818288346
+g_Romboutsia	ring_alpha	2	0
+g_Romboutsia	ring_height	3	1
+g_Romboutsia	ring_height	4	0.1
+g_Romboutsia	ring_height	5	0.5
+g_Romboutsia	ring_height	6	0
+g_Romboutsia	ring_height	7	0
+g_Romboutsia	ring_height	8	0
+g_Romboutsia	ring_height	9	0.5
+g_Romboutsia	ring_height	10	0.1
+g_Romboutsia	ring_height	11	1
+g_Faecalibacterium	ring_alpha	1	0.331069988153889
+g_Faecalibacterium	ring_alpha	2	0.05
+g_Faecalibacterium	ring_height	3	1
+g_Faecalibacterium	ring_height	4	0.1
+g_Faecalibacterium	ring_height	5	0.5
+g_Faecalibacterium	ring_height	6	0
+g_Faecalibacterium	ring_height	7	0
+g_Faecalibacterium	ring_height	8	0
+g_Faecalibacterium	ring_height	9	0.5
+g_Faecalibacterium	ring_height	10	0.1
+g_Faecalibacterium	ring_height	11	1
+g_Gemmiger	ring_alpha	1	0.308779543411559
+g_Gemmiger	ring_alpha	2	0
+g_Gemmiger	ring_height	3	1
+g_Gemmiger	ring_height	4	0.1
+g_Gemmiger	ring_height	5	0.5
+g_Gemmiger	ring_height	6	0
+g_Gemmiger	ring_height	7	0
+g_Gemmiger	ring_height	8	0
+g_Gemmiger	ring_height	9	0.5
+g_Gemmiger	ring_height	10	0.1
+g_Gemmiger	ring_height	11	1
+g_Ruthenibacterium	ring_alpha	1	0.28812545944627
+g_Ruthenibacterium	ring_alpha	2	0
+g_Ruthenibacterium	ring_height	3	1
+g_Ruthenibacterium	ring_height	4	0.1
+g_Ruthenibacterium	ring_height	5	0.5
+g_Ruthenibacterium	ring_height	6	0
+g_Ruthenibacterium	ring_height	7	0
+g_Ruthenibacterium	ring_height	8	0
+g_Ruthenibacterium	ring_height	9	0.5
+g_Ruthenibacterium	ring_height	10	0.1
+g_Ruthenibacterium	ring_height	11	1
+g_Intestinimonas	ring_alpha	1	0.28518611435803
+g_Intestinimonas	ring_alpha	2	0.05
+g_Intestinimonas	ring_height	3	1
+g_Intestinimonas	ring_height	4	0.1
+g_Intestinimonas	ring_height	5	0.5
+g_Intestinimonas	ring_height	6	0
+g_Intestinimonas	ring_height	7	0.5
+g_Intestinimonas	ring_height	8	0.5
+g_Intestinimonas	ring_height	9	0.5
+g_Intestinimonas	ring_height	10	0.1
+g_Intestinimonas	ring_height	11	1
+g_Hungatella	ring_alpha	1	0.410330798468324
+g_Hungatella	ring_alpha	2	0.15
+g_Hungatella	ring_height	3	1
+g_Hungatella	ring_height	4	0.1
+g_Hungatella	ring_height	5	0.5
+g_Hungatella	ring_height	6	0.5
+g_Hungatella	ring_height	7	0.5
+g_Hungatella	ring_height	8	0
+g_Hungatella	ring_height	9	0.5
+g_Hungatella	ring_height	10	0.1
+g_Hungatella	ring_height	11	1
+g_Pseudoramibacter	ring_alpha	1	0.415734469077687
+g_Pseudoramibacter	ring_alpha	2	0.3
+g_Pseudoramibacter	ring_height	3	1
+g_Pseudoramibacter	ring_height	4	0.1
+g_Pseudoramibacter	ring_height	5	0.5
+g_Pseudoramibacter	ring_height	6	0
+g_Pseudoramibacter	ring_height	7	0.5
+g_Pseudoramibacter	ring_height	8	0
+g_Pseudoramibacter	ring_height	9	0.5
+g_Pseudoramibacter	ring_height	10	0.1
+g_Pseudoramibacter	ring_height	11	1
+g_Mogibacterium	ring_alpha	1	0.378312922023082
+g_Mogibacterium	ring_alpha	2	0.15
+g_Mogibacterium	ring_height	3	1
+g_Mogibacterium	ring_height	4	0.1
+g_Mogibacterium	ring_height	5	0.5
+g_Mogibacterium	ring_height	6	0
+g_Mogibacterium	ring_height	7	0
+g_Mogibacterium	ring_height	8	0.5
+g_Mogibacterium	ring_height	9	0.5
+g_Mogibacterium	ring_height	10	0.1
+g_Mogibacterium	ring_height	11	1
+g_Anaerostipes	ring_alpha	1	0.413847946780354
+g_Anaerostipes	ring_alpha	2	0.2
+g_Anaerostipes	ring_height	3	1
+g_Anaerostipes	ring_height	4	0.1
+g_Anaerostipes	ring_height	5	0.5
+g_Anaerostipes	ring_height	6	0
+g_Anaerostipes	ring_height	7	0.5
+g_Anaerostipes	ring_height	8	0.5
+g_Anaerostipes	ring_height	9	0.5
+g_Anaerostipes	ring_height	10	0.1
+g_Anaerostipes	ring_height	11	1
+g_Enterocloster	ring_alpha	1	0.409651782357859
+g_Enterocloster	ring_alpha	2	0.15
+g_Enterocloster	ring_height	3	1
+g_Enterocloster	ring_height	4	0.1
+g_Enterocloster	ring_height	5	0.5
+g_Enterocloster	ring_height	6	0.5
+g_Enterocloster	ring_height	7	0.5
+g_Enterocloster	ring_height	8	0
+g_Enterocloster	ring_height	9	0.5
+g_Enterocloster	ring_height	10	0.1
+g_Enterocloster	ring_height	11	1
+g_Lachnoclostridium	ring_alpha	1	0.456470476816254
+g_Lachnoclostridium	ring_alpha	2	0.15
+g_Lachnoclostridium	ring_height	3	1
+g_Lachnoclostridium	ring_height	4	0.1
+g_Lachnoclostridium	ring_height	5	0.5
+g_Lachnoclostridium	ring_height	6	0
+g_Lachnoclostridium	ring_height	7	0.5
+g_Lachnoclostridium	ring_height	8	0
+g_Lachnoclostridium	ring_height	9	0.5
+g_Lachnoclostridium	ring_height	10	0.1
+g_Lachnoclostridium	ring_height	11	1
+g_Flavonifractor	ring_alpha	1	0.367505156448633
+g_Flavonifractor	ring_alpha	2	0.1
+g_Flavonifractor	ring_height	3	1
+g_Flavonifractor	ring_height	4	0.1
+g_Flavonifractor	ring_height	5	0.5
+g_Flavonifractor	ring_height	6	0
+g_Flavonifractor	ring_height	7	0.5
+g_Flavonifractor	ring_height	8	0.5
+g_Flavonifractor	ring_height	9	0.5
+g_Flavonifractor	ring_height	10	0.1
+g_Flavonifractor	ring_height	11	1
+g_Erysipelatoclostridium	ring_alpha	1	0.170338300383092
+g_Erysipelatoclostridium	ring_alpha	2	0.05
+g_Erysipelatoclostridium	ring_height	3	1
+g_Erysipelatoclostridium	ring_height	4	0.1
+g_Erysipelatoclostridium	ring_height	5	0.5
+g_Erysipelatoclostridium	ring_height	6	0
+g_Erysipelatoclostridium	ring_height	7	0
+g_Erysipelatoclostridium	ring_height	8	0
+g_Erysipelatoclostridium	ring_height	9	0.5
+g_Erysipelatoclostridium	ring_height	10	0.1
+g_Erysipelatoclostridium	ring_height	11	1
+g_Anaeroglobus	ring_alpha	1	0.383711701437245
+g_Anaeroglobus	ring_alpha	2	0.15
+g_Anaeroglobus	ring_height	3	1
+g_Anaeroglobus	ring_height	4	0.1
+g_Anaeroglobus	ring_height	5	0.5
+g_Anaeroglobus	ring_height	6	0
+g_Anaeroglobus	ring_height	7	0.5
+g_Anaeroglobus	ring_height	8	0
+g_Anaeroglobus	ring_height	9	0.5
+g_Anaeroglobus	ring_height	10	0.1
+g_Anaeroglobus	ring_height	11	1
+g_Megasphaera	ring_alpha	1	0.350458327116651
+g_Megasphaera	ring_alpha	2	0.1
+g_Megasphaera	ring_height	3	1
+g_Megasphaera	ring_height	4	0.1
+g_Megasphaera	ring_height	5	0.5
+g_Megasphaera	ring_height	6	0
+g_Megasphaera	ring_height	7	0.5
+g_Megasphaera	ring_height	8	0.5
+g_Megasphaera	ring_height	9	0.5
+g_Megasphaera	ring_height	10	0.1
+g_Megasphaera	ring_height	11	1
+g_Sneathia	ring_alpha	1	0.313736670156587
+g_Sneathia	ring_alpha	2	0.2
+g_Sneathia	ring_height	3	1
+g_Sneathia	ring_height	4	0.1
+g_Sneathia	ring_height	5	0.5
+g_Sneathia	ring_height	6	0
+g_Sneathia	ring_height	7	0.5
+g_Sneathia	ring_height	8	0
+g_Sneathia	ring_height	9	0.5
+g_Sneathia	ring_height	10	0.1
+g_Sneathia	ring_height	11	1
+g_Caulobacter	ring_alpha	1	0.395607552669691
+g_Caulobacter	ring_alpha	2	0.1
+g_Caulobacter	ring_height	3	1
+g_Caulobacter	ring_height	4	0.1
+g_Caulobacter	ring_height	5	0.5
+g_Caulobacter	ring_height	6	0.5
+g_Caulobacter	ring_height	7	0.5
+g_Caulobacter	ring_height	8	0
+g_Caulobacter	ring_height	9	0.5
+g_Caulobacter	ring_height	10	0.1
+g_Caulobacter	ring_height	11	1
+g_Bilophila	ring_alpha	1	0.304988526044843
+g_Bilophila	ring_alpha	2	0
+g_Bilophila	ring_height	3	1
+g_Bilophila	ring_height	4	0.1
+g_Bilophila	ring_height	5	0.5
+g_Bilophila	ring_height	6	0
+g_Bilophila	ring_height	7	0
+g_Bilophila	ring_height	8	0
+g_Bilophila	ring_height	9	0.5
+g_Bilophila	ring_height	10	0.1
+g_Bilophila	ring_height	11	1
+g_Desulfovibrio	ring_alpha	1	0.310557857504585
+g_Desulfovibrio	ring_alpha	2	0
+g_Desulfovibrio	ring_height	3	1
+g_Desulfovibrio	ring_height	4	0.1
+g_Desulfovibrio	ring_height	5	0.5
+g_Desulfovibrio	ring_height	6	0
+g_Desulfovibrio	ring_height	7	0
+g_Desulfovibrio	ring_height	8	0
+g_Desulfovibrio	ring_height	9	0.5
+g_Desulfovibrio	ring_height	10	0.1
+g_Desulfovibrio	ring_height	11	1
+g_Escherichia	ring_alpha	1	0.5
+g_Escherichia	ring_alpha	2	0
+g_Escherichia	ring_height	3	1
+g_Escherichia	ring_height	4	0.1
+g_Escherichia	ring_height	5	0.5
+g_Escherichia	ring_height	6	0
+g_Escherichia	ring_height	7	0
+g_Escherichia	ring_height	8	0
+g_Escherichia	ring_height	9	0.5
+g_Escherichia	ring_height	10	0.1
+g_Escherichia	ring_height	11	1
+g_Salmonella	ring_alpha	1	0.301414065706489
+g_Salmonella	ring_alpha	2	0
+g_Salmonella	ring_height	3	1
+g_Salmonella	ring_height	4	0.1
+g_Salmonella	ring_height	5	0.5
+g_Salmonella	ring_height	6	0
+g_Salmonella	ring_height	7	0
+g_Salmonella	ring_height	8	0
+g_Salmonella	ring_height	9	0.5
+g_Salmonella	ring_height	10	0.1
+g_Salmonella	ring_height	11	1
+g_Pseudomonas	ring_alpha	1	0.312748506882671
+g_Pseudomonas	ring_alpha	2	0
+g_Pseudomonas	ring_height	3	1
+g_Pseudomonas	ring_height	4	0.1
+g_Pseudomonas	ring_height	5	0.5
+g_Pseudomonas	ring_height	6	0
+g_Pseudomonas	ring_height	7	0
+g_Pseudomonas	ring_height	8	0
+g_Pseudomonas	ring_height	9	0.5
+g_Pseudomonas	ring_height	10	0.1
+g_Pseudomonas	ring_height	11	1
+g_Rhodanobacter	ring_alpha	1	0.283332716977274
+g_Rhodanobacter	ring_alpha	2	0
+g_Rhodanobacter	ring_height	3	1
+g_Rhodanobacter	ring_height	4	0.1
+g_Rhodanobacter	ring_height	5	0.5
+g_Rhodanobacter	ring_height	6	0
+g_Rhodanobacter	ring_height	7	0
+g_Rhodanobacter	ring_height	8	0
+g_Rhodanobacter	ring_height	9	0.5
+g_Rhodanobacter	ring_height	10	0.1
+g_Rhodanobacter	ring_height	11	1
+g_Ureaplasma	ring_alpha	1	0.330176070188125
+g_Ureaplasma	ring_alpha	2	0.1
+g_Ureaplasma	ring_height	3	1
+g_Ureaplasma	ring_height	4	0.1
+g_Ureaplasma	ring_height	5	0.5
+g_Ureaplasma	ring_height	6	0
+g_Ureaplasma	ring_height	7	0.5
+g_Ureaplasma	ring_height	8	0.5
+g_Ureaplasma	ring_height	9	0.5
+g_Ureaplasma	ring_height	10	0.1
+g_Ureaplasma	ring_height	11	1
+g_Lacunisphaera	ring_alpha	1	0.28010595040722
+g_Lacunisphaera	ring_alpha	2	0
+g_Lacunisphaera	ring_height	3	1
+g_Lacunisphaera	ring_height	4	0.1
+g_Lacunisphaera	ring_height	5	0.5
+g_Lacunisphaera	ring_height	6	0
+g_Lacunisphaera	ring_height	7	0
+g_Lacunisphaera	ring_height	8	0
+g_Lacunisphaera	ring_height	9	0.5
+g_Lacunisphaera	ring_height	10	0.1
+g_Lacunisphaera	ring_height	11	1
+g_Akkermansia	ring_alpha	1	0.303360344372791
+g_Akkermansia	ring_alpha	2	0
+g_Akkermansia	ring_height	3	1
+g_Akkermansia	ring_height	4	0.1
+g_Akkermansia	ring_height	5	0.5
+g_Akkermansia	ring_height	6	0
+g_Akkermansia	ring_height	7	0.5
+g_Akkermansia	ring_height	8	0.5
+g_Akkermansia	ring_height	9	0.5
+g_Akkermansia	ring_height	10	0.1
+g_Akkermansia	ring_height	11	1
+g_Streptococcus	ring_height	12	0.5
+g_Streptococcus	ring_alpha	12	1
+g_Eubacterium	ring_height	12	0.5
+g_Eubacterium	ring_alpha	12	1
+g_Bacillus	ring_height	12	0.5
+g_Bacillus	ring_alpha	12	1
+g_Lactobacillus	ring_height	12	0.5
+g_Lactobacillus	ring_alpha	12	1
+g_Clostridium	ring_height	12	0.5
+g_Clostridium	ring_alpha	12	0.666666666666667
+g_Ureaplasma	ring_height	12	0.5
+g_Ureaplasma	ring_alpha	12	1
+g_Enterococcus	ring_height	12	0.5
+g_Enterococcus	ring_alpha	12	0.666666666666667
+g_Lactococcus	ring_height	12	0.5
+g_Lactococcus	ring_alpha	12	1
+g_Desulfovibrio	ring_height	12	0.5
+g_Desulfovibrio	ring_alpha	12	0
+g_Atopobium	ring_height	12	0.5
+g_Atopobium	ring_alpha	12	1
+g_Staphylococcus	ring_height	12	0.5
+g_Staphylococcus	ring_alpha	12	1
+g_Listeria	ring_height	12	0.5
+g_Listeria	ring_alpha	12	1
+g_Megasphaera	ring_height	12	0.5
+g_Megasphaera	ring_alpha	12	0
+g_Geminocystis	ring_height	12	0.5
+g_Geminocystis	ring_alpha	12	1
+g_Caulobacter	ring_height	12	0.5
+g_Caulobacter	ring_alpha	12	1
+g_Anaeroglobus	ring_height	12	0.5
+g_Anaeroglobus	ring_alpha	12	1
+g_Dorea	ring_height	12	0.5
+g_Dorea	ring_alpha	12	1
+g_Faecalibacterium	ring_height	12	0.5
+g_Faecalibacterium	ring_alpha	12	1
+g_Anaerostipes	ring_height	12	0.5
+g_Anaerostipes	ring_alpha	12	1
+g_Mogibacterium	ring_height	12	0.5
+g_Mogibacterium	ring_alpha	12	0
+g_Microbacterium	ring_height	12	0.5
+g_Microbacterium	ring_alpha	12	0
+g_Gardnerella	ring_height	12	0.5
+g_Gardnerella	ring_alpha	12	1
+g_Coprococcus	ring_height	12	0.5
+g_Coprococcus	ring_alpha	12	0
+g_Pseudoramibacter	ring_height	12	0.5
+g_Pseudoramibacter	ring_alpha	12	1
+g_Intestinimonas	ring_height	12	0.5
+g_Intestinimonas	ring_alpha	12	1
+g_Erysipelatoclostridium	ring_height	12	0.5
+g_Erysipelatoclostridium	ring_alpha	12	0
+g_Collinsella	ring_height	12	0.5
+g_Collinsella	ring_alpha	12	0
+g_Roseburia	ring_height	12	0.5
+g_Roseburia	ring_alpha	12	1
+g_Pseudomonas	ring_height	12	0.5
+g_Pseudomonas	ring_alpha	12	0
+g_Bacteroides	ring_height	12	0.5
+g_Bacteroides	ring_alpha	12	0
+g_Lachnoclostridium	ring_height	12	0.5
+g_Lachnoclostridium	ring_alpha	12	0
+g_Bilophila	ring_height	12	0.5
+g_Bilophila	ring_alpha	12	1
+g_Streptococcus	ring_height	13	0.5
+g_Streptococcus	ring_alpha	13	1
+g_Eubacterium	ring_height	13	0.5
+g_Eubacterium	ring_alpha	13	1
+g_Prevotella	ring_height	13	0.5
+g_Prevotella	ring_alpha	13	1
+g_Pseudomonas	ring_height	13	0.5
+g_Pseudomonas	ring_alpha	13	0.666666666666667
+g_Lactobacillus	ring_height	13	0.5
+g_Lactobacillus	ring_alpha	13	1
+g_Rhodanobacter	ring_height	13	0.5
+g_Rhodanobacter	ring_alpha	13	1
+g_Flavobacterium	ring_height	13	0.5
+g_Flavobacterium	ring_alpha	13	0.5
+g_Clostridium	ring_height	13	0.5
+g_Clostridium	ring_alpha	13	0.666666666666667
+g_Escherichia	ring_height	13	0.5
+g_Escherichia	ring_alpha	13	1
+g_Salmonella	ring_height	13	0.5
+g_Salmonella	ring_alpha	13	1
+g_Bacillus	ring_height	13	0.5
+g_Bacillus	ring_alpha	13	1
+g_Ureaplasma	ring_height	13	0.5
+g_Ureaplasma	ring_alpha	13	1
+g_Enterococcus	ring_height	13	0.5
+g_Enterococcus	ring_alpha	13	0.666666666666667
+g_Faecalibacterium	ring_height	13	0.5
+g_Faecalibacterium	ring_alpha	13	1
+g_Parabacteroides	ring_height	13	0.5
+g_Parabacteroides	ring_alpha	13	0.75
+g_Bacteroides	ring_height	13	0.5
+g_Bacteroides	ring_alpha	13	0.933333333333333
+g_Lactococcus	ring_height	13	0.5
+g_Lactococcus	ring_alpha	13	1
+g_Desulfovibrio	ring_height	13	0.5
+g_Desulfovibrio	ring_alpha	13	0
+g_Staphylococcus	ring_height	13	0.5
+g_Staphylococcus	ring_alpha	13	1
+g_Atopobium	ring_height	13	0.5
+g_Atopobium	ring_alpha	13	1
+g_Listeria	ring_height	13	0.5
+g_Listeria	ring_alpha	13	1
+g_Megasphaera	ring_height	13	0.5
+g_Megasphaera	ring_alpha	13	0
+g_Alistipes	ring_height	13	0.5
+g_Alistipes	ring_alpha	13	0.6
+g_Bilophila	ring_height	13	0.5
+g_Bilophila	ring_alpha	13	1
+g_Dorea	ring_height	13	0.5
+g_Dorea	ring_alpha	13	1
+g_Coprococcus	ring_height	13	0.5
+g_Coprococcus	ring_alpha	13	0
+g_Anaerostipes	ring_height	13	0.5
+g_Anaerostipes	ring_alpha	13	1
+g_Mucilaginibacter	ring_height	13	0.5
+g_Mucilaginibacter	ring_alpha	13	0
+g_Pseudoramibacter	ring_height	13	0.5
+g_Pseudoramibacter	ring_alpha	13	1
+g_Microbacterium	ring_height	13	0.5
+g_Microbacterium	ring_alpha	13	0
+g_Intestinimonas	ring_height	13	0.5
+g_Intestinimonas	ring_alpha	13	1
+g_Erysipelatoclostridium	ring_height	13	0.5
+g_Erysipelatoclostridium	ring_alpha	13	0
+g_Collinsella	ring_height	13	0.5
+g_Collinsella	ring_alpha	13	0
+g_Roseburia	ring_height	13	0.5
+g_Roseburia	ring_alpha	13	1
+g_Odoribacter	ring_height	13	0.5
+g_Odoribacter	ring_alpha	13	1
+g_Lachnoclostridium	ring_height	13	0.5
+g_Lachnoclostridium	ring_alpha	13	0
+g_Coprobacter	ring_height	13	0.5
+g_Coprobacter	ring_alpha	13	1
+g_Mogibacterium	ring_height	13	0.5
+g_Mogibacterium	ring_alpha	13	0
+g_Caulobacter	ring_height	13	0.5
+g_Caulobacter	ring_alpha	13	0
+g_Anaeroglobus	ring_height	13	0.5
+g_Anaeroglobus	ring_alpha	13	1
+g_Bacteroides	ring_height	14	0.5
+g_Bacteroides	ring_alpha	14	0.933333333333333
+g_Eubacterium	ring_height	14	0.5
+g_Eubacterium	ring_alpha	14	1
+g_Pseudomonas	ring_height	14	0.5
+g_Pseudomonas	ring_alpha	14	1
+g_Clostridium	ring_height	14	0.5
+g_Clostridium	ring_alpha	14	0.666666666666667
+g_Desulfovibrio	ring_height	14	0.5
+g_Desulfovibrio	ring_alpha	14	0
+g_Megasphaera	ring_height	14	0.5
+g_Megasphaera	ring_alpha	14	0
+g_Rhodanobacter	ring_height	14	0.5
+g_Rhodanobacter	ring_alpha	14	1
+g_Flavobacterium	ring_height	14	0.5
+g_Flavobacterium	ring_alpha	14	0.5
+g_Escherichia	ring_height	14	0.5
+g_Escherichia	ring_alpha	14	1
+g_Bacillus	ring_height	14	0.5
+g_Bacillus	ring_alpha	14	0
+g_Prevotella	ring_height	14	0.5
+g_Prevotella	ring_alpha	14	1
+g_Salmonella	ring_height	14	0.5
+g_Salmonella	ring_alpha	14	1
+g_Parabacteroides	ring_height	14	0.5
+g_Parabacteroides	ring_alpha	14	0.75
+g_Listeria	ring_height	14	0.5
+g_Listeria	ring_alpha	14	1
+g_Geminocystis	ring_height	14	0.5
+g_Geminocystis	ring_alpha	14	1
+g_Microbacterium	ring_height	14	0.5
+g_Microbacterium	ring_alpha	14	0
+g_Caulobacter	ring_height	14	0.5
+g_Caulobacter	ring_alpha	14	1
+g_Anaeroglobus	ring_height	14	0.5
+g_Anaeroglobus	ring_alpha	14	1
+g_Alistipes	ring_height	14	0.5
+g_Alistipes	ring_alpha	14	0.6
+g_Coprococcus	ring_height	14	0.5
+g_Coprococcus	ring_alpha	14	0
+g_Anaerostipes	ring_height	14	0.5
+g_Anaerostipes	ring_alpha	14	1
+g_Mucilaginibacter	ring_height	14	0.5
+g_Mucilaginibacter	ring_alpha	14	0
+g_Gardnerella	ring_height	14	0.5
+g_Gardnerella	ring_alpha	14	1
+g_Roseburia	ring_height	14	0.5
+g_Roseburia	ring_alpha	14	1
+g_Bilophila	ring_height	14	0.5
+g_Bilophila	ring_alpha	14	1
+g_Coprobacter	ring_height	14	0.5
+g_Coprobacter	ring_alpha	14	1
+g_Odoribacter	ring_height	14	0.5
+g_Odoribacter	ring_alpha	14	1
+g_Lachnoclostridium	ring_height	14	0.5
+g_Lachnoclostridium	ring_alpha	14	0
+g_Akkermansia	ring_height	14	0.5
+g_Akkermansia	ring_alpha	14	1
+g_Gardnerella	ring_height	15	1
+g_Gardnerella	ring_height	16	0.1
+g_Gardnerella	ring_height	19	1
+g_Gardnerella	ring_alpha	20	0
+g_Gardnerella	ring_alpha	21	0
+g_Gardnerella	ring_alpha	22	0
+g_Gardnerella	ring_alpha	23	0
+g_Gardnerella	ring_alpha	24	0
+g_Microbacterium	ring_height	15	1
+g_Microbacterium	ring_height	16	0.1
+g_Microbacterium	ring_height	19	1
+g_Microbacterium	ring_alpha	20	0
+g_Microbacterium	ring_alpha	21	0
+g_Microbacterium	ring_alpha	22	0
+g_Microbacterium	ring_alpha	23	0
+g_Microbacterium	ring_alpha	24	0
+g_Atopobium	ring_height	15	1
+g_Atopobium	ring_height	16	0.1
+g_Atopobium	ring_height	19	1
+g_Atopobium	ring_alpha	20	0
+g_Atopobium	ring_alpha	21	0
+g_Atopobium	ring_alpha	22	0
+g_Atopobium	ring_alpha	23	0
+g_Atopobium	ring_alpha	24	0
+g_Collinsella	ring_height	15	1
+g_Collinsella	ring_height	16	0.1
+g_Collinsella	ring_height	19	1
+g_Collinsella	ring_alpha	20	0
+g_Collinsella	ring_alpha	21	0
+g_Collinsella	ring_alpha	22	0
+g_Collinsella	ring_alpha	23	0
+g_Collinsella	ring_alpha	24	0
+g_Bacteroides	ring_height	15	1
+g_Bacteroides	ring_height	16	0.1
+g_Bacteroides	ring_height	19	1
+g_Bacteroides	ring_alpha	20	0
+g_Bacteroides	ring_alpha	21	0
+g_Bacteroides	ring_alpha	22	0
+g_Bacteroides	ring_alpha	23	0
+g_Bacteroides	ring_alpha	24	0
+g_Coprobacter	ring_height	15	1
+g_Coprobacter	ring_height	16	0.1
+g_Coprobacter	ring_height	19	1
+g_Coprobacter	ring_alpha	20	0
+g_Coprobacter	ring_alpha	21	0
+g_Coprobacter	ring_alpha	22	0
+g_Coprobacter	ring_alpha	23	0
+g_Coprobacter	ring_alpha	24	0
+g_Mediterranea	ring_height	15	1
+g_Mediterranea	ring_height	16	0.1
+g_Mediterranea	ring_height	19	1
+g_Mediterranea	ring_alpha	20	0
+g_Mediterranea	ring_alpha	21	0
+g_Mediterranea	ring_alpha	22	0
+g_Mediterranea	ring_alpha	23	0
+g_Mediterranea	ring_alpha	24	0
+g_Culturomica	ring_height	15	1
+g_Culturomica	ring_height	16	0.1
+g_Culturomica	ring_height	19	1
+g_Culturomica	ring_alpha	20	0
+g_Culturomica	ring_alpha	21	0
+g_Culturomica	ring_alpha	22	0
+g_Culturomica	ring_alpha	23	0
+g_Culturomica	ring_alpha	24	0
+g_Odoribacter	ring_height	15	1
+g_Odoribacter	ring_height	16	0.1
+g_Odoribacter	ring_height	19	1
+g_Odoribacter	ring_alpha	20	0
+g_Odoribacter	ring_alpha	21	0
+g_Odoribacter	ring_alpha	22	0
+g_Odoribacter	ring_alpha	23	0
+g_Odoribacter	ring_alpha	24	0
+g_Prevotella	ring_height	15	1
+g_Prevotella	ring_height	16	0.1
+g_Prevotella	ring_height	19	1
+g_Prevotella	ring_alpha	20	0
+g_Prevotella	ring_alpha	21	0
+g_Prevotella	ring_alpha	22	0
+g_Prevotella	ring_alpha	23	0
+g_Prevotella	ring_alpha	24	0
+g_Alistipes	ring_height	15	1
+g_Alistipes	ring_height	16	0.1
+g_Alistipes	ring_height	19	1
+g_Alistipes	ring_alpha	20	0
+g_Alistipes	ring_alpha	21	0
+g_Alistipes	ring_alpha	22	0
+g_Alistipes	ring_alpha	23	0
+g_Alistipes	ring_alpha	24	0
+g_Parabacteroides	ring_height	15	1
+g_Parabacteroides	ring_height	16	0.1
+g_Parabacteroides	ring_height	19	1
+g_Parabacteroides	ring_alpha	20	0
+g_Parabacteroides	ring_alpha	21	0
+g_Parabacteroides	ring_alpha	22	0
+g_Parabacteroides	ring_alpha	23	0
+g_Parabacteroides	ring_alpha	24	0
+g_Flavobacterium	ring_height	15	1
+g_Flavobacterium	ring_height	16	0.1
+g_Flavobacterium	ring_height	19	1
+g_Flavobacterium	ring_alpha	20	0
+g_Flavobacterium	ring_alpha	21	0
+g_Flavobacterium	ring_alpha	22	0
+g_Flavobacterium	ring_alpha	23	0
+g_Flavobacterium	ring_alpha	24	0
+g_Mucilaginibacter	ring_height	15	1
+g_Mucilaginibacter	ring_height	16	0.1
+g_Mucilaginibacter	ring_height	19	1
+g_Mucilaginibacter	ring_alpha	20	0
+g_Mucilaginibacter	ring_alpha	21	0
+g_Mucilaginibacter	ring_alpha	22	0
+g_Mucilaginibacter	ring_alpha	23	0
+g_Mucilaginibacter	ring_alpha	24	0
+g_Geminocystis	ring_height	15	1
+g_Geminocystis	ring_height	16	0.1
+g_Geminocystis	ring_height	19	1
+g_Geminocystis	ring_alpha	20	0
+g_Geminocystis	ring_alpha	21	0
+g_Geminocystis	ring_alpha	22	0
+g_Geminocystis	ring_alpha	23	0
+g_Geminocystis	ring_alpha	24	0
+g_Bacillus	ring_height	15	1
+g_Bacillus	ring_height	16	0.1
+g_Bacillus	ring_height	19	1
+g_Bacillus	ring_alpha	20	0.078566544
+g_Bacillus	ring_alpha	21	0.5
+g_Bacillus	ring_alpha	22	0.0958294925
+g_Bacillus	ring_alpha	23	0.108762918
+g_Bacillus	ring_alpha	24	0.1260772045
+g_Listeria	ring_height	15	1
+g_Listeria	ring_height	16	0.1
+g_Listeria	ring_height	19	1
+g_Listeria	ring_alpha	20	0
+g_Listeria	ring_alpha	21	0
+g_Listeria	ring_alpha	22	0
+g_Listeria	ring_alpha	23	0
+g_Listeria	ring_alpha	24	0
+g_Staphylococcus	ring_height	15	1
+g_Staphylococcus	ring_height	16	0.1
+g_Staphylococcus	ring_height	19	1
+g_Staphylococcus	ring_alpha	20	0
+g_Staphylococcus	ring_alpha	21	0
+g_Staphylococcus	ring_alpha	22	0
+g_Staphylococcus	ring_alpha	23	0
+g_Staphylococcus	ring_alpha	24	0
+g_Enterococcus	ring_height	15	1
+g_Enterococcus	ring_height	16	0.1
+g_Enterococcus	ring_height	19	1
+g_Enterococcus	ring_alpha	20	0.086885547
+g_Enterococcus	ring_alpha	21	0.2886543605
+g_Enterococcus	ring_alpha	22	0.0355895545
+g_Enterococcus	ring_alpha	23	0.061349101
+g_Enterococcus	ring_alpha	24	0.150126006
+g_Lactobacillus	ring_height	15	1
+g_Lactobacillus	ring_height	16	0.1
+g_Lactobacillus	ring_height	19	1
+g_Lactobacillus	ring_alpha	20	0.0583608585
+g_Lactobacillus	ring_alpha	21	0.4986229205
+g_Lactobacillus	ring_alpha	22	0.0620343625
+g_Lactobacillus	ring_alpha	23	0.074559834
+g_Lactobacillus	ring_alpha	24	0.1140017975
+g_Lactococcus	ring_height	15	1
+g_Lactococcus	ring_height	16	0.1
+g_Lactococcus	ring_height	19	1
+g_Lactococcus	ring_alpha	20	0
+g_Lactococcus	ring_alpha	21	0
+g_Lactococcus	ring_alpha	22	0
+g_Lactococcus	ring_alpha	23	0
+g_Lactococcus	ring_alpha	24	0
+g_Streptococcus	ring_height	15	1
+g_Streptococcus	ring_height	16	0.1
+g_Streptococcus	ring_height	19	1
+g_Streptococcus	ring_alpha	20	0
+g_Streptococcus	ring_alpha	21	0
+g_Streptococcus	ring_alpha	22	0
+g_Streptococcus	ring_alpha	23	0
+g_Streptococcus	ring_alpha	24	0
+g_Clostridium	ring_height	15	1
+g_Clostridium	ring_height	16	0.1
+g_Clostridium	ring_height	19	1
+g_Clostridium	ring_alpha	20	0.091834877
+g_Clostridium	ring_alpha	21	0.2240112045
+g_Clostridium	ring_alpha	22	0.047212278
+g_Clostridium	ring_alpha	23	0.322519217
+g_Clostridium	ring_alpha	24	0.202908098
+g_Eubacterium	ring_height	15	1
+g_Eubacterium	ring_height	16	0.1
+g_Eubacterium	ring_height	19	1
+g_Eubacterium	ring_alpha	20	0
+g_Eubacterium	ring_alpha	21	0
+g_Eubacterium	ring_alpha	22	0
+g_Eubacterium	ring_alpha	23	0
+g_Eubacterium	ring_alpha	24	0
+g_Coprococcus	ring_height	15	1
+g_Coprococcus	ring_height	16	0.1
+g_Coprococcus	ring_height	19	1
+g_Coprococcus	ring_alpha	20	0
+g_Coprococcus	ring_alpha	21	0
+g_Coprococcus	ring_alpha	22	0
+g_Coprococcus	ring_alpha	23	0
+g_Coprococcus	ring_alpha	24	0
+g_Dorea	ring_height	15	1
+g_Dorea	ring_height	16	0.1
+g_Dorea	ring_height	19	1
+g_Dorea	ring_alpha	20	0
+g_Dorea	ring_alpha	21	0
+g_Dorea	ring_alpha	22	0
+g_Dorea	ring_alpha	23	0
+g_Dorea	ring_alpha	24	0
+g_Fusicatenibacter	ring_height	15	1
+g_Fusicatenibacter	ring_height	16	0.1
+g_Fusicatenibacter	ring_height	19	1
+g_Fusicatenibacter	ring_alpha	20	0
+g_Fusicatenibacter	ring_alpha	21	0
+g_Fusicatenibacter	ring_alpha	22	0
+g_Fusicatenibacter	ring_alpha	23	0
+g_Fusicatenibacter	ring_alpha	24	0
+g_Roseburia	ring_height	15	1
+g_Roseburia	ring_height	16	0.1
+g_Roseburia	ring_height	19	1
+g_Roseburia	ring_alpha	20	0
+g_Roseburia	ring_alpha	21	0
+g_Roseburia	ring_alpha	22	0
+g_Roseburia	ring_alpha	23	0
+g_Roseburia	ring_alpha	24	0
+g_Romboutsia	ring_height	15	1
+g_Romboutsia	ring_height	16	0.1
+g_Romboutsia	ring_height	19	1
+g_Romboutsia	ring_alpha	20	0
+g_Romboutsia	ring_alpha	21	0
+g_Romboutsia	ring_alpha	22	0
+g_Romboutsia	ring_alpha	23	0
+g_Romboutsia	ring_alpha	24	0
+g_Faecalibacterium	ring_height	15	1
+g_Faecalibacterium	ring_height	16	0.1
+g_Faecalibacterium	ring_height	19	1
+g_Faecalibacterium	ring_alpha	20	0
+g_Faecalibacterium	ring_alpha	21	0
+g_Faecalibacterium	ring_alpha	22	0
+g_Faecalibacterium	ring_alpha	23	0
+g_Faecalibacterium	ring_alpha	24	0
+g_Gemmiger	ring_height	15	1
+g_Gemmiger	ring_height	16	0.1
+g_Gemmiger	ring_height	19	1
+g_Gemmiger	ring_alpha	20	0
+g_Gemmiger	ring_alpha	21	0
+g_Gemmiger	ring_alpha	22	0
+g_Gemmiger	ring_alpha	23	0
+g_Gemmiger	ring_alpha	24	0
+g_Ruthenibacterium	ring_height	15	1
+g_Ruthenibacterium	ring_height	16	0.1
+g_Ruthenibacterium	ring_height	19	1
+g_Ruthenibacterium	ring_alpha	20	0
+g_Ruthenibacterium	ring_alpha	21	0
+g_Ruthenibacterium	ring_alpha	22	0
+g_Ruthenibacterium	ring_alpha	23	0
+g_Ruthenibacterium	ring_alpha	24	0
+g_Intestinimonas	ring_height	15	1
+g_Intestinimonas	ring_height	16	0.1
+g_Intestinimonas	ring_height	19	1
+g_Intestinimonas	ring_alpha	20	0
+g_Intestinimonas	ring_alpha	21	0
+g_Intestinimonas	ring_alpha	22	0
+g_Intestinimonas	ring_alpha	23	0
+g_Intestinimonas	ring_alpha	24	0
+g_Hungatella	ring_height	15	1
+g_Hungatella	ring_height	16	0.1
+g_Hungatella	ring_height	19	1
+g_Hungatella	ring_alpha	20	0.0248365945
+g_Hungatella	ring_alpha	21	0.150691537
+g_Hungatella	ring_alpha	22	0.06365167
+g_Hungatella	ring_alpha	23	0.3223348265
+g_Hungatella	ring_alpha	24	0.1631258035
+g_Pseudoramibacter	ring_height	15	1
+g_Pseudoramibacter	ring_height	16	0.1
+g_Pseudoramibacter	ring_height	19	1
+g_Pseudoramibacter	ring_alpha	20	0.0175416185
+g_Pseudoramibacter	ring_alpha	21	0.325154043
+g_Pseudoramibacter	ring_alpha	22	0.1525008695
+g_Pseudoramibacter	ring_alpha	23	0.0339930245
+g_Pseudoramibacter	ring_alpha	24	0.1908297585
+g_Mogibacterium	ring_height	15	1
+g_Mogibacterium	ring_height	16	0.1
+g_Mogibacterium	ring_height	19	1
+g_Mogibacterium	ring_alpha	20	0
+g_Mogibacterium	ring_alpha	21	0
+g_Mogibacterium	ring_alpha	22	0
+g_Mogibacterium	ring_alpha	23	0
+g_Mogibacterium	ring_alpha	24	0
+g_Anaerostipes	ring_height	15	1
+g_Anaerostipes	ring_height	16	0.1
+g_Anaerostipes	ring_height	19	1
+g_Anaerostipes	ring_alpha	20	0.088978289
+g_Anaerostipes	ring_alpha	21	0.190823209
+g_Anaerostipes	ring_alpha	22	0.1640470795
+g_Anaerostipes	ring_alpha	23	0.445706458
+g_Anaerostipes	ring_alpha	24	0.1792839725
+g_Enterocloster	ring_height	15	1
+g_Enterocloster	ring_height	16	0.1
+g_Enterocloster	ring_height	19	1
+g_Enterocloster	ring_alpha	20	0.0913198135
+g_Enterocloster	ring_alpha	21	0.186569985
+g_Enterocloster	ring_alpha	22	0.1302754225
+g_Enterocloster	ring_alpha	23	0.46798576
+g_Enterocloster	ring_alpha	24	0.1429374215
+g_Lachnoclostridium	ring_height	15	1
+g_Lachnoclostridium	ring_height	16	0.1
+g_Lachnoclostridium	ring_height	19	1
+g_Lachnoclostridium	ring_alpha	20	0.107982364
+g_Lachnoclostridium	ring_alpha	21	0.1180825655
+g_Lachnoclostridium	ring_alpha	22	0.0558495195
+g_Lachnoclostridium	ring_alpha	23	0.444741642
+g_Lachnoclostridium	ring_alpha	24	0.1386436905
+g_Flavonifractor	ring_height	15	1
+g_Flavonifractor	ring_height	16	0.1
+g_Flavonifractor	ring_height	19	1
+g_Flavonifractor	ring_alpha	20	0.1933342785
+g_Flavonifractor	ring_alpha	21	0.1614397775
+g_Flavonifractor	ring_alpha	22	0.1098951035
+g_Flavonifractor	ring_alpha	23	0.462709509
+g_Flavonifractor	ring_alpha	24	0.087381338
+g_Erysipelatoclostridium	ring_height	15	1
+g_Erysipelatoclostridium	ring_height	16	0.1
+g_Erysipelatoclostridium	ring_height	19	1
+g_Erysipelatoclostridium	ring_alpha	20	0
+g_Erysipelatoclostridium	ring_alpha	21	0
+g_Erysipelatoclostridium	ring_alpha	22	0
+g_Erysipelatoclostridium	ring_alpha	23	0
+g_Erysipelatoclostridium	ring_alpha	24	0
+g_Anaeroglobus	ring_height	15	1
+g_Anaeroglobus	ring_height	16	0.1
+g_Anaeroglobus	ring_height	19	1
+g_Anaeroglobus	ring_alpha	20	0.064771151
+g_Anaeroglobus	ring_alpha	21	0.150404165
+g_Anaeroglobus	ring_alpha	22	0.0692755605
+g_Anaeroglobus	ring_alpha	23	0.412915259
+g_Anaeroglobus	ring_alpha	24	0.3210302225
+g_Megasphaera	ring_height	15	1
+g_Megasphaera	ring_height	16	0.1
+g_Megasphaera	ring_height	19	1
+g_Megasphaera	ring_alpha	20	0
+g_Megasphaera	ring_alpha	21	0
+g_Megasphaera	ring_alpha	22	0
+g_Megasphaera	ring_alpha	23	0
+g_Megasphaera	ring_alpha	24	0
+g_Sneathia	ring_height	15	1
+g_Sneathia	ring_height	16	0.1
+g_Sneathia	ring_height	19	1
+g_Sneathia	ring_alpha	20	0
+g_Sneathia	ring_alpha	21	0
+g_Sneathia	ring_alpha	22	0
+g_Sneathia	ring_alpha	23	0
+g_Sneathia	ring_alpha	24	0
+g_Caulobacter	ring_height	15	1
+g_Caulobacter	ring_height	16	0.1
+g_Caulobacter	ring_height	19	1
+g_Caulobacter	ring_alpha	20	0
+g_Caulobacter	ring_alpha	21	0
+g_Caulobacter	ring_alpha	22	0
+g_Caulobacter	ring_alpha	23	0
+g_Caulobacter	ring_alpha	24	0
+g_Bilophila	ring_height	15	1
+g_Bilophila	ring_height	16	0.1
+g_Bilophila	ring_height	19	1
+g_Bilophila	ring_alpha	20	0
+g_Bilophila	ring_alpha	21	0
+g_Bilophila	ring_alpha	22	0
+g_Bilophila	ring_alpha	23	0
+g_Bilophila	ring_alpha	24	0
+g_Desulfovibrio	ring_height	15	1
+g_Desulfovibrio	ring_height	16	0.1
+g_Desulfovibrio	ring_height	19	1
+g_Desulfovibrio	ring_alpha	20	0
+g_Desulfovibrio	ring_alpha	21	0
+g_Desulfovibrio	ring_alpha	22	0
+g_Desulfovibrio	ring_alpha	23	0
+g_Desulfovibrio	ring_alpha	24	0
+g_Escherichia	ring_height	15	1
+g_Escherichia	ring_height	16	0.1
+g_Escherichia	ring_height	19	1
+g_Escherichia	ring_alpha	20	0
+g_Escherichia	ring_alpha	21	0
+g_Escherichia	ring_alpha	22	0
+g_Escherichia	ring_alpha	23	0
+g_Escherichia	ring_alpha	24	0
+g_Salmonella	ring_height	15	1
+g_Salmonella	ring_height	16	0.1
+g_Salmonella	ring_height	19	1
+g_Salmonella	ring_alpha	20	0
+g_Salmonella	ring_alpha	21	0
+g_Salmonella	ring_alpha	22	0
+g_Salmonella	ring_alpha	23	0
+g_Salmonella	ring_alpha	24	0
+g_Pseudomonas	ring_height	15	1
+g_Pseudomonas	ring_height	16	0.1
+g_Pseudomonas	ring_height	19	1
+g_Pseudomonas	ring_alpha	20	0
+g_Pseudomonas	ring_alpha	21	0
+g_Pseudomonas	ring_alpha	22	0
+g_Pseudomonas	ring_alpha	23	0
+g_Pseudomonas	ring_alpha	24	0
+g_Rhodanobacter	ring_height	15	1
+g_Rhodanobacter	ring_height	16	0.1
+g_Rhodanobacter	ring_height	19	1
+g_Rhodanobacter	ring_alpha	20	0
+g_Rhodanobacter	ring_alpha	21	0
+g_Rhodanobacter	ring_alpha	22	0
+g_Rhodanobacter	ring_alpha	23	0
+g_Rhodanobacter	ring_alpha	24	0
+g_Ureaplasma	ring_height	15	1
+g_Ureaplasma	ring_height	16	0.1
+g_Ureaplasma	ring_height	19	1
+g_Ureaplasma	ring_alpha	20	0
+g_Ureaplasma	ring_alpha	21	0
+g_Ureaplasma	ring_alpha	22	0
+g_Ureaplasma	ring_alpha	23	0
+g_Ureaplasma	ring_alpha	24	0
+g_Lacunisphaera	ring_height	15	1
+g_Lacunisphaera	ring_height	16	0.1
+g_Lacunisphaera	ring_height	19	1
+g_Lacunisphaera	ring_alpha	20	0
+g_Lacunisphaera	ring_alpha	21	0
+g_Lacunisphaera	ring_alpha	22	0
+g_Lacunisphaera	ring_alpha	23	0
+g_Lacunisphaera	ring_alpha	24	0
+g_Akkermansia	ring_height	15	1
+g_Akkermansia	ring_height	16	0.1
+g_Akkermansia	ring_height	19	1
+g_Akkermansia	ring_alpha	20	0
+g_Akkermansia	ring_alpha	21	0
+g_Akkermansia	ring_alpha	22	0
+g_Akkermansia	ring_alpha	23	0
+g_Akkermansia	ring_alpha	24	0
