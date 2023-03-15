@@ -1,0 +1,100 @@
+nickname	source	Superkingdom	NR	Phylum	Class	Order	Family	Genus	Species	Strain current name
+gvag	vs	Bacteria	Terrabacteriagroup	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Gardnerella	Gardnerella vaginalis	Gardnerella vaginalis 409-05
+Microbacterium	feces	Bacteria	Terrabacteriagroup	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium	Microbacterium barkeri	Microbacterium barkeri 2011-R4
+avag	vs	Bacteria	Terrabacteriagroup	Actinobacteria	Coriobacteriia	Coriobacteriales	Atopobiaceae	Atopobium	Atopobium vaginae	Atopobium vaginae DSM 15829
+Collinsella	feces	Bacteria	Terrabacteriagroup	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	Collinsella aerofaciens	Collinsella aerofaciens ATCC 25986
+Bacteroides	feces	Bacteria	FCB group; Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides caccae	Bacteroides caccae
+Bacteroides	feces	Bacteria	FCB group; Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides cellulosilyticus	Bacteroides cellulosilyticus
+Bacteroides	feces	Bacteria	FCB group; Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides coprocola	Bacteroides coprocola DSM 17136
+Bacteroides	feces	Bacteria	FCB group; Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides coprophilus	Bacteroides coprophilus DSM 18228 = JCM 13818
+Bacteroides	feces	Bacteria	FCB group; Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides faecichinchillae	Bacteroides faecichinchillae JCM 17102
+Bacteroides	feces	Bacteria	FCB group; Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides fluxus	Bacteroides fluxus YIT 12057
+Bacteroides	feces	Bacteria	FCB group; Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides fragilis	Bacteroides fragilis YCH46
+Bacteroides	feces	Bacteria	FCB group; Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides ovatus	Bacteroides ovatus
+bova	fecul	Bacteria	FCB group; Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides ovatus	Bacteroides ovatus
+Bacteroides	feces	Bacteria	FCB group; Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides plebeius	Bacteroides plebeius DSM 17135
+Bacteroides	feces	Bacteria	FCB group; Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides salanitronis	Bacteroides salanitronis DSM 18170
+Bacteroides	feces	Bacteria	FCB group; Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides salyersiae	Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988
+Bacteroides	feces	Bacteria	FCB group; Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides stercoris	Bacteroides stercoris ATCC 43183
+Bacteroides	feces	Bacteria	FCB group; Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides thetaiotaomicron	Bacteroides thetaiotaomicron VPI-5482
+Bacteroides	feces	Bacteria	FCB group; Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides uniformis	Bacteroides uniformis ATCC 8492
+Coprobacter	feces	Bacteria	FCB group; Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Coprobacter	Coprobacter fastidiosus	Coprobacter fastidiosus NSB1
+Mediterranea	feces	Bacteria	FCB group; Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Mediterranea	Mediterranea massiliensis	Mediterranea massiliensis
+Culturomica	feces	Bacteria	FCB group; Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Odoribacteraceae	Culturomica	Culturomica massiliensis	Culturomica massiliensis
+Odoribacter	feces	Bacteria	FCB group; Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Odoribacteraceae	Odoribacter	Odoribacter splanchnicus	Odoribacter splanchnicus DSM 20712
+pamn	vs	Bacteria	FCB group; Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella amnii	Prevotella amnii DSM 23384 = JCM 14753
+pbiv	vs	Bacteria	FCB group; Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella bivia	Prevotella bivia DSM 20514
+pbuc	vs	Bacteria	FCB group; Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella buccalis	Prevotella buccalis ATCC 35310
+ptim	vs	Bacteria	FCB group; Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella timonensis	Prevotella timonensis 4401737 = DSM 22865 = JCM 15640
+afin	s	Bacteria	FCB group; Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes finegoldii	Alistipes finegoldii DSM 17242
+Alistipes	feces	Bacteria	FCB group; Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes finegoldii	Alistipes finegoldii DSM 17242
+Alistipes	feces	Bacteria	FCB group; Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes obesi	Alistipes obesi
+Alistipes	feces	Bacteria	FCB group; Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes putredinis	Alistipes putredinis DSM 17216
+Alistipes	feces	Bacteria	FCB group; Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes shahii	Alistipes shahii WAL 8301
+Parabacteroides	feces	Bacteria	FCB group; Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	Parabacteroides distasonis	Parabacteroides distasonis ATCC 8503
+pdis	fecul	Bacteria	FCB group; Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	Parabacteroides distasonis	Parabacteroides distasonis ATCC 8503
+Parabacteroides	feces	Bacteria	FCB group; Bacteroidetes/Chlorobi group	Bacteroidetes	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	Parabacteroides goldsteinii	Parabacteroides goldsteinii DSM 19448 = WAL 12034
+pmer	s	Bacteria	FCB group	Bacteroidetes	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	Parabacteroides merdae	Parabacteroides merdae
+Flavobacterium	comp	Bacteria	FCB group; Bacteroidetes/Chlorobi group	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	Flavobacterium johnsoniae	Flavobacterium johnsoniae UW101
+Flavobacterium	comp	Bacteria	FCB group; Bacteroidetes/Chlorobi group	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	Flavobacterium saccharophilum	Flavobacterium saccharophilum
+Mucilaginibacter	comp	Bacteria	FCB group; Bacteroidetes/Chlorobi group	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Mucilaginibacter	Mucilaginibacter gossypiicola	Mucilaginibacter gossypiicola
+spcc	s	Bacteria	Terrabacteriagroup;Cyanobacteria/Melainabacteriagroup	Cyanobacteria	-	Synechococcales	Merismopediaceae	Geminocystis	Synechocystis sp.	Synechocystis sp. PCC 6803 (cyanobacteria)
+bamy	s	Bacteria	Terrabacteriagroup	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus amyloliquefaciens	Bacillus amyloliquefaciens DSM 7 = ATCC 23350
+bsub	s	Bacteria	Terrabacteriagroup	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus subtilis	Bacillus subtilis subsp. subtilis str. 168
+bsub	zymo	Bacteria	Terrabacteriagroup	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus subtilis	Bacillus subtilis subsp. subtilis str. 168
+lmon	zymo	Bacteria	Terrabacteriagroup	Firmicutes	Bacilli	Bacillales	Listeriaceae	Listeria	Listeria monocytogenes	Listeria monocytogenes EGD-e
+saur	zymo	Bacteria	Terrabacteriagroup	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus	Staphylococcus aureus subsp. aureus NCTC 8325
+edev	fecul	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus devriesei	Enterococcus devriesei
+efae	fecul	Bacteria	Terrabacteriagroup	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus faecalis	Enterococcus faecalis V583
+efam	fecul	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus faecium	Enterococcus faecium DO
+lcri	vs	Bacteria	Terrabacteriagroup	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus crispatus	Lactobacillus crispatus ST1
+lfer	zymo	Bacteria	Terrabacteriagroup	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus fermentum	Lactobacillus fermentum IFO 3956
+line	vs	Bacteria	Terrabacteriagroup	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus iners	Lactobacillus iners DSM 13335
+lpla	s	Bacteria	Terrabacteriagroup	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus plantarum	Lactobacillus plantarum WCFS1
+lreu	s	Bacteria	Terrabacteriagroup	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus reuteri	Lactobacillus reuteri DSM 20016
+Lactococcus	feces	Bacteria	Terrabacteriagroup	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	Lactococcus lactis	Lactococcus lactis subsp. lactis Il140
+sang	fecul	Bacteria	Terrabacteria group	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus anginosus	Streptococcus anginosus
+Streptococcus	feces	Bacteria	Terrabacteriagroup	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus salivarius	Streptococcus salivarius
+Streptococcus	feces	Bacteria	Terrabacteriagroup	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus thermophilus	Streptococcus thermophilus JIM 8232
+Clostridium	feces	Bacteria	Terrabacteriagroup	Firmicutes	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium phoceensis	Clostridium phoceensis
+Eubacterium	feces	Bacteria	Terrabacteriagroup	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Eubacterium	Eubacterium ventriosum	Eubacterium ventriosum ATCC 27560
+Coprococcus	feces	Bacteria	Terrabacteriagroup	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Coprococcus	Coprococcus comes	Coprococcus comes ATCC 27758
+dfor	fecul	Bacteria	Terrabacteriagroup	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Dorea	Dorea formicigenerans	Dorea formicigenerans ATCC 27755
+Dorea	feces	Bacteria	Terrabacteriagroup	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Dorea	Dorea formicigenerans	Dorea formicigenerans ATCC 27755
+Dorea	feces	Bacteria	Terrabacteriagroup	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Dorea	Dorea longicatena	Dorea longicatena DSM 13814
+Fusicatenibacter	feces	Bacteria	Terrabacteriagroup	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Fusicatenibacter	Fusicatenibacter saccharivorans	Fusicatenibacter saccharivorans
+Roseburia	feces	Bacteria	Terrabacteriagroup	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Roseburia	Roseburia hominis	Roseburia hominis A2-183
+Roseburia	feces	Bacteria	Terrabacteriagroup	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Roseburia	Roseburia inulinivorans	Roseburia inulinivorans DSM 16841
+Romboutsia	feces	Bacteria	Terrabacteriagroup	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Romboutsia	Romboutsia timonensis	Romboutsia timonensis
+Faecalibacterium	feces	Bacteria	Terrabacteriagroup	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Faecalibacterium	Faecalibacterium prausnitzii	Faecalibacterium prausnitzii A2-165
+Gemmiger	feces	Bacteria	Terrabacteriagroup	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Gemmiger	Gemmiger formicilis	Gemmiger formicilis
+Ruthenibacterium	feces	Bacteria	Terrabacteriagroup	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruthenibacterium	Ruthenibacterium lactatiformans	Ruthenibacterium lactatiformans
+Intestinimonas	feces	Bacteria	Terrabacteriagroup	Firmicutes	Clostridia	Clostridiales	unclassified Clostridiales   	Intestinimonas	Intestinimonas butyriciproducens	Intestinimonas butyriciproducens
+cbut	fecul	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium butyricum	Clostridium butyricum
+ctyr	fecul	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium tyrobutyricum	Clostridium tyrobutyricum
+hhat	fecul	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Eubacteriales	Clostridiaceae	Hungatella	Hungatella hathewayi	Hungatella hathewayi DSM 13479
+pala	fecul	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Eubacteriales	Eubacteriaceae	Pseudoramibacter	Pseudoramibacter alactolyticus	Pseudoramibacter alactolyticus ATCC 23263
+mtim	fecul	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Eubacteriales	Eubacteriales incertae sedis	Mogibacterium	Mogibacterium timidum	Mogibacterium timidum
+acac	fecul	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Anaerostipes	Anaerostipes caccae	Anaerostipes caccae L1-92
+cbol	fecul	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Enterocloster	Enterocloster bolteae	[Clostridium] bolteae 90A9
+ccit	fecul	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Enterocloster	Enterocloster citroniae	[Clostridium] citroniae WAL-17108
+csym	fecul	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Eubacteriales	Lachnospiraceae	Lachnoclostridium	[Clostridium] symbiosum	[Clostridium] symbiosum WAL-14163 (firmicutes)
+fpla	fecul	Bacteria	Terrabacteria group	Firmicutes	Clostridia	Eubacteriales	Oscillospiraceae	Flavonifractor	Flavonifractor plautii	Flavonifractor plautii
+Erysipelatoclostridium	feces	Bacteria	Terrabacteriagroup	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Erysipelatoclostridium	[Clostridium] innocuum	[Clostridium] innocuum 2959
+Erysipelatoclostridium	feces	Bacteria	Terrabacteriagroup	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Erysipelatoclostridium	[Clostridium] saccharogumia	[Clostridium] saccharogumia DSM 17460
+agem	fecul	Bacteria	Terrabacteria group	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Anaeroglobus	Anaeroglobus geminatus	Anaeroglobus geminatus F0357
+mega	vs	Bacteria	Terrabacteriagroup	Firmicutes	Negativicutes	Veillonellales	Veillonellaceae	Megasphaera	Megasphaera genomosp type_1	Megasphaera genomosp. type_1 str. 28L
+ssan	vs	Bacteria	-	Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Sneathia	Sneathia sanguinegens	Sneathia sanguinegens
+cvib	s	Bacteria	-	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Caulobacter	Caulobacter vibrioides	Caulobacter vibrioides CB15
+Bilophila	feces	Bacteria	-	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Bilophila	Bilophila wadsworthia	Bilophila wadsworthia ATCC 49260
+Desulfovibrio	feces	Bacteria	-	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	Desulfovibrio fairfieldensis	Desulfovibrio fairfieldensis
+ecol	s	Bacteria	-	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli	Escherichia coli str. K-12 substr. MG1655
+ecol	zymo	Bacteria	-	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli	Escherichia coli str. K-12 substr. MG1655
+sent	zymo	Bacteria	-	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Salmonella	Salmonella enterica	Salmonella enterica subsp. enterica serovar Typhimurium str. LT2
+paer	zymo	Bacteria	-	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas aeruginosa	Pseudomonas aeruginosa PAO1
+Pseudomonas	comp	Bacteria	-	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fluorescens	Pseudomonas fluorescens F113
+Pseudomonas	comp	Bacteria	-	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas protegens	Pseudomonas protegens CHA0
+Rhodanobacter	comp	Bacteria	-	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Rhodanobacteraceae	Rhodanobacter	Rhodanobacter fulvus	Rhodanobacter fulvus Jip2
+upar	vs	Bacteria	Terrabacteriagroup	Tenericutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Ureaplasma	Ureaplasma parvum	Ureaplasma parvum serovar 3 str. ATCC 27815
+Lacunisphaera	comp	Bacteria	PVC group	Verrucomicrobia	Opitutae	Opitutales	Opitutaceae	Lacunisphaera	Lacunisphaera limnophila	Lacunisphaera limnophila
+Akkermansia	feces	Bacteria	PVC group	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	Akkermansiaceae	Akkermansia	Akkermansia muciniphila	Akkermansia muciniphila ATCC BAA-835
