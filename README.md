@@ -26,5 +26,31 @@ All panels are generated with fivepseq v1.2.
 The source data and script to generate the main main part of the figure are in the *graphlan* directory. The cleavage motifs are generated with the data and script in the *cleavage_motifs* directory.
 
 ## Extended Data Figures
+
+### Extended Data Figure 1
+
+Panels A-B are generated with fivepseq v1.2. 
+
+### Extended Data Figure 2
+
+All panels are generated with fivepseq v1.2. 
+
+### Extended Data Figure 3
+
+All panels are generated with the data and script in the *cleavage_motifs* directory.
+
+### Extended Data Figure 4
+
+Panels A-B and E-F are generated with fivepseq v1.2. 
+
+Panels C-D are generated with source data and script described in the *pca* directory.
+
+### Extended Data Figure 1
+### Extended Data Figure 1
+### Extended Data Figure 1
+### Extended Data Figure 1
+### Extended Data Figure 1
+### Extended Data Figure 1
+### Extended Data Figure 1
 ## Tables
 ## Supplementary Tables
