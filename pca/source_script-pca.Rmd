@@ -1,0 +1,177 @@
+---
+title: "source script: pca"
+author: "Lilit Nersisyan"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+load("master.mat.codon-v2.RData")
+
+master.mat = master.mat.codon
+library(ggfortify)
+library(autoplotly)
+start.col = 17
+
+head(master.mat)
+```
+
+```{r, echo = F}
+plot.pca = function(data, title, color, shape = NULL, loadings = F, pc.x = 1, pc.y = 2){
+  
+  mypca = prcomp(scale(data[,start.col:ncol(data)]))
+  autoplotly(mypca,x = pc.x, y = pc.y, data = data, size = 3,
+             main = title, labels = T, tooltip = "all",
+             colour = color, loadings.colour = 'gray', shape = shape,
+             loadings = F, loadings.label = loadings, loadings.label.size = 3)
+  
+}
+```
+
+# Figure 2 D
+Lactobacillus plantarum
+```{r}
+low.ind = which(master.mat$libsize < 5000)
+not.lpla = which(master.mat$source != "lpla")
+frag.ind = which(master.mat$trt == "frag")
+shx.ind = which(master.mat$trt == "shx")
+data = master.mat[-Reduce(union, c(low.ind, not.lpla, frag.ind, shx.ind)), ]
+
+plot.pca(data, "L plantarum, PC1 vs PC2", color = "trt")
+plot.pca(data, "L plantarum, PC1 vs PC2", color = "trt", loadings = T)
+
+```
+
+# Figure 2 E
+Bacillus subtilis
+```{r}
+low.ind = which(master.mat$libsize < 5000)
+not.bacillus = which(!(master.mat$source %in% c("bsub-str168","bsub")))
+not.frag.ind = which(master.mat$trt == "frag")
+not.ps.ind = which(grepl("cam-", master.mat$trt))
+data = master.mat[-union(union(union(low.ind, not.bacillus), not.frag.ind),not.ps.ind), ]
+
+plot.pca(data, "Bacillus subtilis, PC1 vs PC2", color = "trt")
+
+```
+
+
+
+# Extended Data Figure 4
+
+## Filter -14 pauses
+
+```{r}
+
+normalize.ctr = function(dat){
+  norm.dat = dat
+  runs = unique(lapply(rownames(dat), function(x){strsplit(x, "_")[[1]][6]}))
+  rm.ind = c()
+  for(run in runs){
+    run.ind = which(grepl(run, rownames(dat)))
+    ctr.ind = which(grepl("ctr", rownames(dat)[run.ind]))
+    stress.ind = which(!grepl("ctr", rownames(dat)[run.ind]))
+    
+    if(length(ctr.ind) < 1 | length(stress.ind) < 1){
+      rm.ind = c(rm.ind, run.ind)
+      next
+    }
+    
+    norm.dat[run.ind[stress.ind],] = norm.dat[run.ind[stress.ind],] - colMeans(norm.dat[run.ind[ctr.ind],])
+    
+    rm.ind = c(rm.ind, run.ind[ctr.ind])
+  }
+  norm.dat = norm.dat[-rm.ind,]
+  return(norm.dat)
+}
+```
+
+
+```{r}
+filter.stress = function(master.mat, sources){
+  high.ind = which(master.mat$libsize > 5000)
+  source.ind = which((master.mat$source %in% sources))
+  
+  ind = intersect(high.ind, source.ind)
+  
+  not.ind = which(master.mat$trt == "frag" | 
+                    master.mat$trt == "mup" | 
+                    master.mat$trt == "shx" | 
+                    master.mat$trt == "cam" |  
+                    #master.mat$trt == "salt" | 
+                    grepl("ps", master.mat$trt) | 
+                    (grepl("ms", master.mat$trt)))
+  
+  ind = setdiff(ind, not.ind)
+  data = master.mat[ind, ]
+  
+  dat = data[,c(17:ncol(data))]
+  rownames(dat) = data$sample
+  dat = dat[,which(grepl("14", colnames(dat)) )]
+  term.ind = which(grepl("TERM", colnames(dat)))
+  dat = dat[,-term.ind]
+  dat = as.matrix(dat)
+  
+  metadata = data.frame("trt" = master.mat$trt[ind], "species" = master.mat$taxon[ind])
+  
+  return(list("data" = dat, "metadata" = metadata))
+}
+```
+
+
+```{r}
+remove.samples = function(source.dat, sample.pattern){
+  ind = which(grepl(sample.pattern, rownames(source.dat$data)))
+  if(length(ind) > 0){
+    source.dat$data = source.dat$data[-ind,]
+    source.dat$metadata = source.dat$metadata[-ind,]
+  }
+  return(source.dat)
+}
+```
+
+```{r}
+filter.var = function(dat, top = 30, thr = 0.02){
+  sds = apply(dat, 2, sd)
+  print(summary(sds))
+  dat = dat[,order(sds, decreasing = T)]
+  top.sds = dat[,1:top]
+  thr.sds = dat[,which(sds > thr)]
+  return(thr.sds)
+}
+```
+
+
+
+```{r, echo = F}
+
+plot.pca = function(data, title, color, shape = NULL, loadings = F, pc.x = 1, pc.y = 2, start.col = 1){
+  
+  mypca = prcomp(scale(data[,start.col:ncol(data)]))
+  autoplotly(mypca,x = pc.x, y = pc.y, data = data, size = 3,
+             main = title, labels = T, tooltip = "all",
+             colour = color, loadings.colour = 'gray', shape = shape,
+             loadings = F, loadings.label = loadings, loadings.label.size = 2)
+  
+}
+```
+
+## Extended Data Figure 4C
+
+Lactobacillus plantarum
+```{r}
+lpla.dat = filter.stress(master.mat, c("lpla"))
+lpla.norm.dat = normalize.ctr(lpla.dat$data) 
+plot.pca(data.frame("trt" = lpla.dat$metadata$trt, lpla.dat$data), color =  "trt", loadings = T, title = "lpla", start.col = 2)
+```
+
+## Extended Data Figure 4D
+Bacillus subtilis
+```{r}
+bsub.dat = filter.stress(master.mat, c("bsub-str168", "bsub"))
+
+bsub.norm.dat = normalize.ctr(bsub.dat$data) 
+plot.pca(data.frame("trt" = bsub.dat$metadata$trt, bsub.dat$data), color =  "trt", loadings = T, title = "bsub", start.col = 2)
+
+
+```
