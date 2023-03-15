@@ -5,4 +5,4 @@ Functional analysis was performed on the lists of genes with differential abunda
 Gene set enrichment analysis (GSEA) was performed with the R package WebGestaltR based on the fold change differential expression or FPI values. GMT formatted files for each species were obtained by modifying Uniprot protein annotations and used as enrichment databases. The annotation GFF files for each species were taken as the basis to generate the reference gene lists. The significance p values are computed with a hypergeometic test and false discovery rate (FDR) is used for multiple test correction. 
 
 The input data files to computed expression and FPI fold changes are in the frame_counts.zip and tr_descriptors.zip. The reference files for GSEA in the go folder. 
-The stress_FPI-DEG.Rmd is the script for producing the GSEA output. 
+The stress_FPI-DEG.Rmd is the script for producing the GSEA output. The data is also written to gsea.stress.RData. 
