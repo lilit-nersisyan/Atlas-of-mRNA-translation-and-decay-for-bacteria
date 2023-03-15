@@ -1,0 +1,257 @@
+---
+title: "motif_from_codon"
+output: html_document
+---
+
+```{r include=FALSE}
+codon.files = list.files("data/codon_pauses/", pattern = "codon_pauses.txt", full.names = T, recursive = T)
+
+codon.t.list = list()
+for(f in codon.files){
+  sp = basename(dirname(dirname(dirname(dirname(f)))))
+  #sp = strsplit(basename(f), ".", fixed = T)[[1]][1]
+  
+  trt = strsplit(basename(dirname(dirname(f))), split = "_")[[1]][2]
+  #trt = strsplit(basename(f), "_")[[1]][2]
+  name = paste0(sp, "_", trt)
+  codon.t = read.table(f, header = T, sep = "\t", check.names = F, row.names = 1)
+  rownames(codon.t) = unlist(lapply(rownames(codon.t), function(x){strsplit(x, split = "_")[[1]][2]}))
+  codon.t.list[[name]][["codon.t"]] = codon.t
+  codon.t.list[[name]][["sp"]] = sp
+  codon.t.list[[name]][["trt"]] = trt
+  
+}
+```
+
+```{r load mutants}
+codon.files = list.files("data/codon_pauses/", pattern = "codon_pauses.txt", full.names = T, recursive = T)
+codon.files = codon.files[which(grepl("bsub_g4", codon.files))]
+
+codon.t.list.mut = list()
+for(f in codon.files){
+  sp = basename(dirname(dirname(dirname(dirname(f)))))
+  name = basename(dirname(dirname(f)))
+  mut = strsplit(name, split = "_")[[1]][1]
+  if(grepl("-", mut, fixed = T))
+    mut = strsplit(mut, split = "-", fixed = T)[[1]][2]
+  else
+    mut = "wt"
+  trt = strsplit(basename(dirname(dirname(f))), split = "_")[[1]][2]
+  
+  codon.t = read.table(f, header = T, sep = "\t", check.names = F, row.names = 1)
+  rownames(codon.t) = unlist(lapply(rownames(codon.t), function(x){strsplit(x, split = "_")[[1]][2]}))
+  codon.t.list.mut[[name]][["codon.t"]] = codon.t
+  codon.t.list.mut[[name]][["sp"]] = sp
+  codon.t.list.mut[[name]][["trt"]] = trt
+  codon.t.list.mut[[name]][["mut"]] = mut
+}
+```
+
+
+```{r}
+
+get.prefix.counts = function(codon.t){
+  
+  bases = c("A", "T", "G", "C") 
+  
+  prefix = bases
+  # for(a in bases){
+  #   for(b in bases){
+  #     prefix = c(prefix, paste0(a,b))
+  #   }
+  # }
+  
+  dist = colnames(codon.t)
+  
+  prefix.counts = matrix(0, nrow = length(prefix), ncol = length(dist))
+  rownames(prefix.counts) = prefix
+  colnames(prefix.counts) = dist
+  
+  for(i in 1:nrow(codon.t)){
+    for(p in prefix){
+      if(startsWith(rownames(codon.t)[i], p))
+        for(d in dist){
+          prefix.counts[p, d] = prefix.counts[p, d] + codon.t[i, d]
+        }
+    }
+  }
+  
+  for(j in 1:ncol(prefix.counts)){
+    prefix.counts[,j] = 100*prefix.counts[,j]/sum(prefix.counts[,j])
+  }
+  return(prefix.counts)
+}
+
+
+```
+
+
+```{r codon prefix}
+for(i in 1:length(codon.t.list)){
+  codon.t.list[[i]][["prefix.c"]] = get.prefix.counts(codon.t.list[[i]][["codon.t"]])
+}
+
+```
+
+```{r codon prefix mut}
+
+for(i in 1:length(codon.t.list.mut)){
+  codon.t.list.mut[[i]][["prefix.c"]] = get.prefix.counts(codon.t.list.mut[[i]][["codon.t"]])
+}
+```
+
+```{r}
+plot.heatmap = function(prefix.mat, name) {
+  heatmap(prefix.mat, Colv = NA, Rowv = NA, main = name)
+}
+
+```
+
+```{r}
+
+bases = c("A", "T", "G", "C") 
+# 
+# prefix = c()
+# for(a in bases){
+#   for(b in bases){
+#     prefix = c(prefix, paste0(a,b))
+#   }
+# }
+
+prefix = bases
+
+# colors = c("aquamarine1", "aquamarine2", "aquamarine3", "aquamarine4", 
+#            "gold1", "gold2", "gold3", "gold4", 
+#            "indianred1", "indianred2", "indianred3", "indianred4", 
+#            "slateblue1", "slateblue2", "slateblue3", "slateblue4")
+colors = c("aquamarine1",
+           "gold1", 
+           "indianred1", 
+           "slateblue1")
+names(colors) = prefix
+
+plot.lines = function(prefix.mat, name){
+  
+  n = ncol(prefix.mat)
+  prefix.mat = prefix.mat[, (n-6):n]
+  
+  for(p in prefix){
+    # if(p == "AA") {
+    if(p == "A") {
+      
+      if(!(is.nan(min(prefix.mat))))
+        ymin = min(prefix.mat) 
+      else
+        ymin = 0   
+
+      if(!(is.nan(max(prefix.mat))))
+        ymax = max(prefix.mat) 
+      else
+        ymax = 30   
+      
+
+      
+      plot(as.numeric(colnames(prefix.mat)), 
+           prefix.mat[p, ], 
+           col = colors[p], type = "l", lwd= 2, 
+           ylim = c(ymin, ymax), 
+           ylab = "%", xlab = "dist", main = name)
+      legend(-4, ymax-5, legend = prefix[1:4], fill = colors[1:4])
+      # legend(-3, ymax-5, legend = prefix[5:8], fill = colors[5:8])
+      # legend(-2, ymax-5, legend = prefix[9:12], fill = colors[9:12])
+      # legend(-1, ymax-5, legend = prefix[13:16], fill = colors[13:16])
+    } else {
+      lines(as.numeric(colnames(prefix.mat)), prefix.mat[p, ], 
+            col = colors[p], lwd= 2) 
+    }
+  }
+}
+
+```
+
+
+
+```{r}
+require(ggplot2)
+require(ggseqlogo)
+
+pdf("data/codon_pauses/pdf/cleavage_motifs_U.pdf")
+for(i in 1:length(codon.t.list)){
+  name = names(codon.t.list)[i]
+  prefix.mat = codon.t.list[[i]][["prefix.c"]]
+  
+  #plot.heatmap(prefix.mat, name)
+  plot.lines(prefix.mat, name)
+  from = which(colnames(prefix.mat) == -4)
+  to = which(colnames(prefix.mat) == 4)
+  rownames(prefix.mat) = c("A", "U", "G", "C")
+  p = ggseqlogo(prefix.mat[, from:to])
+  print(p)
+  
+}
+dev.off()
+
+
+```
+
+```{r logo}
+#install.packages("ggseqlogo")
+require(ggplot2)
+require(ggseqlogo)
+data(ggseqlogo_sample)
+```
+
+```{r}
+
+pdf("data/codon_pauses/pdf/cleavage-motifs_bsub-mutants.pdf")
+for(i in 1:length(codon.t.list.mut)){
+  name = names(codon.t.list.mut)[i]
+  prefix.mat = codon.t.list.mut[[i]][["prefix.c"]]
+  
+  plot.heatmap(prefix.mat, name)
+  plot.lines(prefix.mat, name)
+  from = which(colnames(prefix.mat) == -4)
+  to = which(colnames(prefix.mat) == 4)
+  rownames(prefix.mat) = c("A", "U", "G", "C")
+  p = ggseqlogo(prefix.mat[, from:to])
+  print(p)
+  
+}
+dev.off()
+```
+
+
+```{r}
+
+u.sp = unique(unlist(lapply(codon.t.list, function(x){x$sp})))
+u.trt = unique(unlist(lapply(codon.t.list, function(x){x$trt})))
+
+pdf("data/codon_pauses/pdf/prefix_stats_sp.pdf")
+for(sp in u.sp){
+  ind = which(unlist(lapply(codon.t.list, function(x){x$sp})) == sp)
+  for( i in ind){
+    name = names(codon.t.list)[i]
+    if(i == ind[1])
+      prefix.c = codon.t.list[[i]][["prefix.c"]]
+    else
+      prefix.c = prefix.c + codon.t.list[[i]][["prefix.c"]]
+  }
+  heatmap(prefix.c, Colv = NA, Rowv = NA, main = sp)
+}
+dev.off()
+
+pdf("data/codon_pauses/pdf/prefix_stats_trt.pdf")
+for(trt in u.trt){
+  ind = which(unlist(lapply(codon.t.list, function(x){x$trt})) == trt)
+  for( i in ind){
+    name = names(codon.t.list)[i]
+    if(i == ind[1])
+      prefix.c = codon.t.list[[i]][["prefix.c"]]
+    else
+      prefix.c = prefix.c + codon.t.list[[i]][["prefix.c"]]
+  }
+  heatmap(prefix.c, Colv = NA, Rowv = NA, main = trt)
+}
+dev.off()
+```
+
