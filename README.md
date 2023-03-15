@@ -47,16 +47,16 @@ Panels C-D are generated with source data and script described in the *pca* dire
 
 ### Extended Data Figure 5
 
-All panels are generated with the source data and scripts described in the *gsea* directory.
+All panels are generated with the source data and scripts described in the *gsea* directory. The final source data for the panels is also presented in the Supplementary Table 3.
 
 ### Extended Data Figure 6
 
 @mengjun
 
-### Extended Data Figure 1
-### Extended Data Figure 1
-### Extended Data Figure 1
-### Extended Data Figure 1
-### Extended Data Figure 1
-## Tables
-## Supplementary Tables
+### Extended Data Figure 7
+
+All panels are generated with fivepseq v1.2. 
+
+### Extended Data Figure 8
+
+All panels are generated with fivepseq v1.2. 
