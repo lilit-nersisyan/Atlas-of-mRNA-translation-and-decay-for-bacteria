@@ -1,0 +1,511 @@
+phosphorylation [GO:0016310]	lp_1983	lp_1883	lp_1612	lp_0842	lp_0113	lp_0863	lp_1011	lp_1329	lp_1622	lp_0114	lp_1093	lp_0572	lp_3581	lp_3630	lp_0866	lp_1355	lp_1703	lp_2589	lp_2595	lp_2965	lp_3063	lp_3088	lp_0416	lp_0441	lp_3509
+carbohydrate metabolic process [GO:0005975]	lp_3568	lp_2196	lp_0820	lp_0756	lp_0754	lp_0226	lp_0562	lp_3645	lp_1730	lp_2384	lp_0024	lp_0027	lp_0066	lp_0181	lp_0440	lp_3484	lp_3530	lp_3571	lp_3539	lp_0499	lp_3617	lp_3629	lp_3632	lp_3634	lp_3641	lp_0764	lp_0887	lp_0906	lp_1250	lp_1310	lp_1401	lp_1731	lp_1843	lp_2397	lp_2600	lp_2757	lp_2777	lp_2778	lp_0028	lp_3011	lp_3072	lp_3132	lp_0174	lp_0179	lp_0189	lp_3220	lp_3471	lp_3473	lp_3487	lp_3512	lp_3525	lp_3526	lp_3551	lp_2659
+ N-acetylneuraminate catabolic process [GO:0019262]	lp_3568	lp_0226	lp_3571
+bile acid biosynthetic process [GO:0006699]	lp_3536
+protein catabolic process [GO:0030163]	JDM1_0445	lp_0547	lp_2132
+ proteolysis [GO:0006508]	JDM1_0445	lp_0547	lp_1904	lp_0257	lp_3189	lp_2063	lp_0769	lp_1278	lp_2132	lp_0681	lp_2401
+cell wall organization [GO:0071555]	lp_3683	lp_1561	lp_1637	lp_2380	lp_2382	lp_3189	lp_3407	lp_2345	lp_0564	lp_0769	lp_1278	lp_1817	lp_1982	lp_2268	lp_2017	lp_1816	lp_1406	lp_0730
+ regulation of cell shape [GO:0008360]	lp_3683	lp_0977	lp_0467	lp_0518	lp_1637	lp_2380	lp_2382	lp_3189	lp_3407	lp_2361	lp_2345	lp_2199	lp_2197	lp_2196	lp_1462	lp_0814	lp_0510	lp_1278	lp_2319	lp_2359	lp_2268	lp_1754	lp_2078	lp_2137	lp_2354
+malolactic fermentation [GO:0043464]	lp_1118
+'de novo' L-methionine biosynthetic process [GO:0071266]	lp_1346	lp_2570
+ diaminopimelate biosynthetic process [GO:0019877]	lp_1346	lp_2570
+ isoleucine biosynthetic process [GO:0009097]	lp_1346	lp_2570
+ lysine biosynthetic process via diaminopimelate [GO:0009089]	lp_1346	lp_2570	lp_0979	lp_2123	lp_2308	lp_2685	lp_1874	lp_2264	lp_2263
+ threonine biosynthetic process [GO:0009088]	lp_1346	lp_2570	lp_0571	lp_0979	lp_2308	lp_2535	lp_0572
+riboflavin biosynthetic process [GO:0009231]	lp_1437	lp_1438	lp_2826
+coenzyme A biosynthetic process [GO:0015937]	lp_1614	lp_2133	lp_1510	lp_0913
+ pantothenate catabolic process [GO:0015941]	lp_1614
+'de novo' IMP biosynthetic process [GO:0006189]	lp_0105	lp_2721	lp_2723	lp_2726	lp_2728	lp_2725	lp_2724	lp_2720	lp_2719	lp_2722	lp_2729	lp_2727
+protein maturation [GO:0051604]	lp_0106/lp_0107
+'de novo' pyrimidine nucleobase biosynthetic process [GO:0006207]	lp_0527	lp_2701	lp_2699	lp_2698	lp_1783	lp_2703
+ arginine biosynthetic process [GO:0006526]	lp_0527	lp_2701	lp_2700	lp_1783
+ glutamine metabolic process [GO:0006541]	lp_0527	lp_2701	lp_0481	lp_2382	lp_2723	lp_2725	lp_1783	lp_0822	lp_0980	lp_3085
+ pyrimidine nucleotide biosynthetic process [GO:0006221]	lp_0527	lp_0526
+ 'de novo' UMP biosynthetic process [GO:0044205]	lp_2701	lp_2699	lp_2698	lp_1783	lp_2703
+'de novo' UMP biosynthetic process [GO:0044205]	lp_2700	lp_2702	lp_2697
+nucleotide metabolic process [GO:0009117]	lp_2267
+ purine nucleoside triphosphate catabolic process [GO:0009146]	lp_2267
+5-phosphoribose 1-diphosphate biosynthetic process [GO:0006015]	lp_2166	lp_0471
+ nucleotide biosynthetic process [GO:0009165]	lp_2166	lp_0471
+ phosphorylation [GO:0016310]	lp_2166	lp_0471	lp_0979	lp_1274	lp_1987	lp_2031	lp_2033	lp_2308	lp_0210	lp_0310	lp_0530	lp_2379	lp_2242	lp_2222	lp_2053	lp_1562	lp_1510	lp_1379	lp_1058	lp_0834	lp_0460	lp_0370	lp_0016	lp_0488	lp_0575	lp_0586	lp_0850	lp_0886	lp_0905	lp_1733	lp_1734	lp_1735	lp_1912	lp_1968	lp_2531	lp_2650	lp_2781	lp_2969	lp_3009	lp_3133	lp_0185	lp_0264	lp_0265	lp_3219	lp_3229	lp_3240	lp_3298	lp_3418	lp_3513	lp_3522	lp_3527	lp_0913	lp_0703	lp_0585	lp_0587	lp_1150	lp_1250	lp_1399	lp_1626	lp_2159	lp_2223	lp_0293
+ ribonucleoside monophosphate biosynthetic process [GO:0009156]	lp_2166	lp_0471
+glycolytic process [GO:0006096]	lp_1920	lp_0792	lp_0537	lp_1101	lp_1573	lp_2154	lp_0790
+cell cycle [GO:0007049]	lp_0977	lp_0518	lp_2361	lp_2210	lp_2199	lp_2197	lp_2118	lp_1462	lp_0814	lp_0510	lp_1847	lp_1892	lp_1890	lp_1754	lp_0781	lp_2189
+ cell division [GO:0051301]	lp_0977	lp_0518	lp_2361	lp_2210	lp_2199	lp_2197	lp_2196	lp_2118	lp_1462	lp_0814	lp_0510	lp_1847	lp_1892	lp_1890	lp_1754	lp_0781	lp_2189
+ cell wall organization [GO:0071555]	lp_0977	lp_0467	lp_0518	lp_2361	lp_2199	lp_2197	lp_2196	lp_1462	lp_0814	lp_0510
+ peptidoglycan biosynthetic process [GO:0009252]	lp_0977	lp_0467	lp_0518	lp_1561	lp_1637	lp_2380	lp_2382	lp_3189	lp_3407	lp_2361	lp_2345	lp_2199	lp_2197	lp_2196	lp_1462	lp_0814	lp_0510	lp_1278	lp_2268
+'de novo' CTP biosynthetic process [GO:0044210]	lp_0481	lp_2053
+cell morphogenesis [GO:0000902]	lp_0467	lp_2319	lp_2359	lp_2316
+ lipid A biosynthetic process [GO:0009245]	lp_0467	lp_1670
+ UDP-N-acetylglucosamine biosynthetic process [GO:0006048]	lp_0467
+arginine biosynthetic process [GO:0006526]	lp_0526	lp_0528	lp_0529	lp_0531	lp_0532	lp_0487	lp_0775	lp_1604
+fatty acid biosynthetic process [GO:0006633]	JDM1_0533	JDM1_1412	lp_1679	lp_1671	lp_1670	lp_1628	lp_0591	lp_0588	lp_0592	lp_0708	lp_1675	lp_1676	lp_1680	lp_1681	lp_0362	lp_0522
+ malonyl-CoA biosynthetic process [GO:2001295]	JDM1_0533	JDM1_1412	lp_1679	lp_0591	lp_0592	lp_1680
+D-ribose catabolic process [GO:0019303]	lp_0500	lp_3660	lp_2251	lp_3659
+DNA-templated transcription, termination [GO:0006353]	lp_0511	lp_2704	lp_2043	lp_1782	lp_1598
+RNA catabolic process [GO:0006401]	lp_0520	lp_1853
+ RNA secondary structure unwinding [GO:0010501]	lp_0520
+GMP salvage [GO:0032263]	lp_0546
+ IMP salvage [GO:0032264]	lp_0546
+ purine ribonucleoside salvage [GO:0006166]	lp_0546	lp_2086
+isoleucine biosynthetic process [GO:0009097]	lp_0571	lp_2390	lp_2535
+ methionine biosynthetic process [GO:0009086]	lp_0571	lp_2535	lp_1599
+hydrogen peroxide catabolic process [GO:0042744]	lp_3578
+ response to oxidative stress [GO:0006979]	lp_3578	lp_1836
+cAMP biosynthetic process [GO:0006171]	lp_0818
+ second-messenger-mediated signaling [GO:0019932]	lp_0818
+protein lipoylation [GO:0009249]	lp_0854	lp_0337	lp_2643	lp_2734	lp_0477
+ regulation of transcription, DNA-templated [GO:0006355]	lp_0854	lp_0337	lp_1544	lp_1598	lp_0585	lp_0743	lp_1396	lp_1487	lp_1942	lp_2506	lp_0036	lp_3138	lp_0231	lp_3191	lp_0283	lp_3543
+diaminopimelate biosynthetic process [GO:0019877]	lp_0979	lp_2123	lp_2308	lp_2685	lp_1874	lp_2264	lp_2263
+aromatic amino acid family biosynthetic process [GO:0009073]	lp_1084	lp_2033	lp_3494	lp_3498	lp_3499	lp_2037	lp_2035	lp_1086	lp_1085
+ cellular amino acid biosynthetic process [GO:0008652]	lp_1084	lp_2033	lp_3494	lp_3498	lp_3499	lp_3493	lp_2037	lp_2035	lp_1086
+ chorismate biosynthetic process [GO:0009423]	lp_1084	lp_2033	lp_3494	lp_3498	lp_3499	lp_3493	lp_2037	lp_2035	lp_1086
+ shikimate metabolic process [GO:0019632]	lp_1084	lp_3498
+acetyl-CoA metabolic process [GO:0006084]	lp_1108	lp_1109	lp_2067
+fumarate metabolic process [GO:0006106]	lp_1112
+ tricarboxylic acid cycle [GO:0006099]	lp_1112
+phosphoenolpyruvate-dependent sugar phosphotransferase system [GO:0009401]	lp_1274	lp_0575	lp_0576	lp_0577	lp_0586	lp_3601	lp_3619	lp_3653	lp_0886	lp_0905	lp_1155	lp_1164	lp_1273	lp_1398	lp_1400	lp_2097	lp_2531	lp_2648	lp_2649	lp_2650	lp_2780	lp_2781	lp_2969	lp_3009	lp_3010	lp_3133	lp_0185	lp_0230	lp_0247	lp_0264	lp_0265	lp_3219	lp_3229	lp_3240	lp_0286	lp_0436	lp_0439	lp_3468	lp_3486	lp_3507	lp_3513	lp_3518	lp_3522	lp_3527	lp_3546	lp_0585	lp_0587	lp_3600	lp_3618	lp_3620	lp_3652	lp_3654	lp_0884	lp_0934	lp_1396	lp_1399	lp_2218	lp_2647	lp_2927	lp_2954	lp_3008	lp_3136	lp_3137	lp_3138	lp_0231	lp_3519	lp_3520	lp_3540	lp_3541	lp_3543	lp_3547
+nicotinamide nucleotide metabolic process [GO:0046496]	lp_1320
+D-gluconate metabolic process [GO:0019521]	lp_1541	lp_1251
+ methylation [GO:0032259]	lp_1541	lp_3431	lp_1870	lp_1375	lp_1374	lp_1298	lp_1696	lp_1856	lp_2059	lp_2848	lp_3174
+ organic acid catabolic process [GO:0016054]	lp_1541	lp_1251
+ pentose-phosphate shunt [GO:0006098]	lp_1541	lp_1621	lp_2681	lp_3539	lp_1251
+DNA replication, synthesis of RNA primer [GO:0006269]	lp_1615	lp_0014
+ DNA unwinding involved in DNA replication [GO:0006268]	lp_1615
+regulation of transcription, DNA-templated [GO:0006355]	lp_1617	lp_1018	lp_0539	lp_0037	lp_2253	lp_0480	lp_3622	lp_3625	lp_3656	lp_3661	lp_0885	lp_0904	lp_0984	lp_0992	lp_1207	lp_1341	lp_1442	lp_1580	lp_2259	lp_2567	lp_2602	lp_2676	lp_2817	lp_2854	lp_3013	lp_3113	lp_3131	lp_0172	lp_0173	lp_0188	lp_3221	lp_3238	lp_0281	lp_0459	lp_3444	lp_3470	lp_3479	lp_3488	lp_3514	lp_3529	lp_3531
+pentose catabolic process [GO:0019323]	lp_1621
+SRP-dependent cotranslational protein targeting to membrane [GO:0006614]	lp_1635	lp_1633
+lysine biosynthetic process via diaminopimelate [GO:0009089]	lp_1713	lp_2185	lp_1923
+chromosome segregation [GO:0007059]	lp_1839	lp_1840	lp_1752	lp_1461
+ DNA topological change [GO:0006265]	lp_1839	lp_1840
+DNA topological change [GO:0006265]	lp_1850	lp_0006	lp_0007
+peptide catabolic process [GO:0043171]	lp_1904
+guanosine tetraphosphate biosynthetic process [GO:0015970]	lp_1987	lp_2223	lp_0293
+FAD biosynthetic process [GO:0006747]	lp_2031	lp_0850
+ FMN biosynthetic process [GO:0009398]	lp_2031
+ riboflavin biosynthetic process [GO:0009231]	lp_2031	lp_0850
+ribosomal large subunit assembly [GO:0000027]	lp_2146	lp_1517
+division septum assembly [GO:0000917]	lp_2193	lp_2328	lp_2192	lp_2115	lp_3200
+ FtsZ-dependent cytokinesis [GO:0043093]	lp_2193	lp_2192
+ protein polymerization [GO:0051258]	lp_2193
+response to cold [GO:0009409]	lp_2278
+ RNA catabolic process [GO:0006401]	lp_2278
+peptidyl-glutamine methylation [GO:0018364]	lp_2377
+ cobalamin biosynthetic process [GO:0009236]	lp_2382	lp_2727
+ leucine biosynthetic process [GO:0009098]	lp_2390
+ valine biosynthetic process [GO:0009099]	lp_2390
+methionine biosynthetic process [GO:0009086]	lp_2537	lp_1375	lp_1298	lp_1856	lp_3283
+glucose metabolic process [GO:0006006]	lp_2681	lp_0789	lp_3313
+ purine nucleobase biosynthetic process [GO:0009113]	lp_2723	lp_2719
+ DNA-templated DNA replication [GO:0006261]	lp_0006	lp_0007	lp_2280	lp_1508
+nickel cation transport [GO:0015675]	lp_0101	lp_0100	lp_0102
+acetyl-CoA biosynthetic process [GO:0006085]	lp_0210	lp_0310	lp_2242
+ organic acid metabolic process [GO:0006082]	lp_0210	lp_0310	lp_2242
+protein initiator methionine removal [GO:0070084]	lp_0257
+rRNA processing [GO:0006364]	lp_0457	lp_0611	lp_2122	lp_2158	lp_1969
+arginine biosynthetic process via ornithine [GO:0042450]	lp_0530	lp_0776
+D-alanine biosynthetic process [GO:0030632]	lp_0523
+histidine biosynthetic process [GO:0000105]	lp_2559	lp_2554	lp_2553	lp_1599	lp_2563	lp_2561	lp_2560	lp_2558	lp_2556	lp_2552	lp_2551
+cytolysis [GO:0019835]	lp_0415	lp_3286
+ defense response to bacterium [GO:0042742]	lp_0415
+protein transport [GO:0015031]	lp_3687	lp_1553	lp_2843
+tRNA modification [GO:0006400]	lp_3682	lp_2178	lp_1534	lp_0545
+inositol catabolic process [GO:0019310]	lp_3606	lp_3607
+rhamnose catabolic process [GO:0019301]	lp_3595	lp_3592	lp_3593
+rhamnose metabolic process [GO:0019299]	lp_3594
+amino sugar catabolic process [GO:0046348]	lp_3523	lp_3508
+ carbohydrate metabolic process [GO:0005975]	lp_3523	lp_3508	lp_0822
+ N-acetylmuramic acid catabolic process [GO:0097173]	lp_3523	lp_3508
+3,4-dihydroxybenzoate biosynthetic process [GO:0046279]	lp_3493	lp_2798
+ aromatic amino acid family biosynthetic process [GO:0009073]	lp_3493	lp_2798
+galactose metabolic process [GO:0006012]	lp_3482	lp_0709	lp_3469	lp_3481	lp_3480
+menaquinone biosynthetic process [GO:0009234]	lp_3431	lp_1135	lp_1715
+ dephosphorylation [GO:0016311]	lp_3407
+ response to antibiotic [GO:0046677]	lp_3407	lp_0690	lp_1277	lp_0469	lp_2341
+7,8-dihydroneopterin 3'-triphosphate biosynthetic process [GO:0035998]	lp_3297
+ one-carbon metabolic process [GO:0006730]	lp_3297	lp_1869
+ tetrahydrofolate biosynthetic process [GO:0046654]	lp_3297	lp_1869	lp_3294	lp_3298	lp_3299
+'de novo' AMP biosynthetic process [GO:0044208]	lp_3270	lp_3269
+protein folding [GO:0006457]	lp_3193	lp_1452	lp_2028	lp_0548
+gluconeogenesis [GO:0006094]	lp_3170	lp_2502	lp_0791	lp_0597	lp_0505	lp_0506	lp_1912	lp_2136	lp_3418
+ glycolytic process [GO:0006096]	lp_3170	lp_2502	lp_0791	lp_0597	lp_0330
+positive regulation of translation [GO:0045727]	lp_3120	lp_2015
+tyrosyl-tRNA aminoacylation [GO:0006437]	lp_2807
+double-strand break repair via homologous recombination [GO:0000724]	lp_2694	lp_2693
+glutamine metabolic process [GO:0006541]	lp_2557	lp_0914	lp_0073	lp_3142	lp_0081	lp_0117
+ histidine biosynthetic process [GO:0000105]	lp_2557
+DNA biosynthetic process [GO:0071897]	lp_2379
+glycine biosynthetic process from serine [GO:0019264]	lp_2375
+ tetrahydrofolate interconversion [GO:0035999]	lp_2375	lp_1599	lp_1374
+ UDP-N-acetylgalactosamine biosynthetic process [GO:0019277]	lp_2361	lp_0510
+thiamine biosynthetic process [GO:0009228]	lp_2325	lp_0115
+ thiamine diphosphate biosynthetic process [GO:0009229]	lp_2325	lp_0115	lp_0113	lp_1622
+ tRNA thio-modification [GO:0034227]	lp_2325
+valyl-tRNA aminoacylation [GO:0006438]	lp_2322
+DNA recombination [GO:0006310]	lp_2301	lp_2287	lp_2286	lp_0962	lp_1549	lp_1605	lp_1627	lp_1966	lp_0700	lp_0010	lp_0647	lp_1885	lp_2087	lp_2433
+ DNA repair [GO:0006281]	lp_2301	lp_2287	lp_2286	lp_1752	lp_0962	lp_1605	lp_1627	lp_1966	lp_0700	lp_0010	lp_0647	lp_2087	lp_2433
+ SOS response [GO:0009432]	lp_2301	lp_2287	lp_2286	lp_2280	lp_2063	lp_0773	lp_0772	lp_0962	lp_2109	lp_0005	lp_3023
+queuosine biosynthetic process [GO:0008616]	lp_2282	lp_2285
+ tRNA-guanine transglycosylation [GO:0101030]	lp_2282
+DNA repair [GO:0006281]	lp_2280	lp_2063	lp_1145	lp_1364	lp_1508	lp_1976	lp_0005	lp_0812	lp_1858	lp_2131	lp_2848	lp_2915	lp_3023
+mismatch repair [GO:0006298]	lp_2271	lp_2298	lp_2297
+ negative regulation of DNA recombination [GO:0045910]	lp_2271
+NAD metabolic process [GO:0019674]	lp_2222
+ NADP biosynthetic process [GO:0006741]	lp_2222
+ chromosome segregation [GO:0007059]	lp_2210	lp_1847	lp_1892	lp_1890
+ cell cycle [GO:0007049]	lp_2196
+ lipid glycosylation [GO:0030259]	lp_2196
+isoleucyl-tRNA aminoacylation [GO:0006428]	lp_2187
+ protein folding [GO:0006457]	lp_2118	lp_2026
+ protein transport [GO:0015031]	lp_2118	lp_1261	lp_0200	lp_0201
+ribosome biogenesis [GO:0042254]	lp_2094	lp_1881
+ DNA replication [GO:0006260]	lp_2063	lp_1632	lp_1145	lp_0692	lp_0962	lp_1549	lp_1890	lp_1889	lp_0010	lp_0005
+ negative regulation of transcription, DNA-templated [GO:0045892]	lp_2063	lp_0466
+DNA replication [GO:0006260]	lp_2026	lp_0693	lp_0698	lp_1899	lp_0002	lp_0705	lp_0811	lp_1519	lp_1543	lp_2128	lp_2337	lp_2932	lp_0706
+ response to heat [GO:0009408]	lp_2026	lp_1903
+lipoteichoic acid biosynthetic process [GO:0070395]	lp_2019	lp_2016	lp_2018
+D-amino acid catabolic process [GO:0019478]	lp_1986
+aspartyl-tRNA aminoacylation [GO:0006422]	lp_1980
+protein dephosphorylation [GO:0006470]	lp_1974	lp_1618
+ protein phosphorylation [GO:0006468]	lp_1974
+ribosomal small subunit biogenesis [GO:0042274]	lp_1967	lp_1687	lp_1620	lp_2044	lp_1638
+protein refolding [GO:0042026]	lp_1903	lp_0728
+fructose 6-phosphate metabolic process [GO:0006002]	lp_1898
+ pyrimidine nucleotide metabolic process [GO:0006220]	lp_1883
+RNA repair [GO:0042245]	lp_1873
+ tRNA 3'-terminal CCA addition [GO:0001680]	lp_1873
+dTMP biosynthetic process [GO:0006231]	lp_1870
+ dTTP biosynthetic process [GO:0006235]	lp_1870	lp_0703
+proteolysis involved in protein catabolic process [GO:0051603]	lp_1846
+phospholipid biosynthetic process [GO:0008654]	lp_1842	lp_1968	lp_1150	lp_2159
+proteolysis [GO:0006508]	lp_1780	lp_0857	lp_0601	lp_3673	lp_0853	lp_0937	lp_0959	lp_1413	lp_1711	lp_1751	lp_2049	lp_2225	lp_2919	lp_0043	lp_0228	lp_0334	lp_0423	lp_3582	lp_0786	lp_0516	lp_0088	lp_0514	lp_0600	lp_3583	lp_1010	lp_1019	lp_1269	lp_1420	lp_1571	lp_1574	lp_1760	lp_1774	lp_1864	lp_2143	lp_2320	lp_2621	lp_2631	lp_2953	lp_2988	lp_3043	lp_0122	lp_0353	lp_0461	lp_3445
+ DNA recombination [GO:0006310]	lp_1752	lp_0624	lp_0941	lp_1196	lp_1268	lp_1997	lp_2455	lp_2480	lp_3390
+isoprenoid biosynthetic process [GO:0008299]	lp_1732	lp_1735	lp_1066	lp_1134	lp_1602
+chromosome condensation [GO:0030261]	lp_1632	lp_1879
+ sister chromatid cohesion [GO:0007062]	lp_1632
+mRNA processing [GO:0006397]	lp_1631
+ rRNA processing [GO:0006364]	lp_1631	lp_1989	lp_1638
+ tRNA processing [GO:0008033]	lp_1631
+ phospholipid biosynthetic process [GO:0008654]	lp_1628	lp_0756
+ purine nucleotide biosynthetic process [GO:0006164]	lp_1599
+tRNA processing [GO:0008033]	lp_1579	lp_2376
+CTP salvage [GO:0044211]	lp_1562
+ UMP salvage [GO:0044206]	lp_1562
+phenylalanyl-tRNA aminoacylation [GO:0006432]	lp_1559	lp_1558
+threonyl-tRNA aminoacylation [GO:0006435]	lp_1514
+base-excision repair [GO:0006284]	lp_1509	lp_2860	lp_3349	lp_1991	lp_0806	lp_3020	lp_3241	lp_3293	lp_0296
+Mo-molybdopterin cofactor biosynthetic process [GO:0006777]	lp_1492	lp_1480	lp_1494	lp_1495	lp_1478	lp_1491	lp_1493
+hydrogen sulfide biosynthetic process [GO:0070814]	lp_1379	lp_1378
+ sulfate assimilation [GO:0000103]	lp_1379	lp_1378
+one-carbon metabolic process [GO:0006730]	lp_1301
+ S-adenosylmethionine biosynthetic process [GO:0006556]	lp_1301
+purine ribonucleoside salvage [GO:0006166]	lp_1139
+ xanthine metabolic process [GO:0046110]	lp_1139
+ XMP salvage [GO:0032265]	lp_1139
+tRNA pseudouridine synthesis [GO:0031119]	lp_1076	lp_2032
+transcription, DNA-templated [GO:0006351]	lp_1062	lp_1022	lp_1021	lp_2157	lp_1613
+AMP salvage [GO:0044209]	lp_1058
+selenocysteine biosynthetic process [GO:0016260]	lp_1012	lp_0501
+ selenocysteinyl-tRNA(Sec) biosynthetic process [GO:0097056]	lp_1012	lp_0501
+ seryl-tRNA aminoacylation [GO:0006434]	lp_1012	lp_0501
+ polyphosphate biosynthetic process [GO:0006799]	lp_0842
+glycerol catabolic process [GO:0019563]	lp_0834	lp_0370	lp_0170
+ glycerol metabolic process [GO:0006071]	lp_0834	lp_0370
+ glycerol-3-phosphate metabolic process [GO:0006072]	lp_0834	lp_0370	lp_0371
+carbohydrate derivative biosynthetic process [GO:1901137]	lp_0822
+nucleotide-excision repair [GO:0006289]	lp_0773	lp_0772	lp_2109
+ glycerol-3-phosphate biosynthetic process [GO:0046167]	lp_0756
+ glycerol-3-phosphate catabolic process [GO:0046168]	lp_0756
+ glycerophospholipid metabolic process [GO:0006650]	lp_0756
+ regulation of carbohydrate metabolic process [GO:0006109]	lp_0754
+intracellular protein transmembrane transport [GO:0065002]	lp_0739	lp_0616	lp_1056
+ protein import [GO:0017038]	lp_0739
+ protein targeting [GO:0006605]	lp_0739	lp_0616	lp_1056
+tRNA threonylcarbamoyladenosine modification [GO:0002949]	lp_0721	lp_0717	lp_0809
+organic phosphonate catabolic process [GO:0019700]	lp_0711	lp_0710
+cysteinyl-tRNA aminoacylation [GO:0006423]	lp_0610
+glutamyl-tRNA aminoacylation [GO:0006424]	lp_0609
+pentose-phosphate shunt, non-oxidative branch [GO:0009052]	lp_0602	lp_0354
+alanine biosynthetic process [GO:0006523]	lp_0579
+ pantothenate biosynthetic process [GO:0015940]	lp_0579
+NAD biosynthetic process [GO:0009435]	lp_0566	lp_0565	lp_2771	lp_1530
+lysyl-tRNA aminoacylation [GO:0006430]	lp_0550
+carbohydrate catabolic process [GO:0016052]	lp_0497	lp_3483	lp_3485
+ deoxyribonucleotide catabolic process [GO:0009264]	lp_0497
+ deoxyribose phosphate catabolic process [GO:0046386]	lp_0497
+isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway [GO:0019288]	lp_0460
+ terpenoid biosynthetic process [GO:0016114]	lp_0460	lp_2610
+methionyl-tRNA aminoacylation [GO:0006431]	lp_0454
+protein deacetylation [GO:0006476]	lp_0449
+ N-acetylglucosamine metabolic process [GO:0006044]	lp_0226	lp_0562
+L-serine biosynthetic process [GO:0006564]	lp_0204	lp_0203
+ pyridoxine biosynthetic process [GO:0008615]	lp_0204
+ thiamine biosynthetic process [GO:0009228]	lp_0113	lp_2610	lp_0114
+glycogen biosynthetic process [GO:0005978]	lp_0021	lp_0020	lp_0023	lp_0022
+L-proline biosynthetic process [GO:0055129]	lp_0016	lp_0561	lp_0017
+UMP salvage [GO:0044206]	lp_2374
+ uracil salvage [GO:0006223]	lp_2374
+defense response to Gram-negative bacterium [GO:0050829]	tlr4ba
+ inflammatory response [GO:0006954]	tlr4ba
+ innate immune response [GO:0045087]	tlr4ba
+ toll-like receptor signaling pathway [GO:0002224]	tlr4ba
+negative regulation of purine nucleobase metabolic process [GO:0045982]	lp_0466
+lysine biosynthetic process [GO:0009085]	lp_0488
+ transcription-coupled nucleotide-excision repair, DNA damage recognition [GO:0000716]	lp_0539
+oligopeptide transport [GO:0006857]	lp_0551
+ teichoic acid biosynthetic process [GO:0019350]	lp_0564
+recombinational repair [GO:0000725]	lp_0606
+ protein secretion [GO:0009306]	lp_0616
+ protein transport by the Sec complex [GO:0043952]	lp_0616	lp_1056
+DNA-templated transcription, elongation [GO:0006354]	lp_0617
+ DNA-templated transcription, termination [GO:0006353]	lp_0617
+ regulation of DNA-templated transcription, elongation [GO:0032784]	lp_0617
+ transcription antitermination [GO:0031564]	lp_0617	lp_2043	lp_1598
+alcohol metabolic process [GO:0006066]	lp_3662
+ carbon utilization [GO:0015976]	lp_3662
+signal peptide processing [GO:0006465]	lp_3675	lp_2862	lp_2863
+lipid metabolic process [GO:0006629]	lp_0690	lp_1277	lp_1328	lp_1578	lp_2344	lp_2582	lp_3342
+deoxyribonucleotide biosynthetic process [GO:0009263]	lp_0692
+tRNA wobble adenosine to inosine editing [GO:0002100]	lp_0696
+enzyme-directed rRNA 2'-O-methylation [GO:0000453]	lp_0707
+N-terminal protein amino acid acetylation [GO:0006474]	lp_0720	lp_0718
+phosphate ion transport [GO:0006817]	lp_0733	lp_0746	lp_0747
+primary metabolic process [GO:0044238]	lp_0737
+ regulation of translation [GO:0006417]	lp_0737
+phosphate ion transmembrane transport [GO:0035435]	lp_0748	lp_3225
+cellular phosphate ion homeostasis [GO:0030643]	lp_0751
+ negative regulation of phosphate metabolic process [GO:0045936]	lp_0751
+ phosphate ion transport [GO:0006817]	lp_0751
+biosynthetic process [GO:0009058]	lp_0757	lp_0874	lp_1106	lp_1280	lp_1410	lp_1739	lp_2684	lp_1407	lp_2683	lp_2751	lp_2888	lp_3207	lp_0339	lp_3517
+ UDP-glucose metabolic process [GO:0006011]	lp_0757
+removal of superoxide radicals [GO:0019430]	lp_0761
+regulation of cell shape [GO:0008360]	lp_0780	lp_2318	lp_2317
+protein secretion [GO:0009306]	lp_0795
+amino acid transport [GO:0006865]	lp_0802	lp_2111	lp_0882	lp_0883	lp_1008	lp_1297	lp_1409	lp_2240	lp_2314	lp_0120	lp_3210	lp_3339
+hexose metabolic process [GO:0019318]	lp_0826
+phosphorus metabolic process [GO:0006793]	lp_0841
+ pyridoxal 5'-phosphate salvage [GO:0009443]	lp_0863
+transposition, DNA-mediated [GO:0006313]	lp_0911	lp_2006	lp_3569	lp_1195	lp_0216	lp_3331	lp_3496
+DNA restriction-modification system [GO:0009307]	lp_0938	lp_0939	lp_0940	lp_0942	lp_0943
+ncRNA processing [GO:0034470]	lp_0963	lp_2221	lp_1151	lp_2653
+ pseudouridine synthesis [GO:0001522]	lp_0963	lp_2221
+asparagine biosynthetic process [GO:0006529]	lp_0980	lp_3085
+protein flavinylation [GO:0017013]	lp_1072	lp_2936	lp_3492
+prosthetic group biosynthetic process [GO:0051191]	lp_1114
+aerobic electron transport chain [GO:0019646]	lp_1125
+cell redox homeostasis [GO:0045454]	lp_1129	lp_1822	lp_2151	lp_3267	lp_0369	lp_0694	lp_0760	lp_0766	lp_1445	lp_1925	lp_1941	lp_2544	lp_3449
+ glutathione transmembrane transport [GO:0034775]	lp_1129
+metabolic process [GO:0008152]	lp_1138	lp_1425	lp_2645	lp_0952	lp_1090	lp_1113	lp_0055	lp_3125	lp_3151	lp_3153	lp_0182	lp_3154	lp_3491
+DNA unwinding involved in DNA replication [GO:0006268]	lp_1144
+cell wall macromolecule catabolic process [GO:0016998]	lp_1158	lp_0675	lp_0681	lp_1767	lp_2401	lp_2810	lp_3093
+ peptidoglycan catabolic process [GO:0009253]	lp_1158	lp_1982	lp_0675	lp_0681	lp_1767	lp_2401	lp_2810	lp_3093
+cellular amino acid metabolic process [GO:0006520]	lp_1169
+extracellular polysaccharide biosynthetic process [GO:0045226]	lp_1186	lp_1198	lp_2107
+dTDP-rhamnose biosynthetic process [GO:0019305]	lp_1188	lp_1190
+nucleotide-sugar metabolic process [GO:0009225]	lp_1189
+lipopolysaccharide biosynthetic process [GO:0009103]	lp_1197	lp_1182	lp_2108
+carboxylic acid metabolic process [GO:0019752]	lp_1245	lp_2349	lp_0350
+peptide transport [GO:0015833]	lp_1261	lp_1264	lp_0200	lp_0201	lp_1265
+ transmembrane transport [GO:0055085]	lp_1261	lp_0200	lp_0201	lp_0712	lp_1008	lp_1297	lp_2240	lp_0120	lp_3339
+enzyme-directed rRNA pseudouridine synthesis [GO:0000455]	lp_1319	lp_1781	lp_1888
+bacteriocin immunity [GO:0030153]	lp_1339	lp_0950	lp_0972	lp_1694	lp_2513	lp_2616	lp_2952	lp_3248	lp_3268
+methionine metabolic process [GO:0006555]	lp_1374
+iron ion homeostasis [GO:0055072]	lp_1466
+cysteine metabolic process [GO:0006534]	lp_1470
+ molybdopterin cofactor biosynthetic process [GO:0032324]	lp_1494
+nitrate metabolic process [GO:0042126]	lp_1497	lp_1498
+nitrate assimilation [GO:0042128]	lp_1500	lp_1481
+mature ribosome assembly [GO:0042256]	lp_1532
+ negative regulation of ribosome biogenesis [GO:0090071]	lp_1532
+ negative regulation of translation [GO:0017148]	lp_1532
+phosphorelay signal transduction system [GO:0000160]	lp_1544	lp_3580	lp_3638	lp_0743	lp_1356	lp_1487	lp_1942	lp_2506	lp_2665	lp_0036	lp_3087	lp_3191	lp_0283	lp_0417	lp_0418
+glutamine biosynthetic process [GO:0006542]	lp_1581
+glycine betaine transport [GO:0031460]	lp_1607
+protein phosphorylation [GO:0006468]	lp_1619	lp_3176
+ thiamine metabolic process [GO:0006772]	lp_1622
+RNA methylation [GO:0001510]	lp_1724
+ organic substance catabolic process [GO:1901575]	lp_1730	lp_0181	lp_3530	lp_3632	lp_0028	lp_3471	lp_3473
+isopentenyl diphosphate biosynthetic process, mevalonate pathway [GO:0019287]	lp_1733	lp_1734
+nitrogen compound metabolic process [GO:0006807]	lp_1784	lp_1523	lp_0433
+rescue of stalled ribosome [GO:0072344]	lp_1793
+ poly(ribitol phosphate) teichoic acid biosynthetic process [GO:1902012]	lp_1817	lp_1816
+ transposition, DNA-mediated [GO:0006313]	lp_1847	lp_1892
+glycine biosynthetic process [GO:0006545]	lp_1869
+transmembrane transport [GO:0055085]	lp_1909	lp_0343	lp_0558	lp_0594	lp_3643	lp_3644	lp_3686	lp_0783	lp_1096	lp_1119	lp_1262	lp_1263	lp_1325	lp_1326	lp_1608	lp_1610	lp_1745	lp_1748	lp_1811	lp_2077	lp_2351	lp_2740	lp_2773	lp_2829	lp_0018	lp_0092	lp_0176	lp_0177	lp_0316	lp_0317	lp_0464	lp_3402
+ pyruvate metabolic process [GO:0006090]	lp_1912	lp_2136
+proton export across plasma membrane [GO:0120029]	lp_1919
+DNA-templated transcription, initiation [GO:0006352]	lp_1962	lp_0614	lp_0787
+methylation [GO:0032259]	lp_1989	lp_0695	lp_1314	lp_1533	lp_1603	lp_1756	lp_2082	lp_2215	lp_2504
+acetoin biosynthetic process [GO:0045151]	lp_2030
+tyrosine biosynthetic process [GO:0006571]	lp_2034
+CDP-diacylglycerol biosynthetic process [GO:0016024]	lp_2050
+ farnesyl diphosphate biosynthetic process, mevalonate pathway [GO:0010142]	lp_2067
+D-tagatose 6-phosphate catabolic process [GO:2001059]	lp_2096
+ lactose metabolic process [GO:0005988]	lp_2096
+pyrimidine nucleotide metabolic process [GO:0006220]	lp_2130
+[2Fe-2S] cluster assembly [GO:0044571]	lp_2180
+L-methionine salvage from methylthioadenosine [GO:0019509]	lp_2181
+ nucleoside catabolic process [GO:0009164]	lp_2181
+FtsZ-dependent cytokinesis [GO:0043093]	lp_2194	lp_2195	lp_2201
+negative regulation of transcription, DNA-templated [GO:0045892]	lp_2256	lp_2228	lp_2029	lp_1511	lp_0725	lp_3365	lp_3438
+phosphatidylglycerol biosynthetic process [GO:0006655]	lp_2303
+glutathione biosynthetic process [GO:0006750]	lp_2324
+pantothenate biosynthetic process [GO:0015940]	lp_2532	lp_2788
+transsulfuration [GO:0019346]	lp_2536	lp_2634	lp_0255
+cell adhesion [GO:0007155]	lp_2578	lp_2588	lp_1097	lp_2958	lp_3018	lp_0197	lp_3302
+sodium ion transport [GO:0006814]	lp_2608	lp_0815	lp_2674	lp_3122
+1-deoxy-D-xylulose 5-phosphate biosynthetic process [GO:0052865]	lp_2610
+asparagine metabolic process [GO:0006528]	lp_2738
+response to antibiotic [GO:0046677]	lp_3000	lp_0085	lp_1393	lp_2499	lp_0076	lp_0098
+ phosphoenolpyruvate-dependent sugar phosphotransferase system [GO:0009401]	lp_0170
+sucrose metabolic process [GO:0005985]	lp_0187
+cysteine biosynthetic process from serine [GO:0006535]	lp_0254	lp_0256
+teichoic acid biosynthetic process [GO:0019350]	lp_0269	lp_1248	lp_1818	lp_1819	lp_1977	lp_0267	lp_0268
+ 'de novo' IMP biosynthetic process [GO:0006189]	lp_3269
+cardiolipin biosynthetic process [GO:0032049]	lp_3273
+folic acid biosynthetic process [GO:0046656]	lp_3294	lp_3298	lp_3299
+fructose 1,6-bisphosphate metabolic process [GO:0030388]	lp_0330
+glycerol metabolic process [GO:0006071]	lp_0371	lp_1626	lp_0166	lp_0168	lp_0169
+tryptophanyl-tRNA aminoacylation [GO:0006436]	lp_0434
+coenzyme A metabolic process [GO:0015936]	lp_0447
+xenobiotic detoxification by transmembrane export across the plasma membrane [GO:1990961]	lp_0455
+nucleotide catabolic process [GO:0009166]	lp_3400	lp_2237
+glutamate metabolic process [GO:0006536]	lp_3420
+ sodium ion transport [GO:0006814]	lp_3468	lp_3486	lp_0975	lp_0331
+ N-acetylmannosamine metabolic process [GO:0006051]	lp_3571
+ cellular amino acid metabolic process [GO:0006520]	lp_2703
+regulation of gene expression [GO:0010468]	nkap
+tRNA 5'-leader removal [GO:0001682]	lp_3688
+tRNA wobble uridine modification [GO:0002098]	lp_3681
+ quorum sensing [GO:0009372]	lp_3582
+L-arabinose catabolic process to xylulose 5-phosphate [GO:0019569]	lp_3554
+adenine catabolic process [GO:0006146]	lp_3334
+purine nucleotide metabolic process [GO:0006163]	lp_3271
+RNA processing [GO:0006396]	lp_3226	lp_0612	lp_1555
+D-amino acid metabolic process [GO:0046416]	lp_2776
+proton motive force-driven plasma membrane ATP synthesis [GO:0042777]	lp_2365
+translation [GO:0006412]	lp_2331	lp_2216	lp_2155	lp_2126	lp_2125	lp_2055	lp_1973	lp_1640	lp_1636	lp_1624	lp_1594	lp_1592	lp_1149	lp_1148	lp_1078	lp_1077	lp_1063	lp_1061	lp_1060	lp_1055	lp_1054	lp_1053	lp_1052	lp_1051	lp_1050	lp_1048	lp_1047	lp_1046	lp_1045	lp_1044	lp_1041	lp_1040	lp_1039	lp_1038	lp_1036	lp_1035	lp_1034	lp_1033	lp_1032	lp_1026	lp_1025	lp_0622	lp_0621	lp_0619	lp_0538	lp_0512	lp_0013	lp_0011	lp_0009	lp_1569	lp_2662	lp_1535.1	lp_1516	lp_1059.1	lp_1043	lp_0615
+ septin ring assembly [GO:0000921]	lp_2328
+mRNA catabolic process [GO:0006402]	lp_2300
+alanyl-tRNA aminoacylation [GO:0006419]	lp_2277
+rRNA 5'-end processing [GO:0000967]	lp_2274
+rRNA base methylation [GO:0070475]	lp_2202
+adenine salvage [GO:0006168]	lp_2086
+ AMP salvage [GO:0044209]	lp_2086
+translational termination [GO:0006415]	lp_2052
+prolyl-tRNA aminoacylation [GO:0006433]	lp_2048
+DNA-templated DNA replication [GO:0006261]	lp_2045
+maturation of SSU-rRNA [GO:0030490]	lp_2039
+ lipoteichoic acid biosynthetic process [GO:0070395]	lp_2017	lp_1406
+histidyl-tRNA aminoacylation [GO:0006427]	lp_1981
+glycyl-tRNA aminoacylation [GO:0006426]	lp_1965	lp_1964
+cell division [GO:0051301]	lp_1889	lp_0542	lp_2078	lp_2137	lp_2190	lp_2191	lp_2354
+ chromosome separation [GO:0051304]	lp_1889
+protein unfolding [GO:0043335]	lp_1845
+protein repair [GO:0030091]	lp_1836
+ isoprenoid biosynthetic process [GO:0008299]	lp_1816
+tetrahydrofolate interconversion [GO:0035999]	lp_1779
+asparaginyl-tRNA aminoacylation [GO:0006421]	lp_1740	lp_0956
+cellular aromatic compound metabolic process [GO:0006725]	lp_1712
+tryptophan biosynthetic process [GO:0000162]	lp_1656	lp_1655	lp_1654
+DNA catabolic process [GO:0006308]	lp_1601	lp_1600
+regulation of DNA-templated transcription, elongation [GO:0032784]	lp_1563	lp_0223
+ translation [GO:0006412]	lp_1517	lp_1147	lp_0620
+arginine catabolic process to ornithine [GO:0019547]	lp_1411
+ protein complex oligomerization [GO:0051259]	lp_1411	lp_1604
+arginyl-tRNA aminoacylation [GO:0006420]	lp_1391
+leucyl-tRNA aminoacylation [GO:0006429]	lp_1316
+heme biosynthetic process [GO:0006783]	lp_1296
+regulation of translational termination [GO:0006449]	lp_1255
+regulation of DNA repair [GO:0006282]	lp_1240
+polysaccharide biosynthetic process [GO:0000271]	lp_1203	lp_1372	lp_2747	lp_2989
+regulation of translational fidelity [GO:0006450]	lp_1147
+L-asparagine biosynthetic process [GO:0070981]	lp_0957
+trans-translation [GO:0070929]	lp_0799
+ regulation of sporulation [GO:0043937]	lp_0781
+quorum sensing [GO:0009372]	lp_0774
+lipoprotein biosynthetic process [GO:0042158]	lp_0755
+ response to redox state [GO:0051775]	lp_0725
+dTDP biosynthetic process [GO:0006233]	lp_0703
+regulation of translation [GO:0006417]	lp_0620
+cellular response to stimulus [GO:0051716]	lp_0570
+ transcription, DNA-templated [GO:0006351]	lp_0480
+mannitol metabolic process [GO:0019594]	lp_0233
+DNA replication initiation [GO:0006270]	lp_0001
+ regulation of DNA replication [GO:0006275]	lp_0001
+beta-lactam antibiotic catabolic process [GO:0030655]	lp_0469	lp_2341
+amino acid transmembrane transport [GO:0003333]	lp_0502
+peptidoglycan biosynthetic process [GO:0009252]	lp_0536	lp_1403	lp_3084	lp_3155
+nucleobase-containing compound metabolic process [GO:0006139]	lp_0569	lp_3615	lp_2591	lp_2825	lp_0363
+organic substance biosynthetic process [GO:1901576]	lp_0578
+cellular biosynthetic process [GO:0044249]	lp_0581	lp_1652
+ secondary metabolite biosynthetic process [GO:0044550]	lp_0581
+dUMP biosynthetic process [GO:0006226]	lp_0604
+ dUTP catabolic process [GO:0046081]	lp_0604
+DNA integration [GO:0015074]	lp_0624	lp_0941	lp_1192	lp_1196	lp_1212	lp_1268	lp_1833	lp_1997	lp_2455	lp_2480	lp_3390
+DNA metabolic process [GO:0006259]	lp_0641
+carbohydrate derivative metabolic process [GO:1901135]	lp_3559	lp_1157	lp_1934	lp_2603	lp_3335	lp_0285	lp_0442	lp_3521
+cation transport [GO:0006812]	lp_3565	lp_0400
+ organonitrogen compound metabolic process [GO:1901564]	lp_3615	lp_2591	lp_2825	lp_0363
+mannose metabolic process [GO:0006013]	lp_3631
+carbohydrate transport [GO:0008643]	lp_3635	lp_0975	lp_2069	lp_0180	lp_0331
+chromosome organization [GO:0051276]	lp_0660	lp_2423
+cytokinin biosynthetic process [GO:0009691]	lp_0691
+ nitrogen compound metabolic process [GO:0006807]	lp_0695	lp_2059
+ organic substance metabolic process [GO:0071704]	lp_0695
+organic phosphonate transport [GO:0015716]	lp_0712
+CAAX-box protein processing [GO:0071586]	lp_0726	lp_0919	lp_1359	lp_2911	lp_0300	lp_0301	lp_0412	lp_0419	lp_0426	lp_0428	lp_0429	lp_0425
+potassium ion transport [GO:0006813]	lp_0794	lp_0902	lp_1385	lp_2176	lp_2177
+purine nucleobase transmembrane transport [GO:1904823]	lp_0848	lp_2712
+butanediol metabolic process [GO:0034077]	lp_1005
+NADH oxidation [GO:0006116]	lp_1069
+ metal ion transport [GO:0030001]	lp_1097	lp_3018	lp_3302
+cysteine transport [GO:0042883]	lp_1128
+purine nucleotide biosynthetic process [GO:0006164]	lp_1141
+superoxide metabolic process [GO:0006801]	lp_1440
+iron-sulfur cluster assembly [GO:0016226]	lp_1469	lp_1471	lp_1472
+chaperone-mediated protein complex assembly [GO:0051131]	lp_1499
+ nitrate assimilation [GO:0042128]	lp_1499
+quinone biosynthetic process [GO:1901663]	lp_1546
+organic substance metabolic process [GO:0071704]	lp_1653
+lipid biosynthetic process [GO:0008610]	lp_1696	lp_3174
+UDP-N-acetylglucosamine biosynthetic process [GO:0006048]	lp_1797	lp_2579
+DNA-mediated transformation [GO:0009294]	lp_1852
+ DNA restriction-modification system [GO:0009307]	lp_1858
+daunorubicin transport [GO:0043215]	lp_1910
+ doxorubicin transport [GO:1900753]	lp_1910
+chorismate metabolic process [GO:0046417]	lp_2038
+cellular macromolecule metabolic process [GO:0044260]	lp_2059
+ macromolecule modification [GO:0043412]	lp_2059
+ primary metabolic process [GO:0044238]	lp_2059
+establishment of competence for transformation [GO:0030420]	lp_2129	lp_2244	lp_2246	lp_2247
+rRNA methylation [GO:0031167]	lp_2134
+inositol phosphate dephosphorylation [GO:0046855]	lp_2147
+ division septum assembly [GO:0000917]	lp_2316
+ regulation of cell septum assembly [GO:1901891]	lp_2316
+glycine decarboxylation via glycine cleavage system [GO:0019464]	lp_2353
+organic acid catabolic process [GO:0016054]	lp_2548
+ polyphosphate metabolic process [GO:0006797]	lp_2589
+dephosphorylation [GO:0016311]	lp_2735	lp_0069	lp_3272
+carboxylic acid transport [GO:0046942]	lp_2818
+tricarboxylic acid cycle [GO:0006099]	lp_2830
+cellular aldehyde metabolic process [GO:0006081]	lp_0047
+response to arsenic-containing substance [GO:0046685]	lp_0059
+nucleoside metabolic process [GO:0009116]	lp_0125
+fatty acid metabolic process [GO:0006631]	lp_0139
+response to oxidative stress [GO:0006979]	lp_0220
+CTP biosynthetic process [GO:0006241]	lp_0242
+ GTP biosynthetic process [GO:0006183]	lp_0242
+ nucleoside diphosphate phosphorylation [GO:0006165]	lp_0242
+ UTP biosynthetic process [GO:0006228]	lp_0242
+trehalose catabolic process [GO:0005993]	lp_0263
+D-xylose metabolic process [GO:0042732]	lp_3172
+GMP biosynthetic process [GO:0006177]	lp_3194
+carotenoid biosynthetic process [GO:0016117]	lp_3262	lp_3263
+organic acid phosphorylation [GO:0031388]	lp_3266
+nucleoside triphosphate catabolic process [GO:0009143]	lp_3295
+toxin biosynthetic process [GO:0009403]	lp_3301
+nitrogen compound transport [GO:0071705]	lp_3324
+cellular manganese ion homeostasis [GO:0030026]	lp_3359	lp_3360
+polyamine transport [GO:0015846]	lp_0315
+negative regulation of protein adenylylation [GO:1900723]	lp_3478

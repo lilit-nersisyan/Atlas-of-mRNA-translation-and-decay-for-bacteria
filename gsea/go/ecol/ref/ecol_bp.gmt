@@ -1,0 +1,2270 @@
+cellular response to magnesium starvation [GO:0010350]	b4599	b1129
+protein adenylylation [GO:0018117]	b4407	b3992	b0607	b1706
+ thiamine biosynthetic process [GO:0009228]	b4407	b2530	b0417	b3992	b3990	b0446	b2103	b0420	b0423
+ thiamine diphosphate biosynthetic process [GO:0009229]	b4407	b0417	b3992	b3991	b3990	b2103	b0423	b3993	b2104	b3994	b1106
+ thiazole biosynthetic process [GO:0052837]	b4407	b3992	b0423
+D-gluconate catabolic process [GO:0046177]	b2029	b1851	b4321	b4268	b3437
+ pentose-phosphate shunt [GO:0006098]	b2029	b1852	b2464	b0767
+ pentose-phosphate shunt, oxidative branch [GO:0009051]	b2029	b1852
+anaerobic respiration [GO:0009061]	b4154	b3365	b4152	b4151	b2241	b1334	b2203	b4153	b1276	b2206	b0993	b3236	b2243	b3366	b2242	b3551	b1872	b1587	b1588	b1589	b2202	b0994	b4380
+ bacterial-type flagellum assembly [GO:0044780]	b4154	b4152	b4151	b4153
+ bacterial-type flagellum-dependent cell motility [GO:0071973]	b4154	b3295	b3649	b4152	b3988	b3987	b1939	b4153	b1922	b1941	b1948	b1949	b1940	b1950	b1942	b1879	b1880	b1947	b1943	b1081	b1926	b1925	b1072
+ cellular response to DNA damage stimulus [GO:0006974]	b4154	b3744	b2068	b3635	b0273	b2500	b3959	b4383	b4381	b4177	b2699	b2290	b3701	b3433	b1131	b4000	b3892	b4034	b1397	b1197	b4005	b1740	b1467	b1623	b0925	b3894	b1198	b3579	b2038	b1831	b2367	b1200	b1296	b1317	b0284	b3432	b1080	b0135	b1478	b2368	b0509	b2483	b0937	b1780	b1853	b1035	b2486	b0804	b3047
+ fermentation [GO:0006113]	b4154	b4152	b4151	b0974	b4153	b0973	b3236	b0972
+glutamate biosynthetic process [GO:0006537]	b1761	b0485	b1524
+ glutamate metabolic process [GO:0006536]	b1761
+aerobic electron transport chain [GO:0019646]	b1109	b0431	b0432	b0430	b0429	b0733	b0734	b0979	b0978	b4515
+ aerobic respiration [GO:0009060]	b1109	b0431	b0432	b0430	b0429
+ anaerobic respiration [GO:0009061]	b1109	b2133	b4079	b1224	b1475	b0974	b0723	b0156	b0973	b2994	b1476	b3892	b1465	b1225	b1227	b2721	b2719	b0894	b0895	b1467	b1468	b1474	b3894	b0997	b0996	b0972	b2997	b2996	b2724	b2723	b2722	b2720	b0896	b2482	b2995	b1873	b2487	b2483	b2485	b1590	b2484	b2486
+ copper ion homeostasis [GO:0055070]	b1109	b0484
+ NADH oxidation [GO:0006116]	b1109
+cellular response to selenium ion [GO:0071291]	b3908
+ removal of superoxide radicals [GO:0019430]	b3908	b0888
+ response to acidic pH [GO:0010447]	b3908	b3509	b2370	b1967	b1826	b0485	b0904	b1592
+ response to heat [GO:0009408]	b3908	b3067	b3164	b0015	b2614	b4143	b4142	b0437	b3931	b1185	b3887	b3401	b0014	b0473	b3932	b3295	b3649	b0436	b0659	b3988	b3987	b3349	b0439	b4175	b4174	b0212	b3400	b1676	b1304	b3461	b3687	b3686	b0161	b1243	b4173	b0781	b3153	b2592	b4539	b2584	b2458	b0935	b0424	b3034	b0730	b0931	b1530	b1380	b1512	b0881	b0966	NA
+ response to oxidative stress [GO:0006979]	b3908	b1611	b1136	b1014	b3401	b4219	b1778	b1905	b0116	b1241	b0882	b3961	b0605	b2480	b3844	b1482	b0161	b3942	b2752	b1732	b1276	b2907	b3017	b2521	b0606	b3612	b3153	b3414	b1971	b2584	b2302	b1684	b1018	b4063	b4209	b1679	b1378	b1681	b4217	b1376
+ superoxide metabolic process [GO:0006801]	b3908	b1646	b1656
+2'-deoxyribonucleotide biosynthetic process [GO:0009265]	b2234	b4237	b4238	b2235
+ deoxyribonucleotide biosynthetic process [GO:0009263]	b2234	b0849	b2235	b3610
+ DNA replication [GO:0006260]	b2234	b3863	b0099	b0015	b0014	b4043	b3701	b4052	b4109	b0397	b2411	b3822	b3935	b0924	b4238	b2675	b3149	b2235	b0398	b0923	b3647	b2676	b0922
+ nucleobase-containing small molecule interconversion [GO:0015949]	b2234	b1281	b4381	b1098	b4177	b4237	b2143	b2784	b3650	b0160	b3779	b2065	b4238	b2675	b2407	b2235
+ ribonucleoside diphosphate metabolic process [GO:0009185]	b2234	b2235
+alpha-glucan catabolic process [GO:0030980]	b3417	b3571	b0403
+ glycogen catabolic process [GO:0005980]	b3417	b3431
+L-phenylalanine biosynthetic process [GO:0009094]	b0928
+ L-phenylalanine biosynthetic process from chorismate via phenylpyruvate [GO:0033585]	b0928	b4054
+mannitol transmembrane transport [GO:0015797]	b3599
+ phosphoenolpyruvate-dependent sugar phosphotransferase system [GO:0009401]	b3599	b0679	b2415	b2093	b1198	b4193	b0731	b2417	b1101	b1736	b1738	b1817	b1818	b1819	b2169	b4194	b2094	b2429	b3132	b1737	b1621	b4195	b2092	b2095	b3683	b4302	b4304	b3136	b4565	b4662	b2707
+ phosphorylation [GO:0016310]	b3599	b0002	b3940	b2704	b1888	b4024	b2416	b0679	b2296	b3959	b3390	b0388	b3926	b0910	b2750	b1207	b1098	b2615	b0242	b0171	b4042	b3404	b0477	b2784	b3650	b3115	b2167	b1702	b4390	b4240	b0731	b2703	b0474	b2417	b1101	b1738	b1817	b2169	b4194	b2094	b2429	b0570	b3722	b3974	b0103	b2066	b1993	b1621	b1238	b0142	b0915	b3899	b3947	b1208	b4195	b3204	b2383	b1640	b3355	b0025	b2715	b3900	b3953	b0521	b4268	b4302	b3133	b3138	b3437	b4565	b3682	b2387	b3950	b2934	b2933	b2460	b2461	b1511	b2737	b0129	b2776	b0323	b2874
+homoserine biosynthetic process [GO:0009090]	b0002	b3940	b4024
+ lysine biosynthetic process via diaminopimelate [GO:0009089]	b0002	b3940	b0031	b4024	b2478	b0166	b3433	b2472	b3359
+ protein homotetramerization [GO:0051289]	b0002	b2957	b3956	b0956	b1767	b0892	b0677	b1606	b2708	b2938	b2039	b3197	b0126	b1694	b1773
+ threonine biosynthetic process [GO:0009088]	b0002	b3940	b3433	b0003
+ methionine biosynthetic process [GO:0009086]	b3940	b3939	b3008	b4019	b0529	b3829	b0261	b0260
+DNA-templated transcription, initiation [GO:0006352]	b3067	b2741	b2491	b3243
+ negative regulation of transcription, DNA-templated [GO:0045892]	b3067	b2697	b2213	b1323	b4043	b2916	b1187	b0683	b0761	b1237	b0889	b3357	b0506	b1658	b3912	b3995	b2573	b2217	b2741	b4018	b4187	b3319	ECOK12F043	b1625	b3071	b3022	b0225	b0226	b3938	b3963	b0313	b0081	b1530	b1799	b2427	b1328	b3438	b4089	b1164	b0346	b1320
+ regulation of DNA-templated transcription, initiation [GO:2000142]	b3067	b3295	b3649	b3988	b3987	b3961	b1922	b2573	b0399	b2491	b0020	b4292	b1988
+base-excision repair [GO:0006284]	b3863	b2068	b3635	b2159	b2580	b0714	b3549	b2961
+ DNA repair [GO:0006281]	b3863	b2068	b2011	b2212	b0099	b1749	b2159	b4043	b4000	b0440	b1183	b0550	b0397	b3822	b3652	b0799	b1114	b3385	b3421	b3399	b2755	b0424	b0398	b0232	b2892	b2698
+ DNA-templated DNA replication [GO:0006261]	b3863	b0215	b0470	b4362	b3701	b3387	b2231	b3699	b1763	b3935	b0640	b1099	b4372	b4259	b0231	b0060	b0467
+ double-strand break repair [GO:0006302]	b3863	b2616	b3935	b2184	b3700	b2565	b0876
+dephosphorylation [GO:0016311]	b0383	b3812	b1002	b3399
+ protein dephosphorylation [GO:0006470]	b0383	b1703	b1881	b3404	b1222	b3869	b4016	b0695	b0993	b2061
+lactose catabolic process [GO:0005990]	b0344	b3076
+protein processing [GO:0016485]	b2568	b4235	b3244
+ proteolysis [GO:0006508]	b2568	b0027	b3396	b0149	b0839	b0437	b3931	b3932	b4043	b0439	b3178	b1326	b0635	b0084	b0376	b0494	b0168	b0632	b3235	b2134	b1856	b2175	b1183	b2328	b0161	b0237	b3847	b1830	b3182	b2010	b2523	b3234	b2233	b4260	b1192	b1931	b2519	NA	b3498	b1127	b1655	b1976	b1488	b0881	b2753	b3324	NA	b0556	b0955	b1362	b2970	b0247
+ signal peptide processing [GO:0006465]	b2568	b3498
+lipoprotein biosynthetic process via signal peptide cleavage [GO:0097304]	b0027
+asparagine catabolic process [GO:0006530]	b2957
+antibiotic catabolic process [GO:0017001]	b4150	b0446
+ response to antibiotic [GO:0046677]	b4150	b0026	b3396	b0149	b3035	b3390	b3636	b3342	b3296	b3303	b1045	b1719	b3988	b3987	b2617	b2290	b3463	b0762	b0048	b0635	b0463	b1288	b2231	b3699	b0842	b0377	b3305	b3311	b1563	b2217	b3935	b3030	b0179	b0925	b1830	b1507	b2470	b3182	b1430	b2182	b4113	b2521	b1663	b3513	b3514	b2038	b4337	b4394	b2367	b4409	b3319	b3057	b3315	b3191	b2519	b1317	b2255	b2253	b2254	b0225	NA	b1531	b0591	b1429	b4114	b0135	b1348	b2211	b2368	b0841	b2684	b1347	b2037	b1352	b0479	b2256	b4586	b3594	b0546
+lysine biosynthetic process via diaminopimelate [GO:0009089]	b2838	b3809	b2839
+carbon fixation [GO:0015977]	b3956
+ gluconeogenesis [GO:0006094]	b3956	b4025	b4232	b3925	b2930	b4471
+ oxaloacetate metabolic process [GO:0006107]	b3956	b0616
+ tricarboxylic acid cycle [GO:0006099]	b3956	b1611	b0724	b1136	b0728	b4015	b0116	b0720	b4139	b0723	b0722	b4153	b0727	b0729	b4016	b1276	b0333	b0118	b2976	b3236	b0721	b0334	b4014	b0518	b0771	NA
+branched-chain amino acid biosynthetic process [GO:0009082]	b0077	b0078	b3772	b3671	NA	b3670	b3769	b3773	b3766
+ isoleucine biosynthetic process [GO:0009097]	b0077	b0078	b2366	b3772	b3671	b3433	b3770	b0507	NA	b3670	b3769
+ valine biosynthetic process [GO:0009099]	b0077	b0078	b3771	b3774	b3671	b3770	b0507	NA	b3572	b3670	b3769	b4488
+folic acid biosynthetic process [GO:0046656]	b3360	b1812	b2315	b3177	b3058	b1865	b0142
+ glutamine metabolic process [GO:0006541]	b3360	b0033	b0032	b2780	b2312	b2557	b3729	b0674
+ tetrahydrofolate biosynthetic process [GO:0046654]	b3360	b1812	b2315	b2153	b0048	b3177	b3058	b1865	b1096	b0142
+ tryptophan biosynthetic process [GO:0000162]	b3360	b1263	b1261	b1260	b2024	b1265
+glutamine metabolic process [GO:0006541]	b1263	b2507	b2023	b0223
+ phenazine biosynthetic process [GO:0002047]	b1263
+photoreactive repair [GO:0000719]	b0708
+ phototransduction, visible light [GO:0007603]	b0708
+ response to light stimulus [GO:0009416]	b0708	b0475
+cellular response to DNA damage stimulus [GO:0006974]	b2366	b4033	b4036	b1184	b2819	b2616	b2213	b2215	b1723	b4213	b1749	b0679	b3926	b0473	b4043	b3167	b3528	b1913	b0957	b1905	b0902	b4384	b0506	b3961	b2979	b1222	b0958	b1183	b3728	b3831	b4122	b3822	b3431	b1732	b0030	b0543	b2733	b4352	b4322	b2663	b3990	b1114	b1019	b1896	b4187	b3603	b3409	b3526	b3588	b4354	b1059	b3222	b3421	b2107	b3071	b3191	b1931	b1968	b2889	b2755	b0231	b0261	b4618	b4382	b3726	b3429	b0426	b4149	b2149	b0314	b3604	b1993	b2456	b0592	b0792	b2024	b2148	b0591	b4239	b2009	b3516	b4326	b4347	b3080	b3221	b3515	b0830	b1008	b3001	b0232	b2365	b3503	b3438	b4312	b2266	b3408	b3558	b2109	b3480	b2698	b2037	b4189	b4280	b3144	b0479	b1741	b1815	b4586	b4613	b2294	b1930	b0685	b0802	b1050	b2135	b3562	b3594	b3688	b2922	b3597	b3563	b1258	b3645	b4335	b4377	b2921	b1728	b1284	b1497	b1697	b2506	b2544	b2774	b3050	b4415	b1664	b1320	b0546	b2971	b0363	b0247	b4353	b4144	b3121	b1188	b3219	b1724	b0024	b0877	b1104
+ D-serine catabolic process [GO:0036088]	b2366
+ D-serine metabolic process [GO:0070178]	b2366
+ detoxification of nitrogen compound [GO:0051410]	b2366
+cysteine biosynthetic process via cystathionine [GO:0019343]	b3939
+ transsulfuration [GO:0019346]	b3939	b3008	b2521
+cAMP biosynthetic process [GO:0006171]	b3806
+colanic acid biosynthetic process [GO:0009242]	b1613	b1236	b2047	b2060	b2028	b2061	b0806	b2058	b2054	b2049	b2046	b2376	b2050	b2057	b2055	b2059
+ GDP-mannose biosynthetic process [GO:0009298]	b1613	b2049
+ mannose catabolic process [GO:0019309]	b1613
+isoleucyl-tRNA aminoacylation [GO:0006428]	b0026
+alanyl-tRNA aminoacylation [GO:0006419]	b2697
+ tRNA modification [GO:0006400]	b2697	b0835	b4171	b3166	b2081
+methionyl-tRNA aminoacylation [GO:0006431]	b2114
+glutaminyl-tRNA aminoacylation [GO:0006425]	b0680
+ glutamyl-tRNA aminoacylation [GO:0006424]	b0680
+asparagine biosynthetic process [GO:0006529]	b3744	b0674
+ L-asparagine biosynthetic process [GO:0070981]	b3744	b0674
+'de novo' UMP biosynthetic process [GO:0044205]	b0033
+ arginine biosynthetic process [GO:0006526]	b0033	b0032
+ cellular amino acid biosynthetic process [GO:0008652]	b0033	b1693	b3389	b0908	NA	b3390	b0388	b0754	b2329	b3281	b0674	b1704	b2601	b3769	b3773	b3766
+ nitrogen compound metabolic process [GO:0006807]	b0033	b0032	b4245	b2661	b1415	b0873	b1525	b4071	b0713
+ pyrimidine nucleobase biosynthetic process [GO:0019856]	b0033	b2780
+cytoplasmic translation [GO:0002181]	b4200	b3341	b3985	b3983	b3986	b2606	b3984	b1716	b3637	b3312	b3936	b1089	b3636	b4203	b3321	b3297	b3342	b3298	b2609	b4202	b3316	b0023	b0169	b3314	b3296	b3303	b3306	b3230	b3231	b3310	b3313	b3318	b3165	b3305	b3307	b3311	b0911	b3304	b3317	b3320	b3309	b3319	b3308	b3065	b2185	b3301	b1717	b3294	b3186	b3302	b3703	b3299
+ negative regulation of translation [GO:0017148]	b3341	b3985	b2316	b3231	b1563	b3319	b2185	b2696	b3022	b0637	b0233
+ ribosomal small subunit assembly [GO:0000028]	b3341	b2566	b0051	b3297	b2609	b3316	b0023	b0169	b3314	b3296	b3303	b3306	b2608	b3165	b3307	b3311	b0911	b3065	b3180
+ translation [GO:0006412]	b3341	b3287	b3985	b3983	b3986	b3936	b3297	b3342	b3303	b0659	b4391	b0481	b3165	b3307	b0911	b2184	b3309	b3315	b2185	b1204	b0172	b3170	b0852	b3407
+ maltodextrin transmembrane transport [GO:0042956]	b4033	b4036	b4034
+ maltose transport [GO:0015768]	b4033	b4034	b4032	b4035
+ negative regulation of maltose transport [GO:1902344]	b4033	b4032	b4035	b2417
+ negative regulation of transmembrane transport [GO:0034763]	b4033	b4032	b4035	b2417
+cell wall organization [GO:0071555]	b3396	b0092	b0839	b4053	b2813	b2380	b0819	b2126	b0635	b0376	b0632	b0211	b1069	b2134	b4392	b0925	b3967	b1097	b2010	b2435	b1990	b2701	b3208	b3057	b2817	b0867	b1192	b1678	b2519	NA	b0381	b0920	b0433	b0633	b0110	b4316	b1325	b0841	b1113	b1488	b4169	b2110	b3143	b1491	b0531	b2336	b0224	b3215	b0944	b0717	b0939	b3047
+ peptidoglycan biosynthetic process [GO:0009252]	b3396	b0149	b0092	b3972	b0839	b4053	b0087	b3189	b1278	b3251	b0089	b0634	b3730	b0635	b0084	b0632	b1069	b2134	b0086	b0088	b3250	b0090	b0091	b0085	b0925	b3967	b3182	b2516	b1097	b3176	b2010	b4233	b3208	b0174	b3057	b1107	b1192	b1678	b2519	NA	b0381	b0841	b0224
+ regulation of cell shape [GO:0008360]	b3396	b0149	b0092	b3972	b0839	b4053	b0087	b3189	b3251	b0819	b1105	b0089	b0634	b3730	b0635	b0084	b0376	b0632	b1069	b2134	b0086	b0088	b3250	b0090	b0091	b0085	b0925	b3967	b3182	b2516	b2010	b4233	b1990	b3147	b3208	b0174	b3057	b2005	b1107	b1192	b1678	b2519	NA	b0381	b0841	b1113	b2896	b3249	b0224
+cell wall repair [GO:0071433]	b0149
+ positive regulation of bipolar cell growth [GO:0051518]	b0149
+ response to X-ray [GO:0010165]	b0149	b0049	b2616	b0910	b0439	b0312	b0381	b3607	b1275	b0564	b2892	b0281	b2438	b1848
+carbohydrate transport [GO:0008643]	b0343	b4034	b3666	b3450	b4265	b3876	b3415	b1616	NA	b3657	b3683	b3877	b4302	b4304	b4565	b0270	b4524	b1615	b4037
+ lactose transport [GO:0015767]	b0343	b0070	b2170	b3659
+ organic substance transport [GO:0071702]	b0343	b4120	b2964	b2406	b3876	b1616	b3657	b3877	b0270
+melibiose transport [GO:0015769]	b4120
+ methylgalactoside transport [GO:0015765]	b4120	b2150	b2149	b2148
+L-arabinose transmembrane transport [GO:0042882]	b1901	b1900
+D-ribose transmembrane transport [GO:0015752]	b3751	b3749	b3750
+ positive chemotaxis [GO:0050918]	b3751	b1945
+cobalamin transport [GO:0015889]	b1252	b3966	b1711	b1709	b0158
+ colicin transport [GO:0042914]	b1252
+ iron ion homeostasis [GO:0055072]	b1252	b0584	b3295	b3649	b3988	b3987	b3006	b3005	b1654	b3844	b3409	b3190	b0435	b4290	b4288	b4289	b4287	b4293	b3408
+ metal ion homeostasis [GO:0055065]	b1252	b3006	b3005
+ protein transport [GO:0015031]	b1252	b0436	b0740	b3541	b3005	b0738	b3543	b3542	b0377	b3609	b0408	b0409	b0098	b0739	b1243	b3544	b2182	b3496	b3540	b1663	b4130	b1209	b1634	b1329	b0598	b1985	b1486	b1485	b1244	b1245	b1534	b0709	b1246	b1487	b1484	b1483	b1247
+ receptor-mediated bacteriophage irreversible attachment to host cell [GO:0098002]	b1252
+ siderophore transport [GO:0015891]	b1252	b0805	b3070
+bile acid and bile salt transport [GO:0015721]	b3035	b0463	b2470	b3513	b3514	b4337	b2367	b2075	b2076	b2368	b2074	b3020
+ enterobactin transport [GO:0042930]	b3035	b0584	b0591
+ ion transmembrane transport [GO:0034220]	b3035	b3966	b2215	b3291	b2924	b1377
+ response to organic cyclic compound [GO:0014070]	b3035	b1743
+ response to toxic substance [GO:0009636]	b3035	b0047	b1651	b0212	b4243	b2470	b2552	b1430	b2685	b3513	b3514	b0575	b0927	b0572	b0573	b0574	b1018	b2686
+ response to xenobiotic stimulus [GO:0009410]	b3035	b0839	b1094	b0048	b3177	b0084	b2742	b2231	b3699	b2134	b0543	b3924	b2184	b3613	b0464	b3265	b3264
+ xenobiotic detoxification by transmembrane export across the cell outer membrane [GO:0140330]	b3035	b0463	b2470	b2685	b2367	b2075	b2076	b2686	b3265	b2368	b2074
+ xenobiotic detoxification by transmembrane export across the plasma membrane [GO:1990961]	b3035	b0794	b0762	b0842	b0543	b2685	b2182	b1663	b4337	b2367	b1599	b1600	b4148	b0878	b0879	b2686	b0792	b0793	b4082	b2368	b1053	b3673	b3710	b1660
+ion transmembrane transport [GO:0034220]	b0929	b0241	b0553	b4496	b1472	NA
+cell motility [GO:0048870]	b4355	b2699
+ cellular response to amino acid stimulus [GO:0071230]	b4355
+ chemotaxis [GO:0006935]	b4355	b1945	b1886	b1888	b1890	b1887	b1881	b1939	b1882	b1889	b3544	b4069	b1941	b1078	b1948	b1949	b1946	b1940	b1950	b1942	b1879	b1880	b1937	b1073	b1074	b1944	b1947	b1077
+ detection of chemical stimulus [GO:0009593]	b4355	b1886
+ receptor clustering [GO:0043113]	b4355
+ regulation of bacterial-type flagellum-dependent cell motility [GO:1902021]	b4355	b1888	b1881	b1882	b2217	b1951	b1522	b1921
+ regulation of chemotaxis [GO:0050920]	b4355	b1886	b1888	b1881	b1882
+ regulation of protein histidine kinase activity [GO:0032110]	b4355
+ signal complex assembly [GO:0007172]	b4355	b1886
+ signal transduction [GO:0007165]	b4355	b1421	b1886	b1883	b1888	b0400	b3668	b1887	b2380	b2126	b2533	b1882	b3911	b3210	b4125	b3404	b1222	b4003	b0695	b1129	b1830	b4112	b2078	b2370	b2604	b2556	b0570	b2219	b1885	b1609	b2469	b3072
+ ion transport [GO:0006811]	b4036	b3291	b0957	b1319	b4293	b3720	b3875	b0491	b2062	b3408	b4292	b0681	b1615
+ polysaccharide transport [GO:0015774]	b4036	b3720	b0681
+DNA replication [GO:0006260]	b3702	b0470	b4361	b0640	b1099	b4372	b4259	b2496	b3700	b3498	ECOK12F060	NA	ECOK12F007	b1360
+ DNA replication initiation [GO:0006270]	b3702	b4052	b4000	b0440	b4361	b3935	b2496
+ DNA unwinding involved in DNA replication [GO:0006268]	b3702	b3813	b4201	b3778	b4362	b3066	b4052	b4361	b3935	b0467
+ negative regulation of DNA-templated DNA replication initiation [GO:0032297]	b3702	b3701	b0812	b3317	b2496
+ positive regulation of DNA-templated DNA replication initiation [GO:0032298]	b3702	b4259	b3149
+ regulation of DNA replication [GO:0006275]	b3702
+ regulation of DNA-templated DNA replication initiation [GO:0030174]	b3702	b3701	b2496
+DNA replication proofreading [GO:0045004]	b0215	b1652	b0060	b1844
+ lagging strand elongation [GO:0006273]	b0215	b1842	b0184
+ leading strand elongation [GO:0006272]	b0215	b1842	b0184
+DNA duplex unwinding [GO:0032508]	b3813	b4052	b3652	b0799	b1349
+ mismatch repair [GO:0006298]	b3813	b2509	b2831	b0422	b3387	b4059	b2733	b2961	b1844	b0183
+ mismatch repair involved in maintenance of fidelity involved in DNA-dependent DNA replication [GO:0070716]	b3813	b4170
+ nucleotide-excision repair [GO:0006289]	b3813	b4058
+ nucleotide-excision repair, DNA duplex unwinding [GO:0000717]	b3813	b4170
+ recombinational repair [GO:0000725]	b3813	b2819	b2616	b2822	b2820	b3778	b2699	b4059	b4389
+ replication fork processing [GO:0031297]	b3813	b4201	b3778	b4362	b3066	b4052	b4361	b3935	b0467
+ response to radiation [GO:0009314]	b3813	b2616	b4201	b2822	b2820	b3778	b4058	b4143	b0437	b3261	b0405	b1089	b1861	b1863	b2827	b0779	b1913	b2894	b3870	b3162	b3911	b0687	b3728	b3652	b4389	b2065	b4372	b4259	b3540	b3613	b0949	b2185	b3839	b3700	b2565	b3727	b4366	b1682	b0330	b0472	b0941	b3594	b3539
+ rolling circle DNA replication [GO:0070581]	b3813
+ SOS response [GO:0009432]	b3813	b1184	b2616	b4058	b4043	b2699	b1861	b1860	b0779	b1913	b0958	b1183	b4059	b3822	b0799	b1931	b0231	b4618	b3700	b0852	b0060	b4347	b0232	b0233	b2698	b1741	b1061	b1848	b3645	b0234
+negative regulation of transcription, DNA-templated [GO:0045892]	b0345	b1014	b4401	b1235	b2572	b2571	b1951	b3129	b1508	b1303	ECOK12F042	b1649	b2017	b4393	b3226	b0817	b4191	b4046	b1531	b0464	b1013	b0730	b4241	b1111	b1162	b1969	b0272	b0330	b3075	b0413	b4480	b0357	b3743	b0113	b3934	b2684	b3264	b1618	b3601	b4178	b1735	b1620	b2714	b0069	b2289	b3574	b4251	b3375	b1450	b1790	b1827	b1422	b1434	b1988	b2537	b3094	b2101	b3872	b2707	b3684	b4299	b2105	b2248	b3023
+ regulation of transcription, DNA-templated [GO:0006355]	b0345	b3973	b1323	b4224	b0400	b3905	b3261	b4172	b0912	b3481	b0956	b2916	b0880	b1334	b4401	b0460	b1237	b0889	b1658	b3961	b0571	b2782	b2783	b3210	b4125	b1922	b1221	b3869	b3868	b1304	b0687	b1183	b3461	b2573	b1563	b1564	b3641	b2218	b2217	b4291	b3129	b4018	b1508	b1507	b4113	b1114	b4225	b1303	b1594	b2630	b3130	b2017	b4539	b1101	b0619	b2219	b3022	b2837	b4393	b1275	b0080	b3753	b0464	b0796	b1013	b2369	b1914	b0620	b1305	b2125	b3669	b0313	b1530	b4241	b2664	b2631	b3515	b3083	b1438	b1111	b1201	b4532	b2427	b0232	b0233	b3773	b3075	b4480	b1642	b3828	b1299	b3934	b3438	b3118	b0504	b4089	b1618	b0676	b4178	b1620	b2405	b2714	b2193	b2289	b3507	b0994	b4251	b4357	b1853	b3512	b3243	b3082	b0294	b1790	b1422	b1434	b1987	b2537	b0685	b0034	b0535	b2706	b2561	b4264	b4636	b2921	b3105	b1284	b2852	b1320	b2856	b3010	NA	NA	b2847
+intracellular pH elevation [GO:0051454]	b0047	b0046
+ potassium ion transport [GO:0006813]	b0047	b0698	b0697	b0696	b0046	b4513	b3351	b3747	b0465	b3290
+ regulation of intracellular pH [GO:0051453]	b0047	b0046	b3351	b3350	b4065
+ regulation of pH [GO:0006885]	b0047	b0997	b0996
+ response to methylglyoxal [GO:0051595]	b0047	b1967	b4365	b3048
+cation transmembrane transport [GO:0098655]	b0698	b0697	b0696	b4513
+ potassium ion transmembrane transport [GO:0071805]	b0698	b0697	b0696	b1291	b4513	b3747
+cellular amino acid biosynthetic process [GO:0008652]	b0031	b2414	b4388	b2319
+ diaminopimelate biosynthetic process [GO:0019877]	b0031	b3433
+ GMP biosynthetic process [GO:0006177]	b2507
+ error-prone translesion synthesis [GO:0042276]	b1184	b3701	b0231
+ translesion synthesis [GO:0019985]	b1184	b2699	b1183
+arginine biosynthetic process via ornithine [GO:0042450]	b4254	b0273	b2870	b3960
+ citrulline biosynthetic process [GO:0019240]	b4254	b0273	b2870
+ base-excision repair, AP site formation [GO:0006285]	b2068
+ DNA dealkylation involved in DNA repair [GO:0006307]	b2068	b2213	b3549
+glutathione biosynthetic process [GO:0006750]	b2947
+aspartate biosynthetic process [GO:0006532]	b4054	b3770
+ leucine biosynthetic process [GO:0009098]	b4054	b3770	b0073	b0352
+ tyrosine biosynthetic process from chorismate via 4-hydroxyphenylpyruvate [GO:0019292]	b4054
+glutamyl-tRNA aminoacylation [GO:0006424]	b2400	b0144
+proteolysis [GO:0006508]	b0932	b2821	b0565	b3424	b0176	b2908	b1829	b1538	b4328	b1845	b2081	b2384	b2430	b4021	b1272	b1139	b1494	ECOK12F029	b2385	b1708	b3638	b3898	b0193	b3527	b4190	b4305	b2644	b2872	b1598	b2002	b2271	b0227
+ L-serine catabolic process [GO:0006565]	b3772	b2551	b3117	b1814	b2797
+ threonine catabolic process [GO:0006567]	b3772	b3616	b0903	b3117	b3115	b3114	b0870
+ threonine metabolic process [GO:0006566]	b3772	b3113
+D-ribose catabolic process [GO:0019303]	b3748	b3752
+ DNA recombination [GO:0006310]	b2819	b2822	b2820	b2699	b1763	b3822	b3652	b0799	b1158	b2349	b4501	ECOK12F044	b4312	b4313	b1374	b3558	b1349	b4271	b0281	b1579	b2442	b1545	b0361	b1402	b1996	b2860	b3045	b4273	ECOK12F020	b1578	JW5899	JW5903	JW5918	JW5933	b0299	b0372	b0541	b1026	b2089	ECOK12F002	ECOK12F032	b1345	b1936	b4285	ECOK12F017
+ double-strand break repair via homologous recombination [GO:0000724]	b2819	b2616	b2822	b2820
+DNA catabolic process, exonucleolytic [GO:0000738]	b2509	b0422	b4483
+DNA catabolic process [GO:0006308]	b2011	b4346	b2945
+ DNA catabolic process, exonucleolytic [GO:0000738]	b2011	b2761
+'de novo' pyrimidine nucleobase biosynthetic process [GO:0006207]	b1062	b1281	b0032	b4245	b0945	b3642	b4196	b4244	b3581
+ 'de novo' UMP biosynthetic process [GO:0044205]	b1062	b1281	b0032	b4245	b0945	b3642
+ pyrimidine nucleotide biosynthetic process [GO:0006221]	b1062	b3642	b0171	b4244	b4246
+ para-aminobenzoic acid biosynthetic process [GO:0008153]	b1812	b1096
+fumarate metabolic process [GO:0006106]	b1611
+ malate metabolic process [GO:0006108]	b1611	b1479	b3236
+DNA dealkylation involved in DNA repair [GO:0006307]	b2212	b1335
+ DNA demethylation [GO:0080111]	b2212	b2213
+ oxidative demethylation [GO:0070989]	b2212
+ oxidative RNA demethylation [GO:0035513]	b2212
+ oxidative single-stranded DNA demethylation [GO:0035552]	b2212
+ oxidative single-stranded RNA demethylation [GO:0035553]	b2212
+ response to methyl methanesulfonate [GO:0072702]	b2212
+ RNA repair [GO:0042245]	b2212	b1967	b3421
+mRNA catabolic process [GO:0006402]	b3164	b2830	b4255	b4179	b1084	b1286	b3996	b4225	b2696	b0225	b4532
+ RNA catabolic process [GO:0006401]	b3164	b2779	b3162	b1084	b4539
+ RNA processing [GO:0006396]	b3164	b2779	b2567	b3780	b1084	b3421	b2756	b2581
+3,4-dihydroxybenzoate biosynthetic process [GO:0046279]	b1693
+ aromatic amino acid family biosynthetic process [GO:0009073]	b1693
+ chorismate biosynthetic process [GO:0009423]	b1693	b3389	b0908	NA	b3390	b0388	b0754	b2329	b3281	b1704	b2601
+nucleobase-containing small molecule interconversion [GO:0015949]	b0049	b0910	b0651
+ RNA decapping [GO:0110154]	b0049	b2830
+chemotaxis [GO:0006935]	b1421	b1883	b2150	b1120	b1885	b1884	b3072
+phosphoenolpyruvate-dependent sugar phosphotransferase system [GO:0009401]	b2704	b2416	b2167	b4240	b2829	b2703	b3722	b3899	b3947	b3204	b2383	b3206	b2715	b3900	b3949	b3953	b3133	b3134	b3138	b3139	b3140	b2702	b3682	b2387	b3950	b2934	b2933	b2386	b2706	b0129
+ sorbitol transmembrane transport [GO:0015795]	b2704	b2703	b4302	b4304	b2702	b4565
+isoleucine biosynthetic process [GO:0009097]	b3771	b3774	b4243	b3117	b4488
+ pantothenate biosynthetic process [GO:0015940]	b3774	b0131	b3459
+ recombinational interstrand cross-link repair [GO:0036298]	b2616
+ response to ionizing radiation [GO:0010212]	b2616	b2699	b4052	b0710	b3017	b2184	b0853	b1864	b0208	b3407	b2627
+ response to UV [GO:0009411]	b2616	b3741	b1860	b4042	b2508	b3387	b2038	b3153	b2233	b1805	b3700	b1018	b0472	b2808	b3923
+colicin transport [GO:0042914]	b0584
+ ferric-enterobactin import into cell [GO:0015685]	b0584	b0592
+ siderophore transmembrane transport [GO:0044718]	b0584	b2155	b1451
+ siderophore-dependent iron import into cell [GO:0033214]	b0584	b4291	b0585	b0805	b3070	b0153	b4290	b4288	b4289	b0590	b0589	b4367
+maintenance of translational fidelity [GO:1990145]	b3064	b4168	b1807
+ tRNA threonylcarbamoyladenosine modification [GO:0002949]	b3064	b4168	b3282	b1807
+ peptidyl-cysteine methylation [GO:0018125]	b2213
+ positive regulation of transcription, DNA-templated [GO:0045893]	b2213	b3418	b2916	b1892	b0683	b1334	b0761	b4401	b3556	b3405	b3357	b3912	b2554	b2217	b1951	b1303	b0890	b3071	b2220	b1891	b3229	b1531	b1013	b4124	b3516	b1799	b1969	b0330	b0564	b1642	b3743	b0113	b3438	b3118	b0069	b2289	b3422	b3243	b1434	b1988	b2537
+cell division [GO:0051301]	b0093	b0438	b2748	b0095	b3463	b1280	b0089	b0634	b0094	b3462	b0084	b2910	b0083	b1175	b1176	b0924	b3017	b3933	b2184	b0742	b0890	b2412	b1327	b2549
+ division septum assembly [GO:0000917]	b0093	b2748	b0095	b3463	b0089	b0094	b3462	b0084	b2910	b0083	b1175	b0958	b1176	b3933	b0890	b0946	b2412
+ FtsZ-dependent cytokinesis [GO:0043093]	b0093	b2748	b0473	b0095	b3463	b3251	b0089	b0094	b3462	b0084	b2910	b2472	b0083	b2134	b3017	b3933	b0742	b0890	b2817	b0946	b2412	b3928	b0102	b4169
+aerobic respiration [GO:0009060]	b2133	b0724	b3833	b0723	b0722	b0156	b2287	b2282	b2281	b2277	b2276	b2284	b0997	b0996	b3605	b2283	b0721	b2720	b2488
+ lactate oxidation [GO:0019516]	b2133	b3605
+ respiratory electron transport chain [GO:0022904]	b2133	b0724	b1418	b0431	b2994	b2287	b2282	b2281	b2279	b2277	b2276	b2284	b2283	b2278
+ transmembrane transport [GO:0055085]	b2133	b3463	b3201	b4262	b2841	b3457	b0842	b4031	b0543	b0576	b2182	b0887	b0856	b2130	b3486	b4337	b2367	b0914	b1599	b1600	b4148	b1117	b1440	b2258	b0574	b4544	b2686	b4261	b0857	b0792	b0793	b1443	b1601	b4287	b1429	b0070	b4080	b4081	b4082	b2170	b2128	b3479	b1330	b2943	b4103	b4105	b1534	b3659	b3710	b2180	b0262	b4159	b3240	b1630	b4524	b3597	b4104	b3795	b1453
+DNA topological change [GO:0006265]	b1274	b2231	b3699	b3283
+protein autophosphorylation [GO:0046777]	b2566	b3668	b2786	b0729	b2370	b0619
+ protein phosphorylation [GO:0006468]	b2566	b1703	b2786	b4125	b2829	b3206
+ ribosomal small subunit biogenesis [GO:0042274]	b2566	b3167	b0659	b4161	b2569	b3170
+biotin biosynthetic process [GO:0009102]	b3973	b1093	b1288	b0774	b0775	b0776	b0778	b3412	b1593	b0777
+ biotin metabolic process [GO:0006768]	b3973
+cell redox homeostasis [GO:0045454]	b3500	b0888	b3781	b1654	b0605	b2480	b0886	b3962	b0887	b0606	b4136	b0849	b0492	b3190	b0435	b3610	b0304	b2673
+ cellular response to oxidative stress [GO:0034599]	b3500	b2480	b0849	b0492	b3610	b2963	b4326
+ glutathione metabolic process [GO:0006749]	b3500
+L-cysteine catabolic process to pyruvate [GO:0019450]	b3008
+DNA modification [GO:0006304]	b2831
+ regulation of DNA recombination [GO:0000018]	b2831	b4170	b2733	b0393
+acetyl-CoA biosynthetic process from pyruvate [GO:0006086]	b0115
+ glycolytic process [GO:0006096]	b0115	b1723	b4025	b3916	b2926	b3919	b1779	b0116	b2925	b3612	b3236	b0755
+ pyruvate catabolic process [GO:0042867]	b0115	b0116	b0114
+ pyruvate metabolic process [GO:0006090]	b0115	b0871	b0116	b1702	b1479	b1198	b1199	b1200
+RNA repair [GO:0042245]	b3056
+ tRNA 3'-terminal CCA addition [GO:0001680]	b3056
+dUMP biosynthetic process [GO:0006226]	b3640	b2291
+ dUTP catabolic process [GO:0046081]	b3640	b2781
+iron ion homeostasis [GO:0055072]	b0150	b4291	b2155	b0805	b1102	b0262
+bacterial-type flagellum-dependent swimming motility [GO:0071977]	b1945	b1946
+heme biosynthetic process [GO:0006783]	b3805	b0369	b2436	b0428	b0475	b2350
+ peptidyl-pyrromethane cofactor linkage [GO:0018160]	b3805
+ protoporphyrinogen IX biosynthetic process [GO:0006782]	b3805	b0369	b3850	b3867	b2436
+ tetrapyrrole biosynthetic process [GO:0033014]	b3805
+histidine biosynthetic process [GO:0000105]	b2020	b0529	b2025	b2021	b2022	b2026	b2019	b2018
+response to antibiotic [GO:0046677]	b0051	b3339	b3980	b2685	b2517	b0878	b0879	b1018	b2686	b3265	b4080	b4081	b4082	b1791	b0111	b1053	b3710	b2139	b2259	b1065	b0795	b2666	b1532
+ rRNA base methylation [GO:0070475]	b0051	b3289	b2517	b3499	b4371	b1835
+ rRNA methylation [GO:0031167]	b0051	b0636	b4371	b0948	b0967	b3497
+ rRNA processing [GO:0006364]	b0051	b2567	b0659	b3247	b0058	b1084	b3282	b3643
+carbohydrate metabolic process [GO:0005975]	b3418	b0759	b3225	b0678	b0008	b3137	b0677	b0675	b3729	b1734	b0090	b3176	b0333	b3385	b4310	b3114	b1594	b1023	b1107	b1727	b1317	b2293	b3432	b3608	b3223	b3132	b3656	b0688	b4309	b1309	b1314	b1316	b1315	b2464	b3355	b0676	b1927	b1780	b3141	b0713	b1313	b1511	b2736	b2737	b2739	b4556	b3718	b0130	b3135	b2776	b4462	b1773	b2863	NA	b3719	b3614
+ positive regulation of carbohydrate metabolic process [GO:0045913]	b3418
+ receptor-mediated virion attachment to host cell [GO:0046813]	b2215
+NADPH regeneration [GO:0006740]	b1603	b1602
+ proton export across plasma membrane [GO:0120029]	b1603	b1602
+pyruvate catabolic process [GO:0042867]	b0871
+L-proline biosynthetic process [GO:0055129]	b0243	b0242	b0386
+translational termination [GO:0006415]	b2891	b1211
+DNA replication initiation [GO:0006270]	b4201	b0467	ECOK12F045	b4508	ECOK12F033
+ DNA replication, synthesis of RNA primer [GO:0006269]	b4201	b3778	b4052	b4361	b3935	b0467
+ plasmid maintenance [GO:0006276]	b4201	b3811	b2894	b0143	b3935	ECOK12F043	b4260	ECOK12F045	ECOK12F033	NA
+cellular response to amino acid stimulus [GO:0071230]	b1886	b4141
+ positive regulation of post-translational protein modification [GO:1901875]	b1886	b1888	b1887
+nucleotide catabolic process [GO:0009166]	b0480
+cellular response to anoxia [GO:0071454]	b0980	b2503
+ cellular response to phosphate starvation [GO:0016036]	b0980	b3724
+ dephosphorylation [GO:0016311]	b0980	b4388	b3385	b3057
+ myo-inositol hexakisphosphate dephosphorylation [GO:0033518]	b0980
+proline transport [GO:0015824]	b1015
+ short-chain fatty acid transport [GO:0015912]	b1015
+cytosolic valyl-tRNA aminoacylation [GO:0061475]	b4258
+ positive regulation of translational fidelity [GO:0045903]	b4258	b3296
+ valyl-tRNA aminoacylation [GO:0006438]	b4258
+ protein deamination [GO:0018277]	b1883
+ protein demethylation [GO:0006482]	b1883
+aerotaxis [GO:0009454]	b1888	b1887	b1882
+ bacterial-type flagellum-dependent swimming motility [GO:0071977]	b1888	b1939	b1882
+ establishment of localization in cell [GO:0051649]	b1888	b1887
+ negative regulation of protein modification process [GO:0031400]	b1888
+ peptidyl-histidine phosphorylation [GO:0018106]	b1888	b0400	b2415	b2126	b3911	b2218	b4003	b0695	b2556	b0570	b4399
+ phosphorelay signal transduction system [GO:0000160]	b1888	b4401	b1882	b3404	b1221	b2218	b2217	b1129	b1303	b0993	b1968	b0570	b3667	b3026	b2491	b2193
+ protein autophosphorylation [GO:0046777]	b1888	b0400	b2501	b3911	b3210	b4125	b3404	b4168	b1222	b2218	b4003	b0695	b1129	b4112	b2078	b3176	b0607	b0993	b2216	b2556	b1968	b2219	b4399	b1609
+ thermotaxis [GO:0043052]	b1888	b1882
+phenylalanyl-tRNA aminoacylation [GO:0006432]	b1713	b1714
+lactose biosynthetic process [GO:0005989]	b0342
+aromatic compound catabolic process [GO:0019439]	b1323	b0286	b0285	b0284	b0346
+L-methionine biosynthetic process from homoserine via O-succinyl-L-homoserine and cystathionine [GO:0019281]	b4013
+aromatic amino acid family biosynthetic process [GO:0009073]	b3389	b0908	NA	b3390	b0388	b1261	b0754	b2329	b3281	b1704	b2601	b1260
+clearance of foreign intracellular DNA [GO:0044355]	b2822	b2820
+tRNA pseudouridine synthesis [GO:0031119]	b2318
+anaerobic electron transport chain [GO:0019645]	b4079	b1224	b1475	b3893	b0974	b4070	b0973	b2994	b1476	b3892	b1465	b1225	b1227	b2721	b2719	b0894	b0895	b1467	b1468	b1474	b3894	b0972	b2997	b2996	b2724	b4071	b2723	b2722	b0896	b2482	b2995	b1873	b2487	b2483	b2485	b3518	b1590	b2484	b2486
+ cellular respiration [GO:0045333]	b4079	b3893	b3892	b2284	b3894	b2283
+ formate oxidation [GO:0015944]	b4079	b1475	b3893	b1476	b3892	b2721	b2719	b1474	b3894	b2724	b2723	b2722	b2720	b2482	b2995	b2487	b2483	b2485	b2484	b2486
+ glucose catabolic process [GO:0006007]	b4079	b3916	b2721	b2719	b1002	b3612	b2724	b2723	b2722	b2720	b2482	b2487	b2483	b2485	b2484	b2486
+ urate catabolic process [GO:0019628]	b4079	b2869
+L-serine biosynthetic process [GO:0006564]	b3616	b2913	b0907
+ L-threonine catabolic process to glycine [GO:0019518]	b3616	b3617
+'de novo' IMP biosynthetic process [GO:0006189]	b2500	b0522	b2312	b0523	b2557	b4005	b1849	b1232	b2499	b2476	b4006
+cell adhesion [GO:0007155]	b4320	b0177	b3912	b0192	b4318	b4319	b0135	b0139	b1857	b4314	b0530	b1042	b0140	b2111	b0136	b0138	b0141	b0534	b3142	b0533	b2333	b2334	b2335	b2339	b0297	b1376	b0716	b3048	NA
+ cell adhesion involved in single-species biofilm formation [GO:0043709]	b4320	b4318	b4319	b0135	b1021	b4314	b0530	b2111	b0136	b0138	b0141	b0534	b3142	b0533	b2333	b2334	b2335	b2339
+ cell-substrate adhesion [GO:0031589]	b4320	b4318	b4319
+ mechanosensory behavior [GO:0007638]	b4320	b4318	b4319
+ folic acid-containing compound biosynthetic process [GO:0009396]	b2315	b2912
+ one-carbon metabolic process [GO:0006730]	b2315	b2153	b2551	b0116	b0048	b2903	b1232	b2904	b2905
+glucose-6-phosphate transport [GO:0015760]	b2240	b3667
+ glycerol metabolic process [GO:0006071]	b2240	b3926	b3925	b2930
+ glycerol transmembrane transport [GO:0015793]	b2240	b3927
+ glycerol-3-phosphate transmembrane transport [GO:0015794]	b2240	b3450
+ phosphate ion transmembrane transport [GO:0035435]	b2240	b3728	b3666	b3726	b3667	b3493	b0490
+electron transport chain [GO:0022900]	b1136	b2525	b1627	b1378	b1630	b1632
+ glyoxylate cycle [GO:0006097]	b1136	b4016	b1276	b2976
+ nitrate assimilation [GO:0042128]	b3365	b1224	b3295	b3649	b3988	b3987	b4070	b2203	b1465	b1222	b1225	b1227	b1467	b1468	b2206	b3366	b1226	b3202	b2469	b3367	b1466	b1988
+L-arabinose catabolic process to xylulose 5-phosphate [GO:0019569]	b0061
+ L-lyxose metabolic process [GO:0019324]	b0061	b3583	b3582
+ pentose catabolic process [GO:0019323]	b0061	b2800	b3386	b3583	b4198
+ nucleotide catabolic process [GO:0009166]	b4213	b3831
+dGTP catabolic process [GO:0006203]	b0099	b0160
+positive regulation of cell growth [GO:0030307]	b4224
+ regulation of growth [GO:0040008]	b4224	b2782	b1563	b3129	b1508	b1507	b4225	b2630	b3130	b2017	b4539	b0225	b0226	b2631	b3083	b4532	b0232	b0233
+ single-species biofilm formation [GO:0044010]	b4224	b2782	b2783	b1563	b1564	b2218	b4122	b3129	b2708	b1507	b4225	b1831	b2630	b3130	b2017	b4539	b0967	b1023	b3021	b3022	b0225	b0226	b1112	b1041	b3604	b1039	b1037	b2631	b1024	b1166	b0272	b1333	b2054	b1042	b4189	b1511	b4026	b3879	b2624	b1058	b0551
+cell cycle [GO:0007049]	b3972	b0087	b3189	b0956	b3811	b2894	b0741	b3247	b2742	b3163	b0086	b0088	b0091	b0085	b3182	b3613	b4233	b4409	b0174	b1963	b0923	b4520	b0922	b3232	b1570	b1916	b1352	b1569	b1575	b1731
+ cell division [GO:0051301]	b3972	b0087	b3189	b0436	b0740	b0956	b3811	b2894	b0741	b3247	b0737	b0738	b3163	b0086	b0088	b0090	b0091	b0739	b0085	b3182	b4233	b4409	b0174	b1107	b1963	b0923	b4520	b0922	b3232	b1570	b1916	b1352	b1569	b1575	b1731
+ cell wall organization [GO:0071555]	b3972	b0087	b3189	b0089	b0634	b3784	b3730	b1326	b0084	b1856	b2175	b0086	b0088	b0090	b0091	b0085	b3182	b4233	b0174	b1107	b2558	b2963	b1193	b1655	b0140	b1081
+signal peptide processing [GO:0006465]	b1766	b3335	b2972
+cellular response to phosphate starvation [GO:0016036]	b0400	b0382	b0564	b4030	b4217	b3615
+ phosphate ion transport [GO:0006817]	b0400	b3724	b3725	b3728	b3726
+chaperone cofactor-dependent protein refolding [GO:0051085]	b0015	b4143	b4142	b1000
+ protein folding [GO:0006457]	b0015	b4143	b4142	b0473	b0053	b0178	b3609	b0161	b2527	b0920	b0998	b1926	b0717
+ protein refolding [GO:0042026]	b0015	b4143	b3401	b3349	b4207	b0028	b2592	b0492	b0424	b1000
+ protein-containing complex assembly [GO:0065003]	b0015	b2614	b0014	b3649	b3705
+ viral process [GO:0016032]	b0015
+DNA restriction-modification system [GO:0009307]	b4350	b4348	b4349	b1348	b4345	b1159	b4351
+D-xylose catabolic process [GO:0042843]	b3564	b3565
+ xylulose catabolic process [GO:0005998]	b3564
+unidirectional conjugation [GO:0009291]	ECOK12F102
+ colanic acid biosynthetic process [GO:0009242]	b0759	b2053	b2052
+ galactose catabolic process via UDP-galactose [GO:0033499]	b0759	b1236	b3879	b2544
+ galactose metabolic process [GO:0006012]	b0759	b0757
+galactose catabolic process via UDP-galactose [GO:0033499]	b0758	b0757	b0756
+ nitrate metabolic process [GO:0042126]	b1224	b1465	b1225	b1227	b1467	b1468
+spermidine biosynthetic process [GO:0008295]	b0121
+ N-acetylglucosamine transport [GO:0015764]	b0679
+bacterial-type flagellum-dependent cell motility [GO:0071973]	b1890	b1889	b1194	b1080	b1078	b1924	b1938	b1079	b1937	b1333	b1073	b1074	b1218	b1077	b0518	b1083
+ bacterial-type flagellum-dependent swarming motility [GO:0071978]	b1890	b1078	b1073	b1074	b1077	b1075
+ proton transmembrane transport [GO:1902600]	b1890	b1889	b3496	b0155	b4130	b1634	b0336
+protein folding [GO:0006457]	b2614	b1185	b3363	b3705
+glucose metabolic process [GO:0006006]	b0903	b1779	b2927	b1852	b4016	b3952	b0767
+positive regulation of transcription, DNA-templated [GO:0045893]	b3905	b0487	b0315	b1130	b4133	b0059	b4398	b3906	b3753	b3292	b4366	b0305	b0504	b3723	b2405	b0240	b4116	b0162	b3060	b0846	b1499	b1384	b3119	b2624	b1370	b3010
+ rhamnose metabolic process [GO:0019299]	b3905	b3906
+glycerol metabolic process [GO:0006071]	b2239	b3449	b3425	b1201	b3423	b2768
+ lipid metabolic process [GO:0006629]	b2239	b3449	b1805	b4149
+ proline biosynthetic process [GO:0006561]	b1014	b0242
+ proline catabolic process to glutamate [GO:0010133]	b1014
+ammonia assimilation cycle [GO:0019676]	b3212	b3213	b3870	b2878
+ glutamate biosynthetic process [GO:0006537]	b3212	b3213	b2878
+ L-glutamate biosynthetic process [GO:0097054]	b3212	b3213
+bacterial-type DNA replication [GO:0044787]	b3778	b3701
+DNA repair [GO:0006281]	b4058	b0710	b4389	b1967	b3153	b3998	b1808	b1759	b0233	b0454	b0760	b3582	NA	b0442	b1061	b1848	NA	NA	b0234
+ nucleotide-excision repair, DNA damage recognition [GO:0000715]	b4058	b0779
+ nucleotide-excision repair, preincision complex assembly [GO:0006294]	b4058	b0779	b1114
+phosphorylation [GO:0016310]	b3835	b0417	b1764	b2418	b2103	b1636	b0003	b3648	b2104	NA	NA	NA	NA	b2166	b3897	b4385	b1106	b0613	NA	NA	b2928	b2160	b2100	b1725	NA	NA
+ regulation of ubiquinone biosynthetic process [GO:0010795]	b3835
+ ubiquinone biosynthetic process [GO:0006744]	b3835	b3833	b3843	b3187	b2232	b2907	b4039	b2746	b0420	b2619
+acetate biosynthetic process [GO:0019413]	b2296	b2297
+ acetate metabolic process [GO:0006083]	b2296	b2297
+ acetyl-CoA biosynthetic process [GO:0006085]	b2296	b4069
+ propionate biosynthetic process [GO:0019542]	b2296
+ single-species biofilm formation on inanimate substrate [GO:0044011]	b2296	b2217	b3024	b4011	b1205	b1536	b1953	b3238
+fatty acid biosynthetic process [GO:0006633]	b1094	b0954	b0180	b1091	b2323	b1661	b2316	b1095	b0185	b3255	b3256	b2563	b3963	b1092	b3888	b0404	b1090	b3475
+ lipid A biosynthetic process [GO:0009245]	b1094	b0180	b3633	b3730	b1054	b2174	b2258	b2254	b4544	b2378	b2256
+ lipid biosynthetic process [GO:0008610]	b1094	b1093	b1288
+ D-alanine biosynthetic process [GO:0030632]	b4053	b2290	b2379	b3572
+[2Fe-2S] cluster assembly [GO:0044571]	b2530	b2527
+ detection of UV [GO:0009589]	b2530
+ iron-sulfur cluster assembly [GO:0016226]	b2530	b2525	b1654	b0156	b2529	b2421	b3414	b2526	b3190	b0435
+ L-cysteine catabolic process [GO:0019448]	b2530	b2529	b2811	b1680	b0423	b2810
+ oxazole or thiazole biosynthetic process [GO:0018131]	b2530
+ selenocysteine catabolic process [GO:0016261]	b2530	b2810
+ sulfur compound transport [GO:0072348]	b2530	b2810	b3876
+ tRNA 4-thiouridine biosynthesis [GO:0002937]	b2530	b0423
+ tRNA wobble position uridine thiolation [GO:0002143]	b2530	b3470
+arginine biosynthetic process [GO:0006526]	b3959	b3237	b3172	b3359	b3957	b1748	b2818	b3958
+ arginine biosynthetic process via ornithine [GO:0042450]	b3959
+ negative regulation of DNA-templated transcription, initiation [GO:2000143]	b3237	b0761	b4479	b3604	b4501
+ plasmid recombination [GO:0042150]	b3237	b3811	b4260
+ positive regulation of DNA-templated transcription, initiation [GO:2000144]	b3237	b2709	b0817	b3604	b0796	b4004	b2731	b1916	b1642	b0447
+ protein complex oligomerization [GO:0051259]	b3237	b3169	b2527
+ regulation of arginine biosynthetic process [GO:1900079]	b3237
+ regulation of arginine catabolic process [GO:1900081]	b3237
+ shikimate metabolic process [GO:0019632]	NA	b3281
+ argininosuccinate metabolic process [GO:0000053]	b3172
+ urea cycle [GO:0000050]	b3172
+proton motive force-driven ATP synthesis [GO:0015986]	b3731	b3735	b3733	b3734	b3737
+ proton motive force-driven plasma membrane ATP synthesis [GO:0042777]	b3731	b3735	b3733	b3734	b3737
+ glycerol catabolic process [GO:0019563]	b3926	b3919	b2241	b1198	b1199	b1200	b2243	b2242
+ glycerol-3-phosphate metabolic process [GO:0006072]	b3926	b4041	b3608
+ virion assembly [GO:0019068]	b4143	b4142
+positive regulation of programmed cell death [GO:0043068]	b0437
+ proteasomal protein catabolic process [GO:0010498]	b0437
+ protein quality control for misfolded or incompletely synthesized proteins [GO:0006515]	b0437	b0439	b0882	b0161
+ response to temperature stimulus [GO:0009266]	b0437	b2573	b0161	b1829
+ protein denaturation [GO:0030164]	b0438	b3931	b3932
+ protein unfolding [GO:0043335]	b0438	b3931	b0436	b0882
+ proteolysis involved in protein catabolic process [GO:0051603]	b0438	b3931	b3932	b2936	b3234	b2494
+cellular response to heat [GO:0034605]	b3931	b3932	b0439	b0882	b3400	b4171	b2592	b0631	NA
+cardiolipin biosynthetic process [GO:0032049]	b1249	b0789	b2585	b1046
+ pyrimidine nucleotide metabolic process [GO:0006220]	b0910	b2518
+coenzyme A biosynthetic process [GO:0015937]	b3634	b3639	b3974	b0103
+hydrogen sulfide biosynthetic process [GO:0070814]	b2750	b2762	b2752	b2751
+ sulfate assimilation [GO:0000103]	b2750	b2413	b2763	b2752	b4214	b2751	b2764
+cysteine biosynthetic process [GO:0019344]	b2413	b2421	b2763	b2764	b1275	b1987
+ sulfate transmembrane transport [GO:1902358]	b2413
+D-alanine catabolic process [GO:0055130]	b1189	b1103
+ L-alanine oxidation to pyruvate via D-alanine [GO:0019480]	b1189	b1190
+co-translational protein modification [GO:0043686]	b3287
+ N-terminal protein amino acid modification [GO:0031365]	b3287
+ peptidyl-methionine modification [GO:0018206]	b3287
+5-phosphoribose 1-diphosphate biosynthetic process [GO:0006015]	b4383	b1207	b4094
+ cellular metabolic compound salvage [GO:0043094]	b4383
+ deoxyribonucleotide catabolic process [GO:0009264]	b4383	b4381
+carbohydrate catabolic process [GO:0016052]	b4381	b2247	b2901	NA	b3721	b2716
+ deoxyribose phosphate catabolic process [GO:0046386]	b4381
+diaminopimelate biosynthetic process [GO:0019877]	b2478	b0166	b2472
+ N-acetylneuraminate catabolic process [GO:0019262]	b3225	b0678	b0677	b3222	b3223	b4280	b3141	b3718
+D-amino acid catabolic process [GO:0019478]	b3887
+ tRNA metabolic process [GO:0006399]	b3887	b2791
+negative regulation of translational frameshifting [GO:2001125]	b4147
+ rescue of stalled ribosome [GO:0072344]	b4147	b4173	b4550
+ translational elongation [GO:0006414]	b4147	b3339	b3980
+translational elongation [GO:0006414]	b0170
+ribosomal large subunit assembly [GO:0000027]	b2511	b3871	b2576	b1343	b3180
+glycolytic process [GO:0006096]	b2779	b2097	b1676	b0114	b1854	b2388	b4395
+ fatty acid metabolic process [GO:0006631]	b1091	b4041	b1805	b1253
+positive regulation of DNA recombination [GO:0045911]	b3261
+ provirus excision [GO:0032359]	b3261	b2622	b2349
+ transcription, DNA-templated [GO:0006351]	b3261	b1712	b0912	b4043	b3295	b3649	b1892	b3988	b3987	b0487	b4000	b0440	b3357	b2231	b3699	b2554	b3783	b3461	b1564	b2217	b1951	b1508	b1594	b4260	b2079	b0226	b2837	b3906	b3226	b4191	b0435	b1891	b4046	b3292	b4124	b4004	b2731	b4084	b3516	b3515	b1201	b1399	b1512	b1799	b1328	b1570	b2808	b2479	b1299	b2684	b1618	b2714	b3711	b2289	b3501	b3060	b3025	b3243	b0846	b1499	b2157	b0034
+cellular response to oxidative stress [GO:0034599]	b4025	b4219	b1324	b0424	b2962
+ glucose 6-phosphate metabolic process [GO:0051156]	b4025
+7,8-dihydroneopterin 3'-triphosphate biosynthetic process [GO:0035998]	b2153
+ queuosine biosynthetic process [GO:0008616]	b2153	b2777
+ tetrahydrobiopterin biosynthetic process [GO:0006729]	b2153
+regulation of cytoplasmic translational fidelity [GO:0140018]	b3741
+ tRNA methylation [GO:0030488]	b3741	b2960	b3965	b3706	b2517	b3651
+ tRNA wobble base 5-methoxycarbonylmethyl-2-thiouridinylation [GO:0002926]	b3741	b3706
+ tRNA wobble uridine modification [GO:0002098]	b3741	b1055	b3706	b0503	b0921	b2324	b2081	b2632	b0253
+rRNA base methylation [GO:0070475]	b3740	b0636	b2785	b0948	b0967	b2946	b1822	b0082	b3497	b3465	b3084	b0807	b0859
+glycogen biosynthetic process [GO:0005978]	b3430
+ cell wall macromolecule biosynthetic process [GO:0044038]	b0087
+protoporphyrinogen IX biosynthetic process from glutamate [GO:0019353]	b1210
+positive regulation of translation, ncRNA-mediated [GO:0045975]	b4172
+ regulation of RNA stability [GO:0043487]	b4172
+ regulation of translation, ncRNA-mediated [GO:0045974]	b4172
+ sRNA-mediated gene silencing [GO:0040033]	b4172
+DNA recombination [GO:0006310]	b1712	b0912	b0550	b3461	b0397	b3935	b3411	b0228	b2565	b0398	b2622	b0472	b2892	b0537	b0132	b0393	b1140	b1432	b2305	b3832	b2244	b1141	b0544	b4543
+ regulation of translation [GO:0006417]	b1712	b0912	b3306	b2827	b1719	b1237	b2782	b0118
+maintenance of unfolded protein [GO:0036506]	b3401	b3609
+cellular response to unfolded protein [GO:0034620]	b0014
+ chaperone cofactor-dependent protein refolding [GO:0051085]	b0014
+ protein-containing complex disassembly [GO:0032984]	b0014
+negative regulation of DNA-templated transcription, initiation [GO:2000143]	b3481	b0226	b0796	b0081	b3884	b2664	b1399	b1642	b0840	b1356
+ response to nickel cation [GO:0010045]	b3481	b2107	b2106
+protein maturation [GO:0051604]	b2726	b2991	b2728	b2727	b2729	b2990	b3891	b2992	b3800
+chaperone-mediated protein folding [GO:0061077]	b3168	b4207	b0053	b0220	b0441	b2893	b0028	b0178	b0161	b0098	b1243	b3544	b3706	b2494	b1591	b0604	b1743	b0525	b4376
+ response to cold [GO:0009409]	b3168	b3167	b3556	b1095	b2597	b4179	b2569	b2378	b0990	b1557	b1552
+ translational initiation [GO:0006413]	b3168	b3936
+response to cold [GO:0009409]	b1718	b1375	b1544
+ ribosome disassembly [GO:0032790]	b1718	b4173
+keto-3-deoxy-D-manno-octulosonic acid biosynthetic process [GO:0019294]	b1215	b2708	b3197
+ monosaccharide biosynthetic process [GO:0046364]	b1215
+ protein hexamerization [GO:0034214]	b1207	b0963	b0710	b3880	b2407	b2457	b2456	b0782	b2462
+ purine nucleotide biosynthetic process [GO:0006164]	b1207	b4177	b1658	b2312	b4005	b0529	b1232	b2499
+ ribonucleoside monophosphate biosynthetic process [GO:0009156]	b1207
+dTDP biosynthetic process [GO:0006233]	b1098
+ dTTP biosynthetic process [GO:0006235]	b1098	b2827
+ dUDP biosynthetic process [GO:0006227]	b1098
+lipid A biosynthetic process [GO:0009245]	b0096	b0179	b0622	b3546	b0524	b2255	b2253	b0181	b0182	b0915	b4114	b2257	b0164
+nucleotide metabolic process [GO:0009117]	b1087	b3248	b4394	b3085
+methylglyoxal biosynthetic process [GO:0019242]	b0963
+Mo-molybdopterin cofactor biosynthetic process [GO:0006777]	b0783	b0827	b0826	b0781	b0784	b0785	b3895	b0782	b0009	b3856
+cellular water homeostasis [GO:0009992]	b3291	b2924	b0875	b0465
+ protein repair [GO:0030091]	b4219	b3844	b1967	b3153	b0424	b4209	b2236	b2451
+protein repair [GO:0030091]	b1778	b1971	b1972	b2743
+ UDP-N-acetylgalactosamine biosynthetic process [GO:0019277]	b3189
+ positive regulation of ion transmembrane transporter activity [GO:0032414]	b0046
+ positive regulation of potassium ion transmembrane transport [GO:1901381]	b0046	b3351
+ glucosamine catabolic process [GO:0006043]	b0678	b3141	b3718
+ N-acetylglucosamine catabolic process [GO:0006046]	b0678	b0677	b3141	b3718
+CTP biosynthetic process [GO:0006241]	b2518
+ GTP biosynthetic process [GO:0006183]	b2518	b2508
+ nucleoside diphosphate phosphorylation [GO:0006165]	b2518
+ purine nucleotide metabolic process [GO:0006163]	b2518
+ UTP biosynthetic process [GO:0006228]	b2518
+cadmium ion transport [GO:0015691]	b2392	b3915
+ cellular response to iron ion [GO:0071281]	b2392	b1905
+ cobalt ion transport [GO:0006824]	b2392
+ iron ion transport [GO:0006826]	b2392	b1905	b3336	b4291	b3915	b1902
+ manganese ion transport [GO:0006828]	b2392
+ metal ion transport [GO:0030001]	b2392
+ NAD-cap decapping [GO:0110155]	b2830	b3996
+ RNA destabilization [GO:0050779]	b2830
+ tRNA processing [GO:0008033]	b2830	b2567	b2268	b3247	b0058	b2791	b1084	b3421	b3643	b4166	b2898
+DNA-templated transcription, termination [GO:0006353]	b0416	b3169	b3783
+ regulation of DNA-templated transcription, elongation [GO:0032784]	b0416	b3321	b3295	b3649	b3988	b3987	b3169	b3982	b0610	b3181	b3406
+ ribosome biogenesis [GO:0042254]	b0416	b3167	b3321	b0659	b3866	b1066	b2533	b3169	b3982	b0424
+ transcription antitermination [GO:0031564]	b0416	b3321	b3296	b3295	b3649	b0659	b3988	b3987	b2533	b3169	b3982	b3842	b0623	b0189	b1559	b0551
+RNA catabolic process [GO:0006401]	b4162	b3780	b0611
+ cellular amino acid metabolic process [GO:0006520]	b4245
+alanine biosynthetic process [GO:0006523]	b0131	b2290	b2379
+ protein autoprocessing [GO:0016540]	b0131	b4160
+pyridoxine biosynthetic process [GO:0008615]	b2564
+canonical glycolysis [GO:0061621]	b3916
+ cellular carbohydrate catabolic process [GO:0044275]	b3916	b2102
+ fructose 1,6-bisphosphate metabolic process [GO:0030388]	b3916
+ fructose 6-phosphate metabolic process [GO:0006002]	b3916	b4232	b3729
+gluconeogenesis [GO:0006094]	b2926	b3919	b2925	b3403	b1702	b1479	b0755	b1814	b2797
+CDP-diacylglycerol biosynthetic process [GO:0016024]	b4041	b0175	b3018
+ phospholipid biosynthetic process [GO:0008654]	b4041	b2836	b1805	b2585	b3918	b1090
+ triglyceride biosynthetic process [GO:0019432]	b4041
+phosphate-containing compound metabolic process [GO:0006796]	b4226
+ATP generation from ADP [GO:0006757]	b2501
+ polyphosphate biosynthetic process [GO:0006799]	b2501
+NAD metabolic process [GO:0019674]	b2615
+ NADP biosynthetic process [GO:0006741]	b2615
+'de novo' AMP biosynthetic process [GO:0044208]	b4177	b1131
+ adenosine biosynthetic process [GO:0046086]	b4177
+ IMP metabolic process [GO:0046040]	b4177
+ pyrimidine ribonucleotide biosynthetic process [GO:0009220]	b0945
+ pyrimidine ribonucleoside biosynthetic process [GO:0046132]	b3642
+'de novo' CTP biosynthetic process [GO:0044210]	b2780	b0171
+ CTP biosynthetic process [GO:0006241]	b2780
+ UDP biosynthetic process [GO:0006225]	b0171
+S-adenosylmethioninamine biosynthetic process [GO:0006557]	b0120
+ self proteolysis [GO:0097264]	b0120	b3447
+ spermidine biosynthetic process [GO:0008295]	b0120	b2938	b2937	b2965	b0693
+queuosine biosynthetic process [GO:0008616]	b0405	b0406	b2794	b4166	b2765	b0444
+ tRNA wobble guanine modification [GO:0002099]	b0405	b0406
+ maturation of SSU-rRNA [GO:0030490]	b3167	b0659	b3247	b1266
+ homologous recombination [GO:0035825]	b2699
+regulation of translational termination [GO:0006449]	b4375
+ translational termination [GO:0006415]	b4375	b3983	b1212	b0225
+riboflavin biosynthetic process [GO:0009231]	b1277	b3041	b0414	b0844	b1662	b0415
+ ribosomal large subunit assembly [GO:0000027]	b3983	b2606	b3984	b1716	b3185	b3637	b3312	b1089	b3636	b3162	b3313	b3318	b3305	b3179	b4109	b2594	b2761	b3317	b3320	b3309	b3308	b2185	b3294	b3302
+ stringent response [GO:0015968]	b3983
+ maturation of LSU-rRNA [GO:0000470]	b3984	b1266
+ negative regulation of translational initiation [GO:0045947]	b3984	b3296	b2597	b4539	b2696	b2619
+assembly of large subunit precursor of preribosome [GO:1902626]	b3185	b3315
+ cytoplasmic translation [GO:0002181]	b3185	b3315	b0296
+ mature ribosome assembly [GO:0042256]	b3185	b3315
+ positive regulation of ribosome biogenesis [GO:0090070]	b3185
+ regulation of cell growth [GO:0001558]	b3185	b3724	b3129
+ negative regulation of cytoplasmic translational initiation [GO:1904689]	b3936
+ response to reactive oxygen species [GO:0000302]	b1089	b0606	b1710	b4149
+ maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA) [GO:0000462]	b3297
+ Group I intron splicing [GO:0000372]	b3342
+ maintenance of translational fidelity [GO:1990145]	b3342	b3296	b3303
+ positive regulation of RNA splicing [GO:0033120]	b3342
+ RNA folding [GO:0034337]	b3342
+ DNA-templated transcription, termination [GO:0006353]	b3296	b3982	b3319
+ regulation of mRNA stability [GO:0043488]	b3306	b4225	b3022	b3083
+maturation of SSU-rRNA [GO:0030490]	b2608
+mRNA processing [GO:0006397]	b2567
+ regulation of gene expression [GO:0010468]	b2567	b0880	b3556	b0145	b1212	b1221	b3461	b0623	b1823	b0990	b1557	b1558	b0989	b1552
+DNA replication, removal of RNA primer [GO:0043137]	b0214	b0183
+ RNA phosphodiester bond hydrolysis, endonucleolytic [GO:0090502]	b0214	b3130	b2756
+D-ribose metabolic process [GO:0006014]	b2914
+ pentose-phosphate shunt, non-oxidative branch [GO:0009052]	b2914	b0008	b3386	b2935	b4085	b4090	b4301
+bacterial-type flagellum assembly [GO:0044780]	b3295	b3649	b1892	b3988	b3987	b1939	b1922	b1941	b1949	b1950	b1879	b1880	b1943	b1081	b1925	b1082	b1070	b1072	b0229
+ cell motility [GO:0048870]	b3295	b3649	b3988	b3987	b2014	b3202
+ cellular response to cell envelope stress [GO:0036460]	b3295	b3649	b3988	b3987	b3911	b0925	b2604	b4409
+ submerged biofilm formation [GO:0090605]	b3295	b3649	b3988	b3987	b2573	b3202
+recombinational repair [GO:0000725]	b1861	b1860	b1863	b0962
+one-carbon metabolic process [GO:0006730]	b2942	b1606
+ S-adenosylmethionine biosynthetic process [GO:0006556]	b2942
+ S-adenosylmethionine cycle [GO:0033353]	b2942
+selenocysteine biosynthetic process [GO:0016260]	b3591	b0893
+ selenocysteine incorporation [GO:0001514]	b3591
+ selenocysteinyl-tRNA(Sec) biosynthetic process [GO:0097056]	b3591	b0893
+folic acid metabolic process [GO:0046655]	b2551
+ glycine biosynthetic process from serine [GO:0019264]	b2551
+ glycine catabolic process [GO:0006546]	b2551
+ L-serine biosynthetic process [GO:0006564]	b2551	b4388
+ tetrahydrofolate interconversion [GO:0035999]	b2551	b3941	b4019	b0529	b3829	b2912
+ tetrahydrofolate metabolic process [GO:0046653]	b2551
+ fumarate transport [GO:0015741]	b3528	b1206
+ L-aspartate transmembrane transport [GO:0070778]	b3528	b0655
+trans-translation [GO:0070929]	b2620
+ trans-translation-dependent protein tagging [GO:0070930]	b2620
+succinyl-CoA metabolic process [GO:0006104]	b0728
+UMP catabolic process [GO:0046050]	b2744
+ tRNA-guanine transglycosylation [GO:0101030]	b0406
+'de novo' cotranslational protein folding [GO:0051083]	b0436
+ cell cycle [GO:0007049]	b0436	b0740	b0737	b0738	b0090	b0739	b1107
+ chaperone-mediated protein folding [GO:0061077]	b0436	b0492	b4316	b0140	b2110	b3143	b0531	b2336	b0944	b0717	b0939	b3047
+tryptophan catabolic process [GO:0006569]	b3708
+bacteriocin transport [GO:0043213]	b0740	b3006	b0737	b3005	b0738	b0739
+ cellular response to bacteriocin [GO:0071237]	b0740	b0739
+ protein import [GO:0017038]	b0740	b3006	b0737	b0098	b0739
+ regulation of membrane invagination [GO:1905153]	b0740	b0741	b0737	b0738	b0739
+ glyceraldehyde-3-phosphate biosynthetic process [GO:0046166]	b3919
+tRNA methylation [GO:0030488]	b2607	b0661	b0921	b2324	b0195	b2575	b2632	b0253
+ tRNA N1-guanine methylation [GO:0002939]	b2607
+dTMP biosynthetic process [GO:0006231]	b2827
+ methylation [GO:0032259]	b2827	b3833	b1661	b3368	b4019	b2232	b3829	b0261	b1335	b0777
+ menaquinone biosynthetic process [GO:0009234]	b3833
+L-cysteine catabolic process [GO:0019448]	b3470
+ Mo-molybdopterin cofactor biosynthetic process [GO:0006777]	b3470	b2206	b2877
+RNA destabilization [GO:0050779]	b3205
+endonucleolytic cleavage involved in rRNA processing [GO:0000478]	b0659
+negative regulation of kinase activity [GO:0033673]	b1703	b2415
+ positive regulation of kinase activity [GO:0033674]	b1703
+negative regulation of endoribonuclease activity [GO:0060702]	b1045	b3929	b2631
+ purine nucleoside metabolic process [GO:0042278]	b1045
+ regulation of single-species biofilm formation on inanimate substrate [GO:1900231]	b1045	b4109
+UMP salvage [GO:0044206]	b2498
+ uracil salvage [GO:0006223]	b2498
+nucleotide-excision repair [GO:0006289]	b0779
+ nucleotide-excision repair, DNA incision [GO:0033683]	b0779	b1913	b1741
+response to oxidative stress [GO:0006979]	b1004	b1203	b1412	b2208	b2570	b0375	b2358	b3676	b0045	b0771	b0644	b2362	b2354
+negative regulation of ribosome biogenesis [GO:0090071]	b3866
+ positive regulation of GTPase activity [GO:0043547]	b3866	b3641
+ribosome biogenesis [GO:0042254]	b2949	b1088
+ rRNA 5'-end processing [GO:0000967]	b2949	b1084	b3180
+RNA (guanine-N7)-methylation [GO:0036265]	b2960
+ tRNA (guanine-N7)-methylation [GO:0106004]	b2960
+DNA replication, synthesis of RNA primer [GO:0006269]	b4362	b3066
+ protein homotrimerization [GO:0070207]	b4362	b0572
+phosphatidylethanolamine biosynthetic process [GO:0006646]	b4160
+ zymogen activation [GO:0031638]	b4160	b2717	b3459
+ seryl-tRNA aminoacylation [GO:0006434]	b0893
+asparaginyl-tRNA aminoacylation [GO:0006421]	b0930
+ tRNA aminoacylation for protein translation [GO:0006418]	b0930	b1719	b2890	b4129
+negative regulation of translational initiation [GO:0045947]	b1719
+ threonyl-tRNA aminoacylation [GO:0006435]	b1719
+ tRNA aminoacylation [GO:0043039]	b1719
+ chromosome organization [GO:0051276]	b0956
+ chromosome segregation [GO:0007059]	b0956	b3811	b2894	b1175	b0924	b0890	b0923	b2170	b0922	b3764
+lysyl-tRNA aminoacylation [GO:0006430]	b2890	b4129
+cellular response to acidic pH [GO:0071468]	b4155	b3510	b2373	b2374	b1166	b0693	b1160	b4011	b3491	b1953	b3238	b1164
+ lysyl-tRNA aminoacylation [GO:0006430]	b4155
+ protein-lysine lysylation [GO:0071915]	b4155
+ protein-N6-(L-lysyl)-L-lysine modification to protein-N6-(beta-lysyl)-L-lysine [GO:0072581]	b4155
+ resolution of recombination intermediates [GO:0071139]	b3811	b2894
+ transposition, DNA-mediated [GO:0006313]	b3811	b2894	b0228	b0256	b1404	b4284	b1370
+ fumarate metabolic process [GO:0006106]	b4151
+negative regulation of DNA-templated DNA replication initiation [GO:0032297]	b2916	b0687
+ positive regulation of bacterial-type flagellum assembly [GO:1902210]	b1892	b1891
+N-terminal peptidyl-alanine trimethylation [GO:0018012]	b3259
+ peptidyl-lysine trimethylation [GO:0018023]	b3259
+tRNA 3'-trailer cleavage [GO:0042779]	b2268
+fatty acid metabolic process [GO:0006631]	b1187	b4269	b2836
+ positive regulation of fatty acid biosynthetic process [GO:0045723]	b1187
+ regulation of fatty acid metabolic process [GO:0019217]	b1187
+response to xenobiotic stimulus [GO:0009410]	b4374	b2144
+enterobactin biosynthetic process [GO:0009239]	b0597	b0595	b0593	b0594	b0596	b0583	b4511
+Gram-negative-bacterium-type cell outer membrane assembly [GO:0043165]	b2477	b2617	b3201	b2595	b0641	b4262	b3200	b3199	b0054	b2174	b2512	b4261
+ protein insertion into membrane [GO:0051205]	b2477	b2617	b0177	b2595	b3705	b2512
+ detection of virus [GO:0009597]	b0957
+ viral entry into host cell [GO:0046718]	b0957	b0739	b0411	b2622	b2349	b0537	b4271	b0281	b1140	b1579	b2442	b1345	b1936
+lipid catabolic process [GO:0016042]	b3821	b1234
+ phosphatidylglycerol metabolic process [GO:0046471]	b3821
+glycerophospholipid biosynthetic process [GO:0046474]	b1278	b0418	b1912	b2560
+ phosphatidylglycerol biosynthetic process [GO:0006655]	b1278	b0418	b1912	b2560
+ phospholipid catabolic process [GO:0009395]	b1278	b0418	b2560
+ peptidoglycan catabolic process [GO:0009253]	b2813	b1326	b0376	b4392	b2435	b2701	b2817	b0867	b2558	b2963	b0110	b0555	b4169	b1554	b2102
+ peptidoglycan turnover [GO:0009254]	b2813	b3463	b3462	b1856	b2175	b4233	b0867	b1107	b1119	b1192	b2428	b0110	b1325	b1640
+ Gram-negative-bacterium-type cell outer membrane assembly [GO:0043165]	b0177	b0053	b0178	b2494
+internal peptidyl-lysine acetylation [GO:0018393]	b4373	b2584	b4012	b3550
+ N-terminal peptidyl-alanine acetylation [GO:0017189]	b4373
+ N-terminal protein amino acid acetylation [GO:0006474]	b4373	b1066	b1427
+N-terminal peptidyl-alanine acetylation [GO:0017189]	b1066
+ N-terminal peptidyl-serine acetylation [GO:0017198]	b1066
+coenzyme A metabolic process [GO:0015936]	b1584
+ polyamine catabolic process [GO:0006598]	b1584	b1297
+ spermidine catabolic process [GO:0046203]	b1584
+ spermine catabolic process [GO:0046208]	b1584
+ monounsaturated fatty acid biosynthetic process [GO:1903966]	b2323	b1095
+metabolic process [GO:0008152]	b1850	ECOK12F104	b3053
+ L-alanine biosynthetic process from pyruvate [GO:0019272]	b2290	b2379
+asparagine catabolic process via L-aspartate [GO:0033345]	b1767
+ positive regulation of protein histidine kinase activity [GO:0010864]	b1887
+negative regulation of DNA replication [GO:0008156]	b0880
+ response to starvation [GO:0042594]	b0880	b0812	b2784	b3650	b3779	b3229	b1488
+ DNA strand elongation involved in DNA replication [GO:0006271]	b3701	b4361	b1360
+fructose 1,6-bisphosphate metabolic process [GO:0030388]	b4232	b3925	b2930
+ fructose metabolic process [GO:0006000]	b4232
+ sucrose biosynthetic process [GO:0005986]	b4232
+ intracellular sequestering of iron ion [GO:0006880]	b1905
+ protein polymerization [GO:0051258]	b0095
+negative regulation of siderophore biosynthetic process [GO:1900705]	b0683
+ regulation of secondary metabolite biosynthetic process [GO:1900376]	b0683	b4046
+ pyridoxal phosphate biosynthetic process [GO:0042823]	b2927	b1638	b0907
+ pyridoxine biosynthetic process [GO:0008615]	b2927	b1638	b0052	b0907	b2418	b0420	b2320
+ glycerol-3-phosphate catabolic process [GO:0046168]	b2241	b3426	b3608	b2243	b2242
+ glutamine biosynthetic process [GO:0006542]	b3870
+ nitrogen utilization [GO:0019740]	b3870	b1012	b1008
+glutathione metabolic process [GO:0006749]	b1635	b2988	b3102	b2302	b2301	b2989	b3229	b0838	b1064	b3592	b1454
+ response to hydrogen peroxide [GO:0042542]	b1635	b2786	b4483	b0873	b2301	b1166	b3518
+ lysine biosynthetic process [GO:0009085]	b0166
+arabinose catabolic process [GO:0019568]	b0064	b0062	b0063
+ response to nitric oxide [GO:0071731]	b1334	b2710
+glyoxylate cycle [GO:0006097]	b4015	b4018	b0118	b4014
+molybdate ion transport [GO:0015689]	b0761	b0763	b0764	b0765
+lysine catabolic process [GO:0006554]	b4131	b0186
+ lipid modification [GO:0030258]	b1661
+bacterial-type flagellum-dependent swarming motility [GO:0071978]	b1881	b2147	b0798	b1034	b1328	b1944	b1035	b1614	b2689	b1259	b2603	b1076	b1122	b1447	b1520	b2121	b2510
+pantothenate biosynthetic process [GO:0015940]	b0425	b0134	b0133
+chorismate metabolic process [GO:0046417]	b2599	b2600
+ L-phenylalanine biosynthetic process [GO:0009094]	b2599	b2600
+ tyrosine biosynthetic process [GO:0006571]	b2599	b2600
+cellular phosphate ion homeostasis [GO:0030643]	b3724
+ cellular response to antibiotic [GO:0071236]	b3724	b0890
+ cellular response to heat [GO:0034605]	b3724	b2936	b2922	b1824
+ cellular response to pH [GO:0071467]	b3724
+ cellular response to starvation [GO:0009267]	b3724	b0974	b0973	b4354	b0972	b2310	b0598
+ negative regulation of gene expression [GO:0010629]	b3724	b0630
+ negative regulation of ion transmembrane transporter activity [GO:0032413]	b3724
+ negative regulation of phosphate metabolic process [GO:0045936]	b3724
+ negative regulation of phosphate transmembrane transport [GO:2000186]	b3724
+modulation by symbiont of host adenylate cyclase-mediated signal transduction [GO:0043963]	b3349
+ protein maturation [GO:0051604]	b3349	b0902	b0156	b2730	b2712	b0998	b1497
+ protein maturation by protein folding [GO:0022417]	b3349	b0178
+ protein peptidyl-prolyl isomerization [GO:0000413]	b3349	b4207	b3363	b0525
+ protein stabilization [GO:0050821]	b3349	b3006	b3005	b0053	b0178	b3687
+GMP salvage [GO:0032263]	b0125	b0238	b0477
+ guanine salvage [GO:0006178]	b0125
+ hypoxanthine metabolic process [GO:0046100]	b0125
+ IMP salvage [GO:0032264]	b0125	b0238	b0477
+ purine ribonucleoside salvage [GO:0006166]	b0125	b0238	b0477	b0469	b2866	b2867	b2868	b2881
+ XMP salvage [GO:0032265]	b0238
+ acetate catabolic process [GO:0045733]	b2297
+ acetyl-CoA biosynthetic process from acetate [GO:0019427]	b2297	b4069
+ L-threonine catabolic process to propionate [GO:0070689]	b2297	b3117	b3115	b3114	b4471
+ glucose metabolic process [GO:0006006]	b0902	b0756	b0688	b3879	b2544
+ peptidyl-glycine modification [GO:0018201]	b0902
+2-oxoglutarate metabolic process [GO:0006103]	b0116
+ cell redox homeostasis [GO:0045454]	b0116
+ glycine decarboxylation via glycine cleavage system [GO:0019464]	b0116
+cellular response to cold [GO:0070417]	b3162	b2526	b1742
+ mRNA stabilization [GO:0048255]	b3162	b3996	b2696
+ positive regulation of translation [GO:0045727]	b3162	b3842
+ long-chain fatty acid biosynthetic process [GO:0042759]	b2316	b0185
+ malonyl-CoA biosynthetic process [GO:2001295]	b2316	b0185	b3255	b3256
+carbon utilization [GO:0015976]	b1241	b3499	b3414	b0339	b0126	b3391	b3392	b3393	b3395	b3413	b3394
+ ethanol biosynthetic process [GO:0006115]	b1241
+ mixed acid fermentation [GO:0019664]	b1241	b0904	b0621	b2492
+ protein homooligomerization [GO:0051260]	b1241	b2924
+'de novo' L-methionine biosynthetic process [GO:0071266]	b3433
+ homoserine biosynthetic process [GO:0009090]	b3433
+ P450-containing electron transport chain [GO:0140647]	b2525
+ positive regulation of cell division [GO:0051781]	b3463	b3462	b2519
+glycol catabolic process [GO:0042846]	b2799
+ L-fucose catabolic process [GO:0042355]	b2799	b2800	b1415	b3605	b2802	b2803
+ propanediol metabolic process [GO:0051143]	b2799
+ rhamnose catabolic process [GO:0019301]	b2799	b1415	b3902	b3903	b2803
+anaerobic glycerol catabolic process [GO:0019588]	b3945	b3227
+ methylglyoxal catabolic process [GO:0051596]	b3945	b3012	b0207	b3001
+branched-chain amino acid transport [GO:0015803]	b3455	b3460	b3457	b3456	b3454	b3458	b0401
+ D-alanine transport [GO:0042941]	b3455	b4208	b3457
+ isoleucine transmembrane transport [GO:1903714]	b3455	b3457	b3456	b3454	b4141
+ L-alanine transport [GO:0015808]	b3455	b4208	b3457	b2670
+ L-isoleucine import across plasma membrane [GO:1903806]	b3455	b3457
+ L-valine import across plasma membrane [GO:1903805]	b3455
+ L-valine transmembrane transport [GO:1903785]	b3455	b3457	b3456	b3454	b4141
+ leucine import across plasma membrane [GO:0098713]	b3455	b3457
+ phenylalanine transport [GO:0015823]	b3455	b3457	b3456	b3454	b3458
+lithium ion transmembrane transport [GO:0090452]	b0794	b0793
+ sodium ion transmembrane transport [GO:0035725]	b0794	b0792	b0793
+ tetracycline transmembrane transport [GO:0015904]	b0794	b0792	b0793
+ xenobiotic transmembrane transport [GO:0006855]	b0794	b1663	b3514	b0792	b0793
+ lipopolysaccharide transport [GO:0015920]	b3201	b0641	b4262	b3200	b3199	b0054	b0914	b4261
+6-sulfoquinovose(1-) catabolic process [GO:1902777]	b3882	b3880	b3883	b3881	b3879
+ 6-sulfoquinovose(1-) catabolic process to glycerone phosphate and 3-sulfolactaldehyde [GO:0061720]	b3882	b3880	b3883	b3881
+ toxin catabolic process [GO:0009407]	b3882	b3910	b0947
+negative regulation of translational elongation [GO:0045900]	b4391	b2597
+response to zinc ion [GO:0010043]	b1858	b1859
+ zinc ion homeostasis [GO:0055069]	b1858	b1857	b1859
+ zinc ion import across plasma membrane [GO:0071578]	b1858	b1857	b1859
+cell morphogenesis [GO:0000902]	b3251	b3730
+ negative regulation of cell division [GO:0051782]	b3251	b1175	b0958	b1352	b1575
+ regulation of chromosome segregation [GO:0051983]	b3251
+negative regulation of DNA-templated transcription, termination [GO:0060567]	b3556	b0623	b1823	b0990	b1557	b1558	b0989	b1552	b0551
+regulation of catalytic activity [GO:0050790]	b2553
+ regulation of fatty acid biosynthetic process [GO:0042304]	b2553
+ regulation of nitrogen utilization [GO:0006808]	b2553	b3868	b0167
+ positive regulation of glycogen catabolic process [GO:0045819]	b2415
+ regulation of carbon utilization [GO:0043609]	b2415
+ regulation of DNA-binding transcription factor activity [GO:0051090]	b2415	b2156	b0959	b1976
+phosphorelay signal transduction system [GO:0000160]	b3405	b0571	b4125	b2554	b4113	b4112	b2709	b2216	b2220	b2369	b4124	b1914	b0620	b2125	b3669	b4004	b2731	b3422	b0535	b4636	b2852	b2856	NA	NA	b2847
+ positive regulation of DNA-directed DNA polymerase activity [GO:1900264]	b3781
+enzyme-directed rRNA pseudouridine synthesis [GO:0000455]	b0058	b2791	b2183	b4022	b2594	b1086	b1269	b1135
+ pseudouridine synthesis [GO:0001522]	b0058
+ RNA modification [GO:0009451]	b0058	b2791	b0143	b1413	b2898
+ rRNA pseudouridine synthesis [GO:0031118]	b0058
+ tRNA pseudouridine synthesis [GO:0031119]	b0058	b2791	b4022	b3166	b2745
+amino acid transport [GO:0006865]	b2014	b3116	b0654	b0653	b1918	b3089	b4111	b2923	b0576	b0198	b2130	b1492	b1296	b0861	b3824	b2128	b2129	b2131	b2578	b3110	b3270	b1336	b0810	b3823	b3268	b3269	b1798	b0486	b1605	b3795	b4156	b3078	b0328	b0899	b1453
+ putrescine transport [GO:0015847]	b2014	b1291	b1296	b1290	b1293	b1292
+D-galactonate catabolic process [GO:0034194]	b3691	b4477	b3693
+ D-galactonate transmembrane transport [GO:0042875]	b3691
+hexuronate transmembrane transport [GO:0015736]	b3093
+cell adhesion involved in single-species biofilm formation [GO:0043709]	b1490	b1535	b2233	b2604	b1785	b1786	b1956	b1341	b0385	b0834	b1522	b2108	b0137	b3145	b0938	b0941	b0719	b4315	b3043	b0942	b0943	b1503	b1502	b1504
+ negative regulation of bacterial-type flagellum-dependent cell motility [GO:1902201]	b1490	b1535	b2604	b1194	b1785	b1786	b1956	b1341	b0385	b0834	b1522	b0853
+ response to oxygen levels [GO:0070482]	b1490	b3210
+ cellular response to nutrient [GO:0031670]	b2380
+protein hexamerization [GO:0034214]	b3843	b0720	b2245
+ ubiquinone biosynthetic process from chorismate [GO:0032150]	b3843	b3834
+negative regulation of apoptotic process [GO:0043066]	b0970
+ regulation of proteolysis [GO:0030162]	b0970
+iron-sulfur cluster assembly [GO:0016226]	b2528	b3807	b3924	b1680	b1684	b2810	b1679	b1682	b1683	b2898	b2113	b2524	b1681
+ protein maturation by iron-sulfur cluster transfer [GO:0097428]	b2528	b3414	b1684	b2527	b2526
+L-serine transport [GO:0015825]	b2796
+ L-serine transport [GO:0015825]	b3116
+ threonine transport [GO:0015826]	b3116	b3089	b0813	b3824	b3823
+beta-alanine transport [GO:0001762]	b4208
+ D-serine transport [GO:0042942]	b4208	b2365
+ glycine transport [GO:0015816]	b4208
+cadaverine transport [GO:0015839]	b4132
+ cellular stress response to acidic pH [GO:1990451]	b4132	b3510
+ L-lysine transmembrane transport [GO:1903401]	b4132
+putrescine transport [GO:0015847]	b0692	b0854	b0855	b0856	b1126	b1125	b1124	b1123	b0857
+dipeptide transport [GO:0042938]	b3541	b3543	b3542	b3540	b1329	b1486	b1485	b1487	b1484	b1483
+ heme transmembrane transport [GO:0035351]	b3541	b3543	b3542	b3544	b3540	b1329
+phosphate ion transmembrane transport [GO:0035435]	b3725	b3727	b2987	b4020
+ regulation of phosphatase activity [GO:0010921]	b3725	b3728	b3726	b3727
+peptide transport [GO:0015833]	b1291	b1290	b1293	b1292	b0829	b3271	b1294	b0445
+negative regulation of peptidase activity [GO:0010466]	b3178	b4175	b4174
+ protein catabolic process [GO:0030163]	b3178
+ fatty acid elongation, saturated fatty acid [GO:0019367]	b1095
+ heme oxidation [GO:0006788]	b1475	b3893	b1476	b3892	b1474	b3894
+ protein maturation by nickel ion transfer [GO:0110147]	b2727
+response to X-ray [GO:0010165]	b0481	b0127	b0276
+cellular response to cell envelope stress [GO:0036460]	b0762	b2573	b4003	b2078	b0196	b4002	b3398	b1824	b4682	b0466
+ peptidoglycan-protein cross-linking [GO:0018104]	b0819	b0925	b1990	b1678	b1113
+DNA-templated DNA replication [GO:0006261]	b0892	b1842	b4059	b0184
+ regulation of DNA repair [GO:0006282]	b0892	b2698
+peptidoglycan biosynthetic process [GO:0009252]	b1105	b2328	b3147	b1782	b3249	b3584
+ positive regulation of catalytic activity [GO:0043085]	b1105	b4059	b3895	b0890	b4511
+ lipopolysaccharide metabolic process [GO:0008653]	b1280
+ regulation of lipid biosynthetic process [GO:0046890]	b1280
+ D-tagatose 6-phosphate catabolic process [GO:2001059]	b3137	b3132
+biosynthetic process [GO:0009058]	b3617	b0600	b0618	b1464	b3376	b2876
+ carboxylic acid metabolic process [GO:0019752]	b3770	b4309
+base-excision repair, AP site formation [GO:0006285]	b1633	b3068
+ base-excision repair, AP site formation via deaminated base removal [GO:0097510]	b1633	b2580
+ cellular response to UV [GO:0034644]	b1633	b2936	b1333	b1895
+D-arabinose catabolic process [GO:0019571]	b2800	b2802	b2803
+ 'de novo' IMP biosynthetic process [GO:0006189]	b1131
+proton motive force-driven plasma membrane ATP synthesis [GO:0042777]	b3738	b3732	b3736
+cellular response to magnesium ion [GO:0071286]	b4242	b1826	b0557
+intracellular sequestering of iron ion [GO:0006880]	b3336	b1902
+removal of superoxide radicals [GO:0019430]	b1418	b1646	b1656
+mRNA polyadenylation [GO:0006378]	b0143
+ mRNA processing [GO:0006397]	b0143	b1413
+cytidine deamination [GO:0009972]	b2143
+ deoxycytidine catabolic process [GO:0006217]	b2143
+ electron transport coupled proton transport [GO:0015990]	b0431	b0432	b0430	b0429	b2287	b2277	b2276	b2278	b2484
+ ATP synthesis coupled electron transport [GO:0042773]	b0432	b2277	b2276	b2283	b2723	b2482	b2484
+ oxidative phosphorylation [GO:0006119]	b0733	b0734	b0979	b0978	b4515
+ cysteine biosynthetic process [GO:0019344]	b2414
+ cysteine biosynthetic process from serine [GO:0006535]	b2414	b2421	b2058
+cytochrome c biosynthetic process [GO:1903607]	b2199	b2201	b2197	b2200	b2198
+ cytochrome complex assembly [GO:0017004]	b2199	b0722	b2201	b4136	b0721	b2197	b2200	b2194	b2198
+ heme import across plasma membrane [GO:1904334]	b2199	b2201	b2197	b2200	b2198
+ protein-heme linkage [GO:0017003]	b2199	b2197
+phosphatidic acid biosynthetic process [GO:0006654]	b4042
+ purine nucleoside catabolic process [GO:0006152]	b4384	b0030	b0651	b2407
+ purine nucleoside interconversion [GO:0019686]	b4384
+ pantothenate catabolic process [GO:0015941]	b3639
+dihydrofolate metabolic process [GO:0046452]	b0048
+ folic acid metabolic process [GO:0046655]	b0048
+ glycine biosynthetic process [GO:0006545]	b0048
+ response to methotrexate [GO:0031427]	b0048
+3-(3-hydroxy)phenylpropionate catabolic process [GO:0019622]	b0348	b0349	b0347
+ 3-phenylpropionate catabolic process [GO:0019380]	b0348	b0349	b0347
+ phenylpropanoid catabolic process [GO:0046271]	b0348
+double-strand break repair [GO:0006302]	b0145
+cellular iron ion homeostasis [GO:0006879]	b0812	b2529	b4293	b0490	b0491	b4292	b0804
+ chromosome condensation [GO:0030261]	b0812	b4000	b0440	b0924	b0923	b0922
+menaquinone biosynthetic process [GO:0009234]	b2262	b2264	b3930	b2265	b1686	b2261	b2260	b2263
+ cobalamin transport [GO:0015889]	b3006	b3005
+ maintenance of stationary phase [GO:0060274]	b0053
+ maintenance of unfolded protein [GO:0036506]	b0053	b0492
+fructose 6-phosphate metabolic process [GO:0006002]	b3371
+ protein N-linked glycosylation [GO:0006487]	b3371	b3729
+ UDP-N-acetylglucosamine metabolic process [GO:0006047]	b3371	b3729
+folic acid-containing compound metabolic process [GO:0006760]	b2303
+ pteridine-containing compound biosynthetic process [GO:0042559]	b2303	b1606
+tricarboxylic acid cycle [GO:0006099]	b1612	b0726	b2210	b0320	NA
+aspartate metabolic process [GO:0006531]	b4139
+ quorum sensing [GO:0009372]	b1852	b2782	b3022	b1601	b2687	b1513	b1515	b1516	b1511	b1514
+regulation of nitrogen utilization [GO:0006808]	b0450
+Kdo2-lipid A biosynthetic process [GO:0036104]	b3633	b1054	b2378	b1855
+ lipopolysaccharide core region biosynthetic process [GO:0009244]	b3633	b1236	b3546	b0222	b0200	b3619	b3052	b0915	b4114	b3630	b3625	b3623
+cell wall macromolecule biosynthetic process [GO:0044038]	b3784
+ enterobacterial common antigen biosynthetic process [GO:0009246]	b3784
+ lipopolysaccharide biosynthetic process [GO:0009103]	b3784	b1054	b3788	b2038	b2047	b2060	b2174	b2258	b2255	b2253	b2254	b4544	b2378	b3785	b1855	b4114	b2041	b2040	b0981	b2028	b2257	b2058	b2054	b2049	b2048	b0587	b4571	b2256	b2046	b2050	b2057	b2056	b2055	b2044	b2059
+ O antigen biosynthetic process [GO:0009243]	b3784	b2039	b2038	b2041	b2040	b2037
+methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione [GO:0019243]	b1651	b0212	b0927
+'de novo' GDP-L-fucose biosynthetic process [GO:0042351]	b2053	b2052
+ GDP-mannose metabolic process [GO:0019673]	b2053
+acetate transmembrane transport [GO:0035433]	b0010
+ succinate transmembrane transport [GO:0071422]	b0010	b1206
+heme B biosynthetic process [GO:0006785]	b3850	b3997
+ heme biosynthetic process [GO:0006783]	b3850	b3997
+ porphyrin-containing compound biosynthetic process [GO:0006779]	b3850	b1270	b1993	b3997	b3802
+peptidyl-glutamine methylation [GO:0018364]	b1212	b2330
+ protein methylation [GO:0006479]	b1212	b1884	b2330
+ protein maturation by [4Fe-4S] cluster transfer [GO:0106035]	b0156	b3414
+ UDP-N-acetylglucosamine biosynthetic process [GO:0006048]	b3730	b3729	b3176	b3888
+regulation of gene expression [GO:0010468]	b0460	b2321	b0715	b0836
+bacterial nucleoid packaging [GO:0036386]	b4000	b0440	b1237
+ negative regulation of single-species biofilm formation on inanimate substrate [GO:1900232]	b1237	b0853	b3049
+alanine catabolic process [GO:0006524]	b0889
+ response to amino acid [GO:0043200]	b0889	b2156	b3743	b0447
+ response to leucine [GO:0043201]	b0889
+carbon catabolite repression of transcription [GO:0045013]	b3357
+negative regulation of purine nucleotide biosynthetic process [GO:1900372]	b1658
+ response to nitrosative stress [GO:0051409]	b3961	b2552	b4209
+cell wall macromolecule catabolic process [GO:0016998]	b1326	b2558	b2963	b1193	b0555	b1554	b2102
+ glycopeptide catabolic process [GO:0009050]	b1326	b1192
+ positive regulation of gene expression [GO:0010628]	b0571	b2839
+ response to copper ion [GO:0046688]	b0571	b2893	b0123	b4136	b0575	b1968	b0572	b0573	b0574	b1111	b1841
+ response to nutrient levels [GO:0031667]	b2126
+ primary metabolic process [GO:0044238]	b2597	b3203
+isoprenoid biosynthetic process [GO:0008299]	b3187	b3209
+ polyprenol biosynthetic process [GO:0016094]	b3187	b0174
+ regulation of catalytic activity [GO:0050790]	b0220	b4255	b4016
+ isoleucine transport [GO:0015818]	b3460	b0401
+ leucine transport [GO:0015820]	b3460	b4141	b3458	b0401	b1798
+ valine transport [GO:0015829]	b3460	b0401
+lipid metabolic process [GO:0006629]	b0494	b0736	b3825
+ positive regulation of hydrolase activity [GO:0051345]	b2742	b3613
+ septum digestion after cytokinesis [GO:0000920]	b2742	b1856	b3613	b0890	b4206
+protein localization to outer membrane [GO:0089705]	b4220	b4221
+ protein secretion [GO:0009306]	b4220	b3981	b3175	b4221	b3391	b0229
+ Entner-Doudoroff pathway through 6-phosphogluconate [GO:0009255]	b1851
+inositol metabolic process [GO:0006020]	b2533
+ inositol phosphate dephosphorylation [GO:0046855]	b2533	b4214
+ phosphatidylinositol phosphate biosynthetic process [GO:0046854]	b2533	b4214
+GMP biosynthetic process [GO:0006177]	b2508
+purine nucleoside transmembrane transport [GO:0015860]	b3662
+ dormancy process [GO:0022611]	b3812	b3183	b4618
+ riboflavin biosynthetic process [GO:0009231]	b3812	b0798	b0025
+ septin ring assembly [GO:0000921]	b2910
+tRNA nucleoside ribose methylation [GO:0002128]	b2532	b4403
+ xenobiotic transport [GO:0042908]	b0463	b0543	b2470	b1663	b3513	b3514	b2075	b2076	b2074
+ cellular response to sulfate starvation [GO:0009970]	b0605	b0937	b0365
+ hydrogen peroxide catabolic process [GO:0042744]	b0605	b3942	b1732	b0606
+ response to alkyl hydroperoxide [GO:0033195]	b0605
+ response to hydroperoxide [GO:0033194]	b0605	b1482	b2436
+ siderophore biosynthetic process [GO:0019290]	b0605	b4511
+AMP salvage [GO:0044209]	b1982
+ nucleoside metabolic process [GO:0009116]	b1982
+protein initiator methionine removal [GO:0070084]	b0168
+fucose transmembrane transport [GO:0015756]	b2841
+ L-arabinose transmembrane transport [GO:0042882]	b2841	b4460
+ internal peptidyl-lysine acetylation [GO:0018393]	b1882	b4093
+ protein acetylation [GO:0006473]	b1882
+defense response to virus [GO:0051607]	b2782	b2761	b2630	b2627	b2628
+ mRNA catabolic process [GO:0006402]	b2782	b1563	b2630	b4539	b4347
+ negative regulation of cell growth [GO:0030308]	b2782	b4225	b0853
+ positive regulation of programmed cell death [GO:0043068]	b2782
+ rRNA catabolic process [GO:0016075]	b2782	b4225
+regulation of growth [GO:0040008]	b2783	b1564	b1438	b3082
+cell adhesion involved in biofilm formation [GO:0043708]	b3911	b1021	b1022	b1202	b1978
+ regulation of cell-substrate adhesion [GO:0010810]	b3912	b0192
+cobalamin biosynthetic process [GO:0009236]	b3368	b2459	b1992	b1991	b0638
+ response to osmotic stress [GO:0006970]	b3368	b3404	b2573	b0311	b0312	b0543	b1896	b0890	b0875	b0577	b0313	b1079	b4376
+ siroheme biosynthetic process [GO:0019354]	b3368
+ peptidoglycan metabolic process [GO:0000270]	b0632	b0211	b3163	b2134	b1856	b2175	b2328	b3182	b1097	b2010	b0920	b1193	b0633	b1655
+peptidyl-histidine phosphorylation [GO:0018106]	b3210	b3404	b2219	b1609
+ response to acetate [GO:0010034]	b2786
+ response to formic acid [GO:1901425]	b2786
+cellular response to misfolded protein [GO:0071218]	b3235
+ galactose transmembrane transport [GO:0015757]	b2150	b2801	b2149	b2148	b3875
+bacterial-type DNA replication initiation [GO:1902328]	b3387
+ DNA methylation on adenine [GO:0032775]	b3387
+cellular response to antibiotic [GO:0071236]	b3860	b1530
+ tRNA methylthiolation [GO:0035600]	b0661
+peptidyl-L-beta-methylthioaspartic acid biosynthetic process from peptidyl-aspartic acid [GO:0018339]	b0835	b0905
+cellular amino acid metabolic process [GO:0006520]	b2441	b2440
+ ethanolamine catabolic process [GO:0046336]	b2441	b2440	b2456	b2459
+ fatty acid biosynthetic process [GO:0006633]	b1093
+ fatty acid elongation [GO:0030497]	b1093	b1288
+ DNA-templated transcription, initiation [GO:0006352]	b1922	b3461	b2573	b4293	b3202	b3406
+cysteine transmembrane transport [GO:1903712]	b1920	b1917
+ L-cystine transport [GO:0015811]	b1920	b1918	b1917
+ sulfur utilization [GO:0006791]	b1920	b1918	b1919	b1729	b3425
+ion transport [GO:0006811]	b3844	b4148	b0411	b0983	b3739	b1330	b4159
+fucose metabolic process [GO:0006004]	b2804	b2805
+ fucosylation [GO:0036065]	b2804	b4481
+ L-fucose metabolic process [GO:0042354]	b2804
+ osmoregulated periplasmic glucan biosynthetic process [GO:1900727]	b1236	b0815
+ UDP-glucose metabolic process [GO:0006011]	b1236	b3533	b2042	b3532
+glycolate catabolic process [GO:0046296]	b0507	b4468	b4467	b0514
+ glyoxylate catabolic process [GO:0009436]	b0507	b0514	b0509
+ glycolate catabolic process [GO:0046296]	b2979	b0509
+cellular response to mercury ion [GO:0071288]	b3927
+ L-aspartate import across plasma membrane [GO:0140009]	b0654	b0653	b4138
+ L-glutamate import across plasma membrane [GO:0098712]	b0654	b0653	b0655	b0652
+ toxin transport [GO:1901998]	b0653	b0377
+ spermidine metabolic process [GO:0008216]	b2988
+D-glucarate catabolic process [GO:0042838]	b2787	b3126	b3125	b3124
+ negative regulation of DNA-templated DNA replication [GO:2000104]	b2231	b2009
+cellular stress response to acidic pH [GO:1990451]	b3509	b2217	b0155	b3507	b3512
+bile acid catabolic process [GO:0030573]	b1619
+ lipid catabolic process [GO:0016042]	b1619	b4377
+ protein insertion into membrane from inner side [GO:0032978]	b0178	b0408	b0409	b3981	b3175	b3300	b3705
+ positive regulation of proteolysis [GO:0045862]	b1235
+ protein destabilization [GO:0031648]	b1235
+protein modification process [GO:0036211]	b2717	b0975	b2993	b2674
+ protein processing [GO:0016485]	b2717	b0975	b2993
+fructose catabolic process [GO:0006001]	b2168
+ cell chemotaxis [GO:0060326]	b4034
+ detection of maltose stimulus [GO:0034289]	b4034
+cellular response to starvation [GO:0009267]	b2781	b1895
+ dATP catabolic process [GO:0046061]	b2781
+ dGTP catabolic process [GO:0006203]	b2781
+ dTTP catabolic process [GO:0046076]	b2781
+ TTP catabolic process [GO:0046047]	b2781
+ UTP catabolic process [GO:0046052]	b2781
+regulation of cellular pH [GO:0030641]	b0842
+methionine biosynthetic process [GO:0009086]	b3941	b1622	b3938	b3828
+ positive regulation of oxidoreductase activity [GO:0051353]	b0211	b2673
+L-methionine salvage from methylthioadenosine [GO:0019509]	b0159
+ L-methionine salvage from S-adenosylmethionine [GO:0019284]	b0159
+ purine deoxyribonucleoside catabolic process [GO:0046124]	b0159
+ toxic metabolite repair [GO:0110052]	b0159
+ glycolipid translocation [GO:0034203]	b1069
+ lipid translocation [GO:0034204]	b1069
+ lipid-linked peptidoglycan transport [GO:0015836]	b1069
+ UMP catabolic process [GO:0046050]	b0675
+nitrate assimilation [GO:0042128]	b1221	b1223	b1469	b2193
+ regulation of nitrate assimilation [GO:0090352]	b1221
+guanine import across plasma membrane [GO:0098710]	b4064	b4464
+ hypoxanthine transport [GO:0035344]	b4064	b4464
+ regulation of endoribonuclease activity [GO:0060699]	b4255
+ organonitrogen compound catabolic process [GO:1901565]	b4243	b1010	b3113
+ cellular response to nitrate [GO:0071249]	b1222
+ cellular response to nitrite [GO:0071250]	b1222	b2469
+response to lithium ion [GO:0010226]	b1186
+nickel cation import across plasma membrane [GO:0098716]	b3478	b3477	b3479
+ nickel cation transmembrane transport [GO:0035444]	b3478	b3816	b3479	b2106	b3480
+nitrogen fixation [GO:0009399]	b3869	b3868
+ peptidyl-histidine autophosphorylation [GO:0090593]	b3869
+ regulation of nitrogen compound metabolic process [GO:0051171]	b3869
+ signal transduction involved in regulation of gene expression [GO:0023019]	b3869	b4291	b4292
+respiratory electron transport chain [GO:0022904]	b2288	b2285	b2280	b2286	b1057	b1974	b1670
+ATP synthesis coupled electron transport [GO:0042773]	b2279	b2278
+nucleoside transmembrane transport [GO:1901642]	b2393	b2161	b2164
+ nucleoside transport [GO:0015858]	b2393	b2406	b0411
+adenosine transport [GO:0032238]	b2964
+ purine nucleoside transmembrane transport [GO:0015860]	b2964
+ pyrimidine nucleoside transport [GO:0015864]	b2964
+ uridine transport [GO:0015862]	b2964
+DNA-templated transcription, elongation [GO:0006354]	b3982	b3842	b0610	b3181	b3406
+L-lysine catabolic process to acetyl-CoA via saccharopine [GO:0033512]	b0727
+ fatty acid alpha-oxidation [GO:0001561]	b2373
+ oxalate catabolic process [GO:0033611]	b2373	b2374
+chromosome segregation [GO:0007059]	b3019	b4109	b3183
+ DNA topological change [GO:0006265]	b3019	b1763	b3030
+ plasmid partitioning [GO:0030541]	b3019	b3030
+ sister chromatid cohesion [GO:0007062]	b3019	b3030	b0924
+'de novo' pyridoxal 5'-phosphate biosynthetic process [GO:0036001]	b1638	b2320
+polyphosphate catabolic process [GO:0006798]	b2502
+amino acid import across plasma membrane [GO:0089718]	b2679	b2677	b2678	b2310	b2308	b2306	b2307
+ cellular response to osmotic stress [GO:0071470]	b2679	b2677	b2678
+ glycine betaine transport [GO:0031460]	b2679	b4111	b2677	b2678	b0543	b2130	b1599	b1600	b2128	b2129	b2131
+ glycine import across plasma membrane [GO:1903804]	b2679	b2677	b2678
+ hyperosmotic response [GO:0006972]	b2679	b2677	b2678	b1732	b2688	b4376	b2049
+negative regulation of DNA-binding transcription factor activity [GO:0043433]	b1304	b0476	b1163	b1976
+ phage shock [GO:0009271]	b1304
+ regulation of cellular response to stress [GO:0080135]	b1304	b1303	b1305	b1306
+aspartate transmembrane transport [GO:0015810]	b1206
+capsule polysaccharide biosynthetic process [GO:0045227]	b1856	b2175	b1655
+ cysteine transmembrane transport [GO:1903712]	b1918
+negative regulation of nucleic acid-templated transcription [GO:1903507]	b3995
+ positive regulation of nucleotide catabolic process [GO:0030813]	b3995
+ positive regulation of phosphatase activity [GO:0010922]	b3995
+ regulation of polysaccharide biosynthetic process [GO:0032885]	b2571
+microcin B17 transport [GO:0042885]	b0377
+ microcin transport [GO:0042884]	b0377	b0805
+ peptide transport [GO:0015833]	b0377	b1243	b3544	b3476	b1329	b2178	b0598	b2179	b3270	b0830	b0069	b2177	b2180	b3268	b3269	b1487	b3020
+positive regulation of ATP-dependent activity [GO:0032781]	b3228	b3745	b0649
+ positive regulation of protein catabolic process [GO:0045732]	b3228
+ negative regulation of cytokinesis [GO:0032466]	b0958
+ negative regulation of FtsZ-dependent cytokinesis [GO:2000245]	b0958	b2005
+ negative regulation of GTPase activity [GO:0034260]	b0958
+ negative regulation of protein polymerization [GO:0032272]	b0958	b3641
+cellular carbohydrate metabolic process [GO:0044262]	b3386	b4085	b3612	b4301
+ purine nucleobase biosynthetic process [GO:0009113]	b2312	b4005
+guanosine tetraphosphate biosynthetic process [GO:0015970]	b2784	b3650
+ guanosine tetraphosphate metabolic process [GO:0015969]	b2784	b3650
+ negative regulation of cytoplasmic translation [GO:2000766]	b0911	b3319
+ positive regulation of cytoplasmic translation [GO:2000767]	b0911
+ RNA secondary structure unwinding [GO:0010501]	b0911
+ protein localization [GO:0008104]	b3609
+ protein targeting [GO:0006605]	b3609	b0408	b0409	b0098	b1950
+ protein tetramerization [GO:0051262]	b3609
+ protein transport by the Sec complex [GO:0043952]	b3609	b0408	b0409	b3981	b3175	b3300	b0098	b3705	b0407
+intracellular protein transmembrane transport [GO:0065002]	b0408	b0409	b3981	b3175	b3300	b3839	b3838	b3836
+ intracellular protein transport [GO:0006886]	b3981	b3175	b3300
+ SRP-dependent cotranslational protein targeting to membrane, translocation [GO:0006616]	b3981	b3175	b3300
+ glucose-6-phosphate transport [GO:0015760]	b3666
+ hexose phosphate transport [GO:0015712]	b3666
+ response to superoxide [GO:0000303]	b1656	b3924	b3923
+protein targeting to membrane [GO:0006612]	b2610
+ SRP-dependent cotranslational protein targeting to membrane [GO:0006614]	b2610	b3464
+ positive regulation of helicase activity [GO:0051096]	b4059
+ serine transport [GO:0032329]	b3089
+protein homotetramerization [GO:0051289]	b3713
+ xenobiotic metabolic process [GO:0006805]	b3713	b0543	b1650
+cyclic threonylcarbamoyladenosine biosynthetic process [GO:0061504]	b2811	b2812
+D-xylose transmembrane transport [GO:0015753]	b4031
+acyl-CoA metabolic process [GO:0006637]	b0452	b1805	b1253
+ fatty acid catabolic process [GO:0009062]	b0452	b3845	b0221
+tRNA aminoacylation [GO:0043039]	b1637
+ tyrosyl-tRNA aminoacylation [GO:0006437]	b1637
+ubiquinone biosynthetic process [GO:0006744]	b4040	b2906	b0662	b3834	b3042	b2311
+uracil import across plasma membrane [GO:0098721]	b2497
+ uracil transport [GO:0015857]	b2497
+negative regulation of translation [GO:0017148]	b3687	b3203	b3083
+protein stabilization [GO:0050821]	b3686
+ stress response to copper ion [GO:1990169]	b3686	b0192	b0486
+cellular response to amino acid starvation [GO:0034198]	b1563	b0073	b2834
+division septum site selection [GO:0000918]	b3641	b1174
+ negative regulation of division septum assembly [GO:0010974]	b3641
+protein phosphorylation [GO:0006468]	b3859	b2070
+hyperosmotic response [GO:0006972]	b1482
+ cellular hyperosmotic response [GO:0071474]	b4111	b2131
+ cellular hyperosmotic salinity response [GO:0071475]	b4111
+ osmosensory signaling pathway [GO:0007231]	b4111	b1831
+ proline import across plasma membrane [GO:1905647]	b4111
+enzyme-directed rRNA 2'-O-methylation [GO:0000453]	b3179	b2806	b4180	b3146
+ RNA methylation [GO:0001510]	b3179	b3289	b4180
+3,4-dihydroxybenzoate catabolic process [GO:0019619]	b1397
+ fatty acid beta-oxidation [GO:0006635]	b1397	b1805	b2224	b2844
+ phenylacetate catabolic process [GO:0010124]	b1397	b3845	b1393	b1395	b1399	b1394
+cellular response to osmotic stress [GO:0071470]	b2218	b0577	b0808
+ peptidyl-aspartic acid phosphorylation [GO:0018217]	b2218
+ positive regulation of cell projection organization [GO:0031346]	b2217
+ regulation of capsule organization [GO:1901913]	b2217	b1951
+ regulation of carbohydrate catabolic process [GO:0043470]	b2217	b4366	b2427
+ response to stimulus [GO:0050896]	b1951
+regulation of translational elongation [GO:0006448]	b4803	NA
+ transcriptional attenuation by ribosome [GO:0031556]	b4803	NA	b4702	b0001	b3707
+protein targeting [GO:0006605]	b3464
+ intracellular protein transmembrane transport [GO:0065002]	b0098
+'de novo' NAD biosynthetic process from aspartate [GO:0034628]	b2574	b0750	b1740	b0109	b0639
+ nitrate transmembrane transport [GO:0015706]	b1223	b1469
+ nitrite transport [GO:0015707]	b1223	b1469
+ glycerophosphodiester transmembrane transport [GO:0001407]	b3450	b3452	b3451	b3453
+ peptidyl-serine dephosphorylation [GO:0070262]	b4016
+ peptidyl-serine phosphorylation [GO:0018105]	b4016
+amino acid activation for nonribosomal peptide biosynthetic process [GO:0043041]	b0586
+ enterobactin biosynthetic process [GO:0009239]	b0586
+ secondary metabolite biosynthetic process [GO:0044550]	b0586
+arabinose transmembrane transport [GO:0015751]	b2801	b4460	b3875
+ fucose metabolic process [GO:0006004]	b2801
+ fucose transmembrane transport [GO:0015756]	b2801
+cytokinetic process [GO:0032506]	b3388	b2314
+ L-arginine transmembrane transport [GO:1903826]	b2923	b0860
+acetate metabolic process [GO:0006083]	b3115	b2920
+ anaerobic amino acid catabolic process [GO:0019665]	b3115
+ molybdenum incorporation into molybdenum-molybdopterin complex [GO:0018315]	b0827
+ molybdopterin cofactor biosynthetic process [GO:0032324]	b0827	b0009
+ UMP salvage [GO:0044206]	b3831	b2066
+ uridine catabolic process [GO:0006218]	b3831
+homocysteine metabolic process [GO:0050667]	b4019	b3829
+cellular response to hydrogen peroxide [GO:0070301]	b3942	b1533	b1536
+glycerol catabolic process [GO:0019563]	b3426
+ response to iron ion starvation [GO:1990641]	b4291
+enterobactin catabolic process [GO:0046214]	b0585
+cellular hyperosmotic response [GO:0071474]	b1197	b3519
+ trehalose catabolic process [GO:0005993]	b1197	b4239	b3080	b3519
+ncRNA catabolic process [GO:0034661]	b3252
+ regulation of RNA metabolic process [GO:0051252]	b3252
+chitin catabolic process [GO:0006032]	b3338	b1733
+ polysaccharide catabolic process [GO:0000272]	b3338	b1733
+regulation of intracellular pH [GO:0051453]	b0019
+ response to alkaline pH [GO:0010446]	b0019	b4390
+ response to salt stress [GO:0009651]	b0019	b0890	b2569	b1895
+selenocysteine incorporation [GO:0001514]	b3590
+ selenocysteine metabolic process [GO:0016259]	b3590
+ carnitine transmembrane transport [GO:1902603]	b2678
+ choline transport [GO:0015871]	b2678	b0543
+chromosome separation [GO:0051304]	b1763
+ cellular response to lead ion [GO:0071284]	b4003
+ cellular response to zinc ion [GO:0071294]	b4003	b2310
+ generation of precursor metabolites and energy [GO:0006091]	b4122
+ DNA restriction-modification system [GO:0009307]	b4346	b1961
+base-excision repair, DNA ligation [GO:0006288]	b2411	b3647
+ DNA ligation [GO:0006266]	b2411	b3647
+ DNA duplex unwinding [GO:0032508]	b3822
+peptide catabolic process [GO:0043171]	b0237	b3847	b2523	b4260	b1127
+phenylalanine transport [GO:0015823]	b0112
+ tryptophan transport [GO:0015827]	b0112
+ tyrosine transport [GO:0015828]	b0112
+pantothenate transmembrane transport [GO:0015887]	b3258
+ sodium ion export across plasma membrane [GO:0036376]	b3258	b4337
+ regulation of cytoplasmic translation in response to stress [GO:1990497]	b4171
+ selenocysteine biosynthetic process [GO:0016260]	b1764
+ tRNA seleno-modification [GO:0070329]	b1764
+prolyl-tRNA aminoacylation [GO:0006433]	b0194
+organic phosphonate catabolic process [GO:0019700]	b4099	b4098	b4092	b4097	b4096	b4101	b4100	b4095
+ organic phosphonate metabolic process [GO:0019634]	b4099	b4098	b4097	b4096	b4101	b4100	b4094
+ organic phosphonate transport [GO:0015716]	b4099	b4098	b4097	b4096	b4101	b4100
+sulfate transmembrane transport [GO:1902358]	b2425	b2423	b3917	b2422	b2424
+ sulfate transport [GO:0008272]	b2425	b2422	b2424
+ sulfur compound metabolic process [GO:0006790]	b2425	b2762	b2752	b2751	b1919	b1680	b3917	b0934	b0365	b0936
+ thiosulfate transport [GO:0015709]	b2425	b2423	b3917	b2422	b2424
+ cysteine biosynthetic process via S-sulfo-L-cysteine [GO:0019345]	b2421	b0849
+ L-cysteine catabolic process to pyruvate [GO:0019450]	b2421	b4470
+establishment or maintenance of cell polarity regulating cell shape [GO:0071963]	b3250
+ lipid glycosylation [GO:0030259]	b0090
+glycine betaine biosynthetic process from choline [GO:0019285]	b0311	b0312	b0313
+ hydrogen sulfide biosynthetic process [GO:0070814]	b2763	b2764
+ sulfate assimilation, phosphoadenylyl sulfate reduction by phosphoadenylyl-sulfate reductase (thioredoxin) [GO:0019379]	b2762
+ response to gamma radiation [GO:0010332]	b3935
+hyperosmotic salinity response [GO:0042538]	b2232
+ cell morphogenesis [GO:0000902]	b1176
+ regulation of cell division [GO:0051302]	b1176	b0946	b1575
+ regulation of division septum assembly [GO:0032955]	b1176	b1174
+ phospholipid dephosphorylation [GO:0046839]	b0418
+ response to magnesium ion [GO:0032026]	b0418
+ dimethyl sulfoxide metabolic process [GO:0018907]	b0894	b0895	b0896
+ NAD biosynthetic process [GO:0009435]	b1740	b4390	b0109	b1385	b0639	b4094
+ NAD salvage [GO:0034355]	b1740	b0639	b0931
+amino acid salvage [GO:0043102]	b3447
+ glutathione biosynthetic process [GO:0006750]	b3447	b2688
+ glutathione catabolic process [GO:0006751]	b3447	b1218
+pyridoxal phosphate biosynthetic process [GO:0042823]	b0052
+ siderophore metabolic process [GO:0009237]	b0583
+chromosome organization [GO:0051276]	b3030	b3764
+fatty acid beta-oxidation [GO:0006635]	b3845	b3846	b1701	b1393	b2342	b2341	b0443	b2919	b1395	b1394
+ sulfate reduction [GO:0019419]	b2752	b2751
+arginine catabolic process [GO:0006527]	b2938	b4117	b1525	b1745
+ putrescine biosynthetic process [GO:0009446]	b2938
+ putrescine biosynthetic process from arginine [GO:0033388]	b2938
+pyridine nucleotide salvage [GO:0019365]	b1768
+ ncRNA processing [GO:0034470]	b4179
+ transcriptional attenuation [GO:0031555]	b2576	b3319	b4246	b0001	b3766
+ regulation of RNA helicase activity [GO:1902280]	b1084
+pyridoxal phosphate catabolic process [GO:0032361]	b0766
+cellular response to potassium ion [GO:0035865]	b0695
+cysteinyl-tRNA aminoacylation [GO:0006423]	b0526
+ cellular amino acid catabolic process [GO:0009063]	b0674	b2247	b1325
+3'-phosphoadenosine 5'-phosphosulfate metabolic process [GO:0050427]	b4214
+gamma-aminobutyric acid catabolic process [GO:0009450]	b2662	b2661	b1415	b1302
+adenosine catabolic process [GO:0006154]	b1623
+ hypoxanthine biosynthetic process [GO:0046101]	b1623
+ hypoxanthine salvage [GO:0043103]	b1623
+ inosine biosynthetic process [GO:0046103]	b1623
+ purine nucleotide interconversion [GO:0015950]	b1623
+ purine nucleotide salvage [GO:0032261]	b1623
+ purine ribonucleoside monophosphate biosynthetic process [GO:0009168]	b1623
+ purine nucleobase metabolic process [GO:0006144]	b0030	b0516	b0517	b0511
+ pyrimidine nucleobase metabolic process [GO:0006206]	b0030	b2162	b0651	b4382
+ ribonucleoside catabolic process [GO:0042454]	b0030
+ L-amino acid transport [GO:0015807]	b3454
+tRNA folding [GO:0061818]	b3965
+ negative regulation of DNA-binding transcription factor activity [GO:0043433]	b1622	b1707
+mismatch repair [GO:0006298]	b4170	b1960
+ galactarate catabolic process [GO:0046392]	b3126	b3125	b3124	b3128
+ glucarate catabolic process [GO:0019394]	b3126
+ L-serine metabolic process [GO:0006563]	b0907
+ osmosensory signaling via phosphorelay pathway [GO:0007234]	b1129	b2556
+ oligopeptide import across plasma membrane [GO:0140205]	b1243
+ oligopeptide transport [GO:0006857]	b1243	b2177
+ dipeptide transport [GO:0042938]	b3544	b0830
+protein catabolic process [GO:0030163]	b1830	b0885	b0881	b0955
+ negative regulation of hydrolase activity [GO:0051346]	b0476
+dormancy process [GO:0022611]	b1507	b2912	b4428
+ negative regulation of catalytic activity [GO:0043086]	b1507	b2698
+ peptidyl-serine autophosphorylation [GO:0036289]	b1507
+charged-tRNA amino acid modification [GO:0019988]	b3288
+ conversion of methionyl-tRNA to N-formyl-methionyl-tRNA [GO:0071951]	b3288
+putrescine catabolic process [GO:0009447]	b1300	b1299	b1301
+ cysteine export across plasma membrane [GO:0033228]	b0886	b0887	b1533	b2578
+ glutathione transmembrane transport [GO:0034775]	b0886	b0887
+ regulation of heme biosynthetic process [GO:0070453]	b0886
+protoporphyrinogen IX biosynthetic process [GO:0006782]	b0154	b3804
+lipoprotein biosynthetic process [GO:0042158]	b0657	b2828
+ negative regulation of fatty acid biosynthetic process [GO:0045717]	b3256	b3963
+tRNA modification [GO:0006400]	b1055	b1344	b2583	b0188
+peptidyl-S-carbamoyl-L-cysteine dehydration [GO:0046892]	b2730	b2712
+ D-glucuronate catabolic process [GO:0042840]	b4322	b3526	b2842	b2843	b3092
+ peptidyl-serine phosphopantetheinylation [GO:0018070]	b2563	b3475
+cellular response to nitrosative stress [GO:0071500]	b2552
+ nitric oxide catabolic process [GO:0046210]	b2552	b2711
+methylation [GO:0032259]	b1430	b1519
+ response to tellurium ion [GO:0046690]	b1430	b1429
+ethanol oxidation [GO:0006069]	b0356
+ formaldehyde catabolic process [GO:0046294]	b0356
+ citrate metabolic process [GO:0006101]	b1276	b0616	b0615	b0617
+peptidyl-serine autophosphorylation [GO:0036289]	b4173
+ regulation of cytoplasmic translational fidelity [GO:0140018]	b3706
+ response to pH [GO:0009268]	b3706	b3153	b2569	b0486
+cytosine catabolic process [GO:0006209]	b0337
+ cellular response to nitrogen starvation [GO:0006995]	b2663	b2310
+ gamma-aminobutyric acid catabolic process [GO:0009450]	b2663	b1525
+ gamma-aminobutyric acid transport [GO:0015812]	b2663
+ response to carbon starvation [GO:0090549]	b2663	b2659
+response to light stimulus [GO:0009416]	b2907
+guanosine pentaphosphate catabolic process [GO:0015974]	b3779
+ guanosine tetraphosphate biosynthetic process [GO:0015970]	b3779
+ phosphorus metabolic process [GO:0006793]	b3779
+ cellular oligosaccharide catabolic process [GO:0051692]	b3571	b0403
+amino acid transmembrane transport [GO:0003333]	b2156	b4115	b3161	b3709	b0402	b0260	b3539	b2845
+ L-lysine import across plasma membrane [GO:0097639]	b2156
+tRNA wobble position uridine thiolation [GO:0002143]	b1133	b0969	b3345	b3343	b3344
+response to heat [GO:0009408]	b0797	b0968	b1132	b3062	b1833	b2327	b1379
+ ribosome assembly [GO:0042255]	b0797	b3183	b3319	b3315
+ pyrimidine nucleobase catabolic process [GO:0006208]	b2147	b1012	b1010	b1007	b1008	b1009	b1011
+ thymine catabolic process [GO:0006210]	b2147	b1012	b2146
+ uracil catabolic process [GO:0006212]	b2147	b1539	b1006	b1012	b2146	b1010	b1007	b1008	b1009	b1011
+cellular hypotonic response [GO:0071476]	b2936
+pyruvate biosynthetic process [GO:0042866]	b4039
+rhamnose transmembrane transport [GO:0015762]	b3907
+nitrogen compound metabolic process [GO:0006807]	b0167	b2840	b0219	b4581	b1843
+cellular response to metal ion [GO:0071248]	b4390
+pentose-phosphate shunt [GO:0006098]	b2935	b2465
+ NADP metabolic process [GO:0006739]	b3962
+peptidyl-arginine hydroxylation [GO:0030961]	b1128
+ post-translational protein modification [GO:0043687]	b1128	b2326
+FtsZ-dependent cytokinesis [GO:0043093]	b2516	b4206	b1358
+acetate catabolic process [GO:0045733]	b4069
+ peptidyl-lysine acetylation [GO:0018394]	b4069
+ post-translational protein acetylation [GO:0034421]	b4069
+enterobacterial common antigen biosynthetic process [GO:0009246]	b3786	b3787	b3788	b3791	b3789	b3792	b3785	b3561	b3790	b3793	b3794	b4481
+ extracellular polysaccharide biosynthetic process [GO:0045226]	b3788	b2039	b2038	b3789	b2060	b2041	b2040
+ nucleotide-sugar metabolic process [GO:0009225]	b3788
+ polysaccharide biosynthetic process [GO:0000271]	b3791	b2253	b2062	b2350
+ RNA phosphodiester bond hydrolysis [GO:0090501]	b4483	b3130
+cysteine export across plasma membrane [GO:0033228]	b2182
+ dipeptide transmembrane transport [GO:0035442]	b2182	b1663
+dTTP biosynthetic process [GO:0006235]	b2065
+ dUMP biosynthetic process [GO:0006226]	b2065
+ dUTP biosynthetic process [GO:0006229]	b2065
+carboxylic acid metabolic process [GO:0019752]	b1096
+ folic acid biosynthetic process [GO:0046656]	b1096
+ intracellular pH elevation [GO:0051454]	b4117	b4115	b1492	b3517	b1493
+ quinolinate catabolic process [GO:0034213]	b0109
+ tRNA 3'-end processing [GO:0042780]	b1652
+ protein carbamoylation [GO:0046944]	b2712
+thiamine biosynthetic process [GO:0009228]	b3991	b3993	b3994
+glyoxylate metabolic process [GO:0046487]	b0508
+ carbohydrate derivative metabolic process [GO:1901135]	b0798
+ nucleobase-containing small molecule catabolic process [GO:0034656]	b0798
+D-methionine transport [GO:0048473]	b0199	b0197
+ metabolic process [GO:0008152]	b0199	b1535	b1491	b1081
+ methionine import across plasma membrane [GO:1903692]	b0199	b0198	b0197
+ response to iron(III) ion [GO:0010041]	b4113	b4112	b2258	b4544	b2257	b2256
+ response to zinc ion [GO:0010043]	b4112	b3469	b0573	b1597
+ response to metal ion [GO:0010038]	b2370
+ regulation of glutamine family amino acid metabolic process [GO:0000820]	b3053
+ transcription-coupled nucleotide-excision repair [GO:0006283]	b1114
+ transcription-coupled nucleotide-excision repair, DNA damage recognition [GO:0000716]	b1114
+potassium ion transport [GO:0006813]	b1250	b3350	b0478	b2292	b0847	b3685
+ negative regulation of bacterial-type flagellum assembly [GO:1902209]	b1535	b1926
+ positive regulation of single-species biofilm formation on inanimate substrate [GO:1900233]	b1535	b1341
+DNA protection [GO:0042262]	b2521
+xenobiotic detoxification by transmembrane export across the cell outer membrane [GO:0140330]	b0462	b3266
+negative regulation of cellular carbohydrate metabolic process [GO:0010677]	b4479
+adenine transport [GO:0015853]	b3714	b3664
+ iron import into cell [GO:0033212]	b1019	b3070	b0592	b0590	b0589	b0588
+ D-methionine transport [GO:0048473]	b0198
+thiamine transmembrane transport [GO:0071934]	b0068	b0067	b0066
+ thiamine transport [GO:0015888]	b0068
+carnitine catabolic process [GO:0042413]	b0036	b0038	b0042	b0041
+carnitine metabolic process [GO:0009437]	b0037	b0039	b1802	b0035	b1803	b0034	b0043
+4-(trimethylammonio)butanoate transport [GO:1900751]	b0040
+ carnitine metabolic process [GO:0009437]	b0040	b0042	b0041
+ carnitine transport [GO:0015879]	b0040
+ response to organic substance [GO:0010033]	b0054
+ guanine deglycation [GO:0106044]	b1967	b3153
+ methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione [GO:0019243]	b1967
+ protein deglycation [GO:0036525]	b1967	b3153	b0424
+ propionate metabolic process, methylcitrate cycle [GO:0019679]	b0333	b2920
+ trehalose biosynthetic process [GO:0005992]	b1896	b1897
+ trehalose metabolism in response to cold stress [GO:0070415]	b1896	b1897
+response to osmotic stress [GO:0006970]	b1897	b4363	b1283	b1739	b3150
+metabolite repair [GO:0110051]	b4167
+ nicotinamide nucleotide metabolic process [GO:0046496]	b4167
+cellular aromatic compound metabolic process [GO:0006725]	b1461	b3039
+lipopolysaccharide biosynthetic process [GO:0009103]	b2051	b2036	b3198	b2027	b2042	b3623	b2034	b2035	b2033	b2032	b2045	b2043	NA
+protein lipoylation [GO:0009249]	b4386
+porphyrin-containing compound biosynthetic process [GO:0006779]	b3867	b2955
+6-sulfoquinovose(1-) catabolic process to glycerone phosphate and 3-sulfolactaldehyde [GO:0061720]	b3878
+ carbohydrate metabolic process [GO:0005975]	b3878	b3880	b2428	b2427	b1640
+ ubiquinone biosynthetic process via 3,4-dihydroxy-5-polyprenylbenzoate [GO:0032194]	b3930
+ vitamin K biosynthetic process [GO:0042371]	b3930
+pentose catabolic process [GO:0019323]	b3902	b2738
+L-lyxose metabolic process [GO:0019324]	b3903	b3580
+rhamnose catabolic process [GO:0019301]	b3904	b3901
+bis(molybdopterin guanine dinucleotide)molybdenum biosynthetic process [GO:1902758]	b3857
+ glycolate biosynthetic process [GO:0046295]	b3385
+ NAD catabolic process [GO:0019677]	b3996
+ NADH metabolic process [GO:0006734]	b3996
+ NADP catabolic process [GO:0006742]	b3996
+ ncRNA catabolic process [GO:0034661]	b3996
+plasma membrane acetate transport [GO:0006847]	b4067
+ sodium ion transport [GO:0006814]	b4067	b1663	b3876	b1616	NA	b3657	b3877	b0270
+ tellurite transport [GO:0015710]	b4067	b3493
+dodecyl sulfate metabolic process [GO:0018909]	b4083
+ D-allose catabolic process [GO:0019316]	b4085
+formaldehyde catabolic process [GO:0046294]	b2154	b0355
+purine nucleoside catabolic process [GO:0006152]	b2162
+ pyrimidine ribonucleoside catabolic process [GO:0046133]	b2162	b0651
+nucleobase catabolic process [GO:0046113]	b2165
+glycine decarboxylation via glycine cleavage system [GO:0019464]	b2903	b2904	b2905
+ anaerobic electron transport chain [GO:0019645]	b0997	b0996	b2720
+ negative regulation of signal transduction [GO:0009968]	b0996
+ amino-acid betaine transport [GO:0015838]	b2130	b2128	b2129	b2131
+tRNA dihydrouridine synthesis [GO:0002943]	b2140
+negative chemotaxis [GO:0050919]	b3476
+ nickel cation import across plasma membrane [GO:0098716]	b3476	b3480
+ iron ion import across plasma membrane [GO:0098711]	b3409
+tRNA seleno-modification [GO:0070329]	b0503
+ postreplication repair [GO:0006301]	b2184	b1808
+detoxification of copper ion [GO:0010273]	b0123
+ trehalose transport [GO:0015771]	b4240	b3722	b2715
+regulation of translation [GO:0006417]	b4550	b0097	b4637	b4722	b4725	b4766	b4794
+ propionate catabolic process, 2-methylcitrate cycle [GO:0019629]	b0118	b0330
+dipeptide transmembrane transport [GO:0035442]	b3496	b4130	b1634	b1985	b1534	b0709
+ tripeptide transmembrane transport [GO:0035443]	b3496	b4130	b1634
+regulation of transcription, DNA-templated [GO:0006355]	b3289	b3021	b0101	b4062	b2980	b4063	b2531	b0076	b0694	b0995	b4327	b2808	b2479	b4118	b3131	b2381	b2151	b0338	b3711	b3501	b1339	b2869	ECOK12F072	b1864	b1983	b3569	b1659	b2157	b2409	b4135	b4365	b3889	b0208	b0629	b2577	b3520	b3585	b0768	b1559	b2015	b2667	b1526	b1595	b0316	b0603	ECOK12F011	NA	b1715	b3890	b3382	b2535	b2846
+ regulation of ATP-dependent activity [GO:0043462]	b4513
+ chloride transmembrane transport [GO:1902476]	b0155
+ 10-formyltetrahydrofolate biosynthetic process [GO:0009257]	b1232
+ purine ribonucleotide biosynthetic process [GO:0009152]	b1232
+nucleoside phosphate metabolic process [GO:0006753]	b2467	b3034	b3397
+ ribose phosphate metabolic process [GO:0019693]	b2467	b3034	b3397
+ response to organonitrogen compound [GO:0010243]	b2829	b3204	b3206
+galactitol metabolic process [GO:0019402]	b2093	b2094	b2092
+ galactitol transmembrane transport [GO:0015796]	b2093	b2094	b2092
+ response to chromate [GO:0046687]	b0763
+ tungstate ion transport [GO:0070614]	b0763	b0764	b0765
+glyoxylate catabolic process [GO:0009436]	b2976
+L-lysine catabolic process [GO:0019477]	b2660	b3073	b2659	b1444
+ lysine catabolic process [GO:0006554]	b2660
+cellular response to reactive oxygen species [GO:0034614]	b1663
+carbohydrate phosphorylation [GO:0046835]	b1198	b1199	b1200	b3630	b3625
+D-allose catabolic process [GO:0019316]	b4090	b4084
+protein autoprocessing [GO:0016540]	b0828
+sulfur compound metabolic process [GO:0006790]	b0368
+ taurine catabolic process [GO:0019529]	b0368
+negative regulation of catalytic activity [GO:0043086]	b3459	b0545
+cadmium ion transmembrane transport [GO:0070574]	b3469	b3040
+ detoxification of zinc ion [GO:0010312]	b3469
+ lead ion transport [GO:0015692]	b3469
+ response to cadmium ion [GO:0046686]	b3469
+ response to lead ion [GO:0010288]	b3469
+ zinc ion transmembrane transport [GO:0071577]	b3469	b1342	b3040
+ zinc ion transport [GO:0006829]	b3469	b3915	b3040	b1857	b0752
+positive regulation of translation [GO:0045727]	b3486	b2569
+ D-galacturonate catabolic process [GO:0019698]	b3526
+bacterial cellulose biosynthetic process [GO:0090540]	b3533	b3535
+D-gluconate metabolic process [GO:0019521]	b3553	b4267	b4476	b4264
+ ketogluconate catabolic process [GO:0046181]	b3553
+C4-dicarboxylate transport [GO:0015740]	b3577	b4138	b4123	b0621
+ carbohydrate transmembrane transport [GO:0034219]	b3577
+ cellular response to salt [GO:1902075]	b3577	b3579	b3578
+ regulation of single-species biofilm formation [GO:1900190]	b3577	b3579	b1040	b2503	b3578	b0836
+carbohydrate transmembrane transport [GO:0034219]	b3579	b1319	b2429	b3720	b0070	b2170	b3578	b1377
+ carbohydrate transport [GO:0008643]	b3579	b4356
+ response to ethanol [GO:0045471]	b3588	b1478
+ peptidoglycan-based cell wall biogenesis [GO:0009273]	b3613
+dTDP-rhamnose biosynthetic process [GO:0019305]	b2039	b2041	b2040
+cellular polysaccharide biosynthetic process [GO:0033692]	b2038
+ dTDP-rhamnose biosynthetic process [GO:0019305]	b2038
+D-galacturonate catabolic process [GO:0019698]	b2842	b2843	b3128	b3091	b1521	b3092
+ diacetylchitobiose catabolic process [GO:0052777]	b1733
+L-aspartate import across plasma membrane [GO:0140009]	b0655	b0652
+ L-glutamate transmembrane transport [GO:0015813]	b0655
+ DNA catabolic process, endonucleolytic [GO:0000737]	b2761
+copper ion export [GO:0060003]	b0575	b0572	b0573
+ copper ion transmembrane transport [GO:0035434]	b0575	b0572	b0573	b0574
+ response to silver ion [GO:0010272]	b0575	b0572	b0573	b0574
+ silver ion transmembrane transport [GO:1902601]	b0575	b0572	b0573	b0574	b0484
+ silver ion transport [GO:0015673]	b0575
+2,4,6-trinitrotoluene catabolic process [GO:0046256]	b0578	b1650
+DNA replication, Okazaki fragment processing [GO:0033567]	b2798
+protein quality control for misfolded or incompletely synthesized proteins [GO:0006515]	b3234	b1204
+ regulation of cell motility [GO:2000145]	b0607	b3022	b3026
+ methionine transport [GO:0015821]	b4141
+ribosomal small subunit assembly [GO:0000028]	b4161	b3170
+L-ascorbic acid transmembrane transport [GO:0015882]	b4193	b4194	b4195
+ L-ascorbic acid catabolic process [GO:0019854]	b4196	b3581
+galactose transmembrane transport [GO:0015757]	b4227	b2943
+ hexose import across plasma membrane [GO:0140271]	b4227
+ D-gluconate metabolic process [GO:0019521]	b4265	b4268
+ gluconate transmembrane transport [GO:0035429]	b4265	b4321	b3415	b2365	b4476
+ L-idonate catabolic process [GO:0046183]	b4265	b4267	b4268
+ L-idonate transmembrane transport [GO:0015726]	b4265
+ potassium ion export across plasma membrane [GO:0097623]	b4337
+ regulation of cellular pH [GO:0030641]	b4337
+ cellular response to nutrient levels [GO:0031669]	b4354
+ plasma membrane pyruvate transport [GO:0006849]	b4354	b0598
+aldonate transmembrane transport [GO:0042873]	b4356
+RNA folding [GO:0034337]	b4371
+ thiamine metabolic process [GO:0006772]	b4394	b1106
+deoxyribonucleotide biosynthetic process [GO:0009263]	b2675	b2676
+ cellular response to organic substance [GO:0071310]	b0993
+fatty acid elongation [GO:0030497]	b1539
+ pyridoxal 5'-phosphate salvage [GO:0009443]	b2418	b1636
+rescue of stalled ribosome [GO:0072344]	b0191
+carboxylic acid transport [GO:0046942]	b3224	b3240	b3241
+ sialic acid transport [GO:0015739]	b3224
+ putrescine catabolic process [GO:0009447]	b3073	b1302	b1296	b1298	b1525	b1444	b1297
+fatty acid beta-oxidation, unsaturated, even number, reductase/isomerase pathway [GO:0033543]	b3081
+ negative regulation of ribosome biogenesis [GO:0090071]	b3183	b0637
+postreplication repair [GO:0006301]	b0949
+ regulation of transposon integration [GO:0070894]	b0949
+ N-acetylmannosamine metabolic process [GO:0006051]	b3222
+ubiquinone biosynthetic process from chorismate [GO:0032150]	b3159	b3158	b3157
+amino sugar catabolic process [GO:0046348]	b4474
+nucleobase-containing small molecule metabolic process [GO:0055086]	b2406
+deoxyguanosine catabolic process [GO:0006161]	b2407
+ deoxyinosine catabolic process [GO:0006149]	b2407
+ guanosine catabolic process [GO:0046115]	b2407
+ inosine catabolic process [GO:0006148]	b2407
+ nucleobase-containing small molecule metabolic process [GO:0055086]	b2407
+ xanthosine catabolic process [GO:1903228]	b2407
+isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway [GO:0019288]	b0173	b2746	b2515	b2747	b1208
+ isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway involved in terpenoid biosynthetic process [GO:0051484]	b0173
+cellular hyperosmotic salinity response [GO:0071475]	b1831
+ positive regulation of proline import across plasma membrane [GO:1902836]	b1831
+ post-transcriptional regulation of gene expression [GO:0010608]	b1831	b1285
+regulation of translational fidelity [GO:0006450]	b3282
+ protein trimerization [GO:0070206]	b0742
+CRISPR-cas system [GO:0099048]	b2754	b2759	b2756	b2757	b2758	b2760
+ defense response to virus [GO:0051607]	b2754	b1120	b2759	b2755	b2756	b2757	b2758	b2760
+ maintenance of CRISPR repeat elements [GO:0043571]	b2754	b2755	b2757
+ Gram-negative-bacterium-type cell wall biogenesis [GO:0043164]	b3208	b0174	b0920
+amino acid export across plasma membrane [GO:0032973]	b1473	b2670
+RNA processing [GO:0006396]	b4475	b3704	b0235
+amine metabolic process [GO:0009308]	b1386
+ L-phenylalanine catabolic process [GO:0006559]	b1386	b2301	b1385	b3592
+ phenylethylamine catabolic process [GO:0019607]	b1386	b1385
+ negative regulation of DNA binding [GO:0043392]	b1594	b1101
+nucleoside triphosphate catabolic process [GO:0009143]	b2954
+ nucleotide metabolic process [GO:0009117]	b2954	b3380
+ purine nucleoside triphosphate catabolic process [GO:0009146]	b2954
+ lactate catabolic process [GO:1903457]	b4468
+cellular chemical homeostasis [GO:0055082]	b2556
+ response to epinephrine [GO:0071871]	b2556
+positive regulation of DNA-templated transcription, initiation [GO:2000144]	b1040	b2079	b0020	b3105
+ protein secretion by the type III secretion system [GO:0030254]	b1941	b1948	b1949	b1940	b1950	b1942	b1879	b1880	b1947
+phosphoenolpyruvate-dependent mannosylglycerate phosphotransferase system [GO:0051476]	b0731
+mRNA pseudouridine synthesis [GO:1990481]	b3166
+ tRNA folding [GO:0061818]	b3166
+IMP salvage [GO:0032264]	b0104
+ purine ribonucleotide interconversion [GO:0015951]	b0104	b0474
+ fatty acid beta-oxidation using acyl-CoA dehydrogenase [GO:0033539]	b0039	b0042	b1695
+ histidine biosynthetic process [GO:0000105]	b2023	b2024
+putrescine biosynthetic process from arginine, using agmatinase [GO:0033389]	b2937
+lipoate biosynthetic process [GO:0009107]	b0628	b0630
+ protein lipoylation [GO:0009249]	b0628	b0630	b2904
+ lipoate metabolic process [GO:0009106]	b0630
+ negative regulation of endoribonuclease activity [GO:0060702]	b3319
+lipid translocation [GO:0034204]	b0914
+ lipid transport [GO:0006869]	b0914
+ water transport [GO:0006833]	b0875
+lipoprotein localization to outer membrane [GO:0044874]	b0891	b1209	b1117	b1116	b1118
+ lipoprotein transport [GO:0042953]	b0891	b1117	b1116	b1118
+ lipoprotein metabolic process [GO:0042157]	b1209
+negative regulation of DNA-templated DNA replication [GO:2000104]	ECOK12F043
+ terpenoid biosynthetic process [GO:0016114]	b2746	b2515	b0029	b0420	b2747	b1208
+dimethylallyl diphosphate biosynthetic process [GO:0050992]	b0029
+ isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway [GO:0019288]	b0029	b0420
+ cellular response to iron ion starvation [GO:0010106]	b3414
+D-glycero-D-manno-heptose 7-phosphate biosynthetic process [GO:2001061]	b0222
+ADP-L-glycero-beta-D-manno-heptose biosynthetic process [GO:0097171]	b0200	b3619	b3052
+intermembrane phospholipid transfer [GO:0120010]	b3195	b3193	b3194	b3192	b2346
+ phospholipid transport [GO:0015914]	b3195	b3191	b3193	b3194	b3192
+zinc ion import across plasma membrane [GO:0071578]	b1342
+negative regulation of single-species biofilm formation on inanimate substrate [GO:1900232]	b1625
+ positive regulation of DNA-templated transcription, termination [GO:0060566]	b1625
+ negative regulation of molecular function [GO:0044092]	b1826	b0232
+ negative regulation of phosphorelay signal transduction system [GO:0070298]	b1826
+autolysis [GO:0001896]	b2005	b1445
+ negative regulation of cytoskeleton organization [GO:0051494]	b2005
+ response to cobalt ion [GO:0032025]	b2107	b2106
+ response to peptide [GO:1901652]	b2107	b4363
+negative regulation of cell growth [GO:0030308]	b3130	b0245	b2879	b4780
+ intermembrane phospholipid transfer [GO:0120010]	b3191
+carbohydrate derivative metabolic process [GO:1901135]	b3149	b2427	b4089	b3136	b1853	b2561
+xanthine transport [GO:0042906]	b2882	b3654	b0513
+pyrimidine nucleoside catabolic process [GO:0046135]	b2900
+maltodextrin transmembrane transport [GO:0042956]	b4032	b4035
+adenosine to inosine editing [GO:0006382]	b2559
+ tRNA wobble adenosine to inosine editing [GO:0002100]	b2559
+ sulfate assimilation via adenylyl sulfate reduction [GO:0010134]	b0849
+choline transport [GO:0015871]	b1599	b1600
+ spermidine transmembrane transport [GO:1903711]	b1599	b1600	b1126	b1125	b1124	b1123
+ regulation of response to drug [GO:2001023]	b2079
+global gene silencing by mRNA cleavage [GO:0098795]	b4539
+ negative regulation of nucleic acid-templated transcription [GO:1903507]	b4539
+ cellular cadmium ion homeostasis [GO:0006876]	b3915
+ cellular iron ion homeostasis [GO:0006879]	b3915
+ cellular zinc ion homeostasis [GO:0006882]	b3915	b1973
+ intracellular signal transduction [GO:0035556]	b0196
+ positive regulation of phosphorelay signal transduction system [GO:0070299]	b0196
+ protein transport by the Tat complex [GO:0043953]	b3839	b3838	b3836
+ADP biosynthetic process [GO:0006172]	b0474
+ AMP salvage [GO:0044209]	b0474	b0469
+ nucleoside diphosphate metabolic process [GO:0009132]	b0474
+ nucleoside monophosphate metabolic process [GO:0009123]	b0474
+ fatty acid transport [GO:0015908]	b1805
+ammonium transmembrane transport [GO:0072488]	b0451
+ carbon dioxide transport [GO:0015670]	b0451
+lipid modification [GO:0030258]	b1677
+ periplasmic space organization [GO:0043580]	b1677
+negative regulation of carbohydrate metabolic process [GO:0045912]	b2417
+glucose transmembrane transport [GO:1904659]	b1101
+N,N'-diacetylchitobiose import [GO:1902815]	b1736	b1738
+glucose import across plasma membrane [GO:0098708]	b1817	b1818	b1819
+ mannose transmembrane transport [GO:0015761]	b1817	b1818	b1819
+fructose import across plasma membrane [GO:1990539]	b2169
+ regulation of ion transmembrane transporter activity [GO:0032412]	b2094	b3204
+oligosaccharide transport [GO:0015772]	b4311
+glutamate catabolic process [GO:0006538]	b3517	b1493
+ negative regulation of glycogen biosynthetic process [GO:0045719]	b2696
+ negative regulation of mRNA cleavage [GO:0031438]	b2696
+ positive regulation of translational initiation [GO:0045948]	b2696
+aldonic acid catabolic process [GO:0046176]	b0268	b4297	b4298	b0269
+glycine biosynthetic process [GO:0006545]	b0870
+nitric oxide catabolic process [GO:0046210]	b0873	b2710
+ peptidyl-cysteine S-nitrosylation [GO:0018119]	b0873
+ peptidyl-cysteine S-trans-nitrosylation [GO:0035606]	b0873
+contractile ring maintenance [GO:0036212]	b0946
+pyrimidine nucleobase transmembrane transport [GO:1904082]	b1006
+ uracil import across plasma membrane [GO:0098721]	b1006
+alkanesulfonate catabolic process [GO:0046306]	b1012	b0935	b0937
+ cell adhesion involved in biofilm formation [GO:0043708]	b1023
+ macromolecule deacylation [GO:0098732]	b1023
+single-species submerged biofilm formation [GO:0090609]	b1025
+ protein localization to outer membrane [GO:0089705]	b1117	b1116
+N-acetylglucosamine metabolic process [GO:0006044]	b1119
+ peptidyl-lysine deacetylation [GO:0034983]	b1120
+ peptidyl-lysine demalonylation [GO:0036047]	b1120
+ peptidyl-lysine desuccinylation [GO:0036049]	b1120
+ protein deacetylation [GO:0006476]	b1120
+ protein deglutarylation [GO:0061698]	b1120
+ response to blue light [GO:0009637]	b1163
+ regulation of bacterial-type flagellum-dependent cell motility by regulation of motor speed [GO:0071945]	b1194
+ glycerol to glycerone phosphate metabolic process [GO:0061610]	b1200
+ ketone catabolic process [GO:0042182]	b1200
+ monosaccharide catabolic process [GO:0046365]	b1200
+polyamine catabolic process [GO:0006598]	b1298
+ tRNA thio-modification [GO:0034227]	b1344
+phenylacetate catabolic process [GO:0010124]	b1388	b1392	b1396	b1387	b1390	b1398	b1389	b1391	b1400
+rRNA modification [GO:0000154]	b1435
+DNA import into cell involved in transformation [GO:0009290]	b1440	b1443	b0959
+ poly-hydroxybutyrate biosynthetic process [GO:0042619]	b1440
+ polyamine transport [GO:0015846]	b1440
+response to oxygen levels [GO:0070482]	b1489
+ arginine catabolic process to glutamate [GO:0019544]	b1745	b1748
+ arginine catabolic process to succinate [GO:0019545]	b1745	b1748	b1744	b1746	b1747
+malate metabolic process [GO:0006108]	b1800	b2463	b1799	NA
+cellular response to sulfur starvation [GO:0010438]	b1919	b0933	b0366	b0497
+ D-amino acid metabolic process [GO:0046416]	b1919
+ D-cysteine catabolic process [GO:0019447]	b1919
+ protein-DNA covalent cross-linking [GO:0018142]	b1931
+ cellulose biosynthetic process [GO:0030244]	b1956
+purine nucleobase metabolic process [GO:0006144]	b1970	b0515	b2881
+ response to hypochlorite [GO:1901530]	b1971	b0304
+cellular response to cadmium ion [GO:0071276]	b1973	b3024	b1205
+ cellular response to hydrogen peroxide [GO:0070301]	b1973	b2503	b1333	b3024	b4011	b1205	b1953	b3238
+ cellular response to zinc ion starvation [GO:0034224]	b1973
+positive regulation of cytoskeleton organization [GO:0051495]	b2004	b0266	b2645	b0246
+ peptidyl-tyrosine autophosphorylation [GO:0038083]	b2060	b0981
+phospholipid biosynthetic process [GO:0008654]	b2086	b3059	b1408	b1758
+pyrimidine nucleobase catabolic process [GO:0006208]	b2146	b2873
+short-chain fatty acid metabolic process [GO:0046459]	b2221	b2222
+carbohydrate derivative transport [GO:1901264]	b2258	b4544	b1737
+ pyrimidine deoxyribonucleotide salvage [GO:0010139]	b2291
+ fatty acid beta-oxidation, unsaturated, even number [GO:0033542]	b2342
+1,6-anhydro-N-acetyl-beta-muramic acid catabolic process [GO:0097175]	b2428	b1640
+ amino sugar catabolic process [GO:0046348]	b2428
+ N-acetylmuramic acid catabolic process [GO:0097173]	b2428	b2427
+ethanolamine catabolic process [GO:0046336]	b2439	b2458	b2457	b2462	b2438	b2451	b2452	b2453	b2460	b2461	b2455	b2437	b2454
+tRNA acetylation [GO:0051391]	b2474
+ tRNA wobble cytosine modification [GO:0002101]	b2474
+ aromatic compound catabolic process [GO:0019439]	b0349	b0350
+ pyridoxal metabolic process [GO:0042817]	b1636
+ vitamin B6 biosynthetic process [GO:0042819]	b1636
+ cellular detoxification of aldehyde [GO:0110095]	b0286	b0285	b0284
+ protein palmitoylation [GO:0018345]	b0572
+cellular copper ion homeostasis [GO:0006878]	b0574
+ copper ion export [GO:0060003]	b0574	b0484
+ detoxification of copper ion [GO:0010273]	b0574	b0484
+ plasma membrane copper ion transport [GO:0015679]	b0574
+propionate metabolic process, methylcitrate cycle [GO:0019679]	b0334
+ nitroglycerin metabolic process [GO:0018937]	b1650
+ positive regulation of DNA-binding transcription factor activity [GO:0051091]	b1341	b0959
+negative regulation of cyclase activity [GO:0031280]	b1285
+cytolysis by symbiont of host cells [GO:0001897]	b1182
+ hemolysis in another organism [GO:0044179]	b1182
+ modulation of apoptotic process in another organism [GO:0044532]	b1182
+ tripeptide import across plasma membrane [GO:0140207]	b1329	b1244	b1245	b1246	b1247
+ tripeptide transport [GO:0042939]	b1329
+ organic acid phosphorylation [GO:0031388]	b0514	b3124
+ DNA-mediated transformation [GO:0009294]	b1317
+ UDP-4-deoxy-4-formamido-beta-L-arabinopyranose biosynthetic process [GO:2001315]	b2255
+ UDP-D-xylose biosynthetic process [GO:0033320]	b2255
+allantoin assimilation pathway [GO:0009442]	b0516	b0517	b0512	b0509
+ sulfur incorporation into metallo-sulfur cluster [GO:0031162]	b1680	b1679
+ glutamine catabolic process [GO:0006543]	b0485	b1524
+ negative regulation of growth [GO:0045926]	b0485	b1524
+cellular response to copper ion [GO:0071280]	b0570	b0484
+ cellular response to silver ion [GO:0071292]	b0570	b0484
+1-deoxy-D-xylulose 5-phosphate biosynthetic process [GO:0052865]	b0420
+ isoprenoid biosynthetic process [GO:0008299]	b0420	b2889
+L-cystine transport [GO:0015811]	b1729
+ sulfur amino acid transport [GO:0000101]	b1729
+propionate catabolic process, 2-methylcitrate cycle [GO:0019629]	b0331	b0335
+ arginine catabolic process [GO:0006527]	b1748
+ ornithine catabolic process [GO:0006593]	b1748
+ purine nucleobase catabolic process [GO:0006145]	b0512	b0505
+detection of UV [GO:0009589]	b0423
+4-amino-4-deoxy-alpha-L-arabinopyranosyl undecaprenyl phosphate biosynthetic process [GO:0036108]	b2254	b2256
+maturation of 5S rRNA [GO:0000481]	b1266
+fructose metabolic process [GO:0006000]	b0825	b3946
+glutamine biosynthetic process [GO:0006542]	b1297	NA
+ cellular response to sulfur starvation [GO:0010438]	b0935	b0934	b0365	b0367	b0936
+4-nitrophenol catabolic process [GO:0046196]	b1385
+ regulation of polyamine biosynthetic process [GO:0010967]	b2220
+ response to polyamine macromolecule [GO:1904583]	b2219
+Mo(VI)-molybdopterin cytosine dinucleotide biosynthetic process [GO:1902760]	b2877
+urate transport [GO:0015747]	b2888
+ xanthine transport [GO:0042906]	b2888
+ dimethylallyl diphosphate biosynthetic process [GO:0050992]	b2889
+response to reactive oxygen species [GO:0000302]	b3011
+L-ascorbic acid biosynthetic process [GO:0019853]	b3012	b0207
+mRNA destabilization [GO:0061157]	b3022
+cellular response to iron ion starvation [GO:0010106]	b3070
+ cellular response to nickel ion [GO:0071289]	b3070
+ CRISPR-cas system [GO:0099048]	b2755
+ sulfur amino acid metabolic process [GO:0000096]	b2810
+ pectin catabolic process [GO:0045490]	b2843
+fatty acid beta-oxidation using acyl-CoA dehydrogenase [GO:0033539]	b0221	b1698
+ DNA synthesis involved in DNA repair [GO:0000731]	b0231	b3700	b0472
+ error-free translesion synthesis [GO:0070987]	b0231
+ S-methylmethionine cycle [GO:0033528]	b0261
+ S-methylmethionine metabolic process [GO:0033477]	b0261
+pseudouridine synthesis [GO:0001522]	b2745
+ copper ion transport [GO:0006825]	b0484
+cellular amino acid catabolic process [GO:0009063]	b4478	b4471	b2788	b1581
+ D-galactonate catabolic process [GO:0034194]	b4478
+protein deacetylation [GO:0006476]	NA
+cyanate catabolic process [GO:0009440]	b0340	b0341
+tryptophan biosynthetic process [GO:0000162]	b1264	b1262	b0800
+threonine biosynthetic process [GO:0009088]	b0004	b0001
+tryptophanyl-tRNA aminoacylation [GO:0006436]	b3384
+arginyl-tRNA aminoacylation [GO:0006420]	b3559	b1876
+ glycyl-tRNA aminoacylation [GO:0006426]	b3559
+DNA integration [GO:0015074]	b1158	b2349	ECOK12F009	ECOK12F044	b4313	b1374	b0256	b4271	b1921	b0281	b1579	b2442	b1545	b0361	b1402	b1996	b2860	b3045	b4273	ECOK12F020	b1578	JW5899	JW5903	JW5918	JW5933	b0299	b0372	b0541	b1026	b2089	ECOK12F002	b1404	b4284	b0267	ECOK12F032	b1345	b1936	b2648	b4285	ECOK12F017
+galactose metabolic process [GO:0006012]	b2837
+regulation of cell division [GO:0051302]	b3742	b3361
+regulation of carbohydrate catabolic process [GO:0043470]	b0239
+CMP-keto-3-deoxy-D-manno-octulosonic acid biosynthetic process [GO:0033468]	b0918
+ keto-3-deoxy-D-manno-octulosonic acid biosynthetic process [GO:0019294]	b0918
+glucuronoside catabolic process [GO:0019391]	b1617
+single-species biofilm formation [GO:0044010]	b3061	b4249	b0461	b4252	b3037	b1809	b1044	b2981	b2958	b1167	b2792
+ tartrate catabolic process [GO:1901276]	b3061	b3062
+ tartrate metabolic process [GO:1901275]	b3061
+response to hydroperoxide [GO:0033194]	b1710	b0006
+melibiose catabolic process [GO:0005995]	b4119
+iron ion import across plasma membrane [GO:0098711]	b0153	b0151	b0152
+ pyrimidine nucleoside metabolic process [GO:0006213]	b4382
+ thymidine metabolic process [GO:0046104]	b4382	b1238
+ glycogen biosynthetic process [GO:0005978]	b3432	b3429
+leucyl-tRNA aminoacylation [GO:0006429]	b0642
+ adenine biosynthetic process [GO:0046084]	b2499
+ L-arabinose catabolic process to xylulose 5-phosphate [GO:0019569]	b0062	b0063
+ carbohydrate catabolic process [GO:0016052]	b0063	b3581
+ carbohydrate phosphorylation [GO:0046835]	b0063	b3883
+ L-arabinose catabolic process [GO:0019572]	b0063
+ pentose metabolic process [GO:0019321]	b0063
+glycolytic fermentation [GO:0019660]	b4399
+alpha-amino acid metabolic process [GO:1901605]	b3572	b4340	b1439
+leucine biosynthetic process [GO:0009098]	b0074	b0072	b0071	b0075
+ L-lysine transport [GO:1902022]	b2310
+ ornithine transport [GO:0015822]	b2310
+ribosome disassembly [GO:0032790]	b3340
+ glycerol-3-phosphate biosynthetic process [GO:0046167]	b3608
+ glycerophospholipid biosynthetic process [GO:0046474]	b3608
+cellular response to arsenic-containing substance [GO:0071243]	b2688
+ cellular response to mercury ion [GO:0071288]	b2688
+positive regulation of ion transmembrane transporter activity [GO:0032414]	b3351
+ N-acetylmannosamine catabolic process [GO:0006053]	b3223
+ cobalamin biosynthetic process [GO:0009236]	b2476	b1270	b1993
+ tRNA 3'-trailer cleavage, endonucleolytic [GO:0034414]	b3704
+ tRNA 5'-leader removal [GO:0001682]	b3704
+cytoplasmic translational termination [GO:0002184]	b0172
+protein transport by the Tat complex [GO:0043953]	b0627
+CTP salvage [GO:0044211]	b2066
+ negative regulation of RNA catabolic process [GO:1902369]	b3929
+ electron transport chain [GO:0022900]	b2243
+cysteine biosynthetic process from serine [GO:0006535]	b3607
+aerobic cobalamin biosynthetic process [GO:0019250]	b1270
+acetyl-CoA metabolic process [GO:0006084]	b0616	b0615	b0617
+negative regulation of protein transport [GO:0051224]	b2207
+galactitol catabolic process [GO:0019404]	b2091
+ cellular stress response to acid chemical [GO:0097533]	b3190	b1824
+transmembrane transport [GO:0055085]	b3009	b3095	b1256	b0449	b1311	b3673	b3754	b0263	b1310	b1755	b1756	b1442	b0448	b2548	b2546	b2547	b1312	b1441	b2372	b2493	b0128	b3485	b3474	b2008	b2077	b1660	b3586	b3358	b0818	b0960	b1645	b1754	b1828	b0427	NA	NA
+homoserine transport [GO:0042968]	b0813
+cytochrome complex assembly [GO:0017004]	b2195	b2611
+ anaerobic glycerol catabolic process [GO:0019588]	b2996
+ negative regulation of protein catabolic process [GO:0042177]	b0382	b4326	b1160
+ positive regulation of cellulose biosynthetic process [GO:2001008]	b0385
+mature ribosome assembly [GO:0042256]	b0637
+response to copper ion [GO:0046688]	b1112	b4137
+protein flavinylation [GO:0017013]	b2214	b2897
+antimonite transport [GO:0015699]	b3502
+ arsenite transport [GO:0015700]	b3502
+ response to arsenic-containing substance [GO:0046685]	b3502	b3503	b3501
+ glycine betaine biosynthetic process from choline [GO:0019285]	b0314
+ cyanate catabolic process [GO:0009440]	b0339
+cobalt ion transport [GO:0006824]	b3816	b2106
+ magnesium ion transport [GO:0015693]	b3816
+amyloid fibril formation [GO:1990000]	b1041
+ cell adhesion [GO:0007155]	b1041	b1924
+ curli assembly [GO:0098775]	b1041
+cytochrome c-heme linkage [GO:0018063]	b2194	b2196
+ cytochrome c-heme linkage via heme-L-cysteine [GO:0018378]	b2194
+ cellular nitrogen compound biosynthetic process [GO:0044271]	b4138
+ glyoxylate metabolic process [GO:0046487]	b3125	b2739
+3-phenylpropionate catabolic process [GO:0019380]	b2538	b2540	b2541	b0352	b0351	b0350	b2542	b2539
+response to radiation [GO:0009314]	b3260	b0471	b3576	b0329	b0699	b0318
+sulfur amino acid transport [GO:0000101]	b3943
+ positive regulation of isoprenoid metabolic process [GO:0045828]	b3209
+bacterial-type flagellum organization [GO:0044781]	b1891	b1948	b1940	b1942	b1071	b1947	b1926	b1075	b1878
+formate transport [GO:0015724]	b0904	b3367	b2492	b2347
+glycogen catabolic process [GO:0005980]	b3428	b3416
+regulation of DNA-templated transcription, initiation [GO:2000142]	b0080	b1512
+ response to fructose [GO:0009750]	b0080
+lipopolysaccharide metabolic process [GO:0008653]	b1279	b2252
+ succinate transport [GO:0015744]	b4363
+succinate transport [GO:0015744]	b4364
+response to potassium ion [GO:0035864]	b2665
+protein insertion into membrane from inner side [GO:0032978]	b0407
+ peptidoglycan transport [GO:0015835]	b0433
+ L-arginine import across plasma membrane [GO:0097638]	b0861
+curli assembly [GO:0098775]	b1039	b1037	b1038
+ protein secretion by the type VIII secretion system [GO:0098777]	b1039	b1037	b1038
+ protein transmembrane transport [GO:0071806]	b1039	b1037
+ heme O biosynthetic process [GO:0048034]	b0428
+L-glutamate transmembrane transport [GO:0015813]	b3653
+chaperone-mediated protein complex assembly [GO:0051131]	b1226	b1466
+division septum assembly [GO:0000917]	b3928	b0102	b3865
+phosphate ion transport [GO:0006817]	b0399
+magnesium ion homeostasis [GO:0010960]	b3493
+ spermidine transport [GO:0015848]	b1123
+phage shock [GO:0009271]	b1305	b1307	b4050
+positive regulation of macromolecule biosynthetic process [GO:0010557]	b1306
+ lithium ion transmembrane transport [GO:0090452]	b0792
+nitrogen utilization [GO:0019740]	b1010	b1007	b1009	b1011
+autoinducer AI-2 transmembrane transport [GO:1905887]	b1601	b1513	b1515	b1516	b1514
+microcin transport [GO:0042884]	b2178	b2179	b2211	b2177	b2180
+ oligopeptide transmembrane transport [GO:0035672]	b2178	b3479	b2179	b2180
+negative regulation of translation in response to stress [GO:0032055]	b0953
+ negative regulation of translational elongation [GO:0045900]	b3203
+potassium ion transmembrane transport [GO:0071805]	b3849	b1363	b3290	b4065
+ homoserine transport [GO:0042968]	b3824
+ DNA replication termination [GO:0006274]	b0398
+wobble position cytosine ribose methylation [GO:0002131]	b3606
+ wobble position uridine ribose methylation [GO:0002132]	b3606
+L-threonine catabolic process to propionate [GO:0070689]	b3113	b3118
+cellular respiration [GO:0045333]	b2619
+C-terminal protein amino acid modification [GO:0018410]	b0852
+D-tagatose 6-phosphate catabolic process [GO:2001059]	b2096	b2095
+ galactitol catabolic process [GO:0019404]	b2096	b2095
+lipopolysaccharide core region biosynthetic process [GO:0009244]	b3955	b3621	b3631	b3628	b3627	b3626	b3622	b3620	b3173	b0815	b3632	b3629	b3624	b4497
+rRNA catabolic process [GO:0016075]	b3643
+L-glutamine import across plasma membrane [GO:1903803]	b0809	b0811
+glycerol-3-phosphate transmembrane transport [GO:0015794]	b3452	b3451	b3453
+N-terminal peptidyl-serine acetylation [GO:0017198]	b1427
+iron import into cell [GO:0033212]	b4290	b4288	b4289	b4287	b3410
+ response to iron ion [GO:0010039]	b4290
+cellular response to nutrient levels [GO:0031669]	b0598	b3547
+aminophosphonate metabolic process [GO:0033051]	b4093
+ N,N'-diacetylchitobiose import [GO:1902815]	b1737
+NAD biosynthetic process [GO:0009435]	b0931
+carbohydrate utilization [GO:0009758]	b1621
+ glucose transmembrane transport [GO:1904659]	b1621	b0070	b2170	b3659
+putrescine biosynthetic process from ornithine [GO:0033387]	b2965
+dicarboxylic acid transport [GO:0006835]	b4077
+aspartyl-tRNA aminoacylation [GO:0006422]	b1866
+farnesyl diphosphate biosynthetic process [GO:0045337]	b0421
+ geranyl diphosphate biosynthetic process [GO:0033384]	b0421
+ tryptophan catabolic process [GO:0006569]	b3709
+DNA biosynthetic process [GO:0071897]	b1238
+ dTMP salvage [GO:0036198]	b1238
+ response to stress [GO:0006950]	b4293
+ protoporphyrinogen IX metabolic process [GO:0046501]	b0475
+ferric-enterobactin import into cell [GO:0015685]	b0590	b0589	b0588	b0587
+arginine metabolic process [GO:0006525]	b3202
+cation transport [GO:0006812]	b1429
+ DNA ligation involved in DNA repair [GO:0051103]	b3647
+pyridoxal 5'-phosphate salvage [GO:0009443]	b1406
+ phosphatidic acid biosynthetic process [GO:0006654]	b3018
+propionate metabolic process, methylmalonyl pathway [GO:0019678]	b2917
+ peptide metabolic process [GO:0006518]	b3498	b1127
+ tRNA wobble base modification [GO:0002097]	b0144
+cellular response to nitrate [GO:0071249]	b2469
+ oligosaccharide catabolic process [GO:0009313]	b4239	b0732
+ protoporphyrinogen IX biosynthetic process from glutamate [GO:0019353]	b3997
+ uroporphyrinogen III biosynthetic process [GO:0006780]	b3997	b3804
+L-arginine import across plasma membrane [GO:0097638]	b0863	b0860	b0864	b0862
+adenine catabolic process [GO:0006146]	b3665
+ cellular response to glucose-phosphate stress [GO:0036448]	b0070	b2170
+response to alkaline pH [GO:0010446]	b1216
+ viral genome integration into host DNA [GO:0044826]	b2622	b2349	b0537	b4271	b0281	b1140	b1579	b2442	b1345	b1936
+ sulfathiazole transmembrane transport [GO:1902599]	b4082
+allose transmembrane transport [GO:0015754]	b4086	b4087	b4088
+ D-ribose transmembrane transport [GO:0015752]	b4086	b4087	b4088
+ negative regulation of DNA topoisomerase (ATP-hydrolyzing) activity [GO:2000372]	b2009
+ pilus assembly [GO:0009297]	b0139	b0853	b2109	b3144	b4315
+glucan catabolic process [GO:0009251]	b2132
+response to acidic pH [GO:0010447]	b1597	b1500	b0287	b3029	b1501	b1058	b2939
+protein complex oligomerization [GO:0051259]	b0998
+ trehalose metabolic process [GO:0005991]	b4241
+cellular detoxification of fluoride [GO:0140114]	b0624
+ fluoride transmembrane transport [GO:1903424]	b0624
+ establishment of integrated proviral latency [GO:0075713]	b2349	b4271	b0281	b1140	b1579	b2442	b1345	b1936
+D-xylose metabolic process [GO:0042732]	b3566	b3567	b3568
+ D-xylose transmembrane transport [GO:0015753]	b3566	b3567	b3568
+cellular response to nitric oxide [GO:0071732]	b2711
+pyrimidine-containing compound transmembrane transport [GO:0072531]	b3471
+ queuosine salvage [GO:1990397]	b3471
+regulation of bacterial-type flagellum-dependent cell motility [GO:1902021]	b3525	b0294
+cellulose catabolic process [GO:0030245]	b3531
+cellulose biosynthetic process [GO:0030244]	b3536	b3532	b3537	b3530	b3538
+L-arabinose catabolic process [GO:0019572]	b3583
+ nucleotide-sugar biosynthetic process [GO:0009226]	b2041
+regulation of single-species biofilm formation on inanimate substrate [GO:1900231]	b2067	b4110
+extracellular polysaccharide biosynthetic process [GO:0045226]	b0981	b4571	b4026	b4027	b4029	b4028
+L-ascorbic acid catabolic process [GO:0019854]	b4192	b4198	b4197
+ L-ascorbic acid metabolic process [GO:0019852]	b4198	b3582	b4197
+ N-acetylneuraminate metabolic process [GO:0006054]	b4309
+L-galactonate catabolic process [GO:0034195]	b4358
+glucan biosynthetic process [GO:0009250]	b4359
+ oligosaccharide-lipid intermediate biosynthetic process [GO:0006490]	b4359
+reductive iron assimilation [GO:0033215]	b4367
+acetaldehyde catabolic process [GO:0046187]	b1478
+ D-gluconate catabolic process [GO:0046177]	b3415	b3438
+beta-glucan biosynthetic process [GO:0051274]	b1424	b1048
+peptidyl-histidine autophosphorylation [GO:0090593]	b3026
+protein secretion by the type II secretion system [GO:0015628]	b3327	b3334	b3328	b3329	b3324	b3326	b3330	b3331	b3333	NA	NA	b2825	b0569	b0106	b2968	b2969	b2970
+ organic substance catabolic process [GO:1901575]	b3080
+regulation of protein kinase activity [GO:0045859]	b3096
+ cysteine catabolic process [GO:0009093]	b3110
+ response to L-cysteine [GO:1901367]	b3110	b4470
+maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA) [GO:0000462]	b1413
+intermembrane lipid transfer [GO:0120009]	b0951	b1834
+proteolysis involved in protein catabolic process [GO:0051603]	b0909
+protein refolding [GO:0042026]	b3347	NA
+catabolic process [GO:0009056]	b3379
+L-methionine salvage from S-adenosylmethionine [GO:0019284]	b2687
+protein secretion [GO:0009306]	b3325	b3332
+ protein secretion by the type II secretion system [GO:0015628]	b3325	b0442
+cell wall modification [GO:0042545]	b0772	b3032
+ p-aminobenzoyl-glutamate transmembrane transport [GO:1902604]	b1336
+ p-aminobenzoyl-glutamate transport [GO:0015814]	b1336
+ positive aerotaxis [GO:0052131]	b3072
+ formaldehyde metabolic process [GO:0046292]	b0355
+ L-histidine import across plasma membrane [GO:1903810]	b2308	b2306	b2307
+ L-histidine transmembrane transport [GO:0089709]	b2308	b2306
+ tRNA wobble base lysidine biosynthesis [GO:0002136]	b0188
+mixed acid fermentation [GO:0019664]	b1380
+response to temperature stimulus [GO:0009266]	b1838	b0566
+histidyl-tRNA aminoacylation [GO:0006427]	b2514
+osmoregulated periplasmic glucan biosynthetic process [GO:1900727]	b1049	b1047
+ regulation of cell size [GO:0008361]	b1049
+cellular response to cesium ion [GO:0071278]	b3747
+negative regulation of cytokinesis [GO:0032466]	b2777
+ respiratory chain complex II assembly [GO:0034552]	b2897
+ succinate metabolic process [GO:0006105]	b2897
+cell death [GO:0008219]	b4559	b1562	b4419	b1357	b4453
+threonine catabolic process [GO:0006567]	b2579
+translation [GO:0006412]	b1480	b0528	b4506
+polysaccharide transport [GO:0015774]	b1024
+adenine salvage [GO:0006168]	b0469
+iron incorporation into metallo-sulfur cluster [GO:0018283]	b4209
+glutathione transmembrane transport [GO:0034775]	b0831
+alkanesulfonate transport [GO:0042918]	b0934	b0365	b0367	b0936
+ establishment of competence for transformation [GO:0030420]	b0959
+ positive regulation of type IV pilus biogenesis [GO:1903658]	b0959
+folic acid catabolic process [GO:0046657]	b1337	b1338
+arginine catabolic process to glutamate [GO:0019544]	b1744	b1746	b1747
+manganese ion transmembrane transport [GO:0071421]	b1821
+ response to manganese ion [GO:0010042]	b1821
+tRNA wobble uridine modification [GO:0002098]	b1870	b1871
+ FAD transmembrane transport [GO:0035350]	b1985
+ UDP-glucuronate biosynthetic process [GO:0006065]	b2028
+ thiamine salvage [GO:0036172]	b2104
+ nickel cation homeostasis [GO:0035784]	b2106
+ protein O-linked glycosylation [GO:0006493]	b2257
+negative regulation of endopeptidase activity [GO:0010951]	b2520
+guanine catabolic process [GO:0006147]	b2883
+ guanine metabolic process [GO:0046098]	b2883
+ glucose import [GO:0046323]	b3875
+ oligosaccharide transport [GO:0015772]	b3875	b0681
+peptidyl-lysine hydroxylation involved in bacterial-type EF-P lysine modification [GO:1901260]	b2326
+protein localization to plasma membrane [GO:0072659]	b3051
+ response to potassium ion [GO:0035864]	b0465
+ regulation of cellular organohalogen metabolic process [GO:0090347]	b0305
+ amino sugar metabolic process [GO:0006040]	b1640
+allantoin catabolic process [GO:0000256]	b0505
+ cytolysis [GO:0019835]	b0555	b1554
+ defense response to bacterium [GO:0042742]	b0555	b1554	b0556	b1362
+ viral release from host cell by cytolysis [GO:0044659]	b0555
+DNA excision [GO:0044349]	b4501
+hypoxanthine catabolic process [GO:0009114]	b2866	b2867	b2868
+negative regulation of protein binding [GO:0032091]	b2896
+D-glucarate metabolic process [GO:0042836]	b2789	b3127
+ galactarate metabolic process [GO:0019580]	b2789	b3127
+ inorganic anion transport [GO:0015698]	b2789	b3127
+ taurine transport [GO:0015734]	b0365
+cellular response to hypoxia [GO:0071456]	b4602
+programmed cell death [GO:0012501]	b4667	b4665	b4666	b4687
+glycyl-tRNA aminoacylation [GO:0006426]	b3560
+sorbitol catabolic process [GO:0006062]	b2705
+CDP-diacylglycerol catabolic process [GO:0046342]	b3918
+toxin biosynthetic process [GO:0009403]	b2313
+tRNA 3'-end processing [GO:0042780]	b1804
+mannitol catabolic process [GO:0019592]	b3600
+pyridine nucleotide biosynthetic process [GO:0019363]	b2700
+prosthetic group biosynthetic process [GO:0051191]	b0614
+ protein-phosphoribosyl dephospho-coenzyme A linkage [GO:0018247]	b0614
+ mannitol catabolic process [GO:0019592]	b1521
+gluconate transmembrane transport [GO:0035429]	b3909	b4296
+cellular response to zinc ion starvation [GO:0034224]	b0296
+positive regulation of biosynthetic process [GO:0009891]	b0146
+protein insertion into membrane [GO:0051205]	b4557
+response to ethanol [GO:0045471]	b3494
+regulation of protein-containing complex assembly [GO:0043254]	b2793
+ butyryl-CoA catabolic process to butyrate [GO:0044581]	b1253
+colanic acid metabolic process [GO:0046377]	b2062	b2056	b2044
+transcription, DNA-templated [GO:0006351]	b2163	b2364	b0254	b3521	b4324	b0900
+L-idonate catabolic process [GO:0046183]	b4266
+cytosine metabolic process [GO:0019858]	b0336
+ cytosine transport [GO:0015856]	b0336
+response to starvation [GO:0042594]	b3923
+negative regulation of bacterial-type flagellum assembly [GO:1902209]	b0853
+protein homotrimerization [GO:0070207]	b0966
+regulation of single-species biofilm formation [GO:1900190]	b1060	b1110	b2634
+ single-species submerged biofilm formation [GO:0090609]	b1060
+nitrogen compound transport [GO:0071705]	b1801
+ denitrification pathway [GO:0019333]	b2202
+ferredoxin metabolic process [GO:0006124]	b2236
+heme metabolic process [GO:0042168]	b3802
+ slime layer polysaccharide biosynthetic process [GO:0045228]	b2058	b2054	b2050	b2057	b2056	b2055	b2045	b2044	b2043	b2059
+cysteine catabolic process [GO:0009093]	b0447	b4470
+ regulation of fucose catabolic process [GO:0043468]	b2805
+peptidyl-tyrosine dephosphorylation [GO:0035335]	b0982
+regulation of phosphorelay signal transduction system [GO:0070297]	b2555
+ regulation of protein phosphorylation [GO:0001932]	b2555
+response to toxic substance [GO:0009636]	b4410	b4411	b3910	b1959	b0947
+ DNA integration [GO:0015074]	b4312	b3558
+C-5 methylation of cytosine [GO:0090116]	b1961
+ negative regulation of proteolysis [GO:0045861]	b1071
+ L-glutamine import across plasma membrane [GO:1903803]	b0810
+L-histidine import across plasma membrane [GO:1903810]	b2309
+ amino acid transport [GO:0006865]	b2307
+oligopeptide import across plasma membrane [GO:0140205]	b1244	b1245	b1246	b1247
+nicotinamide riboside transport [GO:0034258]	b0751
+FAD biosynthetic process [GO:0006747]	b0025
+ FMN biosynthetic process [GO:0009398]	b0025
+ riboflavin metabolic process [GO:0006771]	b0025
+tRNA guanine ribose methylation [GO:0002938]	b3651
+ transposition [GO:0032196]	b0256	b3558	b1432	b0361	b1402	b1996	b2860	b3045	b4273	ECOK12F020	b1578	JW5899	JW5903	JW5918	JW5933	b0299	b0372	b0541	b1026	b2089	ECOK12F002	b1404	b4284	b4285	ECOK12F017
+cellular manganese ion homeostasis [GO:0030026]	b4705
+ cellular response to manganese ion [GO:0071287]	b4705
+organic phosphonate transport [GO:0015716]	b4103	b4105	b4104	b4102
+post-translational protein modification [GO:0043687]	b2753
+ regulation of translational elongation [GO:0006448]	b1139
+ maltose catabolic process [GO:0000025]	b3416
+DNA replication termination [GO:0006274]	b1610
+ replication fork arrest involved in DNA replication termination [GO:0071807]	b1610
+ putrescine biosynthetic process from ornithine [GO:0033387]	b0693
+GDP-mannose biosynthetic process [GO:0009298]	b2048
+ response to hydrostatic pressure [GO:0051599]	b4351
+ cellobiose catabolic process [GO:2000892]	b2716
+ response to paraquat [GO:1901562]	b1053	b0850
+negative regulation of bacterial-type flagellum-dependent cell motility [GO:1902201]	b3049	b1707
+ positive regulation of cellular carbohydrate metabolic process [GO:0010676]	b3049
+regulation of protein targeting to membrane [GO:0090313]	b2064	b3524
+D-alanine biosynthetic process [GO:0030632]	b1190
+ positive regulation of mRNA cleavage [GO:0031439]	b3406
+pilus assembly [GO:0009297]	b4317	b0940	b3046	b4661	b0532	ECOK12F075	b3216	b0718	b1505
+cellular response to glucose-phosphate stress [GO:0036448]	b3659
+receptor-mediated virion attachment to host cell [GO:0046813]	b0568
+cytochrome c-heme linkage via heme-L-cysteine [GO:0018378]	b4074	b4075	b4076
+DNA metabolic process [GO:0006259]	b1347
+ DNA catabolic process [GO:0006308]	b3391	b3392	b3393	b3395	b3413	b3394
+type IV pilus assembly [GO:0043683]	b0108
+ type IV pilus-dependent motility [GO:0043107]	b0108	b3394
+ hydrogen peroxide metabolic process [GO:0042743]	b3518
+arginine deiminase pathway [GO:0019546]	b0521	b0323	b2874
+ carbamoyl phosphate catabolic process [GO:0035975]	b0521
+ lysine biosynthetic process via aminoadipic acid [GO:0019878]	b3475
+signal transduction [GO:0007165]	b3529
+negative regulation of cell division [GO:0051782]	b3534
+ketone body catabolic process [GO:0046952]	b1694
+ short-chain fatty acid metabolic process [GO:0046459]	b1694
+hexose import across plasma membrane [GO:0140271]	b4231	b4230	b4485
+D-glucuronate catabolic process [GO:0042840]	b4323
+ mannitol metabolic process [GO:0019594]	b4323
+glycerophospholipid metabolic process [GO:0006650]	b2835
+carboxylic acid transmembrane transport [GO:1905039]	b4279
+ carboxylic acid transport [GO:0046942]	b4279
+tRNA processing [GO:0008033]	b4331
+ tRNA splicing, via endonucleolytic cleavage and ligation [GO:0006388]	b4331
+galactonate catabolic process [GO:0019584]	b4357
+cellular response to stimulus [GO:0051716]	b2944
+cellular response to pH [GO:0071467]	b3088
+nucleoside diphosphate metabolic process [GO:0009132]	b1813
+calcium ion transmembrane transport [GO:0070588]	b3196
+ cellular calcium ion homeostasis [GO:0006874]	b3196
+ C4-dicarboxylate transport [GO:0015740]	b3227
+fructoselysine catabolic process [GO:1901281]	b3370
+ regulation of phosphorelay signal transduction system [GO:0070297]	b3398	b2340
+ acetyl-CoA metabolic process [GO:0006084]	b2920
+response to metal ion [GO:0010038]	b3025
+tRNA wobble base modification [GO:0002097]	b2562
+mannose metabolic process [GO:0006013]	b0732
+response to selenite ion [GO:0072714]	b3364
+ type IV pilus assembly [GO:0043683]	b3394
+response to hypochlorite [GO:1901530]	b0301	b0303
+nucleobase transport [GO:0015851]	b0511
+diacetylchitobiose metabolic process [GO:0052778]	b0681
+cellular lipid metabolic process [GO:0044255]	b0686	b3353
+zinc ion transmembrane transport [GO:0071577]	b0752
+L-lysine transmembrane transport [GO:1903401]	b0874
+iron ion transmembrane transport [GO:0034755]	b4490
+ cellular response to magnesium starvation [GO:0010350]	b1160
+cell volume homeostasis [GO:0006884]	b1191
+metal ion homeostasis [GO:0055065]	b1451
+regulation of ion transmembrane transport [GO:0034765]	b1592
+ negative regulation of transcription regulatory region DNA binding [GO:2000678]	b1707
+RNA methylation [GO:0001510]	b1835	b2581
+mannosylglycerate biosynthetic process [GO:0051479]	b1955
+shikimate transmembrane transport [GO:0015733]	b1981
+acetoacetic acid catabolic process [GO:0043442]	b2224
+peptidyl-histidine dephosphorylation [GO:0035971]	b2340
+ positive regulation of lyase activity [GO:0051349]	b2451
+cellular modified amino acid biosynthetic process [GO:0042398]	b0581
+ prosthetic group biosynthetic process [GO:0051191]	b0613
+ protein modification process [GO:0036211]	b0618
+thiamine metabolic process [GO:0006772]	b0419
+transsulfuration [GO:0019346]	b1757
+septum digestion after cytokinesis [GO:0000920]	b2865
+ organic acid catabolic process [GO:0016054]	b2736
+ cellular catabolic process [GO:0044248]	b2788
+1-butanol biosynthetic process [GO:0071271]	b2844	b1695
+protein deubiquitination [GO:0016579]	b2269
+ positive regulation of sulfur utilization [GO:0045883]	b1987
+organic substance transport [GO:0071702]	b2536	b2098
+ S-methylmethionine transport [GO:0015806]	b0260
+transposition, DNA-mediated [GO:0006313]	b4709	b4711	b4710	b4278	b0259	b0552	b0656	b1331	b1994	b2030	b2192	b2982	b3218	b3505	JW1882	JW5895	JW5914	JW5928	JW5935	JW5936	JW5951	b0022	b0265	b0275	b4516	b1894	b3444	JW2286	b0021	b0264	b0274	b1893	b3445	JW2285	b0360	b1403	b1997	b2861	b3044	b4272	ECOK12F021	JW5900	JW5902	JW5919	JW5934	b0298	b0373	b0540	b1027	b2088	ECOK12F001	ECOK12F018	b0016	b0582	b2394	b4294	b3484	b0706	b1460	b4573	b4283	b0988	b0255	b0705	b1459	ECOK12F010	b4505	NA	NA
+negative regulation of glucose import [GO:0046325]	b4662
+response to magnesium ion [GO:0032026]	b4702
+valine biosynthetic process [GO:0009099]	b3672
+formation of translation preinitiation complex [GO:0001731]	b1282
+ translation reinitiation [GO:0002188]	b1282
+negative regulation of chromosome organization [GO:2001251]	b2295
+regulation of protein localization to cell tip [GO:1903066]	b2007
+cytolysis [GO:0019835]	b0554	b4510	b4528	b2899	b0556	b1362	b1556
+lipoprotein transport [GO:0042953]	b0495
+copper ion transport [GO:0006825]	b1841	b1840
+peptidoglycan turnover [GO:0009254]	b0926
+cellular response to nitrogen starvation [GO:0006995]	b1783
+pyrimidine nucleobase biosynthetic process [GO:0019856]	b4246
+positive regulation of tryptophan metabolic process [GO:0090358]	b3707
+regulation of tryptophan metabolic process [GO:0090357]	b1265
+transcriptional attenuation [GO:0031555]	b3782
+lysine biosynthetic process via aminoadipic acid [GO:0019878]	b3712
+ cellular response to reactive oxygen species [GO:0034614]	b2922
+response to pH [GO:0009268]	b3511
+protein-containing complex assembly [GO:0065003]	b2718
+ sodium-dependent phosphate transport [GO:0044341]	b4020
+steroid metabolic process [GO:0008202]	b0493
+ phosphatidylcholine metabolic process [GO:0046470]	b1234
+regulation of DNA-templated transcription, termination [GO:0031554]	b0189
+response to arsenic-containing substance [GO:0046685]	b2638	JW2619
+plasmid maintenance [GO:0006276]	ECOK12F006
+regulation of translational initiation [GO:0006446]	b3848
+response to ionizing radiation [GO:0010212]	b0065
+DNA-mediated transformation [GO:0009294]	b4473	b2767
+bacteriocin immunity [GO:0030153]	b3690	b3717
+ sodium ion import across plasma membrane [GO:0098719]	b4065
+mannitol metabolic process [GO:0019594]	b2172	b1542
+establishment of competence for transformation [GO:0030420]	b0913
+lipopolysaccharide transport [GO:0015920]	b3522
+ribosome assembly [GO:0042255]	b2959
+cellular biosynthetic process [GO:0044249]	b4308
+ organophosphate metabolic process [GO:0019637]	b4308
+ phosphate-containing compound metabolic process [GO:0006796]	b4308
+ biosynthetic process [GO:0009058]	b4340	b1439
+positive regulation of secondary metabolite biosynthetic process [GO:1900378]	b0803
+ N-acetylglucosamine metabolic process [GO:0006044]	b3135
+L-valine transmembrane transport [GO:1903785]	b2683	b2682
+nucleic acid phosphodiester bond hydrolysis [GO:0090305]	b3155
+ medium-chain fatty acid biosynthetic process [GO:0051792]	b3353
+ medium-chain fatty acid catabolic process [GO:0051793]	b3353
+cellular metabolic compound salvage [GO:0043094]	b3380
+response to butan-1-ol [GO:1901422]	b0850	b2998
+nucleobase-containing compound metabolic process [GO:0006139]	b3407
+ viral release from host cell [GO:0019076]	b4510	b4528	b0556	b1362
+plasmid partitioning [GO:0030541]	ECOK12F046	ECOK12F047
+positive regulation of translational fidelity [GO:0045903]	b1787
+stress response to metal ion [GO:0097501]	b2504
+ stress response to nickel ion [GO:1990532]	b2504
+transposition [GO:0032196]	b0257
+regulation of cell shape [GO:0008360]	b0780
+DNA synthesis involved in DNA repair [GO:0000731]	b0876
+interstrand cross-link repair [GO:0036297]	b0916
+negative regulation of single-species biofilm formation [GO:1900191]	b1165
+provirus excision [GO:0032359]	b1346
+peptidoglycan-based cell wall biogenesis [GO:0009273]	b1409
+protein dephosphorylation [GO:0006470]	b1411
+positive regulation of bacterial-type flagellum assembly [GO:1902210]	b1481
+methylglyoxal catabolic process [GO:0051596]	b1781
+siderophore transmembrane transport [GO:0044718]	b4582
+viral process [GO:0016032]	b2356	b2360
+lactate oxidation [GO:0019516]	b0307
+response to peptide [GO:1901652]	b0378
+xylan catabolic process [GO:0045493]	b0271
+lactate catabolic process [GO:1903457]	b1687
+regulation of isomerase activity [GO:0010911]	b4566
+DNA methylation [GO:0006306]	ECOK12F052
+gamma-aminobutyric acid metabolic process [GO:0009448]	NA
+viral release from host cell by cytolysis [GO:0044659]	b1576
+galacturonate catabolic process [GO:0046397]	b3689
+inositol catabolic process [GO:0019310]	b3488
+error-free translesion synthesis [GO:0070987]	b0050
+peptidoglycan catabolic process [GO:0009253]	NA
+cellular biogenic amine metabolic process [GO:0006576]	b4538

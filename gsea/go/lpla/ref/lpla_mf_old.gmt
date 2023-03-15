@@ -1,0 +1,913 @@
+ATP binding [GO:0005524]	lp_1983	lp_0109	JDM1_0445	lp_0527	lp_2701	lp_2700	lp_2166	lp_0977	lp_0547	lp_0481	lp_0471	lp_0526	lp_0500	lp_0511	lp_0518	lp_0520	lp_3660	lp_0854	lp_1615	lp_1839	lp_1840	lp_2031	lp_2033	lp_2251	lp_2278	lp_2380	lp_2726	lp_0006	lp_0007	lp_0337	lp_3595	lp_3482	lp_2807	lp_2725	lp_2724	lp_2719	lp_2379	lp_2366	lp_2364	lp_2345	lp_2336	lp_2325	lp_2301	lp_2287	lp_2286	lp_2271	lp_2222	lp_2210	lp_2197	lp_2178	lp_2133	lp_2053	lp_2026	lp_2019	lp_1903	lp_1883	lp_1873	lp_1783	lp_1632	lp_1612	lp_1579	lp_1562	lp_1559	lp_1558	lp_1514	lp_1510	lp_1462	lp_1301	lp_1012	lp_0914	lp_0842	lp_0834	lp_0773	lp_0772	lp_0754	lp_0750	lp_0749	lp_0739	lp_0728	lp_0610	lp_0609	lp_0566	lp_0550	lp_0501	lp_0454	lp_0370	lp_0113	lp_0100	lp_0021	lp_0016	lp_0539	lp_0606	lp_0693	lp_0698	lp_0850	lp_0863	lp_0910	lp_0938	lp_1011	lp_1144	lp_1264	lp_1329	lp_1364	lp_1461	lp_1581	lp_1605	lp_1607	lp_1619	lp_1622	lp_1627	lp_1733	lp_1734	lp_1735	lp_1784	lp_1897	lp_1912	lp_1919	lp_1968	lp_2132	lp_2136	lp_2315	lp_2319	lp_2321	lp_2359	lp_2376	lp_2643	lp_2722	lp_2734	lp_0014	lp_3000	lp_3055	lp_0124	lp_3176	lp_3196	lp_3296	lp_3327	lp_0432	lp_0434	lp_3363	lp_3418	lp_3435	lp_2727	lp_2560	lp_2552	lp_2365	lp_2363	lp_2298	lp_2297	lp_2116	lp_2027	lp_1981	lp_1965	lp_1964	lp_1845	lp_1779	lp_1534	lp_1530	lp_1511	lp_1378	lp_1148	lp_1093	lp_1074	lp_1073	lp_0913	lp_0790	lp_0779	lp_0727	lp_0703	lp_0572	lp_0545	lp_0149	lp_0005	lp_0001	lp_0484	lp_0493	lp_0567	lp_0585	lp_3583	lp_0642	lp_0723	lp_0735	lp_1019	lp_1095	lp_1150	lp_1154	lp_1162	lp_1163	lp_1198	lp_1265	lp_1269	lp_1324	lp_1335	lp_1336	lp_1393	lp_1455	lp_1468	lp_1475	lp_1513	lp_1519	lp_1543	lp_1648	lp_1771	lp_1791	lp_1871	lp_1885	lp_1910	lp_1945	lp_1954	lp_1958	lp_1970	lp_2076	lp_2107	lp_2159	lp_2313	lp_2337	lp_2499	lp_2525	lp_2543	lp_2614	lp_2739	lp_2743	lp_2774	lp_2823	lp_2849	lp_2857	lp_2858	lp_2912	lp_2915	lp_2932	lp_2972	lp_2981	lp_2982	lp_3104	lp_0160	lp_0215	lp_0218	lp_3225	lp_0299	lp_0308	lp_0326	lp_0368	lp_0463	lp_3382	lp_3398
+ kinase activity [GO:0016301]	lp_1983	lp_2166	lp_0471	lp_1987	lp_0586	lp_0850	lp_0886	lp_0905	lp_1622	lp_1734	lp_1897	lp_2531	lp_2650	lp_2781	lp_2969	lp_3009	lp_3133	lp_0264	lp_0265	lp_3219	lp_3229	lp_3240	lp_3298	lp_3418	lp_3513	lp_3522	lp_3527	lp_0585	lp_0587	lp_1399	lp_2223	lp_0293
+ phosphotransferase activity, alcohol group as acceptor [GO:0016773]	lp_1983	lp_1562
+ protein-ribulosamine 3-kinase activity [GO:0102193]	lp_1983
+lactate racemase activity [GO:0050043]	lp_0104
+ metal ion binding [GO:0046872]	lp_0104	lp_1614	lp_2945	lp_2700	lp_2267	lp_0481	lp_0526	lp_0500	lp_0546	lp_3578	lp_3660	lp_1108	lp_1274	lp_1621	lp_1850	lp_2251	lp_2728	lp_0006	lp_3682	lp_2719	lp_2345	lp_2222	lp_1898	lp_1687	lp_1620	lp_1514	lp_1480	lp_1145	lp_1086	lp_0842	lp_0566	lp_0505	lp_0506	lp_0606	lp_3662	lp_0896	lp_1105	lp_1125	lp_1186	lp_1364	lp_1398	lp_1497	lp_1570	lp_1784	lp_1912	lp_2136	lp_2180	lp_2321	lp_2610	lp_2780	lp_2906	lp_2931	lp_0012	lp_0052	lp_3055	lp_3296	lp_3314	lp_3327	lp_3349	lp_3363	lp_3435	lp_3469	lp_2115	lp_1296	lp_0700	lp_0484	lp_0493	lp_0590	lp_3631	lp_0771	lp_1090	lp_1141	lp_1248	lp_1595	lp_1678	lp_2147	lp_2266	lp_2305	lp_2596	lp_2915	lp_2923	lp_2961	lp_3051	lp_0250	lp_0267	lp_3194	lp_3438
+ lyase activity [GO:0016829]	lp_0109	lp_2557	lp_2554	lp_0963	lp_1106	lp_1114	lp_2221	lp_2634	lp_2729	lp_0931	lp_1103	lp_2662
+ sulfurtransferase activity [GO:0016783]	lp_0109	lp_2178
+N-acetylneuraminate lyase activity [GO:0008747]	lp_3568
+chenodeoxycholoyltaurine hydrolase activity [GO:0047742]	lp_3536
+ choloylglycine hydrolase activity [GO:0045302]	lp_3536
+ ATP hydrolysis activity [GO:0016887]	JDM1_0445	lp_0547	lp_0520	lp_2278	lp_2694	lp_2693	lp_2287	lp_2286	lp_2271	lp_1903	lp_1632	lp_0773	lp_0772	lp_0910	lp_0962	lp_1144	lp_1627	lp_1919	lp_2168	lp_2315	lp_0014	lp_3055	lp_0124	lp_3196	lp_3327	lp_0432	lp_3363	lp_3435	lp_2297	lp_2116	lp_1845	lp_0567	lp_3583	lp_1019	lp_1154	lp_1269	lp_1519	lp_1543	lp_2337	lp_3398
+ ATP-dependent peptidase activity [GO:0004176]	JDM1_0445	lp_0547	lp_2132
+ metalloendopeptidase activity [GO:0004222]	JDM1_0445	lp_0547	lp_2049	lp_2225	lp_1969	lp_2621	lp_3445
+ zinc ion binding [GO:0008270]	JDM1_0445	lp_1437	lp_0547	JDM1_0533	JDM1_1412	lp_1615	lp_1904	lp_1963	lp_2380	lp_2559	lp_3297	lp_2553	lp_2379	lp_2187	lp_2090	lp_2026	lp_1679	lp_1509	lp_1375	lp_1058	lp_1022	lp_0773	lp_0610	lp_0609	lp_0591	lp_0488	lp_0696	lp_0937	lp_1817	lp_2122	lp_2130	lp_2158	lp_2384	lp_0330	lp_2702	lp_2116	lp_1976	lp_1969	lp_1511	lp_1048	lp_0516	lp_0600	lp_1298	lp_1321	lp_1521	lp_1665	lp_1856	lp_1939	lp_2346	lp_2677	lp_2736	lp_2873	lp_2988	lp_3043	lp_3054	lp_3072	lp_3145	lp_0118	lp_3283	lp_0353	lp_3545
+RNA binding [GO:0003723]	lp_3683	lp_1617	lp_1637	lp_2211	lp_2704	lp_1076	lp_1782	lp_2032	lp_1598	lp_0799	lp_0541	lp_0612	lp_0885	lp_0904	lp_1529	lp_1555	lp_2190	lp_0004	lp_3131	lp_3514	lp_3529
+carboxy-lyase activity [GO:0016831]	lp_1118	lp_3665	lp_0061	lp_2961	lp_3228	lp_3427
+ malate dehydrogenase (decarboxylating) (NAD+) activity [GO:0004471]	lp_1118
+ manganese ion binding [GO:0030145]	lp_1118	lp_3593	lp_3554	lp_1837
+ NAD binding [GO:0051287]	lp_1118	lp_1346	lp_2570	lp_2728	lp_0528	lp_2559	lp_2222	lp_1874	lp_0756	lp_1105	lp_0487	lp_2057	lp_2548
+aspartate-semialdehyde dehydrogenase activity [GO:0004073]	lp_1346	lp_2570
+ NADP binding [GO:0050661]	lp_1346	lp_2570	lp_0571	lp_1541	lp_2535	lp_2681	lp_1874	lp_0789	lp_1869	lp_2585	lp_0017	lp_2548
+ protein dimerization activity [GO:0046983]	lp_1346	lp_2570	lp_0528	lp_1062	lp_1488	lp_2116	lp_0996	lp_1943
+3,4-dihydroxy-2-butanone-4-phosphate synthase activity [GO:0008686]	lp_1437
+ fibronectin binding [GO:0001968]	lp_1437	lp_1264	lp_1607
+ GTP binding [GO:0005525]	lp_1437	lp_1635	lp_3270	lp_1480	lp_1466	lp_3196	lp_0779	lp_1491
+ GTP cyclohydrolase II activity [GO:0003935]	lp_1437
+FMN binding [GO:0010181]	lp_1614	lp_1732	lp_3586	lp_1425	lp_0952	lp_1070	lp_1113	lp_1350	lp_1477	lp_2673	lp_2794	lp_0055	lp_0146	lp_3491
+ phosphopantothenate--cysteine ligase activity [GO:0004632]	lp_1614
+ phosphopantothenoylcysteine decarboxylase activity [GO:0004633]	lp_1614
+gallate decarboxylase activity [GO:0018798]	lp_2945
+ protocatechuate decarboxylase activity [GO:0050223]	lp_2945
+hydrolase activity [GO:0016787]	lp_0105	lp_2370	lp_2906	lp_0476	lp_0552	lp_0580	lp_3632	lp_0676	lp_0688	lp_0691	lp_0771	lp_0809	lp_0897	lp_0903	lp_0931	lp_1187	lp_1242	lp_1416	lp_1418	lp_1433	lp_1531	lp_1556	lp_1664	lp_1790	lp_1867	lp_1927	lp_2098	lp_2114	lp_2162	lp_2229	lp_2235	lp_2266	lp_2305	lp_2520	lp_2664	lp_2753	lp_2762	lp_0041	lp_2960	lp_3044	lp_3078	lp_0119	lp_3254	lp_3255	lp_3323	lp_0433	lp_0452	lp_3421	lp_3544
+ transferase activity [GO:0016740]	lp_0105	lp_0854	lp_2382	lp_0337	lp_0449	lp_0592	lp_1072	lp_1544	lp_1680	lp_2936	lp_3314	lp_3468	lp_3486	lp_3492	lp_1036	lp_0477	lp_3638	lp_2596
+lyase activity [GO:0016829]	lp_0106/lp_0107	lp_1561	lp_1319	lp_1781	lp_1888	lp_3603	lp_3666	lp_1677	lp_2528
+ nickel cation binding [GO:0016151]	lp_0106/lp_0107
+ carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity [GO:0004088]	lp_0527	lp_2701	lp_2700	lp_0526	lp_1783	lp_1784
+magnesium ion binding [GO:0000287]	lp_3589	lp_2553	lp_0820	lp_0711	lp_0115	lp_2697	lp_3587	lp_0647	lp_0764	lp_0849	lp_0852	lp_2433	lp_2629
+ pyruvate oxidase activity [GO:0047112]	lp_3589	lp_3587	lp_0849	lp_0852	lp_2629
+ thiamine pyrophosphate binding [GO:0030976]	lp_3589	lp_3587	lp_0849	lp_0852	lp_1005	lp_2629
+dITP diphosphatase activity [GO:0035870]	lp_2267
+ ITP diphosphatase activity [GO:0036220]	lp_2267
+ nucleoside-triphosphatase activity [GO:0017111]	lp_2267
+ nucleotide binding [GO:0000166]	lp_2267	lp_0546	lp_3606	lp_1086	lp_1169	lp_3400	lp_0771	lp_0864	lp_2237
+ XTP diphosphatase activity [GO:0036222]	lp_2267
+ magnesium ion binding [GO:0000287]	lp_2166	lp_1920	lp_0977	lp_0792	lp_0471	lp_0467	lp_2033	lp_2723	lp_0210	lp_0310	lp_3482	lp_3270	lp_2724	lp_2280	lp_2242	lp_2094	lp_2051	lp_1873	lp_1752	lp_1732	lp_1559	lp_1558	lp_1301	lp_1022	lp_0754	lp_0550	lp_0113	lp_2374	lp_1897	lp_0027	lp_0066	lp_1654	lp_0522	lp_0582	lp_0604	lp_1005	lp_1682
+ ribose phosphate diphosphokinase activity [GO:0004749]	lp_2166	lp_0471
+fibronectin binding [GO:0001968]	lp_1920	lp_0792	lp_2016	lp_2154
+ phosphopyruvate hydratase activity [GO:0004634]	lp_1920	lp_0792
+ UDP-N-acetylmuramoylalanyl-D-glutamate-2,6-diaminopimelate ligase activity [GO:0008765]	lp_0977
+ CTP synthase activity [GO:0003883]	lp_0481
+ glutaminase activity [GO:0004359]	lp_0481	lp_2382	lp_2725	lp_0566
+glucosamine-1-phosphate N-acetyltransferase activity [GO:0019134]	lp_0467
+ UDP-N-acetylglucosamine diphosphorylase activity [GO:0003977]	lp_0467
+acetyl-CoA carboxylase activity [GO:0003989]	JDM1_0533	JDM1_1412	lp_1679	lp_0591	lp_0592	lp_1676	lp_1680	lp_0362	lp_0589	lp_0590	lp_1678
+ ATP binding [GO:0005524]	JDM1_0533	JDM1_1412	lp_0818	lp_0979	lp_1320	lp_2308	lp_2728	lp_0210	lp_0310	lp_0530	lp_2694	lp_2693	lp_2352	lp_2322	lp_2242	lp_2187	lp_1980	lp_1974	lp_1898	lp_1744	lp_1679	lp_1379	lp_1058	lp_0591	lp_0460	lp_0344	lp_0488	lp_0592	lp_0962	lp_0980	lp_1106	lp_1129	lp_1488	lp_1570	lp_1680	lp_1737	lp_2096	lp_2168	lp_3085	lp_3298	lp_0423	lp_0775	lp_2277	lp_2048	lp_1740	lp_1391	lp_1316	lp_1149	lp_1147	lp_0957	lp_0956	lp_0714	lp_0318	lp_0590	lp_3635	lp_3647	lp_3648	lp_0803	lp_0878	lp_1128	lp_1141	lp_1678	lp_1750	lp_2110	lp_2394	lp_2395	lp_2497	lp_2893	lp_2894	lp_2966	lp_3040	lp_3042	lp_0098	lp_0180	lp_3211
+ carboxyl- or carbamoyltransferase activity [GO:0016743]	JDM1_0533	JDM1_1412	lp_1679	lp_0591
+ ribokinase activity [GO:0004747]	lp_0500	lp_3660	lp_2251
+ ATP-dependent activity, acting on RNA [GO:0008186]	lp_0511
+ helicase activity [GO:0004386]	lp_0511	lp_0539	lp_1737	lp_0735	lp_1885	lp_3382
+ hydrolase activity [GO:0016787]	lp_0511	lp_1615	lp_1987	lp_0539	lp_0606	lp_0012	lp_1074	lp_0735	lp_1162	lp_1885	lp_2515	lp_2961	lp_3228	lp_3382	lp_3427
+ RNA binding [GO:0003723]	lp_0511	lp_0520	lp_2278	lp_2807	lp_1853	lp_0458	lp_0549	lp_0797	lp_0963	lp_1319	lp_1724	lp_1781	lp_1888	lp_2043	lp_2122	lp_2158	lp_2221	lp_2937	lp_2300	lp_1603	lp_1756	lp_2504	lp_2653
+ UDP-N-acetylmuramoyl-tripeptide-D-alanyl-D-alanine ligase activity [GO:0047480]	lp_0518
+ UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate-D-alanyl-D-alanine ligase activity [GO:0008766]	lp_0518
+ RNA helicase activity [GO:0003724]	lp_0520	lp_2278	lp_1162
+guanine phosphoribosyltransferase activity [GO:0052657]	lp_0546
+ hypoxanthine phosphoribosyltransferase activity [GO:0004422]	lp_0546
+homoserine dehydrogenase activity [GO:0004412]	lp_0571	lp_2535
+catalase activity [GO:0004096]	lp_3578
+ heme binding [GO:0020037]	lp_3578
+adenylate cyclase activity [GO:0004016]	lp_0818
+ diadenylate cyclase activity [GO:0106408]	lp_0818
+ biotin-[acetyl-CoA-carboxylase] ligase activity [GO:0004077]	lp_0854	lp_0337
+ DNA binding [GO:0003677]	lp_0854	lp_1615	lp_1839	lp_1840	lp_0006	lp_0007	lp_0337	lp_2287	lp_2286	lp_2210	lp_1632	lp_0773	lp_0772	lp_0698	lp_0910	lp_0938	lp_0962	lp_1144	lp_1364	lp_1461	lp_1508	lp_1605	lp_2168	lp_2860	lp_0002	lp_0014	lp_0432	lp_2045	lp_1991	lp_1976	lp_1511	lp_1411	lp_1604	lp_0723	lp_0735	lp_1336	lp_1519	lp_1543	lp_1871	lp_2337	lp_2915	lp_0308
+aspartate kinase activity [GO:0004072]	lp_0979	lp_2308
+NADP binding [GO:0050661]	lp_1084	lp_3498	lp_1251
+ shikimate 3-dehydrogenase (NADP+) activity [GO:0004764]	lp_1084	lp_3498
+citrate (pro-3S)-lyase activity [GO:0008815]	lp_1108	lp_1109
+ citryl-CoA lyase activity [GO:0008816]	lp_1108
+fumarate hydratase activity [GO:0004333]	lp_1112
+channel activity [GO:0015267]	lp_1175	lp_0108	lp_0171	lp_0372	lp_3436	lp_3463
+kinase activity [GO:0016301]	lp_1274	lp_0575	lp_0185	lp_3581	lp_3630	lp_1355	lp_2595	lp_2965	lp_3063	lp_3088	lp_0416	lp_0441	lp_3509
+ phosphoenolpyruvate-protein phosphotransferase activity [GO:0008965]	lp_1274
+ADP-dependent NAD(P)H-hydrate dehydratase activity [GO:0052855]	lp_1320
+methyltransferase activity [GO:0008168]	lp_1541	lp_1724	lp_1989	lp_0695	lp_1314	lp_1533	lp_1603	lp_1756	lp_2082	lp_2134	lp_2504
+ phosphogluconate dehydrogenase (decarboxylating) activity [GO:0004616]	lp_1541	lp_1251
+ lytic endotransglycosylase activity [GO:0008932]	lp_1561
+ DNA helicase activity [GO:0003678]	lp_1615	lp_2694	lp_2693	lp_0910	lp_1144	lp_1627	lp_0014	lp_0432	lp_0308
+ rRNA methyltransferase activity [GO:0008649]	lp_1617
+D-ribulose-phosphate 3-epimerase activity [GO:0004750]	lp_1621
+7S RNA binding [GO:0008312]	lp_1635
+ GTPase activity [GO:0003924]	lp_1635	lp_2146	lp_2193	lp_3682	lp_3120	lp_2094	lp_2015	lp_1967	lp_1687	lp_1620	lp_0896	lp_1633	lp_2119	lp_2040	lp_1255	lp_1027	lp_0076
+diaminopimelate decarboxylase activity [GO:0008836]	lp_1713
+ pyridoxal phosphate binding [GO:0030170]	lp_1713	lp_0531	lp_0523	lp_2375	lp_0204	lp_0874	lp_1470	lp_2180	lp_2536	lp_2634	lp_0024	lp_0255	lp_3420	lp_2776	lp_2551	lp_1407	lp_1721	lp_2683	lp_2751	lp_2888	lp_3517
+ DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) activity [GO:0003918]	lp_1839	lp_1840	lp_0006
+DNA binding [GO:0003677]	lp_1850	lp_1963	lp_0103	lp_2063	lp_1062	lp_1022	lp_1021	lp_1018	lp_0466	lp_0911	lp_0939	lp_1544	lp_1847	lp_1892	lp_1962	lp_2006	lp_1160	lp_0031	lp_2253	lp_2203	lp_2157	lp_2109	lp_2029	lp_1613	lp_1563	lp_0781	lp_0725	lp_0700	lp_0699	lp_0223	lp_0482	lp_0524	lp_0563	lp_0624	lp_0631	lp_0632	lp_0634	lp_0635	lp_0641	lp_3549	lp_3569	lp_3580	lp_3598	lp_3625	lp_3661	lp_3672	lp_0743	lp_0787	lp_0811	lp_0812	lp_0825	lp_0862	lp_0895	lp_0917	lp_0940	lp_0941	lp_0942	lp_0943	lp_0949	lp_0950	lp_0984	lp_0992	lp_0996	lp_1020	lp_1153	lp_1195	lp_1196	lp_1243	lp_1268	lp_1341	lp_1356	lp_1442	lp_1443	lp_1483	lp_1487	lp_1506	lp_1565	lp_1580	lp_1591	lp_1688	lp_1693	lp_1833	lp_1858	lp_1879	lp_1926	lp_1942	lp_1997	lp_2003	lp_2095	lp_2128	lp_2131	lp_2243	lp_2259	lp_2304	lp_2342	lp_2444	lp_2447	lp_2448	lp_2455	lp_2479	lp_2480	lp_2506	lp_2515	lp_2567	lp_2597	lp_2602	lp_2622	lp_2651	lp_2654	lp_2661	lp_2665	lp_2676	lp_2772	lp_2782	lp_2817	lp_2854	lp_2882	lp_2902	lp_2918	lp_2924	lp_0036	lp_0046	lp_2963	lp_2991	lp_3006	lp_3013	lp_3048	lp_3087	lp_3090	lp_3097	lp_3102	lp_3107	lp_3113	lp_3119	lp_3128	lp_0118	lp_0131	lp_0152	lp_0162	lp_0165	lp_0172	lp_0173	lp_0188	lp_0199	lp_0216	lp_0225	lp_0245	lp_0262	lp_3164	lp_3191	lp_3198	lp_3200	lp_3221	lp_3238	lp_3290	lp_3331	lp_0274	lp_0281	lp_0283	lp_0294	lp_0319	lp_0417	lp_0431	lp_0435	lp_3365	lp_3389	lp_3390	lp_3417	lp_3419	lp_3438	lp_3441	lp_3444	lp_3458	lp_3470	lp_3478	lp_3479	lp_3488	lp_3496	lp_3506	lp_3531	lp_0418
+ DNA topoisomerase type I (single strand cut, ATP-independent) activity [GO:0003917]	lp_1850
+metallopeptidase activity [GO:0008237]	lp_1904
+ tripeptide aminopeptidase activity [GO:0045148]	lp_1904
+ DNA primase activity [GO:0003896]	lp_1963
+GTP binding [GO:0005525]	lp_1987	lp_2146	lp_2193	lp_3682	lp_3297	lp_3120	lp_2094	lp_2015	lp_1967	lp_1687	lp_1620	lp_2374	lp_0896	lp_1633	lp_1854	lp_2119	lp_2115	lp_2040	lp_1881	lp_1255	lp_1027	lp_1493	lp_1528	lp_0076
+ GTP diphosphokinase activity [GO:0008728]	lp_1987
+ FMN adenylyltransferase activity [GO:0003919]	lp_2031	lp_0850
+ riboflavin kinase activity [GO:0008531]	lp_2031
+ shikimate kinase activity [GO:0004765]	lp_2033
+4-hydroxy-tetrahydrodipicolinate synthase activity [GO:0008840]	lp_2123	lp_2685
+ ribosome binding [GO:0043022]	lp_2146	lp_3120	lp_2015	lp_3196
+ rRNA binding [GO:0019843]	lp_2146	lp_0457	lp_1687	lp_1631	lp_1620	lp_0611	lp_1059	lp_1040
+ translation elongation factor activity [GO:0003746]	lp_2146	lp_3120	lp_2015	lp_2119	lp_1027	lp_0076
+ tRNA binding [GO:0000049]	lp_2146	lp_2325	lp_2187	lp_2178	lp_1986	lp_1873	lp_1559	lp_1558	lp_1514	lp_0609	lp_0454	lp_1793	lp_3688	lp_2277	lp_1534	lp_1060	lp_1047	lp_1041	lp_1032	lp_1026	lp_1025	lp_0620
+ S-adenosylmethionine-dependent methyltransferase activity [GO:0008757]	lp_2211	lp_2059
+ tRNA methyltransferase activity [GO:0008175]	lp_2211
+nucleic acid binding [GO:0003676]	lp_2377	lp_2454	lp_2593	lp_0543	lp_0569	lp_0960	lp_0997	lp_1192	lp_1212	lp_1380	lp_1777	lp_1882	lp_2059	lp_2279	lp_0366
+ protein-(glutamine-N5) methyltransferase activity [GO:0102559]	lp_2377
+ protein-glutamine N-methyltransferase activity [GO:0036009]	lp_2377
+ carbon-nitrogen ligase activity on lipid II [GO:0140282]	lp_2380
+carbon-nitrogen ligase activity on lipid II [GO:0140282]	lp_2382
+L-isoleucine transaminase activity [GO:0052656]	lp_2390
+ L-leucine transaminase activity [GO:0052654]	lp_2390
+ L-leucine:2-oxoglutarate aminotransferase activity [GO:0050048]	lp_2390
+ L-valine transaminase activity [GO:0052655]	lp_2390
+homoserine O-acetyltransferase activity [GO:0004414]	lp_2537
+ homoserine O-succinyltransferase activity [GO:0008899]	lp_2537
+glucose-6-phosphate dehydrogenase activity [GO:0004345]	lp_2681
+phosphoribosylglycinamide formyltransferase activity [GO:0004644]	lp_2721
+amidophosphoribosyltransferase activity [GO:0004044]	lp_2723
+ phosphoribosylformylglycinamidine synthase activity [GO:0004642]	lp_2726	lp_2725	lp_2724
+5-(carboxyamino)imidazole ribonucleotide synthase activity [GO:0034028]	lp_2728
+ phosphoribosylaminoimidazole carboxylase activity [GO:0004638]	lp_2728	lp_1141
+ DNA negative supercoiling activity [GO:0034335]	lp_0007
+ DNA-binding transcription factor activity [GO:0003700]	lp_0103	lp_2203	lp_1411	lp_0725	lp_1604	lp_0495	lp_0563	lp_3549	lp_3559	lp_3598	lp_0862	lp_0996	lp_1157	lp_1926	lp_1934	lp_2095	lp_2597	lp_2603	lp_2651	lp_2661	lp_2782	lp_2924	lp_0152	lp_0245	lp_0262	lp_0285	lp_0435	lp_0442	lp_3506	lp_3521
+acetate kinase activity [GO:0008776]	lp_0210	lp_0310	lp_2242
+metalloaminopeptidase activity [GO:0070006]	lp_0257
+ transition metal ion binding [GO:0046914]	lp_0257	lp_0996
+flavin prenyltransferase activity [GO:0106141]	lp_0271
+serine-type D-Ala-D-Ala carboxypeptidase activity [GO:0009002]	lp_3189	lp_1278	lp_1010	lp_1171	lp_2021
+metal ion binding [GO:0046872]	lp_0457	lp_3592	lp_2282	lp_2199	lp_1846	lp_1631	lp_0562	lp_1072	lp_1083	lp_1283	lp_1374	lp_1494	lp_1500	lp_2049	lp_2225	lp_2580	lp_2936	lp_3135	lp_3492	lp_3538	lp_2155	lp_0275	lp_0887	lp_1097	lp_1440	lp_1749	lp_1905	lp_2215	lp_2237	lp_2299	lp_2306	lp_2320	lp_2621	lp_2770	lp_3018	lp_3123	lp_3302	lp_3442	lp_3445
+ ribonuclease M5 activity [GO:0043822]	lp_0457
+shikimate 3-dehydrogenase (NADP+) activity [GO:0004764]	lp_3494	lp_3499
+N-acetyl-gamma-glutamyl-phosphate reductase activity [GO:0003942]	lp_0528	lp_0487
+acetyl-CoA:L-glutamate N-acetyltransferase activity [GO:0004042]	lp_0529
+ glutamate N-acetyltransferase activity [GO:0004358]	lp_0529
+ methione N-acyltransferase activity [GO:0103045]	lp_0529
+acetylglutamate kinase activity [GO:0003991]	lp_0530	lp_0488
+N2-acetyl-L-ornithine:2-oxoglutarate 5-aminotransferase activity [GO:0003992]	lp_0531
+alanine racemase activity [GO:0008784]	lp_0523
+L-lactate dehydrogenase activity [GO:0004459]	lp_0537	lp_1101	lp_1245	lp_2150
+histidinol dehydrogenase activity [GO:0004399]	lp_2559
+ uracil phosphoribosyltransferase activity [GO:0004845]	lp_2704	lp_2374	lp_1782
+dihydroorotate dehydrogenase (fumarate) activity [GO:1990663]	lp_2699
+orotidine-5'-phosphate decarboxylase activity [GO:0004590]	lp_2698
+membrane insertase activity [GO:0032977]	lp_3687	lp_1553
+D-ribose pyranase activity [GO:0062193]	lp_3659
+ intramolecular lyase activity [GO:0016872]	lp_3659
+ monosaccharide binding [GO:0048029]	lp_3659
+inositol 2-dehydrogenase activity [GO:0050112]	lp_3606
+ rhamnulokinase activity [GO:0008993]	lp_3595
+L-rhamnose mutarotase activity [GO:0062192]	lp_3594
+ rhamnulose-1-phosphate aldolase activity [GO:0008994]	lp_3592
+carbohydrate derivative binding [GO:0097367]	lp_3523	lp_3508	lp_2502	lp_0822	lp_3559	lp_1157	lp_1934	lp_2603	lp_3335	lp_0285	lp_0442	lp_3521
+ carbon-oxygen lyase activity [GO:0016835]	lp_3523	lp_3508
+3-dehydroquinate dehydratase activity [GO:0003855]	lp_3493	lp_2798
+ galactokinase activity [GO:0004335]	lp_3482
+demethylmenaquinone methyltransferase activity [GO:0043770]	lp_3431
+ S-adenosylmethionine:2-demethylmenaquinol methyltransferase activity [GO:0102094]	lp_3431
+ S-adenosylmethionine:2-demethylmenaquinol-7 methyltransferase activity [GO:0102955]	lp_3431
+ S-adenosylmethionine:2-demethylquinol-8 methyltransferase activity [GO:0102027]	lp_3431
+undecaprenyl-diphosphatase activity [GO:0050380]	lp_3407
+ GTP cyclohydrolase I activity [GO:0003934]	lp_3297
+adenylosuccinate synthase activity [GO:0004019]	lp_3270
+peptidyl-prolyl cis-trans isomerase activity [GO:0003755]	lp_3193	lp_2118	lp_1452
+2,3-bisphosphoglycerate-dependent phosphoglycerate mutase activity [GO:0046538]	lp_3170	lp_0597
+ tyrosine-tRNA ligase activity [GO:0004831]	lp_2807
+IMP cyclohydrolase activity [GO:0003937]	lp_2720
+ phosphoribosylaminoimidazolecarboxamide formyltransferase activity [GO:0004643]	lp_2720
+ phosphoribosylamine-glycine ligase activity [GO:0004637]	lp_2719
+5'-3' exonuclease activity [GO:0008409]	lp_2694	lp_2087
+ double-stranded DNA binding [GO:0003690]	lp_2694	lp_2693
+3'-5' exonuclease activity [GO:0008408]	lp_2693	lp_1508	lp_1549	lp_1737	lp_1899	lp_0002	lp_2045	lp_0705
+glutaminase activity [GO:0004359]	lp_2557
+ imidazoleglycerol-phosphate synthase activity [GO:0000107]	lp_2557
+imidazoleglycerol-phosphate synthase activity [GO:0000107]	lp_2554
+ phosphoribosyl-AMP cyclohydrolase activity [GO:0004635]	lp_2553
+ glucose-6-phosphate isomerase activity [GO:0004347]	lp_2502
+ thymidine kinase activity [GO:0004797]	lp_2379
+glycine hydroxymethyltransferase activity [GO:0004372]	lp_2375
+lipid binding [GO:0008289]	lp_2369	lp_3669	lp_1079	lp_1796	lp_1868	lp_2534	lp_3256
+ proton-transporting ATP synthase activity, rotational mechanism [GO:0046933]	lp_2369	lp_2366	lp_2364	lp_2370	lp_2365	lp_2363
+proton-transporting ATP synthase activity, rotational mechanism [GO:0046933]	lp_2368	lp_2367
+ proton-transporting ATPase activity, rotational mechanism [GO:0046961]	lp_2366	lp_2364
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase activity [GO:0008760]	lp_2361	lp_0510
+ABC-type D-methionine transporter activity [GO:0033232]	lp_2352	lp_1744
+ D-alanine-D-alanine ligase activity [GO:0008716]	lp_2345
+ glutamate-cysteine ligase activity [GO:0004357]	lp_2336
+ glutathione synthase activity [GO:0004363]	lp_2336
+ tRNA adenylyltransferase activity [GO:0004810]	lp_2325
+ tRNA U4 sulfurtransferase [GO:0140741]	lp_2325
+aminoacyl-tRNA editing activity [GO:0002161]	lp_2322	lp_2187	lp_2048	lp_1316	lp_2662
+ valine-tRNA ligase activity [GO:0004832]	lp_2322
+ ATP-dependent DNA damage sensor activity [GO:0140664]	lp_2301	lp_2271	lp_0606	lp_2298	lp_2297
+ damaged DNA binding [GO:0003684]	lp_2301	lp_1509	lp_0539	lp_0606	lp_2298
+ single-stranded DNA binding [GO:0003697]	lp_2301	lp_0005
+ four-way junction helicase activity [GO:0009378]	lp_2287	lp_2286
+ queuine tRNA-ribosyltransferase activity [GO:0008479]	lp_2282
+damaged DNA binding [GO:0003684]	lp_2280	lp_3023
+ DNA-directed DNA polymerase activity [GO:0003887]	lp_2280	lp_0698	lp_1508	lp_1899	lp_0002	lp_2045	lp_0705	lp_0811	lp_2128
+ endonuclease activity [GO:0004519]	lp_2271	lp_1549	lp_2860	lp_0524	lp_0812	lp_1858	lp_3241
+ mismatched DNA binding [GO:0030983]	lp_2271	lp_2298	lp_2297
+ NAD+ kinase activity [GO:0003951]	lp_2222	lp_1150	lp_2159
+ phospho-N-acetylmuramoyl-pentapeptide-transferase activity [GO:0008963]	lp_2199
+ UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimelyl-D-alanyl-D-alanine:undecaprenyl-phosphate transferase activity [GO:0051992]	lp_2199
+ tetrahydrofolylpolyglutamate synthase activity [GO:0004326]	lp_2197	lp_2321	lp_3296
+ UDP-N-acetylmuramoylalanine-D-glutamate ligase activity [GO:0008764]	lp_2197
+UDP-N-acetyl-D-glucosamine:N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimelyl-D-alanyl-D-alanine-diphosphoundecaprenol 4-beta-N-acetylglucosaminlytransferase activity [GO:0051991]	lp_2196
+ undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase activity [GO:0050511]	lp_2196
+ isoleucine-tRNA ligase activity [GO:0004822]	lp_2187
+diaminopimelate epimerase activity [GO:0008837]	lp_2185
+ pantetheine-phosphate adenylyltransferase activity [GO:0004595]	lp_2133
+3'-tRNA processing endoribonuclease activity [GO:0042781]	lp_2090
+ serine-type endopeptidase activity [GO:0004252]	lp_2063	lp_2132	lp_0786	lp_1571
+ UMP kinase activity [GO:0033862]	lp_2053
+di-trans,poly-cis-decaprenylcistransferase activity [GO:0008834]	lp_2051
+chorismate synthase activity [GO:0004107]	lp_2037
+3-phosphoshikimate 1-carboxyvinyltransferase activity [GO:0003866]	lp_2035
+ heat shock protein binding [GO:0031072]	lp_2026
+ unfolded protein binding [GO:0051082]	lp_2026	lp_0728	lp_2116	lp_2027	lp_1499
+ D-alanine [D-alanyl carrier protein] ligase activity [GO:0047473]	lp_2019
+D-aminoacyl-tRNA deacylase activity [GO:0051499]	lp_1986
+ Gly-tRNA(Ala) hydrolase activity [GO:0106026]	lp_1986
+ Ser(Gly)-tRNA(Ala) hydrolase activity [GO:0043908]	lp_1986
+aspartate-tRNA ligase activity [GO:0004815]	lp_1980
+ nucleic acid binding [GO:0003676]	lp_1980	lp_1752	lp_0550	lp_1627	lp_1737	lp_1899	lp_2906	lp_0012	lp_1740	lp_1600	lp_0956	lp_1162	lp_1418	lp_1885	lp_2087	lp_2469
+ADP binding [GO:0043531]	lp_1974
+ phosphotransferase activity, phosphate group as acceptor [GO:0016776]	lp_1974
+ protein serine/threonine kinase activity [GO:0004674]	lp_1974	lp_0754	lp_1619	lp_3176
+ small ribosomal subunit rRNA binding [GO:0070181]	lp_1967
+6-phosphofructokinase activity [GO:0003872]	lp_1898
+ CMP kinase activity [GO:0036430]	lp_1883
+ dCMP kinase activity [GO:0036431]	lp_1883
+4-hydroxy-tetrahydrodipicolinate reductase [GO:0008839]	lp_1874
+ oxidoreductase activity, acting on CH or CH2 groups, NAD or NADP as acceptor [GO:0016726]	lp_1874
+ ATP:3'-cytidine-cytidine-tRNA adenylyltransferase activity [GO:0052929]	lp_1873
+ CTP:3'-cytidine-tRNA cytidylyltransferase activity [GO:0052928]	lp_1873
+ CTP:tRNA cytidylyltransferase activity [GO:0052927]	lp_1873
+ tRNA cytidylyltransferase activity [GO:0016437]	lp_1873
+thymidylate synthase activity [GO:0004799]	lp_1870
+manganese ion binding [GO:0030145]	lp_1853	lp_1199	lp_2106	lp_3607
+ RNA-DNA hybrid ribonuclease activity [GO:0004523]	lp_1853	lp_2593	lp_1777
+5,10-methylenetetrahydrofolate-dependent tRNA (m5U54) methyltransferase activity [GO:0030698]	lp_1848
+ flavin adenine dinucleotide binding [GO:0050660]	lp_1848	lp_2151	lp_2585
+ methylenetetrahydrofolate-tRNA-(uracil-5-)-methyltransferase (FADH2-oxidizing) activity [GO:0047151]	lp_1848
+ threonine-type endopeptidase activity [GO:0004298]	lp_1846
+acyl-phosphate glycerol-3-phosphate acyltransferase activity [GO:0043772]	lp_1842
+aspartic-type endopeptidase activity [GO:0004190]	lp_1780
+crossover junction endodeoxyribonuclease activity [GO:0008821]	lp_1752
+ isopentenyl-diphosphate delta-isomerase activity [GO:0004452]	lp_1732
+ NADPH binding [GO:0070402]	lp_1732
+ oxidoreductase activity [GO:0016491]	lp_1732	lp_1425	lp_3572	lp_3605	lp_3608	lp_3612	lp_0760	lp_0766	lp_0813	lp_0952	lp_1113	lp_1136	lp_1161	lp_1350	lp_1925	lp_1941	lp_2604	lp_2606	lp_2792	lp_0055	lp_0146	lp_0355	lp_3449	lp_3491
+3-oxoacyl-[acyl-carrier-protein] synthase activity [GO:0004315]	lp_1671	lp_0588	lp_1675
+ beta-ketoacyl-acyl-carrier-protein synthase III activity [GO:0033818]	lp_1671	lp_0588
+(3R)-hydroxymyristoyl-[acyl-carrier-protein] dehydratase activity [GO:0008659]	lp_1670
+ 3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase activity [GO:0008693]	lp_1670
+ 3-hydroxyoctanoyl-[acyl-carrier-protein] dehydratase activity [GO:0047451]	lp_1670
+ 3-hydroxypalmitoyl-[acyl-carrier-protein] dehydratase activity [GO:0004317]	lp_1670
+ ribonuclease III activity [GO:0004525]	lp_1631
+phosphate:acyl-[acyl carrier protein] acyltransferase activity [GO:0043811]	lp_1628
+ guanylate kinase activity [GO:0004385]	lp_1612
+methenyltetrahydrofolate cyclohydrolase activity [GO:0004477]	lp_1599
+ methylenetetrahydrofolate dehydrogenase (NADP+) activity [GO:0004488]	lp_1599
+ tRNA dimethylallyltransferase activity [GO:0052381]	lp_1579
+ uridine kinase activity [GO:0004849]	lp_1562
+ phenylalanine-tRNA ligase activity [GO:0004826]	lp_1559	lp_1558
+ threonine-tRNA ligase activity [GO:0004829]	lp_1514
+ dephospho-CoA kinase activity [GO:0004140]	lp_1510
+class I DNA-(apurinic or apyrimidinic site) endonuclease activity [GO:0140078]	lp_1509	lp_2860	lp_3241
+ oxidized purine nucleobase lesion DNA N-glycosylase activity [GO:0008534]	lp_1509
+cyclic pyranopterin monophosphate synthase activity [GO:0061799]	lp_1492
+4 iron, 4 sulfur cluster binding [GO:0051539]	lp_1480	lp_0505	lp_0506	lp_1488	lp_1497	lp_2931	lp_3314	lp_3349	lp_1090	lp_2596
+ GTP 3',8'-cyclase activity [GO:0061798]	lp_1480
+ S-adenosyl-L-methionine binding [GO:1904047]	lp_1480
+ UDP-N-acetylmuramate-L-alanine ligase activity [GO:0008763]	lp_1462
+adenylylsulfate kinase activity [GO:0004020]	lp_1379
+5-methyltetrahydropteroyltriglutamate-homocysteine S-methyltransferase activity [GO:0003871]	lp_1375	lp_1856	lp_3283
+ methionine adenosyltransferase activity [GO:0004478]	lp_1301
+DNA ligase (NAD+) activity [GO:0003911]	lp_1145
+xanthine phosphoribosyltransferase activity [GO:0000310]	lp_1139
+3-dehydroquinate synthase activity [GO:0003856]	lp_1086
+ tRNA pseudouridine synthase activity [GO:0106029]	lp_1076	lp_2032
+ DNA-directed 5'-3' RNA polymerase activity [GO:0003899]	lp_1062	lp_1022	lp_1021	lp_2157	lp_1613
+adenylate kinase activity [GO:0004017]	lp_1058
+ ribonucleoside binding [GO:0032549]	lp_1021
+ serine-tRNA ligase activity [GO:0004828]	lp_1012	lp_0501
+electron transfer activity [GO:0009055]	lp_0955	lp_0075	lp_1125
+ FMN binding [GO:0010181]	lp_0955	lp_0075
+ oxidoreductase activity, acting on NAD(P)H, NAD(P) as acceptor [GO:0016652]	lp_0955	lp_0075
+ oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor [GO:0016655]	lp_0955	lp_0075
+ GMP synthase (glutamine-hydrolyzing) activity [GO:0003922]	lp_0914
+ pyrophosphatase activity [GO:0016462]	lp_0914
+aminopeptidase activity [GO:0004177]	lp_0857	lp_0601	lp_3673	lp_0853	lp_0937	lp_2919	lp_0088	lp_0581	lp_0618	lp_3561	lp_3562	lp_0796	lp_0973	lp_1002	lp_1124	lp_1156	lp_1165	lp_1347	lp_1574	lp_1595	lp_1760	lp_1774	lp_1935	lp_2519	lp_2586	lp_2620	lp_2631	lp_2737	lp_2923	lp_2953	lp_2956	lp_0122	lp_3205	lp_3265	lp_3341	lp_0461	lp_3393	lp_3505
+ dipeptidyl-peptidase activity [GO:0008239]	lp_0857
+ serine-type peptidase activity [GO:0008236]	lp_0857	lp_1574	lp_1760	lp_2631
+ polyphosphate kinase activity [GO:0008976]	lp_0842
+ glycerol kinase activity [GO:0004370]	lp_0834	lp_0370
+ glutamine-fructose-6-phosphate transaminase (isomerizing) activity [GO:0004360]	lp_0822	lp_3335
+ phosphoglucosamine mutase activity [GO:0008966]	lp_0820
+FAD binding [GO:0071949]	lp_0814	lp_0139
+ UDP-N-acetylmuramate dehydrogenase activity [GO:0008762]	lp_0814
+triose-phosphate isomerase activity [GO:0004807]	lp_0791
+ excinuclease ABC activity [GO:0009381]	lp_0773	lp_0772	lp_2109
+ transmembrane transporter activity [GO:0022857]	lp_0773	lp_0100	lp_1264	lp_1364	lp_1607	lp_3000	lp_1074	lp_1073	lp_0149	lp_1095	lp_1265	lp_1324	lp_1335	lp_1393	lp_1455	lp_1468	lp_1475	lp_1648	lp_1771	lp_1791	lp_1871	lp_1910	lp_1945	lp_1954	lp_1958	lp_2038	lp_2076	lp_2313	lp_2499	lp_2525	lp_2543	lp_2774	lp_2823	lp_2849	lp_2972	lp_3104	lp_0160	lp_0215	lp_0218	lp_0299	lp_0368
+glycerol-3-phosphate dehydrogenase [NAD+] activity [GO:0004367]	lp_0756
+ phosphorelay sensor kinase activity [GO:0000155]	lp_0754	lp_1488
+ protein serine/threonine/tyrosine kinase activity [GO:0004712]	lp_0754
+ ATPase-coupled phosphate ion transmembrane transporter activity [GO:0015415]	lp_0750	lp_0749
+ inorganic phosphate transmembrane transporter activity [GO:0005315]	lp_0750	lp_0749	lp_3225
+ protein-exporting ATPase activity [GO:0008564]	lp_0739
+ ATP-dependent protein folding chaperone [GO:0140662]	lp_0728	lp_2116	lp_2027	lp_0727
+ isomerase activity [GO:0016853]	lp_0728	lp_0499	lp_0931	lp_1843
+iron ion binding [GO:0005506]	lp_0721	lp_0774	lp_1471
+ N(6)-L-threonylcarbamoyladenine synthase activity [GO:0061711]	lp_0721
+ phosphonoacetaldehyde hydrolase activity [GO:0050194]	lp_0711
+ cysteine-tRNA ligase activity [GO:0004817]	lp_0610
+ glutamate-tRNA ligase activity [GO:0004818]	lp_0609
+ribose-5-phosphate isomerase activity [GO:0004751]	lp_0602	lp_0354
+aspartate 1-decarboxylase activity [GO:0004068]	lp_0579
+ NAD+ synthase (glutamine-hydrolyzing) activity [GO:0003952]	lp_0566
+ NAD+ synthase activity [GO:0008795]	lp_0566
+ lysine-tRNA ligase activity [GO:0004824]	lp_0550
+deoxyribose-phosphate aldolase activity [GO:0004139]	lp_0497
+4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase activity [GO:0050515]	lp_0460
+16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase activity [GO:0052908]	lp_0458
+ methionine-tRNA ligase activity [GO:0004825]	lp_0454
+NAD+ binding [GO:0070403]	lp_0449
+ NAD-dependent protein deacetylase activity [GO:0034979]	lp_0449
+ABC-type teichoic acid transporter activity [GO:0015438]	lp_0344
+glucosamine-6-phosphate deaminase activity [GO:0004342]	lp_0226
+O-phospho-L-serine:2-oxoglutarate aminotransferase activity [GO:0004648]	lp_0204
+ thiamine-phosphate diphosphorylase activity [GO:0004789]	lp_0115
+ hydroxyethylthiazole kinase activity [GO:0004417]	lp_0113
+ glucose-1-phosphate adenylyltransferase activity [GO:0008878]	lp_0021
+1,4-alpha-glucan branching enzyme activity [GO:0003844]	lp_0020
+ 1,4-alpha-glucan branching enzyme activity (using a glucosylated glycogenin as primer for glycogen synthesis) [GO:0102752]	lp_0020
+ cation binding [GO:0043169]	lp_0020
+ hydrolase activity, hydrolyzing O-glycosyl compounds [GO:0004553]	lp_0020
+ glutamate 5-kinase activity [GO:0004349]	lp_0016
+lipopolysaccharide binding [GO:0001530]	tlr4ba
+ lipopolysaccharide immune receptor activity [GO:0001875]	tlr4ba
+ signaling receptor activity [GO:0038023]	tlr4ba
+ transmembrane signaling receptor activity [GO:0004888]	tlr4ba
+ glycosyltransferase activity [GO:0016757]	lp_0466	lp_0269	lp_0028
+ acetylornithine deacetylase activity [GO:0008777]	lp_0488
+ cobalt ion binding [GO:0050897]	lp_0488
+ L-serine ammonia-lyase activity [GO:0003941]	lp_0505	lp_0506
+flavin adenine dinucleotide binding [GO:0050660]	lp_0549	lp_1822	lp_2937	lp_3267	lp_0369	lp_0443	lp_3681	lp_3572	lp_0760	lp_0766	lp_1253	lp_1445	lp_1925	lp_1941	lp_2544	lp_2671	lp_0163	lp_3449
+ tRNA dihydrouridine synthase activity [GO:0017150]	lp_0549	lp_2937	lp_0443
+peptide transmembrane transporter activity [GO:1904680]	lp_0551
+pyrroline-5-carboxylate reductase activity [GO:0004735]	lp_0561
+ N-acetylgalactosamine-6-phosphate deacetylase activity [GO:0047419]	lp_0562
+ N-acetylglucosamine-6-phosphate deacetylase activity [GO:0008448]	lp_0562
+N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase activity [GO:0047244]	lp_0564
+nicotinate phosphoribosyltransferase activity [GO:0004516]	lp_0565	lp_2771
+ nicotinate-nucleotide diphosphorylase (carboxylating) activity [GO:0004514]	lp_0565	lp_2771
+ protein-N(PI)-phosphohistidine-sugar phosphotransferase activity [GO:0008982]	lp_0575	lp_0576	lp_0577	lp_0586	lp_3601	lp_3619	lp_3653	lp_0886	lp_0905	lp_1398	lp_2531	lp_2648	lp_2649	lp_2650	lp_2780	lp_2781	lp_2969	lp_3009	lp_3133	lp_0185	lp_0264	lp_0265	lp_3219	lp_3229	lp_3240	lp_3513	lp_3522	lp_3527	lp_3546	lp_0587	lp_3548	lp_3599	lp_3600	lp_3618	lp_3620	lp_3652	lp_3654	lp_0884	lp_1399	lp_2218	lp_2647	lp_2927	lp_3008	lp_0232	lp_3519	lp_3520	lp_3543	lp_3547
+D-glucosamine PTS permease activity [GO:0103111]	lp_0576	lp_0577	lp_0586	lp_3601	lp_3619	lp_3653	lp_0886	lp_0905	lp_1398	lp_2531	lp_2648	lp_2649	lp_2650	lp_2780	lp_2781	lp_2969	lp_3009	lp_3133	lp_0264	lp_0265	lp_3219	lp_3229	lp_3240	lp_3513	lp_3522	lp_3527	lp_3546	lp_0587	lp_3548	lp_3599	lp_3600	lp_3618	lp_3620	lp_3652	lp_3654	lp_0884	lp_1399	lp_2218	lp_2647	lp_2927	lp_3008	lp_0232	lp_3519	lp_3520	lp_3547
+ cysteine-type peptidase activity [GO:0008234]	lp_0601	lp_3673	lp_0423
+ribonuclease III activity [GO:0004525]	lp_0611
+protein transmembrane transporter activity [GO:0008320]	lp_0616
+ lactate 2-monooxygenase activity [GO:0050040]	lp_3586
+ galactitol transmembrane transporter activity [GO:0015577]	lp_3601	lp_3546
+amylopectin maltohydrolase activity [GO:0102229]	lp_3627	lp_3534
+ beta-amylase activity [GO:0016161]	lp_3627	lp_3534
+ maltose alpha-glucosidase activity [GO:0032450]	lp_3627	lp_3534	lp_0193
+ oligo-1,6-glucosidase activity [GO:0004574]	lp_3627	lp_3534
+beta-N-acetylhexosaminidase activity [GO:0004563]	lp_3645
+ N-acetyl-beta-D-galactosaminidase activity [GO:0102148]	lp_3645
+acetaldehyde dehydrogenase (acetylating) activity [GO:0008774]	lp_3662	lp_0329
+ alcohol dehydrogenase (NAD+) activity [GO:0004022]	lp_3662
+serine-type endopeptidase activity [GO:0004252]	lp_3675	lp_2862	lp_2863	lp_0043	lp_1864
+lysyltransferase activity [GO:0050071]	lp_0690	lp_1277
+ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor [GO:0004748]	lp_0692
+ ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor [GO:0004748]	lp_0693
+tRNA-specific adenosine-34 deaminase activity [GO:0052717]	lp_0696
+rRNA (cytosine-2'-O-)-methyltransferase activity [GO:0070677]	lp_0707
+myristoyl-[acyl-carrier-protein] hydrolase activity [GO:0016295]	lp_0708
+ oleoyl-[acyl-carrier-protein] hydrolase activity [GO:0004320]	lp_0708
+ palmitoyl-[acyl-carrier-protein] hydrolase activity [GO:0016296]	lp_0708
+UDP-glucose 4-epimerase activity [GO:0003978]	lp_0709	lp_3481
+N-acetyltransferase activity [GO:0008080]	lp_0720	lp_3668	lp_0718	lp_0810	lp_0970	lp_1003	lp_1292	lp_1390	lp_1662	lp_1820	lp_1947	lp_2360	lp_2526	lp_2691	lp_2767	lp_2840	lp_2865	lp_2907	lp_2909	lp_0080	lp_0202	lp_3187	lp_3252	lp_3356	lp_0311	lp_0321	lp_0322	lp_3448
+phosphate ion binding [GO:0042301]	lp_0733	lp_0746
+phosphorelay sensor kinase activity [GO:0000155]	lp_0744	lp_1545	lp_2505	lp_0037	lp_3190	lp_0282	lp_3639	lp_1943
+inorganic phosphate transmembrane transporter activity [GO:0005315]	lp_0747	lp_0748
+UTP:glucose-1-phosphate uridylyltransferase activity [GO:0003983]	lp_0757
+thioredoxin-disulfide reductase activity [GO:0004791]	lp_0761
+dipeptidase activity [GO:0016805]	lp_0769	lp_1321
+ metallopeptidase activity [GO:0008237]	lp_0769	lp_0937	lp_2320
+LPPG:FO 2-phospho-L-lactate transferase activity [GO:0043743]	lp_0780
+NAD binding [GO:0051287]	lp_0789	lp_0874	lp_0203	lp_0785	lp_2790
+ oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor [GO:0016620]	lp_0789
+protein-transporting ATPase activity [GO:0015450]	lp_0795
+exoribonuclease II activity [GO:0008859]	lp_0797
+ligand-gated ion channel activity [GO:0015276]	lp_0802	lp_0881
+carbohydrate binding [GO:0030246]	lp_0826	lp_1730	lp_0181	lp_0495	lp_0499	lp_3631	lp_3634	lp_1103	lp_1843	lp_2599	lp_0028	lp_3001	lp_0788
+ maltose epimerase activity [GO:0050558]	lp_0826
+exopolyphosphatase activity [GO:0004309]	lp_0841	lp_0843	lp_0446
+ pyridoxal kinase activity [GO:0008478]	lp_0863
+ oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor [GO:0016616]	lp_0874	lp_0785	lp_2790
+ transaminase activity [GO:0008483]	lp_0874	lp_1280	lp_1410	lp_1739	lp_2684	lp_2683	lp_3207	lp_0339
+ transposase activity [GO:0004803]	lp_0911	lp_2006	lp_3569	lp_1195	lp_0216	lp_3331	lp_3496
+ type I site-specific deoxyribonuclease activity [GO:0009035]	lp_0938
+ N-methyltransferase activity [GO:0008170]	lp_0939	lp_2243
+ site-specific DNA-methyltransferase (adenine-specific) activity [GO:0009007]	lp_0939	lp_2454	lp_2243
+cysteine-type exopeptidase activity [GO:0070004]	lp_0959	lp_1711	lp_0228	lp_0334
+ dipeptidase activity [GO:0016805]	lp_0959	lp_1711	lp_0228	lp_0334
+3'-5' DNA helicase activity [GO:0043138]	lp_0962
+catalytic activity, acting on RNA [GO:0140098]	lp_0963	lp_2221	lp_2653
+ pseudouridine synthase activity [GO:0009982]	lp_0963	lp_2221	lp_2653
+asparagine synthase (glutamine-hydrolyzing) activity [GO:0004066]	lp_0980	lp_3085
+ deoxyadenosine kinase activity [GO:0004136]	lp_1011
+ deoxyguanosine kinase activity [GO:0004138]	lp_1011
+transmembrane transporter activity [GO:0022857]	lp_1075	lp_2111	lp_0492	lp_0498	lp_0584	lp_3557	lp_3563	lp_3575	lp_3596	lp_3604	lp_3611	lp_3626	lp_0729	lp_0770	lp_0840	lp_0861	lp_0882	lp_0883	lp_0888	lp_0893	lp_0898	lp_0922	lp_0991	lp_0998	lp_1087	lp_1102	lp_1120	lp_1121	lp_1302	lp_1476	lp_1609	lp_1689	lp_1722	lp_1729	lp_1759	lp_1803	lp_1863	lp_1921	lp_2084	lp_2124	lp_2314	lp_2514	lp_2542	lp_2675	lp_2768	lp_2799	lp_2833	lp_2836	lp_2896	lp_2897	lp_2917	lp_2920	lp_2921	lp_2943	lp_0015	lp_0056	lp_0068	lp_2973	lp_2984	lp_3049	lp_3082	lp_3101	lp_3105	lp_3106	lp_0132	lp_0134	lp_3160	lp_3210	lp_3278	lp_3284	lp_3285	lp_3303	lp_3324	lp_0280	lp_0348	lp_0367	lp_0394	lp_3368	lp_3392	lp_3404	lp_3472	lp_3497	lp_3503	lp_3533	lp_3474
+ transketolase activity [GO:0004802]	lp_1083	lp_3135	lp_3538
+malate dehydrogenase (decarboxylating) (NAD+) activity [GO:0004471]	lp_1105
+ oxaloacetate decarboxylase activity [GO:0008948]	lp_1105
+[citrate (pro-3S)-lyase] ligase activity [GO:0008771]	lp_1106
+ citrate CoA-transferase activity [GO:0008814]	lp_1109
+holo-citrate lyase synthase activity [GO:0050519]	lp_1114
+ABC-type transporter activity [GO:0140359]	lp_1129	lp_3635	lp_3647	lp_3648	lp_1128	lp_1334	lp_2394	lp_2395	lp_2497	lp_2893	lp_2894	lp_2966	lp_3040	lp_3042	lp_0180
+amidase activity [GO:0004040]	lp_1138	lp_2645
+ lysozyme activity [GO:0003796]	lp_1138	lp_2645	lp_0681	lp_2401
+protein-N(PI)-phosphohistidine-sugar phosphotransferase activity [GO:0008982]	lp_1155	lp_1164	lp_1400	lp_3010	lp_0247	lp_0286	lp_0436	lp_0439	lp_3507	lp_2954	lp_3137	lp_3138	lp_0231	lp_3541
+lysozyme activity [GO:0003796]	lp_1158	lp_0675	lp_1767	lp_2810	lp_3093	lp_3151	lp_3153	lp_3154
+glutamate dehydrogenase (NAD+) activity [GO:0004352]	lp_1169
+glucose-1-phosphate thymidylyltransferase activity [GO:0008879]	lp_1186
+dTDP-4-dehydrorhamnose 3,5-epimerase activity [GO:0008830]	lp_1188
+dTDP-glucose 4,6-dehydratase activity [GO:0008460]	lp_1189
+dTDP-4-dehydrorhamnose reductase activity [GO:0008831]	lp_1190
+ protein tyrosine phosphatase activity [GO:0004725]	lp_1199	lp_2106	lp_0059
+transferase activity [GO:0016740]	lp_1273	lp_0536	lp_0603	lp_0844	lp_0934	lp_1201	lp_1233	lp_1310	lp_1403	lp_1439	lp_1457	lp_1524	lp_1602	lp_1763	lp_1765	lp_1766	lp_2104	lp_2716	lp_2783	lp_3084	lp_3111	lp_3142	lp_0081	lp_0138	lp_0251	lp_3155
+pyridoxal phosphate binding [GO:0030170]	lp_1280	lp_1410	lp_1739	lp_2684	lp_3207	lp_0339
+ sulfuric ester hydrolase activity [GO:0008484]	lp_1283	lp_2580
+ rRNA pseudouridine synthase activity [GO:0120159]	lp_1319	lp_1781	lp_1888
+ deoxynucleoside kinase activity [GO:0019136]	lp_1329
+L-methionine:thioredoxin-disulfide S-oxidoreductase activity [GO:0033744]	lp_1339	lp_1835	lp_1979
+ peptide-methionine (S)-S-oxide reductase activity [GO:0008113]	lp_1339	lp_1835	lp_1979
+ nuclease activity [GO:0004518]	lp_1364	lp_2915
+ methylenetetrahydrofolate reductase NADH activity [GO:0106312]	lp_1374
+ methylenetetrahydrofolate reductase NADPH activity [GO:0106313]	lp_1374
+ methyltransferase activity [GO:0008168]	lp_1374	lp_2215
+penicillin binding [GO:0008658]	lp_1413	lp_1568	lp_1751	lp_2200
+ peptidoglycan glycosyltransferase activity [GO:0008955]	lp_1413	lp_1568	lp_1751
+ serine-type D-Ala-D-Ala carboxypeptidase activity [GO:0009002]	lp_1413	lp_1751
+ferrous iron transmembrane transporter activity [GO:0015093]	lp_1466
+cysteine desulfurase activity [GO:0031071]	lp_1470	lp_2180	lp_2326
+ iron ion binding [GO:0005506]	lp_1488
+ molybdopterin molybdotransferase activity [GO:0061599]	lp_1494
+ molybdopterin cofactor binding [GO:0043546]	lp_1497
+ nitrate reductase activity [GO:0008940]	lp_1497	lp_1500
+5-formyltetrahydrofolate cyclo-ligase activity [GO:0030272]	lp_1570
+glucokinase activity [GO:0004340]	lp_1573
+ glutamate-ammonia ligase activity [GO:0004356]	lp_1581
+ protein serine kinase activity [GO:0106310]	lp_1619	lp_3176
+ thiamine binding [GO:0030975]	lp_1622
+ thiamine diphosphokinase activity [GO:0004788]	lp_1622
+acyl carrier activity [GO:0000036]	lp_1629	lp_1672
+[acyl-carrier-protein] S-malonyltransferase activity [GO:0004314]	lp_1673
+enoyl-[acyl-carrier-protein] reductase (NADH) activity [GO:0004318]	lp_1681	lp_0912
+ enoyl-[acyl-carrier-protein] reductase activity [GO:0016631]	lp_1681	lp_0912
+ maltose phosphorylase activity [GO:0050082]	lp_1730	lp_0181
+ phosphomevalonate kinase activity [GO:0004631]	lp_1733
+ diphosphomevalonate decarboxylase activity [GO:0004163]	lp_1734
+ mevalonate kinase activity [GO:0004496]	lp_1735
+ hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides [GO:0016818]	lp_1737	lp_0118	lp_0308
+ribosomal large subunit binding [GO:0043023]	lp_1793
+lactate transmembrane transporter activity [GO:0015129]	lp_1814
+ribitol-5-phosphate 2-dehydrogenase activity [GO:0050256]	lp_1817
+ glutathione-disulfide reductase (NADPH) activity [GO:0004362]	lp_1822	lp_3267	lp_0369	lp_1253
+ tyrosine-based site-specific recombinase activity [GO:0009037]	lp_1847	lp_1892
+dihydrofolate reductase activity [GO:0004146]	lp_1869
+riboflavin transmembrane transporter activity [GO:0032217]	lp_1887
+ potassium ion binding [GO:0030955]	lp_1897
+ pyruvate kinase activity [GO:0004743]	lp_1897
+ pyruvate, water dikinase activity [GO:0008986]	lp_1912
+ P-type proton-exporting transporter activity [GO:0008553]	lp_1919
+succinyl-diaminopimelate desuccinylase activity [GO:0009014]	lp_1923	lp_2855
+ sigma factor activity [GO:0016987]	lp_1962	lp_0787
+ diacylglycerol kinase activity [GO:0004143]	lp_1968
+N-acetylmuramoyl-L-alanine amidase activity [GO:0008745]	lp_1982
+acyltransferase activity [GO:0016746]	lp_2018	lp_2152
+acetolactate decarboxylase activity [GO:0047605]	lp_2030
+prephenate dehydrogenase (NAD+) activity [GO:0008977]	lp_2034
+ prephenate dehydrogenase (NADP+) activity [GO:0004665]	lp_2034
+DNA-binding transcription factor activity [GO:0003700]	lp_2043	lp_0614	lp_3558	lp_3597	lp_3633	lp_3638	lp_3646	lp_3649	lp_0816	lp_0845	lp_0868	lp_0889	lp_0892	lp_0951	lp_0954	lp_0965	lp_1092	lp_1115	lp_1116	lp_1228	lp_1230	lp_1258	lp_1267	lp_1360	lp_1407	lp_1422	lp_1669	lp_1685	lp_1757	lp_1795	lp_1821	lp_1838	lp_1857	lp_1911	lp_1914	lp_1922	lp_1938	lp_1948	lp_1959	lp_2335	lp_2484	lp_2615	lp_2683	lp_2689	lp_2742	lp_2800	lp_2804	lp_2842	lp_2871	lp_2903	lp_2942	lp_0057	lp_2967	lp_2996	lp_3024	lp_3060	lp_3124	lp_0074	lp_0083	lp_0128	lp_0133	lp_0194	lp_3206	lp_3234	lp_3247	lp_3287	lp_3344	lp_0312	lp_0325	lp_0396	lp_3415	lp_3416	lp_3476	lp_3495	lp_3502
+phosphatidate cytidylyltransferase activity [GO:0004605]	lp_2050
+hydroxymethylglutaryl-CoA synthase activity [GO:0004421]	lp_2067
+1-phosphofructokinase activity [GO:0008662]	lp_2096
+ tagatose-6-phosphate kinase activity [GO:0009024]	lp_2096
+carbohydrate:proton symporter activity [GO:0005351]	lp_2097	lp_3518
+ protein-N(PI)-phosphohistidine-fructose phosphotransferase system transporter activity [GO:0022877]	lp_2097	lp_3518
+5'-3' exoribonuclease activity [GO:0004534]	lp_2122	lp_2158
+ endoribonuclease activity [GO:0004521]	lp_2122	lp_2158
+dCMP deaminase activity [GO:0004132]	lp_2130
+ pyruvate carboxylase activity [GO:0004736]	lp_2136
+dihydrolipoyl dehydrogenase activity [GO:0004148]	lp_2151
+ pyruvate dehydrogenase (acetyl-transferring) activity [GO:0004739]	lp_2154
+5'-3' DNA helicase activity [GO:0043139]	lp_2168
+ iron-sulfur cluster binding [GO:0051536]	lp_2180	lp_1471
+adenosylhomocysteine nucleosidase activity [GO:0008782]	lp_2181
+ methylthioadenosine nucleosidase activity [GO:0008930]	lp_2181
+branched-chain amino acid transmembrane transporter activity [GO:0015658]	lp_2213	lp_3466	lp_0399	lp_2983
+DNA-binding transcription repressor activity [GO:0001217]	lp_2256
+ transcription cis-regulatory region binding [GO:0000976]	lp_2256
+CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase activity [GO:0008444]	lp_2303
+ dihydrofolate synthase activity [GO:0008841]	lp_2321	lp_3296
+glutamate-cysteine ligase activity [GO:0004357]	lp_2324
+oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor [GO:0016616]	lp_2349	lp_0350
+ double-stranded RNA binding [GO:0003725]	lp_2376
+ L-threonylcarbamoyladenylate synthase [GO:0061710]	lp_2376
+mannose-6-phosphate isomerase activity [GO:0004476]	lp_2384
+ N-acetylglucosamine transmembrane transporter activity [GO:0015572]	lp_2531	lp_2969
+2-dehydropantoate 2-reductase activity [GO:0008677]	lp_2532	lp_2788
+O-acetylhomoserine aminocarboxypropyltransferase activity [GO:0003961]	lp_2536
+histidinol-phosphatase activity [GO:0004401]	lp_2563
+solute:proton antiporter activity [GO:0015299]	lp_2608	lp_3565	lp_0815	lp_2674	lp_3122	lp_0400
+1-deoxy-D-xylulose-5-phosphate synthase activity [GO:0008661]	lp_2610
+cystathionine gamma-synthase activity [GO:0003962]	lp_2634
+ cystathionine gamma-synthase activity (acts on O-phosphohomoserine) [GO:0102028]	lp_2634
+ lipoate-protein ligase activity [GO:0016979]	lp_2643	lp_2734
+ phosphoribosylformylglycinamidine cyclo-ligase activity [GO:0004641]	lp_2722
+5-(carboxyamino)imidazole ribonucleotide mutase activity [GO:0034023]	lp_2729
+asparaginase activity [GO:0004067]	lp_2738
+ DNA N-glycosylase activity [GO:0019104]	lp_2860
+ [formate-C-acetyltransferase]-activating enzyme activity [GO:0043365]	lp_2931	lp_3314	lp_2596
+cyclic-di-AMP phosphodiesterase activity [GO:0106409]	lp_0012
+glycogen phosphorylase activity [GO:0008184]	lp_0024
+ linear malto-oligosaccharide phosphorylase activity [GO:0102250]	lp_0024
+ SHG alpha-glucan phosphorylase activity [GO:0102499]	lp_0024
+beta-phosphoglucomutase activity [GO:0008801]	lp_0027	lp_0066
+6-carboxy-5,6,7,8-tetrahydropterin synthase activity [GO:0070497]	lp_0052
+ ATPase-coupled cation transmembrane transporter activity [GO:0019829]	lp_3055	lp_3327	lp_3363	lp_3435
+antiporter activity [GO:0015297]	lp_0085	lp_1386	lp_0192	lp_3338
+ xenobiotic transmembrane transporter activity [GO:0042910]	lp_0085	lp_1386
+hydroxymethylpyrimidine kinase activity [GO:0008902]	lp_0114
+ phosphomethylpyrimidine kinase activity [GO:0008972]	lp_0114
+phosphoenolpyruvate-glycerone phosphotransferase activity [GO:0047324]	lp_0170
+carbohydrate transmembrane transporter activity [GO:0015144]	lp_0175	lp_3658	lp_2594	lp_2503
+beta-fructofuranosidase activity [GO:0004564]	lp_0187
+ phosphoglycerate dehydrogenase activity [GO:0004617]	lp_0203
+protein-N(PI)-phosphohistidine-mannitol phosphotransferase system transmembrane transporter activity [GO:0022872]	lp_0230
+serine O-acetyltransferase activity [GO:0009001]	lp_0254
+cystathionine beta-lyase activity [GO:0004121]	lp_0255	lp_2751	lp_2888	lp_3517
+ cystathionine gamma-lyase activity [GO:0004123]	lp_0255
+ L-cysteine desulfhydrase activity [GO:0080146]	lp_0255
+ L-cystine L-cysteine-lyase (deaminating) [GO:0044540]	lp_0255
+CDP-glycerol glycerophosphotransferase activity [GO:0047355]	lp_0269	lp_1818	lp_1819	lp_1977	lp_0268
+ ribosomal large subunit binding [GO:0043023]	lp_3196
+(S)-2-(5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido) succinate lyase (fumarate-forming) activity [GO:0070626]	lp_3269
+ N6-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming) activity [GO:0004018]	lp_3269
+cardiolipin synthase activity [GO:0008808]	lp_3273
+dihydropteroate synthase activity [GO:0004156]	lp_3294
+2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase activity [GO:0003848]	lp_3298
+dihydroneopterin aldolase activity [GO:0004150]	lp_3299
+formate C-acetyltransferase activity [GO:0008861]	lp_3313	lp_2598
+ purine-specific mismatch base pair DNA N-glycosylase activity [GO:0000701]	lp_3349
+fructose-bisphosphate aldolase activity [GO:0004332]	lp_0330
+ammonium transmembrane transporter activity [GO:0008519]	lp_0349
+glycerol-3-phosphate dehydrogenase (quinone) activity [GO:0004368]	lp_0371
+ glycerol-3-phosphate oxidase activity [GO:0004369]	lp_0371
+ABC-type bacteriocin transporter activity [GO:0043214]	lp_0423
+ tryptophan-tRNA ligase activity [GO:0004830]	lp_0434
+6-phospho-beta-glucosidase activity [GO:0008706]	lp_0440	lp_0906	lp_1401	lp_2777	lp_2778	lp_3011	lp_3132	lp_3512	lp_3525	lp_3526
+ methyl beta-D-glucoside 6-phosphate glucohydrolase activity [GO:0103047]	lp_0440	lp_0906	lp_1401	lp_2777	lp_2778	lp_3011	lp_3132	lp_3512	lp_3525	lp_3526
+hydroxymethylglutaryl-CoA reductase (NADH) activity [GO:0140643]	lp_0447
+ hydroxymethylglutaryl-CoA reductase (NADPH) activity [GO:0004420]	lp_0447
+xenobiotic transmembrane transporter activity [GO:0042910]	lp_0455
+2',3'-cyclic-nucleotide 2'-phosphodiesterase activity [GO:0008663]	lp_3400
+ 3'-nucleotidase activity [GO:0008254]	lp_3400
+ phosphoenolpyruvate carboxykinase (ATP) activity [GO:0004612]	lp_3418
+glutamate decarboxylase activity [GO:0004351]	lp_3420
+symporter activity [GO:0015293]	lp_3468	lp_3486	lp_0975	lp_2818	lp_0331
+beta-galactosidase activity [GO:0004565]	lp_3469	lp_3483	lp_3484
+ carbohydrate binding [GO:0030246]	lp_3484	lp_3530	lp_3534	lp_1731	lp_3487
+raffinose alpha-galactosidase activity [GO:0052692]	lp_3485	lp_0189
+ D-glucosamine PTS permease activity [GO:0103111]	lp_3518
+alpha,alpha-trehalose phosphorylase activity [GO:0047656]	lp_3530
+amino acid binding [GO:0016597]	lp_0532	lp_2703
+ ornithine carbamoyltransferase activity [GO:0004585]	lp_0532
+N-acylglucosamine-6-phosphate 2-epimerase activity [GO:0047465]	lp_3571
+ N-acylmannosamine-6-phosphate 2-epimerase activity [GO:0009385]	lp_3571
+argininosuccinate synthase activity [GO:0004055]	lp_0775
+argininosuccinate lyase activity [GO:0004056]	lp_0776
+ aspartate carbamoyltransferase activity [GO:0004070]	lp_2703
+dihydroorotase activity [GO:0004151]	lp_2702
+ orotate phosphoribosyltransferase activity [GO:0004588]	lp_2697
+chromatin binding [GO:0003682]	nkap
+ribonuclease P activity [GO:0004526]	lp_3688
+ myo-inosose-2 dehydratase activity [GO:0050114]	lp_3607
+L-rhamnose isomerase activity [GO:0008740]	lp_3593
+peptidase activity [GO:0008233]	lp_3582	lp_2143
+L-arabinose isomerase activity [GO:0008733]	lp_3554
+aldehyde-lyase activity [GO:0016832]	lp_3539	lp_3617	lp_2600	lp_3072	lp_3551	lp_2659
+ transaldolase activity [GO:0004801]	lp_3539	lp_3617	lp_2600
+UDP-glucose:hexose-1-phosphate uridylyltransferase activity [GO:0008108]	lp_3480
+adenine deaminase activity [GO:0000034]	lp_3334
+potassium ion transmembrane transporter activity [GO:0015079]	lp_3279	lp_0525
+GMP reductase activity [GO:0003920]	lp_3271
+RNA methyltransferase activity [GO:0008173]	lp_3226	lp_1151
+rRNA (guanine-N7-)-methyltransferase activity [GO:0070043]	lp_3201
+D-serine ammonia-lyase activity [GO:0008721]	lp_2776
+ hydro-lyase activity [GO:0016836]	lp_2776
+ phosphoribosylaminoimidazolesuccinocarboxamide synthase activity [GO:0004639]	lp_2727
+ferredoxin-NADP+ reductase activity [GO:0004324]	lp_2585
+ ATP phosphoribosyltransferase activity [GO:0003879]	lp_2560
+imidazoleglycerol-phosphate dehydratase activity [GO:0004424]	lp_2558
+1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase activity [GO:0003949]	lp_2556
+ phosphoribosyl-ATP diphosphatase activity [GO:0004636]	lp_2552
+histidinol-phosphate transaminase activity [GO:0004400]	lp_2551
+translation release factor activity, codon specific [GO:0016149]	lp_2378	lp_0741
+rRNA binding [GO:0019843]	lp_2331	lp_2216	lp_2126	lp_2125	lp_1592	lp_1517	lp_1061	lp_1060	lp_1055	lp_1053	lp_1052	lp_1051	lp_1050	lp_1048	lp_1047	lp_1046	lp_1045	lp_1044	lp_1041	lp_1039	lp_1038	lp_1036	lp_1035	lp_1034	lp_1033	lp_1026	lp_1025	lp_0620	lp_0013	lp_0011	lp_0009
+ structural constituent of ribosome [GO:0003735]	lp_2331	lp_2216	lp_2126	lp_2125	lp_1592	lp_1517	lp_1061	lp_1060	lp_1055	lp_1053	lp_1052	lp_1051	lp_1050	lp_1048	lp_1047	lp_1046	lp_1045	lp_1044	lp_1041	lp_1040	lp_1039	lp_1038	lp_1036	lp_1035	lp_1034	lp_1033	lp_1026	lp_1025	lp_0621	lp_0620	lp_0619	lp_0013	lp_0011	lp_0009
+endoribonuclease activity [GO:0004521]	lp_2300	lp_1969
+S-adenosylmethionine:tRNA ribosyltransferase-isomerase activity [GO:0051075]	lp_2285
+alanine-tRNA ligase activity [GO:0004813]	lp_2277
+nuclease activity [GO:0004518]	lp_2274
+glutamate racemase activity [GO:0008881]	lp_2268
+tetrahydrodipicolinate N-acetyltransferase activity [GO:0047200]	lp_2264
+N-acetyldiaminopimelate deacetylase activity [GO:0050118]	lp_2263
+protein-macromolecule adaptor activity [GO:0030674]	lp_2227
+rRNA (cytosine-N4-)-methyltransferase activity [GO:0071424]	lp_2202
+ peptide deformylase activity [GO:0042586]	lp_2155	lp_2935
+adenine phosphoribosyltransferase activity [GO:0003999]	lp_2086
+D-lactate dehydrogenase activity [GO:0008720]	lp_2057
+structural constituent of ribosome [GO:0003735]	lp_2055	lp_1973	lp_1640	lp_1636	lp_1624	lp_1594	lp_1078	lp_1077	lp_1063	lp_1054	lp_1032	lp_0622	lp_0512	lp_1569	lp_1535.1	lp_1516	lp_1059.1	lp_1043	lp_0615
+translation elongation factor activity [GO:0003746]	lp_2054	lp_1596
+ proline-tRNA ligase activity [GO:0004827]	lp_2048
+ translation initiation factor activity [GO:0003743]	lp_2040	lp_1059
+adenyl-nucleotide exchange factor activity [GO:0000774]	lp_2028
+ chaperone binding [GO:0051087]	lp_2028
+ protein homodimerization activity [GO:0042803]	lp_2028
+D-alanyl carrier activity [GO:0036370]	lp_2017	lp_1406
+alkylbase DNA N-glycosylase activity [GO:0003905]	lp_1991
+protein methyltransferase activity [GO:0008276]	lp_1990
+ histidine-tRNA ligase activity [GO:0004821]	lp_1981
+deoxyribonuclease IV (phage-T4-induced) activity [GO:0008833]	lp_1976
+ glycine-tRNA ligase activity [GO:0004820]	lp_1965	lp_1964
+ peptidase activity [GO:0008233]	lp_1845	lp_3583	lp_1019	lp_1269
+ proteasome-activating activity [GO:0036402]	lp_1845
+inorganic diphosphatase activity [GO:0004427]	lp_1837	lp_0872	lp_1932	lp_3543
+peptide-methionine (R)-S-oxide reductase activity [GO:0033743]	lp_1836
+D-ribitol-5-phosphate cytidylyltransferase activity [GO:0047349]	lp_1816
+ formate-tetrahydrofolate ligase activity [GO:0004329]	lp_1779
+asparagine-tRNA ligase activity [GO:0004816]	lp_1740	lp_0956
+isomerase activity [GO:0016853]	lp_1712	lp_2224	lp_3501
+tryptophan synthase activity [GO:0004834]	lp_1658	lp_1657
+phosphoribosylanthranilate isomerase activity [GO:0004640]	lp_1656
+indole-3-glycerol-phosphate synthase activity [GO:0004425]	lp_1655
+anthranilate phosphoribosyltransferase activity [GO:0004048]	lp_1654
+tRNA (guanine(37)-N(1))-methyltransferase activity [GO:0052906]	lp_1639
+ribosome binding [GO:0043022]	lp_1638	lp_1059
+methionyl-tRNA formyltransferase activity [GO:0004479]	lp_1616
+exodeoxyribonuclease VII activity [GO:0008855]	lp_1601	lp_1600
+ RNA polymerase binding [GO:0070063]	lp_1563	lp_0223
+acylphosphatase activity [GO:0003998]	lp_1554
+ ligase activity, forming carbon-nitrogen bonds [GO:0016879]	lp_1534	lp_0545
+ nicotinate-nucleotide adenylyltransferase activity [GO:0004515]	lp_1530
+translation initiation factor activity [GO:0003743]	lp_1515
+tRNA (guanine-N7-)-methyltransferase activity [GO:0008176]	lp_1458
+6,7-dimethyl-8-ribityllumazine synthase activity [GO:0000906]	lp_1438
+arginine binding [GO:0034618]	lp_1411	lp_1604
+arginine-tRNA ligase activity [GO:0004814]	lp_1391
+ sulfate adenylyltransferase (ATP) activity [GO:0004781]	lp_1378
+mechanosensitive ion channel activity [GO:0008381]	lp_1330	lp_2262
+ leucine-tRNA ligase activity [GO:0004823]	lp_1316
+ferrochelatase activity [GO:0004325]	lp_1296
+ translation release factor activity, codon specific [GO:0016149]	lp_1255
+transferase activity, transferring phosphorus-containing groups [GO:0016772]	lp_1203
+asparaginyl-tRNA synthase (glutamine-hydrolyzing) activity [GO:0050566]	lp_1149	lp_1147
+ glutaminyl-tRNA synthase (glutamine-hydrolyzing) activity [GO:0050567]	lp_1149	lp_1148	lp_1147
+ triphosphoribosyl-dephospho-CoA synthase activity [GO:0046917]	lp_1093
+mRNA binding [GO:0003729]	lp_1040
+aspartate-ammonia ligase activity [GO:0004071]	lp_0957
+ pantothenate kinase activity [GO:0004594]	lp_0913
+uracil DNA N-glycosylase activity [GO:0004844]	lp_0806
+ phosphoglycerate kinase activity [GO:0004618]	lp_0790
+ATP-dependent peptidase activity [GO:0004176]	lp_0786
+ S-ribosylhomocysteine lyase activity [GO:0043768]	lp_0774
+phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity [GO:0008961]	lp_0755
+ABC-type phosphonate transporter activity [GO:0015416]	lp_0714	lp_0713
+2-aminoethylphosphonate-pyruvate transaminase activity [GO:0047304]	lp_0710
+ thymidylate kinase activity [GO:0004798]	lp_0703
+large ribosomal subunit rRNA binding [GO:0070180]	lp_0621	lp_0619
+ homoserine kinase activity [GO:0004413]	lp_0572
+zinc ion binding [GO:0008270]	lp_0570	lp_1210	lp_1931	lp_0338
+unfolded protein binding [GO:0051082]	lp_0548
+aminoacyl-tRNA hydrolase activity [GO:0004045]	lp_0538
+holo-[acyl-carrier-protein] synthase activity [GO:0008897]	lp_0522	lp_0582	lp_1682
+metalloendopeptidase activity [GO:0004222]	lp_0516	lp_0600	lp_0726	lp_0919	lp_1359	lp_2911	lp_2988	lp_3043	lp_0300	lp_0301	lp_0353	lp_0412	lp_0419	lp_0426	lp_0428	lp_0429	lp_0425
+DNA-directed 5'-3' RNA polymerase activity [GO:0003899]	lp_0480
+ABC-type putrescine transporter activity [GO:0015594]	lp_0318
+mannitol-1-phosphate 5-dehydrogenase activity [GO:0008926]	lp_0233
+fluoride transmembrane transporter activity [GO:1903425]	lp_0214	lp_0213
+rRNA (pseudouridine-N3-)-methyltransferase activity [GO:0070038]	lp_0045
+alpha-1,4-glucan synthase activity [GO:0033201]	lp_0023
+ glycogen (starch) synthase activity [GO:0004373]	lp_0023
+ starch synthase activity [GO:0009011]	lp_0023
+glutamate-5-semialdehyde dehydrogenase activity [GO:0004350]	lp_0017
+single-stranded DNA binding [GO:0003697]	lp_0010
+ DNA replication origin binding [GO:0003688]	lp_0001
+ metal ion transmembrane transporter activity [GO:0046873]	lp_0275
+ symporter activity [GO:0015293]	lp_0275
+beta-lactamase activity [GO:0008800]	lp_0469	lp_2341
+phosphatase activity [GO:0016791]	lp_0475	lp_0805	lp_0824	lp_1353	lp_1723	lp_1876	lp_2601	lp_2759	lp_2787	lp_2913	lp_0026	lp_3237	lp_0395	lp_0397	lp_3537
+ligase activity [GO:0016874]	lp_0477	lp_0578
+ ligase activity [GO:0016874]	lp_0484	lp_0581
+catalytic activity [GO:0003824]	lp_0485	lp_1454	lp_1491	lp_2763	lp_3319
+transaminase activity [GO:0008483]	lp_0486
+transketolase activity [GO:0004802]	lp_0489	lp_0491
+oxidoreductase activity [GO:0016491]	lp_0490	lp_3614	lp_3656	lp_3657	lp_0829	lp_0966	lp_1082	lp_1126	lp_1424	lp_1521	lp_1645	lp_1660	lp_1776	lp_1859	lp_1918	lp_1939	lp_1975	lp_2089	lp_2346	lp_2568	lp_2590	lp_2677	lp_2732	lp_2733	lp_2764	lp_2802	lp_2803	lp_2851	lp_2890	lp_0050	lp_0062	lp_2968	lp_3012	lp_3026	lp_3045	lp_3069	lp_3096	lp_3098	lp_3100	lp_3108	lp_3110	lp_3125	lp_3145	lp_0082	lp_0111	lp_0127	lp_0136	lp_0137	lp_0190	lp_0206	lp_0221	lp_0244	lp_3156	lp_3157	lp_3239	lp_3244	lp_3262	lp_3318	lp_0313	lp_3403	lp_3489	lp_3545
+cysteine-type peptidase activity [GO:0008234]	lp_0514	lp_0681	lp_2401
+myosin phosphatase activity [GO:0017018]	lp_0557	lp_1618
+nicotinamide riboside transmembrane transporter activity [GO:0034257]	lp_0559	lp_0259
+dUTP diphosphatase activity [GO:0004170]	lp_0604	lp_1585
+ RNA methyltransferase activity [GO:0008173]	lp_0612	lp_1555
+acetyltransferase activity [GO:0016407]	lp_3553	lp_2550	lp_2761	lp_2861	lp_0393
+L-ribulose-phosphate 4-epimerase activity [GO:0008742]	lp_3555
+ribulokinase activity [GO:0008741]	lp_3556
+N-acylglucosamine 2-epimerase activity [GO:0050121]	lp_3566
+N-acylmannosamine kinase activity [GO:0009384]	lp_3567
+ sequence-specific DNA binding [GO:0043565]	lp_3597	lp_3638	lp_3646	lp_1092	lp_1228	lp_1669	lp_3060	lp_0396	lp_3415	lp_3476
+nucleotide binding [GO:0000166]	lp_3605	lp_3608	lp_3612	lp_0813	lp_1136	lp_1161	lp_2604	lp_2606	lp_2792
+purine nucleosidase activity [GO:0008477]	lp_3615	lp_2591	lp_2825	lp_0363
+ uridine nucleosidase activity [GO:0045437]	lp_3615
+sorbitol-6-phosphate 2-dehydrogenase activity [GO:0009010]	lp_3623
+beta-glucosidase activity [GO:0008422]	lp_3629
+ scopolin beta-glucosidase activity [GO:0102483]	lp_3629
+ mannosyl-oligosaccharide 1,3-1,6-alpha-mannosidase activity [GO:0004572]	lp_3631
+ hydrolase activity, acting on glycosyl bonds [GO:0016798]	lp_3634
+fructokinase activity [GO:0008865]	lp_3637	lp_0184
+glucan 1,6-alpha-glucosidase activity [GO:0043896]	lp_3641
+hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds [GO:0016810]	lp_3684	lp_2397
+glutathione oxidoreductase activity [GO:0097573]	lp_0694
+phospho-N-acetylmuramoyl-pentapeptide-transferase activity [GO:0008963]	lp_0730
+glycosyltransferase activity [GO:0016757]	lp_0736	lp_1177	lp_1178	lp_1180	lp_1183	lp_1184	lp_1202	lp_1206	lp_1215	lp_1216	lp_1227	lp_1275	lp_1276	lp_1289	lp_1430	lp_1824	lp_2071	lp_2100	lp_2102	lp_2103	lp_2142	lp_2658	lp_0073	lp_0117
+ phosphoglucomutase activity [GO:0004614]	lp_0764
+ DNA-binding transcription activator activity [GO:0001216]	lp_0787
+ nucleotidyltransferase activity [GO:0016779]	lp_0787
+cation transmembrane transporter activity [GO:0008324]	lp_0794	lp_0902	lp_1385	lp_1540	lp_2176	lp_2177	lp_2827	lp_3280	lp_3288
+ voltage-gated chloride channel activity [GO:0005247]	lp_0794
+ methyl indole-3-acetate esterase activity [GO:0080030]	lp_0796
+ABC-type amino acid transporter activity [GO:0015424]	lp_0803	lp_0878	lp_2110	lp_3211
+phosphate acetyltransferase activity [GO:0008959]	lp_0807
+ exonuclease activity [GO:0004527]	lp_0811	lp_1548	lp_0308
+ exodeoxyribonuclease III activity [GO:0008853]	lp_0812
+nucleobase transmembrane transporter activity [GO:0015205]	lp_0848	lp_2371	lp_2710	lp_2712
+acyltransferase activity, transferring groups other than amino-acyl groups [GO:0016747]	lp_0856	lp_0925	lp_1181	lp_1226
+bis(5'-nucleosyl)-tetraphosphatase activity [GO:0008796]	lp_0864
+guanylate kinase activity [GO:0004385]	lp_0866
+ phosphoglycolate phosphatase activity [GO:0008967]	lp_0872	lp_3543
+phosphoglycerate mutase activity [GO:0004619]	lp_0900	lp_0901	lp_0971	lp_1785	lp_2170	lp_2785	lp_2868	lp_0205
+ solute:proton antiporter activity [GO:0015299]	lp_0902	lp_2827
+ nitronate monooxygenase activity [GO:0018580]	lp_0912
+helicase activity [GO:0004386]	lp_0918	lp_2473
+sequence-specific DNA binding [GO:0043565]	lp_0961	lp_1194	lp_1214	lp_2010	lp_2011	lp_2074	lp_2521
+acetolactate synthase activity [GO:0003984]	lp_1005
+heptaprenyl diphosphate synthase activity [GO:0036422]	lp_1066	lp_1067	lp_1134
+NADH dehydrogenase activity [GO:0003954]	lp_1069
+3-deoxy-7-phosphoheptulonate synthase activity [GO:0003849]	lp_1085
+ aldehyde-lyase activity [GO:0016832]	lp_1085
+ chorismate mutase activity [GO:0004106]	lp_1085
+L(+)-tartrate dehydratase activity [GO:0008730]	lp_1089
+ L(+)-tartrate dehydratase activity [GO:0008730]	lp_1090
+prenyltransferase activity [GO:0004659]	lp_1135	lp_1546	lp_1715
+5-amino-4-imidazole carboxylate lyase activity [GO:0043727]	lp_1141
+UDP-N-acetylglucosamine 2-epimerase activity [GO:0008761]	lp_1173
+UDP-galactopyranose mutase activity [GO:0008767]	lp_1176	lp_1219
+mannose isomerase activity [GO:0050089]	lp_1200	lp_2105
+glycerol-3-phosphate cytidylyltransferase activity [GO:0047348]	lp_1248	lp_0267
+gluconate transmembrane transporter activity [GO:0015128]	lp_1249
+gluconokinase activity [GO:0046316]	lp_1250
+metal ion transmembrane transporter activity [GO:0046873]	lp_1295	lp_2206	lp_2565	lp_2992
+betaine-homocysteine S-methyltransferase activity [GO:0047150]	lp_1298
+poly(glycerol-phosphate) alpha-glucosyltransferase activity [GO:0047265]	lp_1299	lp_1311	lp_1312	lp_2498	lp_2843	lp_2844
+glycerophosphodiester phosphodiesterase activity [GO:0008889]	lp_1328	lp_1578	lp_2344	lp_2582
+aryl sulfotransferase activity [GO:0004062]	lp_1381
+ arylsulfate sulfotransferase activity [GO:0047686]	lp_1381
+ L-tyrosine:2-oxoglutarate aminotransferase activity [GO:0004838]	lp_1407
+serine-type peptidase activity [GO:0008236]	lp_1420
+nucleoside deoxyribosyltransferase activity [GO:0050144]	lp_1427	lp_3397
+riboflavin synthase activity [GO:0004746]	lp_1436
+ NADH peroxidase activity [GO:0016692]	lp_1445	lp_2544
+tRNA binding [GO:0000049]	lp_1460
+transition metal ion binding [GO:0046914]	lp_1467
+nitrate transmembrane transporter activity [GO:0015112]	lp_1481
+ubiquitin-like modifier activating enzyme activity [GO:0008641]	lp_1496
+nitrate reductase activity [GO:0008940]	lp_1498	lp_1499
+aspartate racemase activity [GO:0047689]	lp_1523
+phosphatidylglycerophosphatase activity [GO:0008962]	lp_1527	lp_3342
+ATP-dependent DNA damage sensor activity [GO:0140664]	lp_1548	lp_2453
+hydrolase activity, acting on glycosyl bonds [GO:0016798]	lp_1571	lp_0174	lp_3220
+glycerone kinase activity [GO:0004371]	lp_1626	lp_0166	lp_0168	lp_0169
+anthranilate synthase activity [GO:0004049]	lp_1652	lp_1653
+alcohol dehydrogenase (NAD+) activity [GO:0004022]	lp_1665	lp_2873
+3-oxoacyl-[acyl-carrier-protein] reductase (NADPH) activity [GO:0004316]	lp_1674
+acyl-CoA hydrolase activity [GO:0047617]	lp_1686
+cyclopropane-fatty-acyl-phospholipid synthase activity [GO:0008825]	lp_1696	lp_3174
+monooxygenase activity [GO:0004497]	lp_1698	lp_1860
+NAD+ kinase activity [GO:0003951]	lp_1703
+voltage-gated potassium channel activity [GO:0005249]	lp_1716
+4-aminobutyrate:2-oxoglutarate transaminase activity [GO:0034386]	lp_1721
+aldose 1-epimerase activity [GO:0004034]	lp_1731	lp_3487
+ABC-type ferric iron transporter activity [GO:0015408]	lp_1750
+ lipase activity [GO:0016298]	lp_1760
+muramoyltetrapeptide carboxypeptidase activity [GO:0106415]	lp_1764	lp_1768
+chloramphenicol O-acetyltransferase activity [GO:0008811]	lp_1787
+glucosamine 6-phosphate N-acetyltransferase activity [GO:0004343]	lp_1797	lp_2579
+nucleotidyltransferase activity [GO:0016779]	lp_1801
+ oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen [GO:0016705]	lp_1860
+ structural constituent of chromatin [GO:0030527]	lp_1879
+tRNA (adenine-N1-)-methyltransferase activity [GO:0016429]	lp_1906
+galactoside O-acetyltransferase activity [GO:0008870]	lp_1933
+carbon-nitrogen ligase activity, with glutamine as amido-N-donor [GO:0016884]	lp_1972
+guanosine-5'-triphosphate,3'-diphosphate diphosphatase activity [GO:0008894]	lp_1985
+ inorganic diphosphatase activity [GO:0004427]	lp_1985
+chorismate mutase activity [GO:0004106]	lp_2038
+3'-nucleotidase activity [GO:0008254]	lp_2056
+ XMP 5'-nucleosidase activity [GO:0106411]	lp_2056	lp_2237	lp_2879
+1-acylglycerol-3-phosphate O-acyltransferase activity [GO:0003841]	lp_2060
+inositol monophosphate 1-phosphatase activity [GO:0008934]	lp_2147
+ inositol monophosphate 3-phosphatase activity [GO:0052832]	lp_2147
+ inositol monophosphate 4-phosphatase activity [GO:0052833]	lp_2147
+pyruvate dehydrogenase (acetyl-transferring) activity [GO:0004739]	lp_2153
+ADP-ribose diphosphatase activity [GO:0047631]	lp_2183
+6-phosphogluconolactonase activity [GO:0017057]	lp_2219
+GTP diphosphokinase activity [GO:0008728]	lp_2223	lp_0293
+proline dipeptidase activity [GO:0102009]	lp_2258
+protein-disulfide reductase activity [GO:0015035]	lp_2270	lp_0236	lp_3437
+thioredoxin peroxidase activity [GO:0008379]	lp_2323
+endonuclease activity [GO:0004519]	lp_2451	lp_2469
+hydroxymethylglutaryl-CoA reductase (NADPH) activity [GO:0004420]	lp_2548
+penicillin amidase activity [GO:0008953]	lp_2572	lp_0067	lp_3362
+potassium channel activity [GO:0005267]	lp_2574	lp_3099
+polyphosphate kinase activity [GO:0008976]	lp_2589
+ pseudouridylate synthase activity [GO:0004730]	lp_2653
+acetylxylan esterase activity [GO:0046555]	lp_2660
+ aminopeptidase activity [GO:0004177]	lp_2660
+protein tyrosine phosphatase activity [GO:0004725]	lp_2735	lp_0069	lp_3272
+carbonate dehydratase activity [GO:0004089]	lp_2736
+glucan 1,4-alpha-maltohydrolase activity [GO:0043897]	lp_2757
+threonine synthase activity [GO:0004795]	lp_2758
+ small molecule binding [GO:0036094]	lp_2770
+5-amino-6-(5-phosphoribosylamino)uracil reductase activity [GO:0008703]	lp_2826
+aspartate ammonia-lyase activity [GO:0008797]	lp_2830
+hydrolase activity, acting on acid halide bonds, in C-halide compounds [GO:0019120]	lp_2835
+methylated-DNA-[protein]-cysteine S-methyltransferase activity [GO:0003908]	lp_2848
+4-carboxymuconolactone decarboxylase activity [GO:0047575]	lp_2852
+ peroxiredoxin activity [GO:0051920]	lp_2852
+maltose O-acetyltransferase activity [GO:0008925]	lp_2878
+thymidylate 5'-phosphatase activity [GO:0050340]	lp_2879
+ identical protein binding [GO:0042802]	lp_2923
+ ribonucleoside-triphosphate reductase activity [GO:0008998]	lp_2932
+formylmethionine deformylase activity [GO:0008463]	lp_2935
+glucose-1-phosphate adenylyltransferase activity [GO:0008878]	lp_0022
+maltose alpha-glucosidase activity [GO:0032450]	lp_0025
+oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor [GO:0016620]	lp_0047
+arsenate reductase (glutaredoxin) activity [GO:0008794]	lp_0059
+ arsenate reductase (thioredoxin) activity [GO:0030612]	lp_0059
+ tannase activity [GO:0050318]	lp_2956
+collagen binding [GO:0005518]	lp_2958
+ branched-chain amino acid transmembrane transporter activity [GO:0015658]	lp_2981
+DNA-3-methyladenine glycosylase activity [GO:0008725]	lp_3020	lp_3293	lp_0296
+1,3-propanediol dehydrogenase activity [GO:0047516]	lp_3051
+aryl-alcohol dehydrogenase (NAD+) activity [GO:0018456]	lp_3054
+aldehyde dehydrogenase [NAD(P)+] activity [GO:0004030]	lp_3092
+ succinate-semialdehyde dehydrogenase [NAD(P)+] activity [GO:0009013]	lp_3092
+ NAD+ diphosphatase activity [GO:0000210]	lp_3123
+ ferric iron binding [GO:0008199]	lp_3128	lp_3441
+ oxidoreductase activity, acting on metal ions [GO:0016722]	lp_3128
+L-malate dehydrogenase activity [GO:0030060]	lp_3150
+adenylyltransferase activity [GO:0070566]	lp_0098
+cytosine transmembrane transporter activity [GO:0015209]	lp_0116	lp_3374
+ hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides [GO:0016811]	lp_0117
+ peroxidase activity [GO:0004601]	lp_0122	lp_3430
+purine-nucleoside phosphorylase activity [GO:0004731]	lp_0125
+ linoleate isomerase activity [GO:0050058]	lp_0139
+ oleate hydratase activity [GO:0050151]	lp_0139
+ oxidoreductase activity, acting on the CH-CH group of donors [GO:0016627]	lp_0163
+alpha-amylase activity [GO:0004556]	lp_0179
+mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase activity [GO:0033925]	lp_0182
+alpha,alpha-trehalase activity [GO:0004555]	lp_0193
+glutathione peroxidase activity [GO:0004602]	lp_0220
+nucleoside diphosphate kinase activity [GO:0004550]	lp_0242
+deacetylase activity [GO:0019213]	lp_0250
+ hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds [GO:0016810]	lp_0250
+2-dehydro-3-deoxygluconokinase activity [GO:0008673]	lp_0253
+cystathionine beta-synthase activity [GO:0004122]	lp_0256
+ transferase activity, transferring alkyl or aryl (other than methyl) groups [GO:0016765]	lp_0256
+alpha,alpha-phosphotrehalase activity [GO:0008788]	lp_0263
+bile-acid 7alpha-dehydratase activity [GO:0033988]	lp_3159
+IMP dehydrogenase activity [GO:0003938]	lp_3194
+nucleoside transmembrane transporter activity [GO:0005337]	lp_3204
+3',5'-cyclic-nucleotide phosphodiesterase activity [GO:0004114]	lp_3251
+farnesyltranstransferase activity [GO:0004311]	lp_3263
+glycerate kinase activity [GO:0008887]	lp_3266
+nucleoside-triphosphate diphosphatase activity [GO:0047429]	lp_3295
+manganese ion transmembrane transporter activity [GO:0005384]	lp_3359	lp_3360
+(S)-2-hydroxy-acid oxidase activity [GO:0003973]	lp_0291
+ FAD binding [GO:0071949]	lp_0291
+polyamine binding [GO:0019808]	lp_0315
+biotin transmembrane transporter activity [GO:0015225]	lp_0336
+copper ion binding [GO:0005507]	lp_0355
+deoxyribonuclease activity [GO:0004536]	lp_0456
+heme binding [GO:0020037]	lp_3430
+carboxylic ester hydrolase activity [GO:0052689]	lp_3433
+alpha-L-rhamnosidase activity [GO:0030596]	lp_3471	lp_3473
