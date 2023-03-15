@@ -1,0 +1,499 @@
+---
+title: "stress_FPI-DEG"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+options(stringsAsFactors = F)
+
+tr.dir = "data/tr_descriptors/"
+frame.dir = "data/frame_counts/"
+go.out.dir = "data/go/"
+```
+
+#Gene names and protein products
+
+## function to map transcript assembly to uniprot
+```{r}
+get.gene.df = function(sp, ref.dir){
+  
+  # list of genes from transcript assembly 
+  ta = read.table(file.path(ref.dir, "transcript_assembly.txt"), 
+                  check.names = F, sep = "\t", header = T)
+  genes = unlist(lapply(rownames(ta), function(x){sub("_", "", sub("gene-", "",x))}))
+  
+  # map gene names with uniprot
+  
+  uniprot = read.table(file.path(ref.dir, paste0("uniprot_", sp, ".tsv")), quote = "",
+                       check.names = F, sep = "\t", header = T)
+  
+  gene.colnames = c("protein", "gene")
+  gene.mat = matrix(nrow = length(genes), ncol = length(gene.colnames))
+  rownames(gene.mat) = genes
+  colnames(gene.mat) = gene.colnames
+  gene.df = as.data.frame(gene.mat)
+  
+  for(gene in genes){
+    prot.ind = which(grepl("Protein names", colnames(uniprot)))
+    gene.ind = which(grepl("Gene Names", colnames(uniprot)))
+    
+    i = which(grepl(gene, uniprot[,gene.ind]))
+    if(length(i) > 1)
+      i = i[1]
+    
+    if(length(i) == 1)
+      gene.df[gene, ] = uniprot[i, c(prot.ind, gene.ind)]
+  }
+  return(gene.df)
+}
+```
+
+
+## bsub gene mapping
+
+```{r}
+sp = "bsub"
+ref.dir = file.path(go.out.dir, sp, "ref")
+gene.df = get.gene.df(sp, ref.dir)
+gene.out = file.path(ref.dir, "genes.txt")
+write.table(gene.df, file = gene.out, row.names = T, col.names = NA, 
+            sep = "\t", quote = F)
+gene.df.bsub = gene.df
+```
+
+## ecol gene mapping
+
+```{r}
+sp = "ecol"
+ref.dir = file.path(go.out.dir, sp, "ref")
+gene.df = get.gene.df(sp, ref.dir)
+gene.out = file.path(ref.dir, "genes.txt")
+write.table(gene.df, file = gene.out, row.names = T, col.names = NA, 
+            sep = "\t", quote = F)
+gene.df.ecol = gene.df
+```
+
+## lpla gene mapping
+
+```{r}
+sp = "lpla"
+ref.dir = file.path(go.out.dir, sp, "ref")
+
+# list of genes from transcript assembly 
+ta = read.table(file.path(ref.dir, "transcript_assembly.txt"), 
+                check.names = F, sep = "\t", header = T)
+
+genes = ta[,1]
+# map gene names with uniprot
+
+uniprot = read.table(file.path(ref.dir, paste0("uniprot_", sp, ".tsv")), quote = "",
+                     check.names = F, sep = "\t", header = T)
+
+gene.colnames = c("protein", "gene")
+gene.mat = matrix(nrow = length(genes), ncol = length(gene.colnames))
+rownames(gene.mat) = genes
+colnames(gene.mat) = gene.colnames
+gene.df = as.data.frame(gene.mat)
+
+for(gene in genes){
+  prot.ind = which(grepl("Protein names", colnames(uniprot)))
+  gene.ind = which(grepl("Gene Names", colnames(uniprot)))
+  
+  i = which(grepl(gene, uniprot[,"RefSeq"]))
+  if(length(i) > 1)
+    i = i[1]
+  
+  if(length(i) == 1)
+    gene.df[gene, ] = uniprot[i, c(prot.ind, gene.ind)]
+}
+
+
+gene.out = file.path(ref.dir, "genes.txt")
+write.table(gene.df, file = gene.out, row.names = T, col.names = NA, 
+            sep = "\t", quote = F)
+gene.df.lpla = gene.df
+
+```
+
+# Compute and write FPI's
+
+```{r}
+
+get.fpi.df = function(sp, gene.df){
+  ref.dir = file.path(go.out.dir, sp, "ref")
+  
+  files = list.files(file.path(frame.dir, sp), "frame_counts_START.txt", recursive = T, full.names = T )
+  get.sample.name = function(file){
+    return(basename(dirname(dirname(file))))
+  }
+  
+  genes = rownames(gene.df)
+  
+  fpi.mat =  matrix(nrow = length(genes), ncol = length(files))
+  rownames(fpi.mat) = genes
+  colnames(fpi.mat) = unlist(lapply(files, get.sample.name))
+  fpi.df = as.data.frame(fpi.mat)
+
+  
+  for(file in files){
+    sample = get.sample.name(file)
+    t = read.table(file, sep = "\t", header = T)
+    fpi = log2((t$F1 + 1)/(1 + (t$F0 + t$F2)/2))
+    fpi.df[, sample] = fpi
+  }
+  
+  return(fpi.df)  
+}
+
+```
+
+
+```{r}
+get.fpi.fc = function(fpi.df, groups, expr_group, ctrl_group){
+  fpi.e = rowMeans(fpi.df[,which(groups$Group == expr_group)])
+  fpi.c = rowMeans(fpi.df[,which(groups$Group == ctrl_group)])
+  
+  fpi.fc = data.frame("gene" = rownames(fpi.df), "FC" = fpi.e - fpi.c)
+  return(fpi.fc)
+}
+```
+
+
+
+```{r}
+write.fpi.fc = function(fpi.df, groups, ctr_group, gene.df, fpi.out){
+  dir.create(fpi.out)
+  
+  expr_groups = unique(groups$Group)
+  ci = which(expr_groups == ctr_group)
+  expr_groups = expr_groups[-ci]
+
+  fpi.groups.df = matrix(nrow = nrow(gene.df), ncol = length(expr_groups) + ncol(gene.df))
+  colnames(fpi.groups.df) = c(colnames(gene.df), expr_groups)
+  rownames(fpi.groups.df) = rownames(gene.df)
+  fpi.groups.df[,c(1,2)] = as.matrix(gene.df[,c(1,2)])
+  
+  for(expr_group in expr_groups){
+    cat(expr_group, "\n")
+    res = get.fpi.fc(fpi.df, groups, expr_group, ctr_group)
+    fpi.groups.df[,expr_group] = res$FC
+    write.table(res, file = file.path(fpi.out, paste0(expr_group, "_vs_", ctr_group, ".rnk")), 
+                quote = F, row.names = F, col.names = F, sep = "\t")
+    
+  }
+  
+  write.table(fpi.groups.df, file.path(fpi.out, "fpi.groups.df.txt"), 
+              row.names = T, quote = F, sep = "\t", col.names = NA)
+}
+```
+
+
+
+
+```{r}
+get.counts.df = function(sp, gene.df){
+  ref.dir = file.path(go.out.dir, sp, "ref")
+  
+  ta = read.table(file.path(ref.dir, "transcript_assembly.txt"), 
+                  check.names = F, sep = "\t", header = T)
+  
+  genes = rownames(gene.df)
+  
+  files = list.files(file.path(tr.dir, sp), "transcript_descriptors.txt", recursive = T, full.names = T )
+  get.sample.name = function(file){
+    return(basename(dirname(dirname(file))))
+  }
+  
+  count.mat =  matrix(nrow = length(genes), ncol = length(files))
+  rownames(count.mat) = genes
+  colnames(count.mat) = unlist(lapply(files, get.sample.name))
+  count.df = as.data.frame(count.mat)
+
+  for(file in files){
+    sample = get.sample.name(file)
+    t = read.table(file, sep = "\t", header = T)
+    count.df[, sample] = t$NumOfReadsDownsampled  
+  }
+  
+  return(count.df)  
+}
+
+```
+
+```{r DEG}
+library(DESeq2)
+get.deg.res = function(count.df, groups, expr_group, ctrl_group){
+  
+  groups$Group = relevel(factor(groups$Group), ref = ctrl_group)
+  
+  dds <- DESeqDataSetFromMatrix(countData = count.df,
+                                colData = groups,
+                                design = ~ Group)
+  
+  dds <- DESeq(dds)
+  res <- results(dds)
+  res <- res[order(res$padj),]
+  
+  res <- lfcShrink(dds, coef = paste("Group_", expr_group, "_vs_", ctrl_group, sep=""), 
+                   type = "apeglm", lfcThreshold = log2(2))
+  #res <- as.data.frame(subset(res, svalue < 0.005)) 
+  return(res)
+}
+
+```
+
+```{r}
+run.deg = function(count.df, groups, ctr_group, deg.out, gene.df){
+  dir.create(deg.out)
+    
+  expr_groups = unique(groups$Group)
+  ci = which(expr_groups == ctr_group)
+  expr_groups = expr_groups[-ci]
+
+  deg.groups.df = matrix(nrow = nrow(gene.df), ncol = length(expr_groups) + ncol(gene.df))
+  colnames(deg.groups.df) = c(colnames(gene.df), expr_groups)
+  rownames(deg.groups.df) = rownames(gene.df)
+  deg.groups.df[,c(1,2)] = as.matrix(gene.df[,c(1,2)])
+  
+  for(expr_group in expr_groups){
+    cat(expr_group, "\n")
+    
+    res = get.deg.res(count.df, groups, expr_group, ctr_group)
+    res.df = cbind(rownames(res), res$log2FoldChange)
+    deg.groups.df[,expr_group] = res$log2FoldChange
+    write.table(res.df, file = file.path(deg.out, paste0(expr_group, "_vs_", ctr_group, ".rnk")), 
+                quote = F, row.names = F, col.names = F, sep = "\t")
+  }
+  write.table(deg.groups.df, file.path(deg.out, "deg.groups.df.txt"), 
+              row.names = T, quote = F, sep = "\t", col.names = NA)
+}
+```
+
+# GSEA
+
+```{r}
+run.webgestalt = function(species, groups, ctrl_group, gsea.in, gsea.out){
+  outputDirectory = gsea.out
+  dir.create(outputDirectory)
+  w.list = list()
+  for(go.tree in c("bp", "cc", "mf")){
+    w.list[[go.tree]] = list()
+    for(expr_group in unique(groups$Group)){
+      if(expr_group == ctrl_group)
+        next
+      comparison = paste0(expr_group, "_vs_", ctrl_group)
+      try(expr = {
+        w = WebGestaltR::WebGestaltR(
+          enrichMethod = "GSEA", 
+          organism = "others", 
+          enrichDatabaseFile = file.path(go.out.dir, species, "ref", paste0(species, "_", go.tree, ".gmt")), 
+          interestGeneFile = file.path(gsea.in, paste0(comparison, ".rnk")), 
+          referenceGeneFile = file.path(go.out.dir, species, "ref", "ref_gene_list.txt"), 
+          outputDirectory = outputDirectory, 
+          projectName = paste0(comparison, "_", go.tree), 
+          sigMethod = "top")
+        w.list[[go.tree]][[expr_group]] = w
+      }
+      )
+    }
+  }
+  
+  return(w.list)
+}
+
+```
+
+## FPI FC bsub
+
+```{r}
+sp = "bsub"
+gene.df = gene.df.bsub
+fpi.df = get.fpi.df(sp, gene.df)
+
+ctr_group = "ctr"
+groups = as.data.frame(cbind(
+  "sample" = colnames(fpi.df), 
+  "Group" = unlist(lapply(colnames(fpi.df), function(x){sub("-", "", strsplit(x, "_")[[1]][2])}))
+))
+
+fpi.out = file.path(go.out.dir, sp, "fpi")
+#DONE
+#write.fpi.fc(fpi.df, groups, ctr_group, gene.df, fpi.out)
+gsea.fpi.bsub = run.webgestalt(sp, groups, ctr_group, fpi.out, file.path(go.out.dir, sp, "gsea-fpi"))
+
+
+count.df = get.counts.df(sp, gene.df)
+groups = as.data.frame(cbind(
+  "sample" = colnames(count.df), 
+  "Group" = unlist(lapply(colnames(count.df), function(x){sub("-", "", strsplit(x, "_")[[1]][2])}))
+))
+
+deg.out = file.path(go.out.dir, sp, "deg")
+#DONE
+#run.deg(count.df, groups, ctr_group, deg.out, gene.df)
+gsea.deg.bsub = run.webgestalt(sp, groups, ctr_group, deg.out, file.path(go.out.dir, sp, "gsea-deg"))
+
+```
+
+## FPI FC bsub mutants
+
+```{r}
+sp = "bsub-mut"
+gene.df = gene.df.bsub
+fpi.df = get.fpi.df(sp, gene.df)
+
+ctr_group = "wt"
+groups = as.data.frame(cbind(
+  "sample" = colnames(fpi.df), 
+  "Group" = unlist(lapply(colnames(fpi.df), function(x){sub("-ctr", "", strsplit(x, "_")[[1]][2])}))
+))
+
+fpi.out = file.path(go.out.dir, sp, "fpi")
+#DONE
+#write.fpi.fc(fpi.df, groups, ctr_group, gene.df, fpi.out)
+gsea.fpi.bsub = run.webgestalt("bsub", groups, ctr_group, fpi.out, file.path(go.out.dir, sp, "gsea-fpi"))
+
+
+count.df = get.counts.df(sp, gene.df)
+groups = as.data.frame(cbind(
+  "sample" = colnames(count.df), 
+  "Group" = unlist(lapply(colnames(count.df), function(x){sub("-ctr", "", strsplit(x, "_")[[1]][2])}))
+))
+
+deg.out = file.path(go.out.dir, sp, "deg")
+#DONE
+run.deg(count.df, groups, ctr_group, deg.out, gene.df)
+gsea.deg.bsub = run.webgestalt("bsub", groups, ctr_group, deg.out, file.path(go.out.dir, sp, "gsea-deg"))
+
+```
+
+## FPI FC lpla
+
+```{r}
+sp = "lpla"
+gene.df = gene.df.lpla
+fpi.df = get.fpi.df(sp, gene.df)
+
+ctr_group = "ctr"
+groups = as.data.frame(cbind(
+  "sample" = colnames(fpi.df), 
+  "Group" = unlist(lapply(colnames(fpi.df), function(x){sub("-", "", strsplit(x, "_")[[1]][2])}))
+))
+
+fpi.out = file.path(go.out.dir, sp, "fpi")
+#DONE
+#write.fpi.fc(fpi.df, groups, ctr_group, gene.df, fpi.out)
+gsea.fpi.lpla = run.webgestalt(sp, groups, ctr_group, fpi.out, file.path(go.out.dir, sp, "gsea-fpi"))
+
+count.df = get.counts.df(sp, gene.df)
+groups = as.data.frame(cbind(
+  "sample" = colnames(count.df), 
+  "Group" = unlist(lapply(colnames(count.df), function(x){sub("-", "", strsplit(x, "_")[[1]][2])}))
+))
+
+deg.out = file.path(go.out.dir, sp, "deg")
+#DONE
+#run.deg(count.df, groups, ctr_group, deg.out, gene.df)
+gsea.deg.lpla = run.webgestalt(sp, groups, ctr_group, deg.out, file.path(go.out.dir, sp, "gsea-deg"))
+```
+
+## FPI & DEG FC ecol
+
+```{r}
+sp = "ecol"
+gene.df = gene.df.ecol
+fpi.df = get.fpi.df(sp, gene.df)
+
+ctr_group = "ctr"
+groups = as.data.frame(cbind(
+  "sample" = colnames(fpi.df), 
+  "Group" = unlist(lapply(colnames(fpi.df), function(x){sub("-", "", strsplit(x, "_")[[1]][2])}))
+))
+
+fpi.out = file.path(go.out.dir, sp, "fpi")
+
+#DONE
+#write.fpi.fc(fpi.df, groups, ctr_group, gene.df, fpi.out)
+gsea.fpi.ecol = run.webgestalt(sp, groups, ctr_group, fpi.out, file.path(go.out.dir, sp, "gsea-fpi"))
+
+
+count.df = get.counts.df(sp, gene.df)
+groups = as.data.frame(cbind(
+  "sample" = colnames(count.df), 
+  "Group" = unlist(lapply(colnames(count.df), function(x){sub("-", "", strsplit(x, "_")[[1]][2])}))
+))
+
+deg.out = file.path(go.out.dir, sp, "deg")
+#DONE
+#run.deg(count.df, groups, ctr_group, deg.out, gene.df)
+gsea.deg.ecol = run.webgestalt(sp, groups, ctr_group, deg.out, file.path(go.out.dir, sp, "gsea-deg"))
+
+```
+
+
+## GSEA bsub
+```{r}
+save(gsea.deg.bsub, gsea.deg.ecol, gsea.deg.lpla, gsea.fpi.bsub, gsea.fpi.ecol, gsea.fpi.lpla, file = "gsea.stress.RData")
+```
+
+
+```{r}
+pdf(file.path(go.out.dir, "gsea.pdf"))
+gsea.list = list(
+  list("gsea" = gsea.deg.bsub, "mode" = "DEG", "species" = "bsub"), 
+  list("gsea" = gsea.fpi.bsub, "mode" = "FPI", "species" = "bsub"),
+  
+  list("gsea" = gsea.deg.ecol, "mode" = "DEG", "species" = "ecol"),
+  list("gsea" = gsea.fpi.ecol, "mode" = "FPI", "species" = "ecol"),
+  
+  list("gsea" = gsea.deg.lpla, "mode" = "DEG", "species" = "lpla"),
+  list("gsea" = gsea.fpi.lpla, "mode" = "FPI", "species" = "lpla")
+)
+
+for(i in 1:length(gsea.list)){
+  gsea = gsea.list[[i]]$gsea
+  sp = gsea.list[[i]]$species
+  mode = gsea.list[[i]]$mode
+  genesets = list()
+  
+  for(tree in c("bp", "mf", "cc")){
+    for(trt in names(gsea[[tree]])){
+      cat(trt, "\n")
+      ind = which(gsea[[tree]][[trt]][["FDR"]] < 0.05)
+      if(length(ind) > 0){
+        geneset = gsea[[tree]][[trt]][["geneSet"]][ind]
+        scores = gsea[[tree]][[trt]][["enrichmentScore"]][ind]
+        names(scores) = geneset
+        
+        if(is.null(genesets[[trt]]))
+          genesets[[trt]] = sort(scores, decreasing = T)
+        else
+          genesets[[trt]] = c(genesets[[trt]], sort(scores, decreasing = T))
+        
+      }
+    }
+  }
+  
+  geneset.barplot = function(geneset.scores, title = ""){
+    par(mar = c(5.1, 15, 4.1, 2.1))
+    scores = sort(geneset.scores, decreasing = F)
+    pos.ind = which(scores > 0)
+    neg.ind = which(scores < 0)
+    colors = c(rep("indianred1", length(neg.ind)), rep("green3", length(pos.ind)))
+    barplot(scores, main = title, horiz = T, col = colors, las = 2, cex.names = 0.5)
+  }
+  
+  
+  trts = c("hs", "cam", "mup", "salt", "stat", "stat24", "stat48", "statd8", "starv")
+  par(mfrow = c(2, 2))
+  
+  for(trt in trts){
+    if(trt %in% names(genesets))
+      geneset.barplot(genesets[[trt]], paste(sp, mode, trt))
+  }
+}
+dev.off()
+```
+
+
