@@ -45,8 +45,14 @@ Panels A-B and E-F are generated with fivepseq v1.2.
 
 Panels C-D are generated with source data and script described in the *pca* directory.
 
-### Extended Data Figure 1
-### Extended Data Figure 1
+### Extended Data Figure 5
+
+All panels are generated with the source data and scripts described in the *gsea* directory.
+
+### Extended Data Figure 6
+
+@mengjun
+
 ### Extended Data Figure 1
 ### Extended Data Figure 1
 ### Extended Data Figure 1
