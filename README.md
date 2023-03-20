@@ -51,7 +51,7 @@ All panels are generated with the source data and scripts described in the *gsea
 
 ### Extended Data Figure 6
 
-@mengjun
+Panels B-D are generated with the source code in the *genomic_features* directory. 
 
 ### Extended Data Figure 7
 
