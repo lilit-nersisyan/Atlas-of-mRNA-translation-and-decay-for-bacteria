@@ -1,0 +1,62 @@
+#!/bin/bash
+
+#SBATCH -A snic2022-22-736
+#SBATCH -p core
+#SBATCH -n 4
+#SBATCH -t 10:00:00
+#SBATCH -J QQ
+#SBATCH --mail-type ALL --mail-user=minervajunjun@gmail.com
+#SBATCH -o /domus/h1/mengjun/log/microbiome.deeptools.5UTR.out.log
+#SBATCH -e /domus/h1/mengjun/log/microbiome.deeptools.5UTR.err.log
+
+
+before=300
+after=300
+
+module load bioinfo-tools 
+module load deepTools
+
+filedir=/crex/proj/snic2019-30-56/sample_files_mj/ecol/deeptools_samples/
+bedfile=/crex/proj/snic2019-30-56/mengjun/genome.annotation/bacteria/ecoli.5UTR.bed
+
+output=/crex/proj/snic2019-30-56/mengjun/microbiome_revision/deeptool/
+outprefix=ecoli_rnase_KD_only_5UTR
+if [ ! -d ${output} ]; then mkdir ${output}; chmod -R g+ws ${output}; fi
+
+cd ${filedir}
+#ls *pooled_plus_tpm.bw > file.plus.txt
+#cut -d '.' -f 1 file.plus.txt | uniq > sample.plus.txt
+#ls *pooled_minus_tpm.bw > file.minus.txt
+#cut -d '.' -f 1 file.minus.txt | uniq > sample.minus.txt
+
+fileplus=(`cat file.plus2.txt `)
+fileminus=(`cat file.minus2.txt `)
+plusSample=(`cat sample.plus2.txt `)
+minusSample=(`cat sample.minus2.txt `)
+
+
+###centered around 5UTR end -- translation start
+
+computeMatrix reference-point --referencePoint TES -S ${fileplus[*]} ${fileminus[*]} -R ${bedfile} -b $before -a $after --binSize 5 --sortRegions keep --missingDataAsZero -o trial.mat.gz 
+computeMatrixOperations subset -m trial.mat.gz -o trial.plus.mat.gz --samples ${plusSample[*]} 
+computeMatrixOperations subset -m trial.mat.gz -o trial.minus.mat.gz --samples ${minusSample[*]}  
+
+
+computeMatrixOperations filterStrand -m trial.plus.mat.gz -o trial.plus.subset.mat.gz --strand +
+computeMatrixOperations filterStrand -m trial.minus.mat.gz -o trial.minus.subset.mat.gz --strand -
+computeMatrixOperations rbind -m trial.plus.subset.mat.gz trial.minus.subset.mat.gz -o ${output}${outprefix}_TES_senseStrand.tmp.mat.gz
+
+computeMatrixOperations sort -m ${output}${outprefix}_TES_senseStrand.tmp.mat.gz -R ${bedfile} -o ${output}${outprefix}_TES_senseStrand.mat.gz
+
+
+plotHeatmap -m ${output}${outprefix}_TES_senseStrand.mat.gz -out ${output}${outprefix}_TES_keep_senseStrand.pdf --whatToShow 'heatmap and colorbar' --averageType mean --colorMap Blues --heatmapHeight 20 --heatmapWidth 17 --sortUsing region_length --sortRegions ascend  --zMax 2.0
+
+
+rm trial.mat.gz
+rm trial.plus.mat.gz
+rm trial.minus.mat.gz
+rm trial.plus.subset.mat.gz
+rm trial.minus.subset.mat.gz
+rm ${output}${outprefix}_TES_senseStrand.tmp.mat.gz
+
+
